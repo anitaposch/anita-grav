@@ -1,0 +1,15 @@
+enabled: true
+facebook: null
+twitter: null
+instagram: null
+company_name: anitaposch.com
+phone: null
+email: null
+location: null
+logo:
+  user/themes/tail-land/images/logo/anita-posch-logo.png:
+    name: anita-posch-logo.png
+    full_path: anita-posch-logo.png
+    type: image/png
+    size: 35061
+    path: user/themes/tail-land/images/logo/anita-posch-logo.png
