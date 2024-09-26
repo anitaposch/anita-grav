@@ -1,0 +1,44 @@
+name: Anita Theme
+slug: anitatheme
+type: theme
+version: 0.1.0
+description: A TailwindCSS 3 theme based on Sven Walbröl Tail Land theme
+icon: rebel
+author:
+  name: ndeet
+  email: info@attec.at
+homepage: https://attec.at
+keywords: grav, theme, single, page, modular, tailwind, tailwindcss, business, corporate, landing, landingpage
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
+
+form:
+  validation: loose
+  fields:
+    logo:
+      type: file
+      label: Logo
+      size: large
+      destination: 'theme://images/logo'
+      multiple: false
+      description: Will be used instead of default logo `theme://images/grav-logo.svg`
+      accept:
+        - image/*
+    facebook:
+      type: text
+      label: Facebook Link
+    twitter:
+      type: text
+      label: Twitter Link
+    instagram:
+      type: text
+      label: Instagram Link
+    company_name:
+      type: text
+      label: Company name
+    email:
+      type: text
+      label: Company email adress
+
