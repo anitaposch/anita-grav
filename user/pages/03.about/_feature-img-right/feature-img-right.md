@@ -6,9 +6,10 @@ teaser:
   image:
     src: content-image-placeholder.png
     alt: Content image alt text
-
-    
 ---
 
-content with link test <a class="text-blue-700" href="/about">this is a link</a>.
- 
+## content feature about
+![alt text](image.png)
+
+here we go
+- test
