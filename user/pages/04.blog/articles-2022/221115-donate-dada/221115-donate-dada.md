@@ -7,6 +7,7 @@ date: 2022-11-15 10:30
 dateformat: 'Y-m-d H:i'
 summary: Thank you - We made it! BFF is bringing a female Bitcoin educator to the Afro Bitcoin conference in Ghana. Marcel Lorraine has founded Bitcoin Dada a women centric entity focussed on providing the right education to the African woman.
 thumbnail: _btcdada-support.png
+template: article 
 ---
 
 # Empowering female Bitcoin educators in Africa

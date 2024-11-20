@@ -7,6 +7,7 @@ date: 2023-12-15 08:00
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch was awarded as one of the most impactful African Bitcoiners of the year 2023.
 thumbnail: _Thumbnail-Most-Impactful-African-Bitcoiner.jpeg
+template: article 
 ---
 
 # #7 Most Impactful African Bitcoiner

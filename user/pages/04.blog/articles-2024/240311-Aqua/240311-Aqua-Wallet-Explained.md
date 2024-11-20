@@ -7,6 +7,7 @@ date: 2024-03-11 18:00
 dateformat: 'Y-m-d H:i'
 summary: I explain the AQUA Wallet, a multi-asset, self-custodial app simplifying Bitcoin, Lightning, USDT, and Liquid payments with integrated swapping functionality.
 thumbnail: _AQUA-Wallet-Explained.jpeg
+template: article 
 ---
 
 # AQUA Wallet Explained: Is It Right For You?

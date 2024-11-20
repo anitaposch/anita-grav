@@ -7,6 +7,7 @@ date: 2023-12-14 11:00
 dateformat: 'Y-m-d H:i'
 summary: The Bitcoin flyer, a two page folder about the basics of Bitcoin and how to use it, is now available in Bahasa Indonesia.
 thumbnail: _Thumbnail-INDONESIA-Bitcoin-flyer-BW-Phoenix2.jpeg
+template: article 
 ---
 
 # Bitcoin Flyer in Bahasa Indonesia

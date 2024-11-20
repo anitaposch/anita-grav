@@ -7,6 +7,7 @@ date: 2022-11-20 10:40
 dateformat: 'Y-m-d H:i'
 summary: The fourth BFF Bitcoin meetup in Zambia took place on Saturday Nov 19. 
 thumbnail: _Zambia-meetup-4.png
+template: article 
 ---
 
 # Bitcoin Meetup Zambia Nr.  4

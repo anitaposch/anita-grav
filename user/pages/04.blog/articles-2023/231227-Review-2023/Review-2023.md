@@ -7,6 +7,7 @@ date: 2023-12-26 10:00
 dateformat: 'Y-m-d H:i'
 summary: A review of what Bitcoin For Fairness and Anita Posch achieved for Bitcoin adoption in 2023
 thumbnail: _Thumbnail-Bitcoin-Review-2023.jpeg
+template: article 
 ---
 
 # Bitcoin For Fairness Review 2023

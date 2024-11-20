@@ -7,6 +7,7 @@ date: 2024-02-21 18:00
 dateformat: 'Y-m-d H:i'
 summary: In this interview, I talk about my Bitcoin journey, my work in the Global South, my book, and membership platform.
 thumbnail: _show-cover.jpeg
+template: article 
 ---
 
 # Podcast: On the Access Tribe Podcast

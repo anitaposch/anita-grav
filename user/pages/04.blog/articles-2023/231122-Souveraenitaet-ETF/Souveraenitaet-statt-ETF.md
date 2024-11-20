@@ -7,6 +7,7 @@ date: 2023-11-21 0:10
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch erklärt Bitcoins Rolle auf dem Finanzmarkt und warnt vor dem Investment in einen zukünftigen Bitcoin-Spot-ETF.
 thumbnail: _Thumbnail_Souveraenitaet-statt-ETF-Investment.jpeg
+template: article 
 ---
 
 # Bitcoin, Souveränität statt ETF Investment

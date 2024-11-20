@@ -7,6 +7,7 @@ date: 2024-01-26 19:00
 dateformat: 'Y-m-d H:i'
 summary: Testing self-custodial Lightning wallets with results on their payment reliability, speed, user-friendliness, fees and security features.
 thumbnail: _Lightning-Wallet-Test-2024.jpeg
+template: article 
 ---
 
 # Lightning Wallets: Self-Custody Despite Poor Network Connection - Best Apps Tested in Zimbabwe 2024

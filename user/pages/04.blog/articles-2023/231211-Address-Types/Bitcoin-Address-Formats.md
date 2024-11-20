@@ -7,6 +7,7 @@ date: 2023-12-11 16:20
 dateformat: 'Y-m-d H:i'
 summary: What are the different Bitcoin address formats from Legacy to SegWit to Bech32 bc1q and Taproot bc1p with their impact on efficiency and privacy.
 thumbnail: _Thumbnail_Understanding-The-Different-Bitcoin-Address-Formats.jpeg
+template: article 
 ---
 
 # Understanding The Different Bitcoin Address Formats

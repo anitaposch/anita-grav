@@ -7,6 +7,7 @@ date: 2024-02-15 12:00
 dateformat: 'Y-m-d H:i'
 summary: How to upgrade my Phoenix Wallet to activate splicing, the automatic channel management.
 thumbnail: _Splicing-Phoenix-Upgrade.jpg
+template: article 
 ---
 
 # Upgrade your existing Phoenix Wallet for Splicing

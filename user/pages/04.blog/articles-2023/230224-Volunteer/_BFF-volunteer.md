@@ -7,6 +7,7 @@ date: 2023-02-24 11:00
 dateformat: 'Y-m-d H:i'
 summary: I'm looking for a volunteer for Bitcoin for Fairness. The task is to coordinate the translators for the Bitcoin flyer.
 thumbnail: ../../articles-2022/221118-swahili-flyer/_swahili-flyer-2.png
+template: article 
 ---
 
 # Looking for a BFF volunteer

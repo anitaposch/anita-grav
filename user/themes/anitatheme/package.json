@@ -11,6 +11,7 @@
     "produdction": "npm run prod"
   },
   "author": "Sven Walbröl",
+  "author": "ndeet",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.4.8",

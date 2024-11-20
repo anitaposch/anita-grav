@@ -7,6 +7,7 @@ date: 2024-03-25 18:00
 dateformat: 'Y-m-d H:i'
 summary: How to Save Small Amounts of Bitcoin Despite High Transactions Fees: Recommended Strategy with Lightning or Liquid.
 thumbnail: _Save-Small-Amounts-Bitcoin-High_Fees.jpeg
+template: article 
 ---
 
 # Can't Afford Bitcoin Self-Custody? Start Saving Small Amounts with this Strategy

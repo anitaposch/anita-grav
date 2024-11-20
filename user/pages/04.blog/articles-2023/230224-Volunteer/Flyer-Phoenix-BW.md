@@ -7,6 +7,7 @@ date: 2023-03-13 08:40
 dateformat: 'Y-m-d H:i'
 summary: The updated Bitcoin for Fairness flyer! Since Blue Wallet is sunsetting its custodial Lightning wallet I included Phoenix Wallet instead.
 thumbnail: _Flyer-Phoenix-BW-1678694787401.jpeg
+template: article 
 ---
 
 # Bitcoin Flyer Update: moving to Phoenix Wallet for Lightning

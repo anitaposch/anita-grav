@@ -7,6 +7,7 @@ date: 2023-02-23 12:40
 dateformat: 'Y-m-d H:i'
 summary: Why I'm opting for self-custodial Lightning wallets even in areas with low Internet speed. See my test results from a rural area in Zimbabwe.
 thumbnail: _wallet-lake.jpg
+template: article 
 ---
 
 # Review: The best Lightning wallets for slow internet 2023

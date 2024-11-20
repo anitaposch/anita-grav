@@ -7,6 +7,7 @@ date: 2023-05-01, 13:00
 dateformat: 'Y-m-d H:i'
 summary: The Bitcoin flyer, a short intro to using Bitcoin for meetups and beginners is available in Catalan now.
 thumbnail: _Flyer-in-Catalan-1.jpeg
+template: article 
 ---
 
 # Bitcoin Flyer in Catalan

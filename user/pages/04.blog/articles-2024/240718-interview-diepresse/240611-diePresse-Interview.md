@@ -7,6 +7,7 @@ date: 2024-07-18 15:00
 dateformat: 'Y-m-d H:i'
 summary: Überraschende Aspekte von Bitcoin im Zusammenhang mit finanzieller Unterdrückung, Kreislaufwirtschaft und Privatsphäre in Afrika.
 thumbnail: _finanzielle-unterdrueckung-afrika.jpeg
+template: article 
 ---
 
 # Überraschende Einblicke - Bitcoins Rolle in Afrika - Interview

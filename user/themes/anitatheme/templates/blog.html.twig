@@ -1,0 +1,5 @@
+{% set collection = page.collection() %}
+
+{% for child in collection %}
+    {% include 'article.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
+{% endfor %}

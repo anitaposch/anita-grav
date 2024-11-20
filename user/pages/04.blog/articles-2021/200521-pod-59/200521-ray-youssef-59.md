@@ -7,6 +7,7 @@ date: 2020-05-21 12:00
 dateformat: 'Y-m-d H:i'
 summary: I talk with Ray Youssef, Co-Founder and CEO of Paxful, a peer-to-peer marketplace for money transfers serving about 4 million people in every country of the world.
 thumbnail: _200521-ray-youssef-59.jpeg
+template: article 
 ---
 
 # Podcast: Ray Youssef Bringing Bitcoin Into Africa With Gift Cards Is Solving Real Problems

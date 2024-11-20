@@ -7,6 +7,7 @@ date: 2023-04-29 8:00
 dateformat: 'Y-m-d H:i'
 summary: I was interviewed by Bitcoin Magazine about how I am bringing financial education to the world, especially to women in Africa and why it is important.
 thumbnail: _Anita-Posch-BTC-Magazine.jpeg
+template: article 
 ---
 
 # Bitcoin Gives People A Choice

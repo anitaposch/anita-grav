@@ -7,6 +7,7 @@ date: 2024-11-06 23:30
 dateformat: 'Y-m-d H:i'
 summary: Learn how to verify legitimate Bitcoin wallet software and avoid scams. Step-by-step guide for securing Blockstream Green, BitBox02 and Sparrow wallets - applicable to all wallets, including GPG verification and security best practices. Protect your bitcoin savings with proper software verification.
 thumbnail: _241106-verify-software.jpeg
+template: article 
 ---
 
 # How to Verify Bitcoin Wallet Software: A Security Guide for Mac and Windows Users | 2024

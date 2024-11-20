@@ -7,6 +7,7 @@ date: 2023-04-04 08:40
 dateformat: 'Y-m-d H:i'
 summary: Centralized platforms will lose all their attraction over the coming years. There are alternatives now and you can follow me on there too. Here some thoughts and my Nostr public key.
 thumbnail: _Nostr-Anita-Profile.jpeg
+template: article 
 ---
 
 # The Future of the Internet Is Decentralized and  Nostr Could Play an Important Role

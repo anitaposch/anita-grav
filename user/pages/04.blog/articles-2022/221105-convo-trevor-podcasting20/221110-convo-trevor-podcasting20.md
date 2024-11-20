@@ -7,6 +7,7 @@ date: 2022-11-10 11:30
 dateformat: 'Y-m-d H:i'
 summary: The first Zimbabwean podcast is enabled to earn bitcoin. I integrated Trevor Ncube's "In Conversation with Trevor" with Alby and Blue Wallet for Value 4 Value podcasting.
 thumbnail: _podcast-sending-satoshis.png
+template: article 
 ---
 
 # "In Conversation with Trevor" the first Zimbabwean podcast to receive bitcoin payments

@@ -7,6 +7,7 @@ date: 2024-02-27 12:00
 dateformat: 'Y-m-d H:i'
 summary: Alternative operating systems for your mobile phone that increase privacy and security while using Bitcoin.
 thumbnail: _Thumbnail-Bitcoin-On-Your-Phone.jpeg
+template: article 
 ---
 
 # Bitcoin on Your Phone - Alternatives to IOS and Android

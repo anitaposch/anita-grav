@@ -7,6 +7,7 @@ date: 2024-05-14 12:00
 dateformat: 'Y-m-d H:i'
 summary: Prevent your bitcoin from being wiped out and learn how to save on fees with Coin Control aka UTXO management.
 thumbnail: _Manage-UTXO.jpeg
+template: article 
 ---
 
 # The Importance of UTXO Management aka Coin Control

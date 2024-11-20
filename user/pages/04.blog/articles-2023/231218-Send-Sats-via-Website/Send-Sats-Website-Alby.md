@@ -7,6 +7,7 @@ date: 2023-12-18 07:00
 dateformat: 'Y-m-d H:i'
 summary: How to tip someone with bitcoin via a website using the GetAlby wallet extension. Here is how you can make it work on your website.
 thumbnail: _Send-Sats-Website-Alby.jpeg
+template: article 
 ---
 
 # Fast and easy payments with bitcoin - Let people send sats via your website

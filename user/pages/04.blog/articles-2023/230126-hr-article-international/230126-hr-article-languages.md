@@ -7,6 +7,7 @@ date: 2023-01-26 09:00
 dateformat: 'Y-m-d H:i'
 summary: My article about how Bitcoin enforces human rights has been translated to German and Italian.
 thumbnail: _230126-hr-article-languages-1674722678581.jpeg
+template: article 
 ---
 
 # Bitcoin and Human Rights Article goes international

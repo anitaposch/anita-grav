@@ -7,6 +7,7 @@ date: 2023-02-03 10:40
 dateformat: 'Y-m-d H:i'
 summary: The war on cash has led to an increase in the value of bitcoin in Nigeria in January 2023. How can it be that one bitcoin is 40% more expensive there than anywhere else?
 thumbnail: _230203-Nigeria-cashless-1675421985234.jpeg
+template: article 
 ---
 
 # Bitcoin price surges during a war on cash in Nigeria

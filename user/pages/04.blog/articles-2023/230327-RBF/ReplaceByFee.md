@@ -7,6 +7,7 @@ date: 2023-03-27 15:40
 dateformat: 'Y-m-d H:i'
 summary: In times of congestion on the Bitcoin blockchain, your transactions might get stuck and need days to confirm. Here's what you can do about it.
 thumbnail: _RBF-2.JPG
+template: article 
 ---
 
 # Bitcoin transaction is unconfirmed and pending - How to speed it up

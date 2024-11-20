@@ -7,6 +7,7 @@ date: 2022-12-17 20:12
 dateformat: 'Y-m-d H:i'
 summary: The Bitcoin for Fairness team Zambia hosted the 5th meetup in the capital Lusaka last weekend.
 thumbnail: _221217-BFF-Meetup-Zambia-1671692416889.jpeg
+template: article 
 ---
 
 # 5th Bitcoin for Fairness Meetup in Lusaka, Zambia

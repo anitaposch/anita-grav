@@ -7,6 +7,7 @@ date: 2022-11-23 16:30
 dateformat: 'Y-m-d H:i'
 summary: An early version of a Lightning node running on a mobile browser was presented. Experimental, but huge if it works.
 thumbnail: _early-browser.png
+template: article 
 ---
 
 # Lightning Node in a Browser

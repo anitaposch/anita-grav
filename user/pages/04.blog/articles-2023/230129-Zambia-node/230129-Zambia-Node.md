@@ -7,6 +7,7 @@ date: 2023-01-29 12:40
 dateformat: 'Y-m-d H:i'
 summary: In January 2023 the first Bitcoin and Lightning node (what I know of) started running in Zambia. I brought a Bitcoin for Fairness community donated Raspiblitz device, when I was visiting Zambia in October 2022.
 thumbnail: _230129-Zambia-Node-1675415448609.jpeg
+template: article 
 ---
 
 # First Bitcoin and Lightning node in Zambia

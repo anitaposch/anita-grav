@@ -7,6 +7,7 @@ date: 2024-02-05 12:00
 dateformat: 'Y-m-d H:i'
 summary: The differences between Bitcoin and Lightning: a look into Bitcoin on-chain transactions and how they are different from Lightning payments.
 thumbnail: _Lightning-Bitcoin-Difference.jpeg
+template: article 
 ---
 
 # Lightning Network and Bitcoin - What's the Difference?

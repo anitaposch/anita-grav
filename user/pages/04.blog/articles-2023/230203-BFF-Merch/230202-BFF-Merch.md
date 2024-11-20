@@ -7,6 +7,7 @@ date: 2023-02-02 12:40
 dateformat: 'Y-m-d H:i'
 summary: You can support Bitcoin for Fairness and at the same time be the coolest Bitcoiner in town with our new merch. BFF T-shirts, caps, hoodies and more.
 thumbnail: _230202-BFF-Merch-1675408240953.jpeg
+template: article 
 ---
 
 # Donate and receive a Bitcoiner for Fairness outfit 

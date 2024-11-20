@@ -7,6 +7,7 @@ date: 2023-05-07, 13:00
 dateformat: 'Y-m-d H:i'
 summary: The Bitcoin flyer, a short intro to using Bitcoin for meetups and beginners is available in Shona now. Shona is spoken by over 14 Mio. people in Zimbabwe, Botswana and Mozambique.
 thumbnail: _BFF-Flyer-in-Shona-1683126147728.jpeg
+template: article 
 ---
 
 # Bitcoin Flyer in Shona

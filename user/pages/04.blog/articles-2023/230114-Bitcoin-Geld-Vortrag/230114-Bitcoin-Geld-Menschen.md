@@ -7,6 +7,7 @@ date: 2023-01-16 18:00
 dateformat: 'Y-m-d H:i'
 summary: In diesem Vortrag erfährst du, warum Bitcoin für 54% der Weltbevölkerung besonders wichtig ist und welche Probleme es löst.
 thumbnail: _230114-Bitcoin-Geld-Menschen.jpeg
+template: article 
 ---
 
 # Bitcoin, das Geld der Menschen

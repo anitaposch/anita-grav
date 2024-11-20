@@ -7,6 +7,7 @@ date: 2022-12-26 11:00
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch was awarded as one of the most impactful African Bitcoiners of the year 2022.
 thumbnail: _Thumbnail-Most-Impactful-African-Bitcoiner-2022.jpeg
+template: article 
 ---
 
 # #5 Most Impactful African Bitcoiner

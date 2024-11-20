@@ -7,6 +7,7 @@ date: 2023-11-30 12:00
 dateformat: 'Y-m-d H:i'
 summary: How to create and use the Green Wallet, a self-custody Bitcoin and Liquid wallet with advanced security features like 2FA, which makes spending your money without your consent impossible.
 thumbnail: _Self-Custody-Green-Wallet-Tutorial.jpeg
+template: article 
 ---
 
 # Unlock the Power of Self-Custody: Green Wallet Tutorial

@@ -7,6 +7,7 @@ date: 2024-01-26 12:00
 dateformat: 'Y-m-d H:i'
 summary: Understand the differences between and use cases of Bitcoin, Lightning, Liquid, and E-Cash in this non-technical explainer.
 thumbnail: _Non-Tech-Explainer-Bitcoin-Lightning-Liquid-ECash.jpeg
+template: article 
 ---
 
 # A Non-Technical Explainer of Bitcoin, Lightning, Liquid, and E-Cash

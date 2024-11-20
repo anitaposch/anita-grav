@@ -7,6 +7,7 @@ date: 2022-11-18 18:30
 dateformat: 'Y-m-d H:i'
 summary: Around 200 million people are speaking Swahili. Now they can learn and share the basics about Bitcoin with BFF's Bitcoin flyer.
 thumbnail: _swahili-flyer.png
+template: article 
 ---
 
 # Bitcoin Flyer in Swahili

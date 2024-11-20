@@ -7,6 +7,7 @@ date: 2023-05-21 8:00
 dateformat: 'Y-m-d H:i'
 summary: I was speaking about how Bitcoin represents human rights and acts as a tool for civil resistance and empowerment at Bitcoin Pizza Day in Prague.
 thumbnail: _
+template: article 
 ---
 
 # Cypherpunks’ Code Enforces Human Rights

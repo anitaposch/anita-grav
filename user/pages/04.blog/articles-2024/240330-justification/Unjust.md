@@ -7,6 +7,7 @@ date: 2024-03-30 10:00
 dateformat: 'Y-m-d H:i'
 summary: People are rationalizing the status quo even if it's to their detriment. System justification makes change happen rarely.
 thumbnail: ../../assets/_Featured-Image-BLOG.png
+template: article 
 ---
 
 # Unjust Systems Prevail, Social Change is Rare
