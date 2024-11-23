@@ -15,6 +15,8 @@ template: article
 ## Complete Guide: How to Verify Bitcoin Wallet Software and Protect Your Cryptocurrency
 
 An important security step for all Bitcoin wallet software is to verify the code each time you install or upgrade it. This is done to ensure that the installation file you downloaded has not been compromised and no one can steal your bitcoin.
+test
+<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px; overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/saifedean-ammous-bitcoin-standard/embed"></iframe>
 
 It’s important to use wallet software that is open source so that there is no backdoor or code included that can exploit and steal your bitcoin. Open source code that has been used for years  is usually screened by a lot of eyes, which is also the reason why it's a good idea to only trust manufacturers whose products have been tested and used for years and have built great reputation.
 
