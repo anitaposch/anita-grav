@@ -1,22 +1,3 @@
-<div class="sidebar-content recent-posts">
-    <h3>Recent Posts</h3>
-    {% for p in page.find('/blog/articles-2024').children.order('date', 'desc').slice(0, 5) %}
-        {% set bannerimage = p.media['banner.jpg'] %}
-        <div class="recent-post">
-            {% if bannerimage %}
-                <div class="recent-post-image">{{ bannerimage.cropZoom(60,60).quality(60) }}</div>
-            {% else %}
-                <div class="recent-post-image"><img src="{{ url('theme://images/logo.png') }}" width="60" height="60"></div>
-            {% endif %}
-            <div class="recent-post-text">
-                <h4><a href="{{p.url}}">{{ p.title }}</a></h4>
-                <p>{{ p.date|date("M j, Y")}}</p>
-                <p>{{ p.media[p.header.thumbnail].url}}</p>
-            </div>
-        </div>
-    {% endfor %}
-</div>
-
 <div class="bg-white py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
@@ -24,7 +5,6 @@
             <p class="mt-2 text-lg leading-8 text-gray-600">My newest articles</p>
         </div>
         <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-
             {% for p in page.find('/blog/articles-2024').children.order('date', 'desc').slice(0, 3) %}
             {% set first_heading = p.content|split('</h1>')|first %}
             <article class="flex flex-col items-start justify-between">
@@ -52,7 +32,6 @@
                     </div>
                 </div>
             </article>
-
             {% endfor %}
         </div>
     </div>
