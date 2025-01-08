@@ -139,6 +139,6 @@ Bitcoin wallets are being updated regularly. You might see a notification inside
 
 ## Do you want to learn more about Bitcoin? 
 
-> * Subscribe to my weekly newsletter: [The Orange Journal](https://anita.link/news)
-> * Join my Bitcoin learning platform [Crack The Orange](https://cracktheorange.com) and I'll give you all the tools and knowledge you need to use Bitcoin in a secure way.
-> * Read my book [(L)EARN BITCOIN](https://learnbitcoin.link/)
+* Subscribe to my weekly newsletter: [The Orange Journal](https://anita.link/news)
+* Join my Bitcoin learning platform [Crack The Orange](https://cracktheorange.com) and I'll give you all the tools and knowledge you need to use Bitcoin in a secure way.
+* Read my book [(L)EARN BITCOIN](https://learnbitcoin.link/)

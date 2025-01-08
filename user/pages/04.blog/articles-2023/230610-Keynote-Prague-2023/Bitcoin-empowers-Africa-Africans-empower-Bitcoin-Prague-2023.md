@@ -2,7 +2,7 @@
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Talks]
 routes:
-    default: '/Bitcoin-Africa-Keynote-Prague'
+    default: '/bitcoin-africa-keynote-prague'
 date: 2023-06-11 8:00
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch's keynote on how "Bitcoin Empowers Africa and Africans Empower Bitcoin" presenting current adoption, use cases, challenges, future developments and how Bitcoin unites the world.

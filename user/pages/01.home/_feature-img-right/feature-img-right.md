@@ -1,6 +1,6 @@
 ---
-title: Feature section title
-subtitle: Feature section subtitle
+title: (L)earn Bitcoin Book
+subtitle: Book
 feature_image: image://global-image-placeholder.png
 teaser:
   image:
@@ -9,6 +9,3 @@ teaser:
 
     
 ---
-
-content with link test <a class="text-blue-700" href="/about">this is a link</a>.
- 

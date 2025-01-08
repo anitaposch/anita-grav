@@ -10,10 +10,10 @@ content:
         dir: asc
         custom:
             - _hero
-            - _feature-img-right
-            - _newsletter
-            - _feature-img-left
-            - _tabular-content
             - _blog-latest
+            - _newsletter
+            - _feature-img-right
+            - _tabular-content
+            - _feature-img-left
             - _supporters-logos
 ---
