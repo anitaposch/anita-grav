@@ -2340,6 +2340,10 @@ body{
   .max-lg\:mt-16 {
     margin-top: 4rem;
   }
+
+  .max-lg\:mt-6 {
+    margin-top: 1.5rem;
+  }
 }
 @media not all and (min-width: 640px) {
 
