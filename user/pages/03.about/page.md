@@ -1,18 +1,9 @@
 ---
-title: Feature section title
-subtitle: Feature section subtitle
-feature_image: image://global-image-placeholder.png
-teaser:
-  image:
-    src: content-image-placeholder.png
-    alt: Content image alt text
+title: About Me
 ---
 
-## content feature about
+# About Me
 ![alt text](image.png)
-
-here we go
-- test
 
 Anita Posch is a strategic Bitcoin adviser, renowned educator, author, and founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
 
@@ -37,6 +28,6 @@ In early 2017 she attended a talk about Bitcoin and open blockchain technology a
 
 >Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. – Anita Posch
 
-Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch. 
+Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
 
 Anita Posch posts on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) and [Twitter](https://twitter.com/anitaposch) regularly. 
