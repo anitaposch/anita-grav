@@ -1,1 +1,3 @@
-![alt text](logo-Bitcoin-Magazine.png)
+
+## Featured on
+![Bitcoin Magazine](logo-Bitcoin-Magazine.png)
