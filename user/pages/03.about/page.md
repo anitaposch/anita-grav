@@ -1,6 +1,7 @@
 ---
 title: About Me
 thumbnail: image.png
+keywords: "Bitcoin, Africa, Anita Posch, Bitcoin for Fairness, Bitcoin education"
 ---
 
 # About Me

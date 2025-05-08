@@ -1280,6 +1280,9 @@ select {
 .col-start-2 {
   grid-column-start: 2;
 }
+.-m-1 {
+  margin: -0.25rem;
+}
 .-m-2 {
   margin: -0.5rem;
 }
@@ -1523,6 +1526,9 @@ select {
 .gap-4 {
   gap: 1rem;
 }
+.gap-6 {
+  gap: 1.5rem;
+}
 .gap-8 {
   gap: 2rem;
 }
@@ -1701,6 +1707,9 @@ select {
 .fill-primary {
   fill: #005a80;
 }
+.fill-zinc-500 {
+  fill: #71717a;
+}
 .object-contain {
   -o-object-fit: contain;
      object-fit: contain;
@@ -1712,6 +1721,9 @@ select {
 .object-center {
   -o-object-position: center;
      object-position: center;
+}
+.p-1 {
+  padding: 0.25rem;
 }
 .p-10 {
   padding: 2.5rem;
@@ -1828,6 +1840,10 @@ select {
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
+}
+.text-lg\/8 {
+  font-size: 1.125rem;
+  line-height: 2rem;
 }
 .text-sm {
   font-size: 0.875rem;
@@ -2255,6 +2271,9 @@ body{
   --tw-scale-y: 1.05;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
+.group:hover .group-hover\:fill-zinc-600 {
+  fill: #52525b;
+}
 .group:hover .group-hover\:text-gray-600 {
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity));
@@ -2656,6 +2675,16 @@ body{
 
   .xl\:pr-16 {
     padding-right: 4rem;
+  }
+}
+@media (prefers-color-scheme: dark) {
+
+  .dark\:fill-zinc-400 {
+    fill: #a1a1aa;
+  }
+
+  .group:hover .dark\:group-hover\:fill-zinc-300 {
+    fill: #d4d4d8;
   }
 }
 
