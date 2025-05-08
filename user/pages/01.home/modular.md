@@ -10,11 +10,13 @@ content:
         dir: asc
         custom:
             - _hero
+            - _supporters-logos
             - _blog-latest
-            - _newsletter
+            - _feature-img-left
             - _feature-img-right
+            - _newsletter
             - _bff
             - _tabular-content
-            - _feature-img-left
-            - _supporters-logos
+            
+            
 ---
