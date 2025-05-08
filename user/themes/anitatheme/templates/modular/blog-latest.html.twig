@@ -13,6 +13,7 @@
                     <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
                 </div>
                 <div class="max-w-xl">
+                    {#
                     <div class="mt-8 flex items-center gap-x-4 text-xs">
                         <time datetime="2020-03-16" class="text-gray-500">{{ p.date|date("M j, Y")}}</time>
                         {% if p.taxonomy.tags %}
@@ -23,9 +24,10 @@
                             {% endfor %}
                         {% endif %}
                     </div>
+                    #}
                     <div class="group relative">
                         <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
-                            <a href="#">
+                            <a href="{{ p.header.routes.default }}">
                                 <span class="absolute inset-0"></span>
                                 {{ first_heading|raw }}
                             </a>
