@@ -1,5 +1,6 @@
 ---
 title: About Me
+thumbnail: image.png
 ---
 
 # About Me
