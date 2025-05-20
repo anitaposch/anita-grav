@@ -55,4 +55,28 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ### Logos
 
+#### Anita Posch
+![Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png)
+![Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png)
+
+
+
+#### Bitcoin for Fairness
+
+<img src="../assets/_BitcoinForFairness.svg" alt="BFF Logo .svg" width="250"/>
+
+<img src="../assets/_BFF-light-BG.png" alt="BFF Logo .png Light background" width="250"/>
+
+<img src="../assets/_BFF-dark-BG.png" alt="BFF Logo .png Dark background" width="250"/>
+
+<img src="../assets/_BFF-round1.png" alt="BFF Logo .png for round profiles" width="250"/>
+
+
+#### Crack the Orange
+
+<img src="../assets/_Crack-The-Orange-LOGO.svg" alt="CTO .svg" width="250"/>
+
+<img src="../assets/_Crack-The-Orange-LOGO.png" alt="CTO .png" width="250"/>
+
+<img src="../assets/_Crack_the_Orange-O.svg" alt="O .svg" width="250"/>
 
