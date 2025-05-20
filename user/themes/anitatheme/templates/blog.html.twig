@@ -1,15 +1,9 @@
-{% set collection = page.collection() %}
+{% extends 'partials/base.html.twig' %}
 
-{% for child in collection %}
-    {% include 'article.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
-{% endfor %}
-
-{% set articles = page.find('/blog').children.recursive %}
-{% for article in articles %}
-    {% if article.template == 'article' %}
-        <article>
-            <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
-            <p>{{ article.header.description }}</p>
-        </article>
-    {% endif %}
-{% endfor %}
+{% block content %}
+    {% set collection = page.collection() %}
+    
+    {% for child in collection %}
+        {% include 'article-list.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
+    {% endfor %}
+{% endblock %}
