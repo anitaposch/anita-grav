@@ -10,7 +10,7 @@ Anita Posch is a Change Agent and Freedom Tech advocate, a renowned Bitcoin educ
 
 Anita's focus is on promoting Freedom Tech like Bitcoin and Nostr, which empower individuals and the civil society in achieving financial freedom, digital privacy, self-sovereignty and protection from governmental and corporate surveillance.
 
->Sounds illogical, but by using Bitcoin you support human rights globally and help to make the world more fair. - Anita Posch
+> Sounds illogical, but by using Bitcoin you support human rights globally and help to make the world more fair. - Anita Posch
 
 ![Anita Posch](_anita-posch-500.jpg)
 
@@ -28,7 +28,7 @@ Bitcoin for Fairness and Anita Posch offer a [Crack the Orange scholarship progr
 
 Anita Posch tweeted about Bitcoin as early as in 2011, but dismissed it at that time, because she thought it's just another payment system like PayPal. In early 2017 she attended a talk highlighting Bitcoin and open blockchains and the positive impact they could have on society. She immediately realized that a permissionless, censorship-resistant and inflation-proof money-technology could free anyone who's being disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails built for the common good.
 
->Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. – Anita Posch
+> Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. – Anita Posch
 
 Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
 
