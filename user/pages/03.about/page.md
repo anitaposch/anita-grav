@@ -37,14 +37,14 @@ Anita Posch posts on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 
 ## Download Speaker Material
 
-[Download profile pictures](/download)
+[Anita Posch Speaker Rider](/download)
 
 Put profile pictures next to each other and add download links
 
 Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) - You can use them for free.
 
 ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png)
-[Download](/user/pages/03.about/_anita-posch-print-star.png)
+[Download - Anita Posch - Stars - Print quality](/user/pages/03.about/_anita-posch-print-star.png)
 
 ![Anita Posch - Black T - Print quality](_anita-posch-print.png)
-[Download](/user/pages/03.about/_anita-posch-print.png)
+[Download - Anita Posch - Black T - Print quality](/user/pages/03.about/_anita-posch-print.png)
