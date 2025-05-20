@@ -8,23 +8,21 @@ keywords: "Bitcoin, Africa, Anita Posch, Bitcoin for Fairness, Bitcoin education
 
 Anita Posch is a Change Agent and Freedom Tech advocate, a renowned Bitcoin educator, author, founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
 
-Anita's focus is on promoting Freedom Tech like Bitcoin and Nostr, which empower individuals and the civil society in achieving financial freedom, digital privacy, self-sovereignty and protection from governmental and corporate surveillance. 
-
-![Anita Posch](_anita-posch-500.jpg)
-
-Since 2020, Anita has tirelessly traveled to difficult political climates like Zimbabwe to foster local communities (activists and journalists) about how to use Bitcoin safely. In Zambia she supported an independent community driven entity that calls itself "Bitcoin Zambia" and conducts workshops and meetups in Lusaka and supports new initiatives like "Bitcoin Victoria Falls".
-
-She has partnered with the [Human Rights Foundation](https://hrf.org) on many trainings at the Oslo Freedom Forum and at other events to teach the leaders of large grassroots organizations about best practices for Bitcoin use. Anita also regularly tests popular Bitcoin and Lightning applications in difficult environments with bad internet connectivity, and grades them, providing a valuable window into pain points for developers.
-
-Anita has been sharing her experiences and learnings from her time in the Global South in many keynotes at conferences, interviews and podcasts to audiences in Western countries.
+Anita's focus is on promoting Freedom Tech like Bitcoin and Nostr, which empower individuals and the civil society in achieving financial freedom, digital privacy, self-sovereignty and protection from governmental and corporate surveillance.
 
 >Sounds illogical, but by using Bitcoin you support human rights globally and help to make the world more fair. - Anita Posch
 
-Through her book [(L)earn Bitcoin](https://learnbitcoin.link), her [digital learning platform Crack the Orange](https://cracktheorange.com) as well as her [YouTube channel](https://www.youtube.com/anitaposch), Anita aims to inspire people worldwide, unleashing their creativity and innovation with the freedom to exchange value privately and securely. Her work with Bitcoin for Fairness has been widely recognized, and her efforts have been featured in various international Bitcoin and traditional media outlets, including Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television. 
+![Anita Posch](_anita-posch-500.jpg)
 
-See what Anita Posch and [BFF have achieved since 2022](https://bffbtc.org/mission/impact/) and our [yearly BFF reviews](https://bffbtc.org/mission/reviews/).
+Anita Posch has worked with the [Human Rights Foundation](https://hrf.org) at the Oslo Freedom Forum and other events to teach the leaders of large grassroots organizations about Freedom Tech best practices and Bitcoin use-cases. Anita also regularly tests popular Bitcoin and Lightning applications in difficult environments with poor internet connectivity, and grades them, providing a valuable window into pain points for developers.
 
-Anita founded the online academy Crack the Orange, in which she is providing training to develop Bitcoin educators and community builders in the Global South. After successful application students are provided with a scholarship and can stay in the program for free for 12 months.
+Since 2020, Anita has tirelessly traveled to difficult political climates like in Zimbabwe or Ghana to support local communities, activists and journalists in learning about how to use Bitcoin safely. See the [yearly BFF reviews](https://bffbtc.org/mission/reviews/) to learn what Anita Posch and [Bitcoin for Fairness have achieved since 2022](https://bffbtc.org/mission/impact/).
+
+Anita has been sharing her experiences and learnings from her time in the Global South in many keynotes at conferences, interviews and podcasts to audiences in Western countries.
+
+Through her book [(L)earn Bitcoin](https://learnbitcoin.link), her [online learning platform Crack the Orange](https://cracktheorange.com) as well as her [YouTube channel](https://www.youtube.com/anitaposch), Anita aims to inspire people worldwide, unleashing their creativity and innovation with the freedom to exchange value privately and securely. Her work with Bitcoin for Fairness has been widely recognized, and her efforts have been featured in various international Bitcoin and traditional media outlets, including Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television. 
+
+Bitcoin for Fairness and Anita Posch offer a [Crack the Orange scholarship program] to enable aspiring Bitcoin educators, developers and community builders from the Global South to expand their knowledge and offer educational programs in their region. So far 100 students from over 30 countries applied and over 50 individuals (from Argentina, Burundi, Ghana, Liberia, Nigeria, South Africa, Tanzania, Togo, Uganda, Zambia, Zimbabwe) finished the program.
 
 ## Anita Posch's Bitcoin Story
 
