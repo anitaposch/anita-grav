@@ -39,4 +39,9 @@ Anita Posch posts on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 
 [Download profile pictures](/download)
 
-Put profile pictures next to each other
+Put profile pictures next to each other and add download links
+
+![Anita Posch - Stars - Print quality](_anita-posch-print-star.png)
+![Anita Posch - Black T - Print quality](_anita-posch-print.png)
+
+
