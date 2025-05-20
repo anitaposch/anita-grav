@@ -45,7 +45,7 @@ Put profile pictures next to each other and add download links
 Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) - You can use them for free.
 
 ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png "Anita Posch - Stars - Print quality")
-[Download - Anita Posch - Stars - Print quality](/user/pages/03.about/_anita-posch-print-star.png)
+[Download - Anita Posch - Stars - Print quality](_anita-posch-print-star.png){ width=60%,height:30px }
 
 ![Anita Posch - Black T - Print quality](_anita-posch-print.png "Anita Posch - Black T - Print quality")
 [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png)
