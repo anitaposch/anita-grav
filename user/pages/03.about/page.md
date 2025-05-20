@@ -27,7 +27,7 @@ Anita founded the online academy Crack the Orange, in which she is providing tra
 
 ## Anita Posch's Bitcoin Story
 
-Anita Posch tweeted about Bitcoin as early as in 2011, but dismissed it at that time, because she thought it's just another payment system like PayPal. In early 2017 she attended a talk highlighting Bitcoin and open blockchains and the positive impact they could have on society. She realized that a technology which is permissionless, censorship-resistant and inflation-proof could free anyone being disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails built for the common good.
+Anita Posch tweeted about Bitcoin as early as in 2011, but dismissed it at that time, because she thought it's just another payment system like PayPal. In early 2017 she attended a talk highlighting Bitcoin and open blockchains and the positive impact they could have on society. She immediately realized that a permissionless, censorship-resistant and inflation-proof money-technology could free anyone who's being disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails built for the common good.
 
 >Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. – Anita Posch
 
@@ -38,3 +38,5 @@ Anita Posch posts on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 ## Download Speaker Material
 
 [Download profile pictures](/download)
+
+Put profile pictures next to each other
