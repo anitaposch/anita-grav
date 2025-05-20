@@ -47,10 +47,10 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png "Anita Posch - Stars - Print quality")
 [Download - Anita Posch - Stars - Print quality](/user/pages/03.about/_anita-posch-print-star.png)
 
-![Anita Posch - Black T - Print quality](_anita-posch-print.png)
+![Anita Posch - Black T - Print quality](_anita-posch-print.png "Anita Posch - Black T - Print quality")
 [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png)
 
-![Anita Posch - Profile small](_Anita-Profile-small.jpg)
+![Anita Posch - Profile small](_Anita-Profile-small.jpg "Anita Posch - Profile small")
 [Download - Anita Posch - Profile small](_Anita-Profile-small.jpg)
 
 ### Logos
