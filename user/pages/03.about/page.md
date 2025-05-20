@@ -46,7 +46,7 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png "Anita Posch - Stars - Print quality")
 
-<img src="_anita-posch-print-star.png" alt="Anita Posch - Stars - Print quality" title="Anita Posch - Stars - Print quality" width="150"/>
+<img src="/user/pages/03.about/_anita-posch-print-star.png" alt="Anita Posch - Stars - Print quality" title="Anita Posch - Stars - Print quality" width="150"/>
 
 
 [Download - Anita Posch - Stars - Print quality](_anita-posch-print-star.png)
