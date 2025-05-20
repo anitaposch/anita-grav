@@ -4,16 +4,14 @@ thumbnail: _Anita-Profile-small.jpg
 keywords: "Bitcoin, Africa, Anita Posch, Bitcoin for Fairness, Bitcoin education"
 ---
 
-# About Me
+# About Anita Posch
 ![Anita Posch](_anita-posch-500.jpg)
 
-Anita Posch is a change agent and Freedom Tech advocate, a renowned Bitcoin educator, author, founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
+Anita Posch is a Change Agent and Freedom Tech advocate, a renowned Bitcoin educator, author, founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
 
 Anita's focus is on promoting Freedom Tech like Bitcoin and Nostr, which empower individuals and the civil society in achieving financial freedom, digital privacy, self-sovereignty and protection from governmental and corporate surveillance. 
 
 Since 2020, Anita has tirelessly traveled to difficult political climates like Zimbabwe to foster local communities (activists and journalists) about how to use Bitcoin safely. In Zambia she supported an independent community driven entity that calls itself "Bitcoin Zambia" and conducts workshops and meetups in Lusaka and supports new initiatives like "Bitcoin Victoria Falls".
-
-Anita founded the online academy Crack the Orange, in which she is providing training to develop Bitcoin educators and community builders in the Global South. After successful application students are provided with a scholarship and can stay in the program for free for 12 months.
 
 She has partnered with the [Human Rights Foundation](https://hrf.org) on many trainings at the Oslo Freedom Forum and at other events to teach the leaders of large grassroots organizations about best practices for Bitcoin use. Anita also regularly tests popular Bitcoin and Lightning applications in difficult environments with bad internet connectivity, and grades them, providing a valuable window into pain points for developers.
 
@@ -25,8 +23,11 @@ Through her book [(L)earn Bitcoin](https://learnbitcoin.link), her [digital lear
 
 See what Anita Posch and [BFF have achieved since 2022](https://bffbtc.org/mission/impact/) and our [yearly BFF reviews](https://bffbtc.org/mission/reviews/).
 
+Anita founded the online academy Crack the Orange, in which she is providing training to develop Bitcoin educators and community builders in the Global South. After successful application students are provided with a scholarship and can stay in the program for free for 12 months.
 
-In early 2017 she attended a talk about Bitcoin and open blockchain technology and the positive impact it could have on society. She realized that a technology which is permissionless, inflation-proof and a global internet money could free billions of people, disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails that is built for a common good.
+## Anita Posch's Bitcoin Story
+
+Anita Posch tweeted about Bitcoin as early as in 2011, but dismissed it at that time, because she thought it's just another payment system like PapyPal. In early 2017 she attended a talk highlighting Bitcoin and open blockchains and the positive impact they could have on society. She realized that a technology which is permissionless, censorship-resistant and inflation-proof could free anyone being disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails that is built for a common good.
 
 >Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. – Anita Posch
 
