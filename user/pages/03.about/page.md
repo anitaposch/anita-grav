@@ -23,12 +23,13 @@ Anita has been sharing her experiences and learnings from her time in the Global
 
 Through her book [(L)earn Bitcoin](https://learnbitcoin.link), her [digital learning platform Crack the Orange](https://cracktheorange.com) as well as her [YouTube channel](https://www.youtube.com/anitaposch), Anita aims to inspire people worldwide, unleashing their creativity and innovation with the freedom to exchange value privately and securely. Her work with Bitcoin for Fairness has been widely recognized, and her efforts have been featured in various international Bitcoin and traditional media outlets, including Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television. 
 
-See what Anita Posch and [BFF have achieved since 2022](https://bffbtc.org/mission/impact/) and in our [yearly BFF reviews](https://bffbtc.org/mission/reviews/).
+See what Anita Posch and [BFF have achieved since 2022](https://bffbtc.org/mission/impact/) and our [yearly BFF reviews](https://bffbtc.org/mission/reviews/).
 
 
 In early 2017 she attended a talk about Bitcoin and open blockchain technology and the positive impact it could have on society. She realized that a technology which is permissionless, inflation-proof and a global internet money could free billions of people, disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails that is built for a common good.
 
->Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. – Anita Posch
+>Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives. 
+– Anita Posch
 
 Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
 
