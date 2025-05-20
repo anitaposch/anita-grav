@@ -1,11 +1,11 @@
 ---
 title: About Me
-thumbnail: image.png
+thumbnail: _Anita-Profile-small.jpg
 keywords: "Bitcoin, Africa, Anita Posch, Bitcoin for Fairness, Bitcoin education"
 ---
 
 # About Me
-![alt text](image.png)
+![Anita Posch](_anita-posch-500.jpg)
 
 Anita Posch is a strategic Bitcoin adviser, renowned educator, author, and founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
 
