@@ -46,7 +46,7 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png "Anita Posch - Stars - Print quality")
 
-<img src="/user/pages/03.about/_anita-posch-print-star.png" alt="Anita Posch - Stars - Print quality" title="Anita Posch - Stars - Print quality" width="150"/>
+<img src="/user/pages/03.about/_anita-posch-print-star.png" alt="Anita Posch - Stars - Print quality" title="Anita Posch - Stars - Print quality" width="250"/>
 
 
 [Download - Anita Posch - Stars - Print quality](_anita-posch-print-star.png)
@@ -60,9 +60,9 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 ### Logos
 
 #### Anita Posch
-![Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png)
-![Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png)
 
+<img src="/user/pages/03.about/_Anita-Posch-Logo-black-bg.png" alt="Anita Posch - For dark background .png" title="Anita Posch - For dark background .png" width="250"/>
+<img src="/user/pages/03.about/_Anita-Posch-Logo-white-bg.png" alt="Anita Posch - For light background .png" title="Anita Posch - For light background .png" width="250"/>
 
 
 #### Bitcoin for Fairness
