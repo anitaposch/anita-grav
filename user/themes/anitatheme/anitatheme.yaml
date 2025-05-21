@@ -6,7 +6,7 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: Bitcoin for Fairness
-        url: 'https://bffbtc.org?target=_blank'
+        url: 'https://bffbtc.org?target="_blank"'
       - title: Bitcoin & Human Rights
         url: '#'     
       - title: Tech Independence
