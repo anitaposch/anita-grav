@@ -46,7 +46,7 @@ Put profile pictures next to each other and add download links
 | ------ | ----------- |
 | [![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=200,200 "Anita Posch - Stars - Print quality")](_anita-posch-print-star.png?target=_blank) | [Download - Anita Posch - Stars - Print quality](_anita-posch-print-star.png?target=_blank) |
 | [![Anita Posch - Black T - Print quality](_anita-posch-print.png?resize=200,200 "Anita Posch - Black T - Print quality")](_anita-posch-print.png?target=_blank) | [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png?target=_blank) |
-| [![Anita Posch - Profile small](_Anita-Profile-small.jpg?resize=100,100 "Anita Posch - Profile small")](_Anita-Profile-small.jpg?target=_blank) | [Download - Anita Posch - Profile small](_Anita-Profile-small.jpg?target=_blank) |
+| [![Anita Posch - Profile small](_Anita-Profile-small.jpg?resize=200,200 "Anita Posch - Profile small")](_Anita-Profile-small.jpg?target=_blank) | [Download - Anita Posch - Profile small](_Anita-Profile-small.jpg?target=_blank) |
 
 Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) - You can use them for free.
 
