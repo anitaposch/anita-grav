@@ -55,8 +55,8 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 ### Logo
 
-| ### Logo | |
+|  | |
 | ------ | ----------- |
-| [![Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png?resize=200,200 "Anita Posch - For light background .png")](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png?target=_blank) |
-| [![Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png?resize=200,200 "Anita Posch - For dark background .png")](_Anita-Posch-Logo-black-bg.png?target=_blank) | [Download - Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png?target=_blank)  |
+| [![Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png?resize=150,150 "Anita Posch - For light background .png")](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png?target=_blank) |
+| [![Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png?resize=150,150 "Anita Posch - For dark background .png")](_Anita-Posch-Logo-black-bg.png?target=_blank) | [Download - Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png?target=_blank)  |
 | | |
