@@ -3,6 +3,10 @@ title: About Anita Posch
 thumbnail: _Anita-Profile-small.jpg
 keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
 ---
+# Table of Contents
+  * [Chapter 1](#social-media-platforms)
+  * [Chapter 2](#chapter-2)
+  * [Chapter 3](#chapter-3)
 
 # About Anita Posch
 
