@@ -6,7 +6,7 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: Bitcoin for Fairness
-        url: '#'
+        url: 'https://bffbtc.org'
       - title: Bitcoin & Human Rights
         url: '#'     
       - title: Tech Independence
@@ -15,13 +15,13 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: Book
-        url: '#'
+        url: 'https://learnbitcoin.link'
       - title: Online Courses
-        url: '#'
-      - title: Video Tutorials
-        url: '#'
+        url: 'https://cracktheorange.com'
+      - title: Bitcoin Knowledge Base
+        url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
       - title: Scholarships
-        url: '#'
+        url: 'https://my.cracktheorange.com/scholarship/'
       - title: Keynotes & Talks
         url: '#'
       - title: Podcast
@@ -29,7 +29,7 @@ main_menu:
   - title: About
     url: '#toplevel-links-do-not-work'
     children:
-      - title: Bio
+      - title: About Anita Posch
         url: '#'
       - title: Speaker Info
         url: '#'
