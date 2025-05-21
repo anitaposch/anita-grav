@@ -56,5 +56,10 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 #### Anita Posch
 
+| 
+Logo 1 | Donwload
+Logo 2 | Download
+|
+
 <img src="/user/pages/03.about/_Anita-Posch-Logo-white-bg.png" alt="Anita Posch - For light background .png" title="Anita Posch - For light background .png" width="250"/>
 <img src="/user/pages/03.about/_Anita-Posch-Logo-black-bg.png" alt="Anita Posch - For dark background .png" title="Anita Posch - For dark background .png" width="250"/>
