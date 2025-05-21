@@ -1347,6 +1347,9 @@ select {
 .mt-4 {
   margin-top: 1rem;
 }
+.mt-40 {
+  margin-top: 10rem;
+}
 .mt-5 {
   margin-top: 1.25rem;
 }
@@ -1573,9 +1576,6 @@ select {
 .gap-x-8 {
   -moz-column-gap: 2rem;
        column-gap: 2rem;
-}
-.gap-y-10 {
-  row-gap: 2.5rem;
 }
 .gap-y-12 {
   row-gap: 3rem;
@@ -1842,11 +1842,11 @@ select {
 .pb-8 {
   padding-bottom: 2rem;
 }
+.pl-16 {
+  padding-left: 4rem;
+}
 .pl-4 {
   padding-left: 1rem;
-}
-.pl-9 {
-  padding-left: 2.25rem;
 }
 .pt-10 {
   padding-top: 2.5rem;
@@ -2378,10 +2378,6 @@ body{
   .sm\:columns-3 {
     -moz-columns: 3;
          columns: 3;
-  }
-
-  .sm\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .sm\:grid-cols-4 {
