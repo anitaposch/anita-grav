@@ -57,6 +57,7 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 #### Anita Posch
 
 | | |
+| ------ | ----------- |
 | Logo 1 | Donwload |
 | Logo 2 | Download |
 | | |
