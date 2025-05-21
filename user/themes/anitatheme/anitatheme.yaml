@@ -63,6 +63,6 @@ main_menu:
       - title: Newsletter
         url: '#'
       - title: Social Media
-        url: '/about#social-media-platforms'
+        url: '/about#social-media'
       - title: RSS Feed
         url: '#'
