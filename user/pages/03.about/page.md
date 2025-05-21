@@ -58,7 +58,7 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 | | |
 | ------ | ----------- |
-| [![Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?resize=200,200 "Anita Posch - Stars - Print quality")](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?target=_blank) |
+| [![Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?resize=200,200 "Anita Posch - Stars - Print quality")](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?target=_blank) |
 | Logo 2 | Download |
 | | |
 
