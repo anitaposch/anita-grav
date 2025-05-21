@@ -40,7 +40,10 @@
                         <li class="pb-2 {% if not loop.last %}border-b border-gray-200{% endif %}">
                             <!-- Parent item as headline -->
                             {% if item.url %}
-                                <a href="{{ base_url }}{{ item.url }}" class="block px-3 py-2 font-bold text-lg sm:text-xl text-gray-900 min-w-0 break-words">
+                                <a href="{{ base_url }}{{ item.url }}"
+                                   {% if item.target is defined and item.target is not empty %}target="{{ item.target }}"{% endif %}
+                                   class="block px-3 py-2 font-bold text-lg sm:text-xl text-gray-900 min-w-0 break-words"
+                                >
                                     {{ item.title }}
                                 </a>
                             {% else %}
@@ -54,7 +57,10 @@
                                 <ul class="pl-4 mt-1 space-y-1">
                                     {% for child in item.children %}
                                         <li>
-                                            <a href="{{ base_url }}{{ child.url }}" class="block px-3 py-2 text-base text-gray-600 hover:bg-gray-100 hover:text-gray-900 rounded-md min-w-0 break-words">
+                                            <a href="{{ base_url }}{{ child.url }}"
+                                               {% if child.target is defined and child.target is not empty %}target="{{ child.target }}"{% endif %}
+                                               class="block px-3 py-2 text-base text-gray-600 hover:bg-gray-100 hover:text-gray-900 rounded-md min-w-0 break-words"
+                                            >
                                                 {{ child.title }}
                                             </a>
                                         </li>
