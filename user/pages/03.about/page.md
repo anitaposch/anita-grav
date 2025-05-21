@@ -44,13 +44,13 @@ Put profile pictures next to each other and add download links
 
 | Option | Description |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
+| ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=400,200 "Anita Posch - Stars - Print quality") | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
 Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) - You can use them for free.
 
-![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=400,200 "Anita Posch - Stars - Print quality")
+
 
 
 
