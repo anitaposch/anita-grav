@@ -58,9 +58,6 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 | | |
 | ------ | ----------- |
-| [![Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?resize=200,200 "Anita Posch - Stars - Print quality")](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - Stars - Print quality](_Anita-Posch-Logo-white-bg.png?target=_blank) |
-| Logo 2 | Download |
+| [![Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png?resize=200,200 "Anita Posch - For light background .png")](_Anita-Posch-Logo-white-bg.png?target=_blank) | [Download - Anita Posch - For light background .png](_Anita-Posch-Logo-white-bg.png?target=_blank) |
+| [![Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png?resize=200,200 "Anita Posch - For dark background .png")](_Anita-Posch-Logo-black-bg.png?target=_blank) | [Download - Anita Posch - For dark background .png](_Anita-Posch-Logo-black-bg.png?target=_blank)  |
 | | |
-
-<img src="/user/pages/03.about/_Anita-Posch-Logo-white-bg.png" alt="Anita Posch - For light background .png" title="Anita Posch - For light background .png" width="250"/>
-<img src="/user/pages/03.about/_Anita-Posch-Logo-black-bg.png" alt="Anita Posch - For dark background .png" title="Anita Posch - For dark background .png" width="250"/>
