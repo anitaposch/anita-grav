@@ -32,7 +32,7 @@ Anita Posch tweeted about Bitcoin as early as in 2011, but dismissed it at that 
 
 Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
 
-Anita Posch posts on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) and [Twitter](https://twitter.com/anitaposch) regularly. 
+Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, [Bluesky](https://bsky.app/profile/anitaposch.bsky.social), sometimes on [Twitter](https://twitter.com/anitaposch) and very seldom on [LinkedIn](https://www.linkedin.com/in/anitaposch/). She is **NOT having a presence** at Instagram, Facebook, Telegram, TikTok or any other platforms.
 
 ## Download Speaker Material
 
@@ -49,12 +49,7 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 | [![Anita Posch - Profile small](_Anita-Profile-small.jpg?resize=200,200 "Anita Posch - Profile small")](_Anita-Profile-small.jpg?target=_blank) | [Download - Anita Posch - Profile small](_Anita-Profile-small.jpg?target=_blank) |
 |  |  |
 
-
-
-
-### Logos
-
-#### Anita Posch
+### Logo
 
 | | |
 | ------ | ----------- |
