@@ -17,12 +17,16 @@ main_menu:
     children:
       - title: Book
         url: 'https://learnbitcoin.link'
+        target: '_blank'
       - title: Online Courses
         url: 'https://cracktheorange.com'
+        target: '_blank'
       - title: Bitcoin Knowledge Base
         url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
+        target: '_blank'
       - title: Scholarships
         url: 'https://my.cracktheorange.com/scholarship/'
+        target: '_blank'
       - title: Keynotes & Talks
         url: '#'
       - title: Podcast
@@ -31,7 +35,7 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: About Anita Posch
-        url: '#'
+        url: 'about'
       - title: Speaker Info
         url: '#'
       - title: Donate
