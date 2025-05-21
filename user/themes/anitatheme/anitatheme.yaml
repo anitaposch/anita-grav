@@ -35,13 +35,13 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: About Anita Posch
-        url: 'about'
+        url: '/about'
       - title: Speaker Info
         url: '#'
       - title: Donate
         url: '#'
       - title: Now
-        url: '#'
+        url: '/now'
   - title: Media
     url: '#toplevel-links-do-not-work'
     children:
