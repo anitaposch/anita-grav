@@ -44,7 +44,8 @@ Put profile pictures next to each other and add download links
 
 | Option | Description |
 | ------ | ----------- |
-| ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=400,200 "Anita Posch - Stars - Print quality") | [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) |
+| ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=400,200 "Anita Posch - Stars - Print quality") 
+[Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) | [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
