@@ -43,7 +43,7 @@ Anita Posch posts on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 Put profile pictures next to each other and add download links
 
 | Option | Description |
-| :------ | ----------- |
+| ------: | ----------- |
 | ![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=400,200 "Anita Posch - Stars - Print quality") 
 [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) | [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) |
 | engine | engine to be used for processing templates. Handlebars is the default. |
