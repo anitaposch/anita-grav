@@ -1,0 +1,70 @@
+{% set menu = theme_var('main_menu') %}
+{% if menu %}
+    <!-- Mobile menu button -->
+    <div class="lg:hidden">
+        <button id="mobile-menu-button" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-gray-900 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500" aria-controls="mobile-menu" aria-expanded="false">
+            <span class="sr-only">Open main menu</span>
+            <!-- Icon when menu is closed -->
+            <svg id="menu-closed-icon" class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+            <!-- Icon when menu is open -->
+            <svg id="menu-open-icon" class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div>
+
+    <!-- Mobile menu drawer, slides in from right -->
+    <div id="mobile-menu-backdrop" class="hidden fixed inset-0 z-40 bg-black bg-opacity-50">
+        <!-- Empty div to capture clicks and close menu -->
+    </div>
+
+    <div id="mobile-menu" class="hidden fixed top-0 right-0 bottom-0 z-50 bg-white overflow-auto shadow-xl w-full max-w-sm transform transition-transform duration-300 ease-in-out translate-x-full">
+        <div class="p-4">
+            <div class="flex items-center justify-between">
+                <div class="text-xl font-medium text-gray-900">
+                    Menu
+                </div>
+                <button id="mobile-menu-close" class="rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500">
+                    <span class="sr-only">Close menu</span>
+                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+
+            <nav class="mt-6">
+                <ul class="space-y-4">
+                    {% for item in menu %}
+                        <li class="pb-2 {% if not loop.last %}border-b border-gray-200{% endif %}">
+                            <!-- Parent item as headline -->
+                            {% if item.url %}
+                                <a href="{{ base_url }}{{ item.url }}" class="block px-3 py-2 font-bold text-lg sm:text-xl text-gray-900 min-w-0 break-words">
+                                    {{ item.title }}
+                                </a>
+                            {% else %}
+                                <div class="px-3 py-2 font-bold text-lg sm:text-xl text-gray-900 min-w-0 break-words">
+                                    {{ item.title }}
+                                </div>
+                            {% endif %}
+
+                            <!-- Always show children if they exist -->
+                            {% if item.children %}
+                                <ul class="pl-4 mt-1 space-y-1">
+                                    {% for child in item.children %}
+                                        <li>
+                                            <a href="{{ base_url }}{{ child.url }}" class="block px-3 py-2 text-base text-gray-600 hover:bg-gray-100 hover:text-gray-900 rounded-md min-w-0 break-words">
+                                                {{ child.title }}
+                                            </a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+    </div>
+{% endif %}

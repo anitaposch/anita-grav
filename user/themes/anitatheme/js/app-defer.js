@@ -28,7 +28,10 @@ window.onscroll = () => {
     navbarSocial.style.display = 'block';
   }
 };
-*/document.addEventListener('DOMContentLoaded', function () {
+*/
+
+/** Flyout menu */
+document.addEventListener('DOMContentLoaded', function () {
   var buttons = document.querySelectorAll('button.flyout-button');
   buttons.forEach(function (button) {
     var flyoutMenu = button.nextElementSibling; // Assume the menu is the next sibling
@@ -69,6 +72,48 @@ window.onscroll = () => {
       flyoutMenu.classList.add('opacity-0', 'translate-y-1');
     });
   });
+});
+
+/** Mobile menu */
+document.addEventListener('DOMContentLoaded', function () {
+  // Mobile menu toggle
+  var mobileMenuButton = document.getElementById('mobile-menu-button');
+  var mobileMenu = document.getElementById('mobile-menu');
+  var mobileMenuBackdrop = document.getElementById('mobile-menu-backdrop');
+  var menuClosedIcon = document.getElementById('menu-closed-icon');
+  var menuOpenIcon = document.getElementById('menu-open-icon');
+  var mobileMenuClose = document.getElementById('mobile-menu-close');
+  if (mobileMenuButton && mobileMenu) {
+    var openMenu = function openMenu() {
+      // First show elements
+      mobileMenuBackdrop.classList.remove('hidden');
+      mobileMenu.classList.remove('hidden');
+
+      // Force browser to recalculate layout before adding transition classes
+      // This is needed for the transition to work properly
+      window.setTimeout(function () {
+        mobileMenu.classList.remove('translate-x-full');
+        document.body.classList.add('overflow-hidden');
+        menuClosedIcon.classList.add('hidden');
+        menuOpenIcon.classList.remove('hidden');
+      }, 10);
+    };
+    var closeMenu = function closeMenu() {
+      mobileMenu.classList.add('translate-x-full');
+      document.body.classList.remove('overflow-hidden');
+      menuClosedIcon.classList.remove('hidden');
+      menuOpenIcon.classList.add('hidden');
+
+      // Wait for transition to finish before hiding elements
+      setTimeout(function () {
+        mobileMenuBackdrop.classList.add('hidden');
+        mobileMenu.classList.add('hidden');
+      }, 300); // Match this to the duration in the CSS transition
+    };
+    mobileMenuButton.addEventListener('click', openMenu);
+    mobileMenuClose.addEventListener('click', closeMenu);
+    mobileMenuBackdrop.addEventListener('click', closeMenu);
+  }
 });
 
 /***/ })

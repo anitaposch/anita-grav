@@ -1,1 +1,63 @@
 enabled: true
+
+# Main menu
+main_menu:
+  - title: Freedom Tech
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: Bitcoin for Fairness
+        url: '#'
+      - title: Bitcoin & Human Rights
+        url: '#'     
+      - title: Tech Independence
+        url: '#'
+  - title: (L)earn Bitcoin
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: Book
+        url: '#'
+      - title: Online Courses
+        url: '#'
+      - title: Video Tutorials
+        url: '#'
+      - title: Scholarships
+        url: '#'
+      - title: Keynotes & Talks
+        url: '#'
+      - title: Podcast
+        url: '#'
+  - title: About
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: Bio
+        url: '#'
+      - title: Speaker Info
+        url: '#'
+      - title: Donate
+        url: '#'
+      - title: Now
+        url: '#'
+  - title: Media
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: in Articles
+        url: '#'
+      - title: in Books
+        url: '#'
+      - title: on TV
+        url: '#'
+      - title: on Podcasts
+        url: '#'
+      - title: on Youtube
+        url: '#'
+  - title: Contact
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: Send a Message
+        url: '#'
+      - title: Newsletter
+        url: '#'
+      - title: Social Media
+        url: '#'
+      - title: RSS Feed
+        url: '#'

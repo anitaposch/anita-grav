@@ -3,25 +3,17 @@
 <div class="w-full fixed top-0 z-40  h-20">
     {# {% include 'partials/banner.html.twig' %} #}
     <div class="h-20 bg-gray-50">
-        <nav class="content py-2 h-full w-full flex items-center justify-between">
+        <div class="content py-2 h-full w-full flex items-center justify-between">
             {% include 'partials/logo.html.twig' with {'class' : 'h-full'} %}
 
             {% include 'partials/simplesearch_searchbox.html.twig' %}
 
-            <div class="flex items-center space-x-4">
-
+            <nav id="main-menu" class="hidden lg:flex items-center space-x-4">
                 {% include 'partials/flyout-menu.html.twig' %}
-
-                {#
-                {% for page in pages.children.visible %}
-                    {% set current_page = (page.active or page.activeChild) ? 'selected' : '' %}
-                    <a href=" {{ page.url|e }} ">
-                        {{ page.title }}
-                    </a>
-
-                {% endfor %}
-                #}
-            </div>
-        </nav>
+            </nav>
+            <nav id="main-menu-mobile">
+                {% include 'partials/mobile-menu.html.twig' %}
+            </nav>
+        </div>
     </div>
 </div>
