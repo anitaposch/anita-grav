@@ -112,3 +112,51 @@ document.addEventListener('DOMContentLoaded', function() {
     mobileMenuBackdrop.addEventListener('click', closeMenu);
   }
 });
+
+/** Search panel */
+document.addEventListener('DOMContentLoaded', function() {
+  const searchToggle = document.getElementById('search-toggle');
+  const searchPanel = document.getElementById('search-panel');
+  const searchBackdrop = document.getElementById('search-backdrop');
+  const searchClose = document.getElementById('search-close');
+  const searchInput = document.getElementById('search-input');
+
+  if (searchToggle && searchPanel) {
+    const openSearch = function() {
+      // First show elements
+      searchBackdrop.classList.remove('hidden');
+      searchPanel.classList.remove('hidden');
+
+      // Force browser to recalculate layout before adding transition classes
+      window.setTimeout(function() {
+        searchPanel.classList.remove('translate-x-full');
+        document.body.classList.add('overflow-hidden');
+
+        // Auto-focus the search input
+        searchInput.focus();
+      }, 10);
+    };
+
+    const closeSearch = function() {
+      searchPanel.classList.add('translate-x-full');
+      document.body.classList.remove('overflow-hidden');
+
+      // Wait for transition to finish before hiding elements
+      setTimeout(function() {
+        searchBackdrop.classList.add('hidden');
+        searchPanel.classList.add('hidden');
+      }, 300); // Match this to the duration in the CSS transition
+    };
+
+    searchToggle.addEventListener('click', openSearch);
+    searchClose.addEventListener('click', closeSearch);
+    searchBackdrop.addEventListener('click', closeSearch);
+
+    // Close search panel when ESC key is pressed
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape' && !searchPanel.classList.contains('hidden')) {
+        closeSearch();
+      }
+    });
+  }
+});

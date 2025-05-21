@@ -116,6 +116,51 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 
+/** Search panel */
+document.addEventListener('DOMContentLoaded', function () {
+  var searchToggle = document.getElementById('search-toggle');
+  var searchPanel = document.getElementById('search-panel');
+  var searchBackdrop = document.getElementById('search-backdrop');
+  var searchClose = document.getElementById('search-close');
+  var searchInput = document.getElementById('search-input');
+  if (searchToggle && searchPanel) {
+    var openSearch = function openSearch() {
+      // First show elements
+      searchBackdrop.classList.remove('hidden');
+      searchPanel.classList.remove('hidden');
+
+      // Force browser to recalculate layout before adding transition classes
+      window.setTimeout(function () {
+        searchPanel.classList.remove('translate-x-full');
+        document.body.classList.add('overflow-hidden');
+
+        // Auto-focus the search input
+        searchInput.focus();
+      }, 10);
+    };
+    var closeSearch = function closeSearch() {
+      searchPanel.classList.add('translate-x-full');
+      document.body.classList.remove('overflow-hidden');
+
+      // Wait for transition to finish before hiding elements
+      setTimeout(function () {
+        searchBackdrop.classList.add('hidden');
+        searchPanel.classList.add('hidden');
+      }, 300); // Match this to the duration in the CSS transition
+    };
+    searchToggle.addEventListener('click', openSearch);
+    searchClose.addEventListener('click', closeSearch);
+    searchBackdrop.addEventListener('click', closeSearch);
+
+    // Close search panel when ESC key is pressed
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && !searchPanel.classList.contains('hidden')) {
+        closeSearch();
+      }
+    });
+  }
+});
+
 /***/ })
 
 },
