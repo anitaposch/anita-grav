@@ -34,7 +34,7 @@ Bitcoin is money from the people, for the people. Its mathematical rules can't b
 
 ## Social Media Platforms
 
-Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anitaposch.bsky.social), sometimes [Twitter](https://twitter.com/anitaposch) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaposch/). You can also find her on [GitHub](https://github.com/anitaposch) and [Medium](https://medium.com/@anitaposch).
+Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anitaposch.bsky.social), sometimes [Twitter](https://twitter.com/anitaposch) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaposch/). Find over 400 videos by Anita Posch on [YouTube](https://www.youtube.com/anitaposch) and work on [GitHub](https://github.com/anitaposch) and [Medium](https://medium.com/@anitaposch).
 
 > Anita Posch **is NOT on** Instagram, Facebook, Telegram, TikTok or any other platform and she **never asks you to invest or for your trades** or similar.
 
