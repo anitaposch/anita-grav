@@ -3,10 +3,6 @@ title: About Anita Posch
 thumbnail: _Anita-Profile-small.jpg
 keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
 ---
-# Table of Contents
-  * [Chapter 1](#social-media)
-  * [Chapter 2](#chapter-2)
-  * [Chapter 3](#chapter-3)
 
 # About Anita Posch
 
@@ -42,7 +38,7 @@ Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 
 > Anita Posch **is NOT on** Instagram, Facebook, Telegram, TikTok or any other platform and she **never asks you to invest or for your trades** or similar.
 
-## Download Speaker Material
+## Download Speaker Info <a id="speaker"></a>
 
 ### Speaker Rider Anita Posch
 [Anita Posch Speaker Rider](/download)

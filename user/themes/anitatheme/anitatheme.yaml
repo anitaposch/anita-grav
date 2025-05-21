@@ -37,7 +37,7 @@ main_menu:
       - title: About Anita Posch
         url: '/about'
       - title: Speaker Info
-        url: '#'
+        url: '/about#speaker'
       - title: Donate
         url: '#'
       - title: Now
@@ -61,7 +61,7 @@ main_menu:
       - title: Send a Message
         url: '#'
       - title: Newsletter
-        url: '#'
+        url: '/#newsletter'
       - title: Social Media
         url: '/about#social-media'
       - title: RSS Feed
