@@ -44,7 +44,7 @@ Put profile pictures next to each other and add download links
 
 | Option | Description |
 | ------ | ----------- |
-| [![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=400,200 "Anita Posch - Stars - Print quality")](https://bffbtc.org) 
+| [![Anita Posch - Stars - Print quality](_anita-posch-print-star.png?resize=300,300 "Anita Posch - Stars - Print quality")](https://bffbtc.org) 
 [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) | [Download - Anita Posch - Black T - Print quality](_anita-posch-print.png) |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
@@ -52,7 +52,6 @@ Put profile pictures next to each other and add download links
 Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) - You can use them for free.
 
 
-[Assemble](https://assemble.io)
 
 
 ![Anita Posch - Profile small](_Anita-Profile-small.jpg "Anita Posch - Profile small")
