@@ -21,12 +21,12 @@ content:
         custom:
             - _hero-about
             - _hero
-            - _supporters-logos
             - _blog-latest
             - _feature-img-left
             - _feature-img-right
             - _newsletter
             - _bff
+            - _supporters-logos
             - _tabular-content
             
             
