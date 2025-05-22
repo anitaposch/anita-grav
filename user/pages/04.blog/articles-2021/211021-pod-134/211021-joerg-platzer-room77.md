@@ -1,5 +1,5 @@
 ---
-title: Podcast: Jörg Platzer Insights of the World's First Bitcoin Merchant
+title: "Podcast: Jörg Platzer Insights of the World's First Bitcoin Merchant"
 taxonomy:
     tags: [Blog, Show]
 routes:

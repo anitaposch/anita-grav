@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Flyer Update: moving to Phoenix Wallet for Lightning
+title: "Bitcoin Flyer Update: moving to Phoenix Wallet for Lightning"
 taxonomy:
     tags: [Blog, Learn Bitcoin, Earn Bitcoin]
 routes:

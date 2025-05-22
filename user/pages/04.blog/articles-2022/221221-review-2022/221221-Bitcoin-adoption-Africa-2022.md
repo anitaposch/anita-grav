@@ -1,5 +1,5 @@
 ---
-title: Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa
+title: "Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa"
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Show]
 routes:

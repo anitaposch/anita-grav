@@ -1,5 +1,5 @@
 ---
-title: Nairobi Journal: Africa Bitcoin Conference and Project Visits in Kenya
+title: "Nairobi Journal: Africa Bitcoin Conference and Project Visits in Kenya"
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Kenya]
 routes:

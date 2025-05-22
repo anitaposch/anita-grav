@@ -1,5 +1,5 @@
 ---
-title: Lightning Wallets: Self-Custody Despite Poor Network Connection - Best Apps Tested in Zimbabwe 2024
+title: "Lightning Wallets: Self-Custody Despite Poor Network Connection - Best Apps Tested in Zimbabwe 2024"
 taxonomy:
     tags: [Blog, Learn Bitcoin, Lightning, Wallets, Liquid, E-Cash, Bitcoin in Africa]
 routes:

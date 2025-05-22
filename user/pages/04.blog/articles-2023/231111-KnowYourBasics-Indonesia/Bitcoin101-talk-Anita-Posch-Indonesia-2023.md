@@ -1,12 +1,12 @@
 ---
-title: (L)earn Bitcoin - Know Your Basics - Transactions & PoW Mining | Indonesia Bitcoin Conference 2023
+title: "(L)earn Bitcoin - Know Your Basics - Transactions & PoW Mining | Indonesia Bitcoin Conference 2023"
 taxonomy:
     tags: [Blog, Talks, Learn Bitcoin, Mining, Privacy]
 routes:
     default: '/bitcoin-know-your-basics'
 date: 2023-11-11 3:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch's talk in Bali offered a comprehensive introduction to the basics of Bitcoin, incl. its prehistory, transactions, and PoW mining.
+summary: "Anita Posch's talk in Bali offered a comprehensive introduction to the basics of Bitcoin, incl. its prehistory, transactions, and PoW mining."
 thumbnail: _Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 template: article
 ---

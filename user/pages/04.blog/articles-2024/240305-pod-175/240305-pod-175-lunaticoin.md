@@ -1,5 +1,5 @@
 ---
-title: Podcast: Financial Empowerment
+title: "Podcast: Financial Empowerment"
 taxonomy:
     tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin]
 routes:

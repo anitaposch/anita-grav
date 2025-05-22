@@ -1,5 +1,5 @@
 ---
-title: Earn bitcoin on Stacker News: People asked and I answered
+title: "Earn bitcoin on Stacker News: People asked and I answered"
 taxonomy:
     tags: [Blog, Features, Earn bitcoin]
 routes:

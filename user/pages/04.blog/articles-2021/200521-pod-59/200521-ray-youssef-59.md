@@ -1,5 +1,5 @@
 ---
-title: Podcast: Ray Youssef Bringing Bitcoin Into Africa With Gift Cards Is Solving Real Problems
+title: "Podcast: Ray Youssef Bringing Bitcoin Into Africa With Gift Cards Is Solving Real Problems"
 taxonomy:
     tags: [Blog, Show]
 routes:

@@ -1,5 +1,5 @@
 ---
-title: Podcast: On the Access Tribe Podcast
+title: "Podcast: On the Access Tribe Podcast"
 taxonomy:
     tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin]
 routes:

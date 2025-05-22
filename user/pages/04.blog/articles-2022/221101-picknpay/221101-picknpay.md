@@ -6,7 +6,7 @@ routes:
     default: '/picknpay-southafrica-accept-bitcoin'
 date: 2022-11-01 18:35
 dateformat: 'Y-m-d H:i'
-summary: Supermarket chain Pick'n'Pay started accepting bitcoin in 36 stores in South Africa. They want to roll it out to all stores. Pick'n'Pay has 16% grocery market share in South Africa.
+summary: "Supermarket chain Pick'n'Pay started accepting bitcoin in 36 stores in South Africa. They want to roll it out to all stores. Pick'n'Pay has 16% grocery market share in South Africa."
 thumbnail: _Nosihle-Bitcoin-Ekasi.jpg
 template: article
 ---

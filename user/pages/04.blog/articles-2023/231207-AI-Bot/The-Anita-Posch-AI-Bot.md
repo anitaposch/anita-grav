@@ -1,5 +1,5 @@
 ---
-title: Introducing the Anita Posch AI Bot: Your Personal Bitcoin Educator
+title: "Introducing the Anita Posch AI Bot: Your Personal Bitcoin Educator"
 taxonomy:
     tags: [Blog, Learn Bitcoin]
 routes:

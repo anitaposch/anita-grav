@@ -1,5 +1,5 @@
 ---
-title: Nairobi: Place of Cool Waters
+title: "Nairobi: Place of Cool Waters"
 taxonomy:
     tags: [Blog, Bitcoin in Africa]
 routes:

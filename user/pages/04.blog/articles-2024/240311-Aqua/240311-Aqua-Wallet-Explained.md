@@ -1,5 +1,5 @@
 ---
-title: AQUA Wallet Explained: Is It Right For You?
+title: "AQUA Wallet Explained: Is It Right For You?"
 taxonomy:
     tags: [Blog, Learn Bitcoin, Wallets, Lightning, Liquid]
 routes:

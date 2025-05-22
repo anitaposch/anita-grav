@@ -6,7 +6,7 @@ routes:
     default: '/bitcoin-enforces-human-rights'
 date: 2022-11-28 16:30
 dateformat: 'Y-m-d H:i'
-summary: This is the most important article I've written for Bitcoin Magazine so far. It outlines how the properties of Bitcoin allow it to protect the human rights of people around the world, as outlined by the United Nations.
+summary: "This is the most important article I've written for Bitcoin Magazine so far. It outlines how the properties of Bitcoin allow it to protect the human rights of people around the world, as outlined by the United Nations."
 thumbnail: _1-eleanor-roosevelt.png
 template: article
 ---

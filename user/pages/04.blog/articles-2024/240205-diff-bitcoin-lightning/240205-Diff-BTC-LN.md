@@ -1,12 +1,12 @@
 ---
-title: Lightning Network and Bitcoin - What's the Difference?
+title: "Lightning Network and Bitcoin - What's the Difference?"
 taxonomy:
     tags: [Blog, Learn Bitcoin, Lightning]
 routes:
     default: '/difference-lightning-bitcoin'
 date: 2024-02-05 12:00
 dateformat: 'Y-m-d H:i'
-summary: The differences between Bitcoin and Lightning: a look into Bitcoin on-chain transactions and how they are different from Lightning payments.
+summary: "The differences between Bitcoin and Lightning: a look into Bitcoin on-chain transactions and how they are different from Lightning payments."
 thumbnail: _Lightning-Bitcoin-Difference.jpeg
 template: article
 ---

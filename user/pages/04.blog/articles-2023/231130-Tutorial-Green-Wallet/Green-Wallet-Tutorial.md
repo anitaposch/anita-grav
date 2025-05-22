@@ -1,5 +1,5 @@
 ---
-title: Unlock the Power of Self-Custody: Green Wallet Tutorial
+title: "Unlock the Power of Self-Custody: Green Wallet Tutorial"
 taxonomy:
     tags: [Blog, Learn Bitcoin, Wallets]
 routes:

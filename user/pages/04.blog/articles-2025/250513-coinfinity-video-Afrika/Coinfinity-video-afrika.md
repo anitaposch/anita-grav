@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Stories: Anita Posch unterwegs in Afrika
+title: "Bitcoin Stories: Anita Posch unterwegs in Afrika"
 taxonomy:
     tags: [Blog, Deutsch, Features]
 routes:

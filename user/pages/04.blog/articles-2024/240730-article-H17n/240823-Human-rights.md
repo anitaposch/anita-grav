@@ -1,5 +1,5 @@
 ---
-title: Bitcoin: A Revolutionary Force for Human Rights in the Digital Age
+title: "Bitcoin: A Revolutionary Force for Human Rights in the Digital Age"
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa, Human Rights]
 routes:

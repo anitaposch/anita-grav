@@ -1,5 +1,5 @@
 ---
-title: Bitcoin als Zahlungsmittel gescheitert: Stimmt das?
+title: "Bitcoin als Zahlungsmittel gescheitert: Stimmt das?"
 taxonomy:
     tags: [Blog, Deutsch, Features]
 routes:

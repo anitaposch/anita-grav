@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Spot ETF? Discussion: Curse Or Blessing For Bitcoin Adoption?
+title: "Bitcoin Spot ETF? Discussion: Curse Or Blessing For Bitcoin Adoption?"
 taxonomy:
     tags: [Blog, Learn Bitcoin]
 routes:

@@ -1,12 +1,12 @@
 ---
-title: Bitcoin Technology Center "BTC" in Edwinase community near Kumasi
+title: "Bitcoin Technology Center \"BTC\" in Edwinase community near Kumasi"
 taxonomy:
     tags: [Blog, Ghana, Bitcoin in Africa]
 routes:
     default: '/bitcoin-technology-center-ghana'
 date: 2022-12-10 12:40
 dateformat: 'Y-m-d H:i'
-summary: I was invited to join the opening of the "Built with Bitcoin" foundation's technology center in Kumasi, Ghana. The ceremony included a walk through the new building. I gifted my book for the library and a hardware wallet.
+summary: "I was invited to join the opening of the \"Built with Bitcoin\" foundation's technology center in Kumasi, Ghana. The ceremony included a walk through the new building. I gifted my book for the library and a hardware wallet."
 thumbnail: _ceremony.jpg
 template: article
 ---

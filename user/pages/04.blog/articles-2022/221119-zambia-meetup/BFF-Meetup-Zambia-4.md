@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Meetup Zambia Nr.  4
+title: "Bitcoin Meetup Zambia Nr.  4"
 taxonomy:
     tags: [Blog, Zambia, Bitcoin in Africa]
 routes:
