@@ -1,23 +1,46 @@
-<section class="search-row">
+<article class="search-row border-b border-gray-200 hover:bg-gray-50 transition-colors duration-200 py-6 first:pt-0 last:border-b-0">
+    <div class="flex gap-4">
+        {% set banner = page.media.images|first %}
 
-    {% set banner = page.media.images|first %}
-
-    {% if banner %}
-        <div class="search-image">
-            <a href="{{ page.url }}">{{ banner.cropZoom(100,100).html|raw }}</a>
+        <div class="search-image flex-shrink-0">
+            {% if banner %}
+                <a href="{{ page.url }}" class="block w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden bg-gray-100">
+                    {{ banner.cropZoom(100,100).html('class="w-full h-full object-cover"')|raw }}
+                </a>
+            {% else %}
+                <!-- Only show placeholder when no image exists -->
+                <div class="w-16 h-16 md:w-20 md:h-20 rounded-lg bg-gray-200 flex items-center justify-center">
+                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                    </svg>
+                </div>
+            {% endif %}
         </div>
-    {% endif %}
-    <div class="search-item">
-        <div class="search-title">
-            <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+
+        <div class="search-item flex-1 min-w-0">
+            <div class="search-title mb-2">
+                <h3 class="text-lg font-semibold text-gray-900 line-clamp-1">
+                    <a href="{{ page.url }}" class="hover:text-blue-600 transition-colors duration-200">
+                        {{ page.header.title }}
+                    </a>
+                </h3>
+            </div>
+
+            <div class="search-details mb-2">
+                <time class="search-date text-sm text-gray-500">
+                    {{ page.date|date(config.system.pages.dateformat.short) }}
+                </time>
+            </div>
+
+            {% if page.header.summary %}
+                <p class="text-gray-700 text-sm leading-relaxed line-clamp-2 mb-3">
+                    {{ page.header.summary }}
+                </p>
+            {% endif %}
+
+            <a href="{{ page.url }}" class="text-blue-600 hover:text-blue-800 text-sm underline transition-colors duration-200">
+                Read more
+            </a>
         </div>
-
-        <div class="search-details">
-            <span class="search-date">{{ page.date|date(config.system.pages.dateformat.short) }}</span>
-        </div>
-
-        <p>{{ page.header.summary }}</p>
-
-        <hr/>
     </div>
-</section>
+</article>

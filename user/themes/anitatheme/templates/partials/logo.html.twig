@@ -2,7 +2,12 @@
 
 <a class="h-full" href="{{ home_url }}" >
     {% if logo %}
-        {% set src = (logo|first).path %}
+        {% if logo is iterable %}
+            {% set logo_path = (logo|first).path %}
+        {% else %}
+            {% set logo_path = logo %}
+        {% endif %}
+        {% set src = base_url ~ '/' ~ logo_path %}
     {% else %}
         {% set src = url('theme://images/grav-logo.png') %}
     {% endif %}
