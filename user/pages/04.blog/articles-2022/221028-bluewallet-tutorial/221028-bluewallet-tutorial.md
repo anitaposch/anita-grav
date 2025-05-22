@@ -1,4 +1,5 @@
 ---
+title: Start using Bitcoin in 5 Minutes
 taxonomy:
     tags: [Blog, Learn Bitcoin, Earn bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2022-10-28 14:30
 dateformat: 'Y-m-d H:i'
 summary: How to start using Bitcoin in 5 minutes. A video guide to setup the Blue Wallet on your phone (Android and iOS) and secure your private keys.
 thumbnail: _221028-BlueWallet-setup.png
-template: article 
+template: article
 ---
 
 # Start using Bitcoin in 5 Minutes

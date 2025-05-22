@@ -1,4 +1,5 @@
 ---
+title: The Bitcoin Community in Zambia is Growing
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Zambia]
 routes:
@@ -7,8 +8,9 @@ date: 2023-04-16 8:00
 dateformat: 'Y-m-d H:i'
 summary: I was attending the 7th Bitcoin for Fairness meetup in Lusaka, which was a great success, we installed self-custody LN wallets and a female focused community was founded. Here is my report.
 thumbnail: _2.jpg
-template: article 
+template: article
 ---
+
 
 # The Bitcoin Community in Zambia is Growing 
 

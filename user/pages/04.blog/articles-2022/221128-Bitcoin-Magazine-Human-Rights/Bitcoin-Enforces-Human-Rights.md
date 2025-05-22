@@ -1,4 +1,5 @@
 ---
+title: Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
 taxonomy:
     tags: [Blog, Learn Bitcoin, Features, Human Rights]
 routes:
@@ -7,7 +8,7 @@ date: 2022-11-28 16:30
 dateformat: 'Y-m-d H:i'
 summary: This is the most important article I've written for Bitcoin Magazine so far. It outlines how the properties of Bitcoin allow it to protect the human rights of people around the world, as outlined by the United Nations.
 thumbnail: _1-eleanor-roosevelt.png
-template: article 
+template: article
 ---
 
 # Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
@@ -138,7 +139,7 @@ For at least the past 78 years, marked by the end of World War II, the global ec
 
 I haven’t heard of any financial regulation that was voted on by the population. But every country in the world has to regulate its banks. In parts for good reason, but despite the overarching regulations, the world is still riddled with fraud, banking failures (and now, also cryptocurrency fraud in cases such as [FTX](https://bitcoinmagazine.com/legal/ftx-files-for-bankruptcy-ceo-resigns), [Luna, etc.](https://bitcoinmagazine.com/markets/terra-collapse-teaches-about-crypto-and-bitcoin)) and money laundering. It’s just that the small fish get caught, while the big fish in most cases simply pay a fine which is less than their profits and move on.
 
-There is already enough regulation and laws around traditional finance and the cryptocurrency industry. The fall of FTX was caused by fraud, not because Bitcoin is a tool to rip off people. The opposite is true. If all actors in the industry were to stay true to the Bitcoin principles of transparency and not building on debt, then these things wouldn’t have happened. It’s centralized actors and their secrecy that allow fraud like that to happen. Fraud has always been a crime, there are laws to deal with it. It’s not lack of regulation, it’s lack of oversight.
+There is already enough regulation and laws around traditional finance and the cryptocurrency industry. The [fall of FTX was caused by fraud, not because Bitcoin is a tool to rip off people](/bitcoin-ponzi-scheme). The opposite is true. If all actors in the industry were to stay true to the Bitcoin principles of transparency and not building on debt, then these things wouldn’t have happened. It’s centralized actors and their secrecy that allow fraud like that to happen. Fraud has always been a crime, there are laws to deal with it. It’s not lack of regulation, it’s lack of oversight.
 
 ### Organized and Willful Financial Exclusion
 

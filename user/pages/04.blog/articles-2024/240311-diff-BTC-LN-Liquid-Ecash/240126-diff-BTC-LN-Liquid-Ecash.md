@@ -1,4 +1,5 @@
 ---
+title: A Non-Technical Explainer of Bitcoin, Lightning, Liquid, and E-Cash
 taxonomy:
     tags: [Blog, Learn Bitcoin, Lightning, Wallets, Liquid, E-Cash]
 routes:
@@ -7,7 +8,7 @@ date: 2024-01-26 12:00
 dateformat: 'Y-m-d H:i'
 summary: Understand the differences between and use cases of Bitcoin, Lightning, Liquid, and E-Cash in this non-technical explainer.
 thumbnail: _Non-Tech-Explainer-Bitcoin-Lightning-Liquid-ECash.jpeg
-template: article 
+template: article
 ---
 
 # A Non-Technical Explainer of Bitcoin, Lightning, Liquid, and E-Cash
@@ -45,7 +46,7 @@ In our picture the Liquid chain of bricks is being filled with blue grains of sa
 
 Bitcoin and Liquid use blockchains. They are operating with a database with transactions in their blocks. So if you own L-BTC, it represents BTC, but in a different way than if you own Lightning bitcoin. In the Lightning Network you really own the original orange grains of Bitcoin, on the Liquid blockchain you own blue grains. 
 
-The big difference is that Liquid is not fully permissionless like Bitcoin or Lightning, because the lock up of the orange grains and the issuance of the blue grains is done by a federation of 15 signers, which are independent and geographically distributed companies. 11 out of 15 signers would need to collude to stop you from using Liquid. As long as nothing dramatically happens you can swap your L-BTC back to BTC or swap them to Lightning via a tool called boltz.exchange or with wallets called Sideswap and AQUA ([learn more about AQUA here](https://youtu.be/kzBawGXwxZ8)).
+The big difference is that Liquid is not fully permissionless like Bitcoin or Lightning, because the lock up of the orange grains and the issuance of the blue grains is done by a federation of 15 signers, which are independent and geographically distributed companies. 11 out of 15 signers would need to collude to stop you from using Liquid. As long as nothing dramatically happens you can [swap your L-BTC back to BTC](/liquid-bitcoin-sideswap-boltz) or swap them to Lightning via a tool called boltz.exchange or with wallets called [Sideswap](/liquid-bitcoin-sideswap-boltz) and AQUA ([learn more about AQUA here](https://youtu.be/kzBawGXwxZ8)).
 
 ## E-Cash: Anonymous Digital Money
 E-Cash tokens are for example used by Fedimints or Cashu, which are different E-Cash protocols. Imagine that E-Cash tokens are also grains of sand, but they don’t need a blockchain to work. They need mints, which issue tokens from bitcoin that have been sent to the mint. A Fedimint is a federation that can be made up by companies or individuals who share collaborative custody over the bitcoin held in their federation. E-Cash tokens are neither orange nor blue, let’s assume they are black.

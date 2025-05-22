@@ -1,4 +1,5 @@
 ---
+title: Bitcoin, ein Instrument für Freiheit und finanzielle Selbstbestimmung
 taxonomy:
     tags: [Blog, Deutsch]
 routes:
@@ -7,7 +8,7 @@ date: 2023-11-08 6:00
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch erklärt, wie Bitcoin Menschenrechte fördert und ein wichtiges Werkzeug für Menschen in autoritären Regimen bietet.
 thumbnail: _Thumbnail_Freiheit-und-finanzielle-Selbstbestimmung.jpeg
-template: article 
+template: article
 ---
 
 # Bitcoin, ein Instrument für Freiheit und finanzielle Selbstbestimmung

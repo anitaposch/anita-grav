@@ -1,4 +1,5 @@
 ---
+title: Bitcoin Spot ETF? Discussion: Curse Or Blessing For Bitcoin Adoption?
 taxonomy:
     tags: [Blog, Learn Bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2024-03-07 18:00
 dateformat: 'Y-m-d H:i'
 summary: I discuss Bitcoin Spot ETFs, questioning their backing by actual bitcoin, and the impact of financial institutions on Bitcoin adoption and its core values.
 thumbnail: _Bitcoin-Spot-ETF.jpeg
-template: article 
+template: article
 ---
 
 # Bitcoin Spot ETF? Discussion: Curse Or Blessing For Bitcoin Adoption?

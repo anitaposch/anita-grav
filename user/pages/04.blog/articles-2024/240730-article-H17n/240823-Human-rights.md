@@ -1,4 +1,5 @@
 ---
+title: Bitcoin: A Revolutionary Force for Human Rights in the Digital Age
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa, Human Rights]
 routes:
@@ -7,7 +8,7 @@ date: 2024-08-23 15:00
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin is far more than a speculative asset or a medium of exchange. It’s a powerful tool for enforcing human rights, offering financial inclusion, privacy, and economic stability to those who need it most.
 thumbnail: _240823-Human-rights-1725274784003.jpeg
-template: article 
+template: article
 ---
 
 # Bitcoin: A Revolutionary Force for Human Rights in the Digital Age

@@ -1,11 +1,14 @@
-Tags: Blog, Lightning, Bitcoin
-Link: /exchange-satoshi-bitcoin
-Summary: You've received a decent amount of satoshis and want to change it to Bitcoin? Here is  how you can swap Lightning to on-chain with low fees.
-Date: 2023-02-13 12:40
-Thumbnail: 
-
-
-
+---
+taxonomy:
+    tags: [Blog, Lightning, Bitcoin]
+routes:
+    default: '/exchange-satoshi-bitcoin'
+date: 2023-02-13 12:40
+dateformat: 'Y-m-d H:i'
+summary: You've received a decent amount of satoshis and want to change it to Bitcoin? Here is  how you can swap Lightning to on-chain with low fees.
+thumbnail: 
+template: article
+---
 
 ## Swap out lightning to on-chain
 

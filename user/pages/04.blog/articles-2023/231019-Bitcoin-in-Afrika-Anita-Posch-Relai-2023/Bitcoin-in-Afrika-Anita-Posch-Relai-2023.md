@@ -1,4 +1,5 @@
 ---
+title: Bitcoin, Afrika und Menschenrechte
 taxonomy:
     tags: [Blog, Deutsch, Features]
 routes:
@@ -7,7 +8,7 @@ date: 2023-10-19 18:00
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin, Afrika und Menschenrechte mit Anita Posch. Warum Bitcoin für viele Menschen in Afrika der einzige Ausweg aus konstanter Geldentwertung ist und was sie als Menschenrechtsaktivistin antreibt.
 thumbnail: _Bitcoin-in-Afrika-Anita-Posch-Relai-podcast-2023.jpg
-template: article 
+template: article
 ---
 
 # Bitcoin, Afrika und Menschenrechte

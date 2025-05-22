@@ -1,4 +1,5 @@
 ---
+title: Why I'm not podcasting and are you a cracker?
 taxonomy:
     tags: [Blog, Show]
 routes:
@@ -7,8 +8,9 @@ date: 2023-02-16 15:40
 dateformat: 'Y-m-d H:i'
 summary: You might wonder why I haven't produced a podcast episode in recent weeks, even if you're not, here's a short update from me.
 thumbnail: _middlenowhere.jpg
-template: article 
+template: article
 ---
+
 
 # Why I'm not podcasting and are you a cracker?
 

@@ -1,4 +1,5 @@
 ---
+title: Bitcoin.com launches Verse token
 taxonomy:
     tags: [Blog, Learn Bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2022-11-15 12:30
 dateformat: 'Y-m-d H:i'
 summary: A word of warning! After the recent crypto frauds I find it important to explain that Bitcoin.com doesn't represent the ideas of Bitcoin BTC. Now Bitcoin.com started selling their own token called "Verse" to the public.
 thumbnail: _Verse-Token.png
-template: article 
+template: article
 ---
 
 # Bitcoin.com launches Verse token

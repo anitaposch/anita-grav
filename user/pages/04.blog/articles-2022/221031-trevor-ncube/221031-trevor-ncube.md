@@ -1,4 +1,5 @@
 ---
+title: Anita Posch on influential Zimbabwean YouTube channel
 taxonomy:
     tags: [Features, Blog, Zimbabwe]
 routes:
@@ -7,7 +8,7 @@ date: 2022-10-31 11:40
 dateformat: 'Y-m-d H:i'
 summary: Trevor Ncube, a Zimbabwean media entrepreneur known in Southern Africa, invited me to be a guest on his show "In Conversation with Trevor" to discuss Bitcoin.
 thumbnail: _221031-conversation-trevor-ncube-anita-posch.jpg
-template: article 
+template: article
 ---
 
 # Anita Posch on influential Zimbabwean YouTube channel

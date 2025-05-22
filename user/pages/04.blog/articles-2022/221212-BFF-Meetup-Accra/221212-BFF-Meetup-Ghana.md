@@ -1,4 +1,5 @@
 ---
+title: Hosted a Bitcoin for Fairness Meetup in Accra, Ghana
 taxonomy:
     tags: [Blog, Ghana, Bitcoin in Africa]
 routes:
@@ -7,8 +8,9 @@ date: 2022-12-12 12:12
 dateformat: 'Y-m-d H:i'
 summary: We hosted a Bitcoin meetup in Accra as the Bitcoin for Fairness closing event of a long week with lots of bitcoin education and events at the first pan-African Bitcoin conference.
 thumbnail: _221212-group-Accra.jpg
-template: article 
+template: article
 ---
+
 
 # Hosted a Bitcoin for Fairness Meetup in Accra, Ghana
 

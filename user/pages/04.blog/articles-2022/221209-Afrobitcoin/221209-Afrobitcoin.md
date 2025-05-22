@@ -1,4 +1,5 @@
 ---
+title: First African Bitcoin only Conference sowing the seeds for further adoption
 taxonomy:
     tags: [Blog, Ghana, Bitcoin in Africa]
 routes:
@@ -7,8 +8,9 @@ date: 2022-12-09 12:40
 dateformat: 'Y-m-d H:i'
 summary: Six hundred people from all continents gathered in Accra, Ghana for the first African Bitcoin conference including Jack Dorsey former CEO of Twitter.
 thumbnail: _Afrobitcoin.png
-template: article 
+template: article
 ---
+
 
 # First African Bitcoin only Conference sowing the seeds for further adoption
 

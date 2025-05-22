@@ -1,4 +1,5 @@
 ---
+title: (L)earn Bitcoin audiobook
 taxonomy:
     tags: [Blog, Learn Bitcoin, Book]
 routes:
@@ -7,7 +8,7 @@ date: 2023-02-01 12:28
 dateformat: 'Y-m-d H:i'
 summary: My Bitcoin beginners book is available as an audiobook on Audible and many other platforms. It was produced and narrated by Kevin Hanssen a Zimbabwean actor and musician.
 thumbnail: _Audiobook-EN.png
-template: article 
+template: article
 ---
 
 # (L)earn Bitcoin audiobook

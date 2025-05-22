@@ -1,4 +1,5 @@
 ---
+title: Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Show]
 routes:
@@ -7,7 +8,7 @@ date: 2022-12-28 16:00
 dateformat: 'Y-m-d H:i'
 summary: This is a review of my work with Bitcoin for Fairness and what we have achieved in 2022. The goal was to spread education on the ground, foster local communities to start their own meetups, distribute infrastructure and drive connections between African communities and the so-called Western world.
 thumbnail: _221221-Bitcoin-adoption-Africa-2022-1671717345032.jpeg
-template: article 
+template: article
 ---
 
 # Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa

@@ -1,4 +1,5 @@
 ---
+title: The Future of the Internet Is Decentralized and  Nostr Could Play an Important Role
 taxonomy:
     tags: [Blog, Nostr]
 routes:
@@ -7,14 +8,17 @@ date: 2023-04-04 08:40
 dateformat: 'Y-m-d H:i'
 summary: Centralized platforms will lose all their attraction over the coming years. There are alternatives now and you can follow me on there too. Here some thoughts and my Nostr public key.
 thumbnail: _Nostr-Anita-Profile.jpeg
-template: article 
+template: article
 ---
+
 
 # The Future of the Internet Is Decentralized and  Nostr Could Play an Important Role
 
 ## My Nostr public key
 
-> Follow me on Nostr: npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3
+> Follow me on [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) 
+
+> This is my public key with which you can find me with any [Nostr client](https://nostr.how/en/clients) you choose: npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3
 
 > Follow Bitcoin for Fairness: npub1fqqtc58rx9mslpydp9849pmlh4x8f5m8js399aqanlqjg6v6x9lq5qqzch
 

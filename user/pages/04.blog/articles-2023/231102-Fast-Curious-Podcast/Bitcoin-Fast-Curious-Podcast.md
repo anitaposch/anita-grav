@@ -1,4 +1,5 @@
 ---
+title: Bitcoin - Hype oder langfristiger Wert
 taxonomy:
     tags: [Blog, Deutsch, Features]
 routes:
@@ -7,7 +8,7 @@ date: 2023-11-02 04:30
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch zu Gast im Fast & Curious Business-Podcast mit Lea-Sophie Cramer und Verena Pausder. Sie erklärt im Deep Dive die Wirkweisen, Vorteile und Mechanismen hinter der bekanntesten Kryptowährung der Welt.
 thumbnail: _Fast-Curious-Podcast.jpg
-template: article 
+template: article
 ---
 
 # Bitcoin - Hype oder langfristiger Wert

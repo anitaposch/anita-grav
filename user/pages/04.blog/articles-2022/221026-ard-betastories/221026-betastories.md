@@ -1,4 +1,5 @@
 ---
+title: Bitcoin documentary with Anita Posch on German TV
 taxonomy:
     tags: [Blog, Features, South Africa, Deutsch]
 routes:
@@ -7,7 +8,7 @@ date: 2022-10-26 13:30
 dateformat: 'Y-m-d H:i'
 summary: German TV ARD published a Bitcoin documentary and followed me to South Africa where I worked with Bitcoin Ekasi in May 2022.
 thumbnail: _221026-betastories-anita-posch.jpg
-template: article 
+template: article
 ---
 
 # Bitcoin documentary with Anita Posch on German TV

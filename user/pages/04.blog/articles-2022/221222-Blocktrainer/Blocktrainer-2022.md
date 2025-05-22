@@ -1,4 +1,5 @@
 ---
+title: Bitcoin die große Hoffnung für Afrika!
 taxonomy:
     tags: [Blog, Deutsch, Features, Bitcoin in Africa]
 routes:
@@ -7,7 +8,7 @@ date: 2022-12-12 8:00
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin ist Hoffnung! Anita Posch ist zu Gast beim Blocktrainer und berichtet aus erster Hand von der Lage in Afrika.
 thumbnail: _blocktrainer-Anita-Posch-interview-2022.jpg
-template: article 
+template: article
 ---
 
 # Bitcoin die große Hoffnung für Afrika!

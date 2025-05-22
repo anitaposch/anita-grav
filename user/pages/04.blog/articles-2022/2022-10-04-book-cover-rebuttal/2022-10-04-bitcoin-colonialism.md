@@ -1,4 +1,5 @@
 ---
+title: A black raised fist on my book cover - a "bold choice"
 taxonomy:
     tags: [Blog]
 routes:
@@ -7,8 +8,9 @@ date: 2022-10-04 18:30
 dateformat: 'Y-m-d H:i'
 summary: I was accused of "Bitcoin colonialism" and using a raised black fist on my book cover was called a "bold choice for a white author". This is my rebuttal.
 thumbnail: /_2022-10-04-accusation.png
-template: article 
+template: article
 ---
+
 
 # A black raised fist on my book cover - a "bold choice"
 

@@ -1,4 +1,5 @@
 ---
+title: Countries where people suffer the most from currency depreciation
 taxonomy:
     tags: [Blog, Ghana, Zimbabwe, Bitcoin in Africa, Inflation]
 routes:
@@ -7,8 +8,9 @@ date: 2022-12-04 09:40
 dateformat: 'Y-m-d H:i'
 summary: The worst performing fiat currencies globally in November 2022 are....
 thumbnail: _Hankes-watchlist-Nov22.png
-template: article 
+template: article
 ---
+
 
 # Countries where people suffer the most from currency depreciation
 

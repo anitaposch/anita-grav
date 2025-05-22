@@ -1,4 +1,5 @@
 ---
+title: Send Bitcoin From Mobile Wallet To Hardware Wallet and Navigate High Fees
 taxonomy:
     tags: [Blog, Learn Bitcoin, Wallets, Privacy]
 routes:
@@ -7,7 +8,7 @@ date: 2024-05-20 12:00
 dateformat: 'Y-m-d H:i'
 summary: Safest options to move your bitcoin from a mobile wallet like Green to a hardware wallet like the BitBox02.
 thumbnail: _send-bitcoin-mobile-hardware-wallet.jpeg
-template: article 
+template: article
 ---
 
 # Send Bitcoin From Mobile Wallet To Hardware Wallet and Navigate High Fees

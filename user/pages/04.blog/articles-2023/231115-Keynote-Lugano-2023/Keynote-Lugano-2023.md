@@ -1,4 +1,5 @@
 ---
+title: Bitcoin Empowers Africa and Africans Empower Bitcoin | Plan ₿ Forum 2023
 taxonomy:
     tags: [Blog, Talks, Bitcoin in Africa]
 routes:
@@ -7,7 +8,7 @@ date: 2023-11-15 8:30
 dateformat: 'Y-m-d H:i'
 summary: At the Plan ₿ Forum 2023 I highlighted the two-way relationship between Bitcoin's impact on Africa's financial revolution and the important role of Africans in Bitcoin adoption.
 thumbnail: _Thumbnail_Bitcoin-Empowers-Africa.jpeg
-template: article 
+template: article
 ---
 
 # Bitcoin Empowers Africa and Africans Empower Bitcoin | Plan ₿ Forum 2023

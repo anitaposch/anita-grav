@@ -1,4 +1,5 @@
 ---
+title: Introducing the Anita Posch AI Bot: Your Personal Bitcoin Educator
 taxonomy:
     tags: [Blog, Learn Bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2023-12-06 12:00
 dateformat: 'Y-m-d H:i'
 summary: Explore the world of Bitcoin with the Anita Posch AI Bot, a user-friendly tool designed to provide AI-generated answers backed by my extensive resources.
 thumbnail: _Thumbnail-Anita-Posch-AI-Bot.jpeg
-template: article 
+template: article
 ---
 
 # Introducing the Anita Posch AI Bot: Your Personal Bitcoin Educator

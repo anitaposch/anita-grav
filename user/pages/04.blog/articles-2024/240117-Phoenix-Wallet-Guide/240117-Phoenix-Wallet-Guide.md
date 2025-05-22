@@ -1,4 +1,5 @@
 ---
+title: Lightning Self-Custody for Beginners with Phoenix Wallet
 taxonomy:
     tags: [Blog, Learn Bitcoin, Lightning, Wallets]
 routes:
@@ -7,7 +8,7 @@ date: 2024-01-17 12:00
 dateformat: 'Y-m-d H:i'
 summary: Learn how to set up and use the Phoenix Wallet, a self-custody Lightning wallet and node that runs on your phone.
 thumbnail: _Phoenix-Wallet-Tutorial.jpeg
-template: article 
+template: article
 ---
 
 # Lightning Self-Custody for Beginners with Phoenix Wallet

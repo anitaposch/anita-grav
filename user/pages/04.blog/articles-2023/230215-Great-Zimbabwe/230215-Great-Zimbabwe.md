@@ -1,4 +1,5 @@
 ---
+title: Great Zimbabwe second biggest monument in Africa
 taxonomy:
     tags: [Blog, Zimbabwe]
 routes:
@@ -7,8 +8,9 @@ date: 2023-02-15 12:40
 dateformat: 'Y-m-d H:i'
 summary: The place I chose for my Lightning wallet test isn't just any place. It's the second largest monument in Africa after the Egyptian pyramides.
 thumbnail: _Great-Zimbabwe-enclosure.jpeg
-template: article 
+template: article
 ---
+
 
 # Great Zimbabwe second biggest monument in Africa
 

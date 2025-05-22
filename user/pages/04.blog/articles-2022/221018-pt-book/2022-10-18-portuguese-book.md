@@ -1,4 +1,5 @@
 ---
+title: Aprenda Bitcoin - Book in Portuguese
 taxonomy:
     tags: [Blog, Book, Nomad Diary]
 routes:
@@ -7,7 +8,7 @@ date: 2022-10-18 13:55
 dateformat: 'Y-m-d H:i'
 summary: My (L)earn Bitcoin book was translated to Portuguese and is available for purchase now.
 thumbnail: /_Aprenda-Bitcoin-2022.png
-template: article 
+template: article
 ---
 
 # Aprenda Bitcoin - Book in Portuguese

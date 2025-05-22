@@ -1,4 +1,5 @@
 ---
+title: Bitcoin Flyer in Luganda
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Learn Bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2022-12-05 8:30
 dateformat: 'Y-m-d H:i'
 summary: Around 10 million people are speaking Luganda in the area of Uganda. Now they can learn and share the basics of Bitcoin with BFF's Bitcoin flyer in their own language.
 thumbnail: _luganda-flyer.png
-template: article 
+template: article
 ---
 
 # Bitcoin Flyer in Luganda

@@ -1,4 +1,5 @@
 ---
+title: Earn bitcoin on Stacker News: People asked and I answered
 taxonomy:
     tags: [Blog, Features, Earn bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2022-11-11 11:30
 dateformat: 'Y-m-d H:i'
 summary: I was doing an Ask Me Anything session on Stacker News, a forum (like Reddit or Hacker News) where you can earn real money for creating or curating content. I was asked a lot of interesting questions and enjoyed the session very much.
 thumbnail: _stackernews.png
-template: article 
+template: article
 ---
 
 # Earn bitcoin on Stacker News: People asked and I answered

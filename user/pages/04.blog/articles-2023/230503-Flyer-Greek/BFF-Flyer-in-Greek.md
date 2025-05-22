@@ -1,4 +1,5 @@
 ---
+title: Bitcoin Flyer in Greek
 taxonomy:
     tags: [Blog, Learn Bitcoin, Earn bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2023-05-03, 16:00
 dateformat: 'Y-m-d H:i'
 summary: The Bitcoin flyer, a short intro to using Bitcoin for meetups and beginners is available in Greek now.
 thumbnail: _BFF-Flyer-in-Greek-1683126021672.jpeg
-template: article 
+template: article
 ---
 
 # Bitcoin Flyer in Greek

@@ -1,4 +1,5 @@
 ---
+title: Bitcoin Halving 2024: What You Need to Know
 taxonomy:
     tags: [Blog, Learn Bitcoin, Economics, Inflation]
 routes:
@@ -7,7 +8,7 @@ date: 2024-04-15 12:00
 dateformat: 'Y-m-d H:i'
 summary: Understand the Bitcoin halving: what it is, how it works, and its impact on value, scarcity, and mining.
 thumbnail: _Bitcoin-Halving.jpg
-template: article 
+template: article
 ---
 
 # Bitcoin Halving 2024: What You Need to Know

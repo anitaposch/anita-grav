@@ -1,4 +1,5 @@
 ---
+title: Podcast: Financial Empowerment
 taxonomy:
     tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin]
 routes:
@@ -7,7 +8,7 @@ date: 2024-03-05 18:00
 dateformat: 'Y-m-d H:i'
 summary: Why is Bitcoin different than any other cryptocurrency? Hear me sharing my journey to becoming a Bitcoin advocate, focusing on the importance of financial empowerment in African countries and the goals of Bitcoin for Fairness.
 thumbnail: /assets/_show-cover.jpeg
-template: article 
+template: article
 ---
 
 # Podcast: Financial Empowerment
