@@ -41,26 +41,16 @@ main_menu:
         url: '/now'
       - title: Speaker Info
         url: '/about#speaker'
-  - title: Media
+  - title: Newsletter
     url: '#toplevel-links-do-not-work'
     children:
-      - title: in Articles
-        url: '#'
-      - title: in Books
-        url: '#'
-      - title: on TV
-        url: '#'
-      - title: on Podcasts
-        url: '#'
-      - title: on Youtube
-        url: '#'
+      - title: Subscribe for free
+        url: '/#newsletter'
   - title: Contact
     url: '#toplevel-links-do-not-work'
     children:
       - title: Send a Message
         url: '#'
-      - title: Newsletter
-        url: '/#newsletter'
       - title: Social Media
         url: '/about#social-media'
       - title: RSS Feed
