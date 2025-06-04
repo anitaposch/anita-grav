@@ -24,9 +24,6 @@ main_menu:
       - title: Bitcoin Knowledge Base
         url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
         target: '_blank'
-      - title: Scholarships
-        url: 'https://my.cracktheorange.com/scholarship/'
-        target: '_blank'
       - title: Keynotes & Talks
         url: '#'
       - title: Podcast
