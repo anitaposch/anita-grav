@@ -22,9 +22,9 @@ content:
             - _hero-about
             - _hero
             - _newsletter
+            - _feature-img-right
             - _blog-latest
             - _feature-img-left
-            - _feature-img-right
             - _bff
             - _supporters-logos
             - _tabular-content
