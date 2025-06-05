@@ -2,45 +2,57 @@ enabled: true
 
 # Main menu
 main_menu:
-  - title: Freedom Tech
+  - title: Learn
     url: '#toplevel-links-do-not-work'
     children:
-      - title: Bitcoin for Fairness
-        url: 'https://bffbtc.org'
+      - title: (L)earn Bitcoin Book
+        url: 'https://learnbitcoin.link'
         target: '_blank'
-      - title: Bitcoin & Human Rights
+      - title: Online Course
+        url: 'https://cracktheorange.com'
+        target: '_blank'
+      - title: Knowledge Base
+        url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
+        target: '_blank'
+  - title: Blog
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: All Articles
+        url: '#'  
+      - title: Freedom Tech
+        url: '#'  
+      - title: Human Rights
         url: '#'     
       - title: Tech Independence
         url: '#'
-  - title: (L)earn Bitcoin
+      - title: Bitcoin in Africa
+        url: '#'
+  - title: Speaking
     url: '#toplevel-links-do-not-work'
     children:
-      - title: Book
-        url: 'https://learnbitcoin.link'
-        target: '_blank'
-      - title: Online Courses
-        url: 'https://cracktheorange.com'
-        target: '_blank'
-      - title: Bitcoin Knowledge Base
-        url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
-        target: '_blank'
       - title: Keynotes & Talks
         url: '#'
-      - title: Podcast
-        url: '#'
+      - title: Speaker Info
+        url: '/about#speaker'
+  - title: Podcast
+    url: '#toplevel-links-do-not-work'
+    children:
+      - title: Selected Episodes
+        url: '/tagged/show'
   - title: About
     url: '#toplevel-links-do-not-work'
     children:
       - title: About Anita Posch
         url: '/about'
+      - title: Bitcoin for Fairness
+        url: 'https://bffbtc.org'
+        target: '_blank'
       - title: Media
         url: '/features'
       - title: Donate
         url: '#'
       - title: Now
         url: '/now'
-      - title: Speaker Info
-        url: '/about#speaker'
   - title: Newsletter
     url: '#toplevel-links-do-not-work'
     children:
