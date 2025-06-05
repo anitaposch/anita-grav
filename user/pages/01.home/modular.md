@@ -28,5 +28,4 @@ content:
             - _bff
             - _supporters-logos
             
-            
 ---
