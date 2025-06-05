@@ -16,15 +16,15 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: All Articles
-        url: '#'  
+        url: '/blog'  
       - title: Freedom Tech
         url: '#'  
       - title: Human Rights
-        url: '#'     
+        url: '/category/human-rights'     
       - title: Tech Independence
         url: '#'
       - title: Bitcoin in Africa
-        url: '#'
+        url: '/category/bitcoin-in-africa'
   - title: Speaking
     url: '#toplevel-links-do-not-work'
     children:
@@ -64,4 +64,4 @@ main_menu:
       - title: Social Media
         url: '/about#social-media'
       - title: RSS Feed
-        url: '#'
+        url: '/blog.rss'
