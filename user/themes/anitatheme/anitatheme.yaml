@@ -60,7 +60,7 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: Send a Message
-        url: '#'
+        url: '/contact'
       - title: Social Media
         url: '/about#social-media'
       - title: RSS Feed
