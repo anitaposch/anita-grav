@@ -6,8 +6,7 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: (L)earn Bitcoin Book
-        url: 'https://learnbitcoin.link'
-        target: '_blank'
+        url: '/#lb'
       - title: Online Course
         url: 'https://cracktheorange.com'
         target: '_blank'
