@@ -27,7 +27,6 @@ content:
             - _feature-img-left
             - _bff
             - _supporters-logos
-            - _tabular-content
             
             
 ---
