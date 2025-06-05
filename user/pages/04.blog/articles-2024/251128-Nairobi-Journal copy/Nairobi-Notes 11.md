@@ -1,5 +1,5 @@
 ---
-title: Nairobi Journal
+title: "Nairobi Journal"
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Kenya]
 routes:
