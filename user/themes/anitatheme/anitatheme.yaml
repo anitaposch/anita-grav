@@ -8,8 +8,7 @@ main_menu:
       - title: (L)earn Bitcoin Book
         url: '/#lb'
       - title: Online Course
-        url: 'https://cracktheorange.com'
-        target: '_blank'
+        url: '/#cto'
       - title: Knowledge Base
         url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
         target: '_blank'
