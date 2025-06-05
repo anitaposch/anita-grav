@@ -6,7 +6,7 @@ keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technol
 
 # About Anita Posch
 
-Anita Posch is a Change Agent and Freedom Tech advocate, renowned Bitcoin educator, author, founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
+Anita Posch is a Change Maker and Freedom Tech advocate, renowned Bitcoin educator, author, founder of the online academy [Crack the Orange](https://cracktheorange.com) as well as founder of [Bitcoin for Fairness](https://bffbtc.org), a non-profit initiative that has a strong focus on Bitcoin adoption in the Global South through education, knowledge sharing and capacity building on the ground. 
 
 Anita's focus is on promoting Freedom Tech like Bitcoin and Nostr, which empower individuals and the civil society in achieving financial freedom, digital privacy, self-sovereignty and protection from governmental and corporate surveillance.
 
