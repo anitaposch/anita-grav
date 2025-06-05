@@ -35,7 +35,7 @@ main_menu:
   - title: Podcast
     url: '#toplevel-links-do-not-work'
     children:
-      - title: Selected Episodes
+      - title: Featured Episodes
         url: '/category/show'
   - title: About
     url: '#toplevel-links-do-not-work'
