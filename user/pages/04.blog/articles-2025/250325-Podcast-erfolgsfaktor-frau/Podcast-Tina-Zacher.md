@@ -1,7 +1,7 @@
 ---
 title: Warum Bitcoin mehr ist als nur eine Kryptowährung - Podcast „Erfolgsfaktor Frau“
 taxonomy:
-    tags: [Blog, Deutsch, Feature]
+    tags: [Blog, Deutsch, Features]
 routes:
     default: '/podcast-erfolgsfaktor-frau'
 date: 2025-03-25 12:00
