@@ -12,8 +12,10 @@ Our goal is to minimize your digital footprint and collect the least amount of d
 
 Our website uses Matomo to collect statistics on the use of our site. We enable the IP address anonymization feature in Matomo to prevent collection of user location or network identity. We do not collect any user ID or personal information about our visitors, unless they choose to register and login to use our shop or workshops. We are hosting our Matomo instance on our own server.
 
+### Opt-out from Matomo (...loading)
 <div id="matomo-opt-out"></div>
 <script src="https://analytics.anitaposch.com/index.php?module=CoreAdminHome&action=optOutJS&divId=matomo-opt-out&language=auto&showIntro=1"></script>
+      
 
 ## Mailing List - Kit.com
 
