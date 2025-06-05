@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Send a message
 thumbnail: _Anita-Profile-small.jpg
 keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
 ---
 
-# Contact
+# Send a message
 
