@@ -1,9 +1,327 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
-    {% set collection = page.collection() %}
-    
-    {% for child in collection %}
-        {% include 'article-list.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
-    {% endfor %}
+    <div class="max-w-4xl mx-auto px-4 py-8">
+        <!-- Manually collect all articles from year subfolders -->
+        {% set all_articles = [] %}
+
+        <!-- Get all year folders (articles-2021, articles-2022, etc.) -->
+        {% set year_folders = page.children() %}
+
+        {% for year_folder in year_folders %}
+            <!-- Get all articles within each year folder -->
+            {% for article in year_folder.children() %}
+                {% set all_articles = all_articles|merge([article]) %}
+            {% endfor %}
+        {% endfor %}
+
+        <!-- Debug: Show what we found -->
+        <p>Year folders found: {{ year_folders|length }}</p>
+        <p>Total articles found: {{ all_articles|length }}</p>
+
+        <!-- Collect all unique tags -->
+        {% set all_tags = [] %}
+        {% for article in all_articles %}
+            {% if article.taxonomy.tags %}
+                {% for tag in article.taxonomy.tags %}
+                    {% if tag not in all_tags %}
+                        {% set all_tags = all_tags|merge([tag]) %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+
+        <!-- Tag Cloud -->
+        {% if all_tags|length > 0 %}
+            <div class="mb-8">
+                <h3 class="text-lg font-semibold mb-4">Browse by Tags</h3>
+                <div class="flex flex-wrap gap-2">
+                    {% for tag in all_tags|sort %}
+                        <a href="/category/{{ tag|lower|replace({' ': '-'}) }}"
+                           class="px-3 py-1 bg-blue-100 text-blue-700 text-sm rounded-full hover:bg-blue-200 transition-colors">
+                            {{ tag }}
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        <!-- Group articles by year -->
+        {% set articles_2025 = [] %}
+        {% set articles_2024 = [] %}
+        {% set articles_2023 = [] %}
+        {% set articles_2022 = [] %}
+        {% set articles_2021 = [] %}
+        {% set articles_other = [] %}
+
+        {% for article in all_articles %}
+            {% set year = '2025' %}
+            {% if article.header.date %}
+                {% set year = article.header.date|date('Y') %}
+            {% elseif article.date %}
+                {% set year = article.date|date('Y') %}
+            {% endif %}
+
+            {% if year == '2025' %}
+                {% set articles_2025 = articles_2025|merge([article]) %}
+            {% elseif year == '2024' %}
+                {% set articles_2024 = articles_2024|merge([article]) %}
+            {% elseif year == '2023' %}
+                {% set articles_2023 = articles_2023|merge([article]) %}
+            {% elseif year == '2022' %}
+                {% set articles_2022 = articles_2022|merge([article]) %}
+            {% elseif year == '2021' %}
+                {% set articles_2021 = articles_2021|merge([article]) %}
+            {% else %}
+                {% set articles_other = articles_other|merge([article]) %}
+            {% endif %}
+        {% endfor %}
+
+        <!-- Display articles by year (newest first) -->
+        {% if articles_2025|length > 0 %}
+            <div class="year-group mb-12">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2025</h2>
+                <div class="space-y-3">
+                    {% for article in articles_2025|reverse %}
+                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
+                            <h3 class="text-lg font-medium">
+                                {% if article.header.routes.default %}
+                                    <a href="{{ article.header.routes.default }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ article.url }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% endif %}
+                            </h3>
+
+                            <p class="text-sm text-gray-500 mt-1">
+                                {% if article.date %}
+                                    {{ article.date|date('F j, Y') }}
+                                {% endif %}
+                            </p>
+
+                            {% if article.taxonomy.tags %}
+                                <div class="flex flex-wrap gap-1 mt-2">
+                                    {% for tag in article.taxonomy.tags %}
+                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                        {{ tag }}
+                    </span>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        {% if articles_2024|length > 0 %}
+            <div class="year-group mb-12">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2024</h2>
+                <div class="space-y-3">
+                    {% for article in articles_2024|reverse %}
+                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
+                            <h3 class="text-lg font-medium">
+                                {% if article.header.routes.default %}
+                                    <a href="{{ article.header.routes.default }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ article.url }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% endif %}
+                            </h3>
+
+                            <p class="text-sm text-gray-500 mt-1">
+                                {% if article.date %}
+                                    {{ article.date|date('F j, Y') }}
+                                {% endif %}
+                            </p>
+
+                            {% if article.taxonomy.tags %}
+                                <div class="flex flex-wrap gap-1 mt-2">
+                                    {% for tag in article.taxonomy.tags %}
+                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                        {{ tag }}
+                    </span>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        {% if articles_2023|length > 0 %}
+            <div class="year-group mb-12">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2023</h2>
+                <div class="space-y-3">
+                    {% for article in articles_2023|reverse %}
+                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
+                            <h3 class="text-lg font-medium">
+                                {% if article.header.routes.default %}
+                                    <a href="{{ article.header.routes.default }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ article.url }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% endif %}
+                            </h3>
+
+                            <p class="text-sm text-gray-500 mt-1">
+                                {% if article.date %}
+                                    {{ article.date|date('F j, Y') }}
+                                {% endif %}
+                            </p>
+
+                            {% if article.taxonomy.tags %}
+                                <div class="flex flex-wrap gap-1 mt-2">
+                                    {% for tag in article.taxonomy.tags %}
+                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                        {{ tag }}
+                    </span>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        {% if articles_2022|length > 0 %}
+            <div class="year-group mb-12">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2022</h2>
+                <div class="space-y-3">
+                    {% for article in articles_2022|reverse %}
+                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
+                            <h3 class="text-lg font-medium">
+                                {% if article.header.routes.default %}
+                                    <a href="{{ article.header.routes.default }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ article.url }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% endif %}
+                            </h3>
+
+                            <p class="text-sm text-gray-500 mt-1">
+                                {% if article.date %}
+                                    {{ article.date|date('F j, Y') }}
+                                {% endif %}
+                            </p>
+
+                            {% if article.taxonomy.tags %}
+                                <div class="flex flex-wrap gap-1 mt-2">
+                                    {% for tag in article.taxonomy.tags %}
+                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                        {{ tag }}
+                    </span>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        {% if articles_2021|length > 0 %}
+            <div class="year-group mb-12">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2021</h2>
+                <div class="space-y-3">
+                    {% for article in articles_2021|reverse %}
+                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
+                            <h3 class="text-lg font-medium">
+                                {% if article.header.routes.default %}
+                                    <a href="{{ article.header.routes.default }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ article.url }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% endif %}
+                            </h3>
+
+                            <p class="text-sm text-gray-500 mt-1">
+                                {% if article.date %}
+                                    {{ article.date|date('F j, Y') }}
+                                {% endif %}
+                            </p>
+
+                            {% if article.taxonomy.tags %}
+                                <div class="flex flex-wrap gap-1 mt-2">
+                                    {% for tag in article.taxonomy.tags %}
+                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                        {{ tag }}
+                    </span>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        {% if articles_other|length > 0 %}
+            <div class="year-group mb-12">
+                <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">Other Years</h2>
+                <div class="space-y-3">
+                    {% for article in articles_other|reverse %}
+                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
+                            <h3 class="text-lg font-medium">
+                                {% if article.header.routes.default %}
+                                    <a href="{{ article.header.routes.default }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ article.url }}"
+                                       class="text-blue-600 hover:text-blue-800 hover:underline">
+                                        {{ article.title }}
+                                    </a>
+                                {% endif %}
+                            </h3>
+
+                            <p class="text-sm text-gray-500 mt-1">
+                                {% if article.date %}
+                                    {{ article.date|date('F j, Y') }}
+                                {% endif %}
+                            </p>
+
+                            {% if article.taxonomy.tags %}
+                                <div class="flex flex-wrap gap-1 mt-2">
+                                    {% for tag in article.taxonomy.tags %}
+                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                        {{ tag }}
+                    </span>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+    </div>
 {% endblock %}

@@ -14,6 +14,7 @@ summary:
   size: 300
   delimiter: '==='
 redirects: null
-routes: null
+routes:
+  '/category/(.+)': '/category'
 blog:
   route: /blog
