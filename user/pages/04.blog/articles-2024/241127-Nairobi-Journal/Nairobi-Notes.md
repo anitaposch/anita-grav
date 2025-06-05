@@ -4,7 +4,7 @@ taxonomy:
     tags: [Blog, Bitcoin in Africa, Kenya]
 routes:
     default: '/nairobi-journal-2024'
-date: 2025-02-01 11:00
+date: 2024-11-27 11:00
 dateformat: 'Y-m-d H:i'
 summary: A trip to Nairobi for the African Bitcoin conference, filled with Bitcoin advocacy, community projects, and meaningful connections across Africa.
 thumbnail: _Nairobi-Journal.jpg
