@@ -18,11 +18,11 @@ main_menu:
       - title: All Articles
         url: '/blog'  
       - title: Freedom Tech
-        url: '#'  
+        url: '/category/freedom-tech'  
       - title: Human Rights
         url: '/category/human-rights'     
       - title: Tech Independence
-        url: '#'
+        url: '/category/tech-independence'
       - title: Bitcoin in Africa
         url: '/category/bitcoin-in-africa'
   - title: Speaking
