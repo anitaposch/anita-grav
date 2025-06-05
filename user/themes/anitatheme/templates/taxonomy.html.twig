@@ -59,7 +59,7 @@
         <!-- Display articles -->
         {% if tagged_articles|length > 0 %}
             <div class="space-y-4">
-                {% for article in tagged_articles %}
+                {% for article in tagged_articles|reverse %}
                     <div class="border-l-4 border-blue-500 pl-4 py-3 hover:bg-gray-50 transition-colors">
                         <h3 class="text-lg font-medium">
                             {% if article.header.routes.default %}
