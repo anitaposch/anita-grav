@@ -43,8 +43,7 @@ main_menu:
       - title: About Anita Posch
         url: '/about'
       - title: Bitcoin for Fairness
-        url: 'https://bffbtc.org'
-        target: '_blank'
+        url: '/#bff'
       - title: Media
         url: '/category/features'
       - title: Donate
