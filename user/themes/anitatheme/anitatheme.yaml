@@ -29,14 +29,14 @@ main_menu:
     url: '#toplevel-links-do-not-work'
     children:
       - title: Keynotes & Talks
-        url: '#'
+        url: '/category/talks'
       - title: Speaker Info
         url: '/about#speaker'
   - title: Podcast
     url: '#toplevel-links-do-not-work'
     children:
       - title: Selected Episodes
-        url: '/tagged/show'
+        url: '/category/show'
   - title: About
     url: '#toplevel-links-do-not-work'
     children:
@@ -46,11 +46,11 @@ main_menu:
         url: 'https://bffbtc.org'
         target: '_blank'
       - title: Media
-        url: '/features'
+        url: '/category/features'
       - title: Donate
         url: '#'
       - title: Now
-        url: '/now'
+        url: '/category/now'
   - title: Newsletter
     url: '#toplevel-links-do-not-work'
     children:
