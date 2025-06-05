@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (btn !== button) {
           btn.setAttribute('aria-expanded', 'false');
           otherMenu.classList.remove('opacity-100', 'translate-y-0');
-          otherMenu.classList.add('opacity-0', 'translate-y-1');
+          otherMenu.classList.add('opacity-0', 'translate-y-1', 'hidden');
         }
       });
 
@@ -48,11 +48,20 @@ document.addEventListener('DOMContentLoaded', function () {
       button.setAttribute('aria-expanded', !isExpanded);
 
       if (!isExpanded) {
-        flyoutMenu.classList.remove('opacity-0', 'translate-y-1');
+        // Show menu
+        flyoutMenu.classList.remove('hidden', 'opacity-0', 'translate-y-1');
         flyoutMenu.classList.add('opacity-100', 'translate-y-0');
       } else {
+        // Hide menu
         flyoutMenu.classList.remove('opacity-100', 'translate-y-0');
         flyoutMenu.classList.add('opacity-0', 'translate-y-1');
+
+        // Add hidden class after transition completes
+        setTimeout(() => {
+          if (!flyoutMenu.classList.contains('opacity-100')) {
+            flyoutMenu.classList.add('hidden');
+          }
+        }, 150); // Match your CSS transition duration
       }
     });
   });
@@ -64,6 +73,11 @@ document.addEventListener('DOMContentLoaded', function () {
       button.setAttribute('aria-expanded', 'false');
       flyoutMenu.classList.remove('opacity-100', 'translate-y-0');
       flyoutMenu.classList.add('opacity-0', 'translate-y-1');
+
+      // Add hidden class after transition completes
+      setTimeout(() => {
+        flyoutMenu.classList.add('hidden');
+      }, 150); // Match your CSS transition duration
     });
   });
 });

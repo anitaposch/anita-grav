@@ -10,7 +10,7 @@
             </button>
             
             {% if item.children %}
-                <div class="flyout-dropdown absolute left-1/2 z-10 mt-5 flex w-screen max-w-min -translate-x-1/2 px-4 opacity-0 translate-y-1">
+                <div class="hidden flyout-dropdown absolute left-1/2 z-10 mt-5 flex w-screen max-w-min -translate-x-1/2 px-4 opacity-0 translate-y-1">
                     <div class="w-56 shrink rounded-xl bg-white p-4 text-md font-semibold leading-6 text-gray-900 shadow-lg ring-1 ring-gray-900/5">
                     {% for child in item.children %}
                         <a href="{{ base_url }}{{ child.url }}"
