@@ -1,10 +1,10 @@
 ---
-title: Nairobi Journal
+title: "A trip to Nairobi - Nov 29, 2024"
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Kenya]
 routes:
     default: '/nairobi-journal-241129'
-date: 2025-02-03 11:00
+date: 2024-11-29 11:00
 dateformat: 'Y-m-d H:i'
 summary: A trip to Nairobi - Nov 29, 2024
 thumbnail: _Nairobi-Journal.jpg
