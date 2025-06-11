@@ -1,0 +1,134 @@
+<!-- Related Articles Partial: templates/partials/related-articles.html.twig -->
+
+<!-- Get current article's tags (excluding "Blog") -->
+{% set current_tags = [] %}
+{% if page.taxonomy.tags %}
+    {% for tag in page.taxonomy.tags %}
+        {% if tag|lower != 'blog' %}
+            {% set current_tags = current_tags|merge([tag]) %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+{% if current_tags|length > 0 %}
+    <!-- Get all articles from blog -->
+    {% set all_articles = [] %}
+    {% set blog_page = grav.pages.find('/blog') %}
+
+    {% if blog_page %}
+        {% for year_folder in blog_page.children() %}
+            {% for article in year_folder.children() %}
+                {% if article.id != page.id %} {# Exclude current article #}
+                    {% set all_articles = all_articles|merge([article]) %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+
+    <!-- Find related articles -->
+    {% set related_articles = [] %}
+    {% for article in all_articles %}
+        {% if article.taxonomy.tags %}
+            {% set match_count = 0 %}
+            {% for article_tag in article.taxonomy.tags %}
+                {% if article_tag|lower != 'blog' and article_tag in current_tags %}
+                    {% set match_count = match_count + 1 %}
+                {% endif %}
+            {% endfor %}
+
+            {% if match_count > 0 %}
+                {% set related_articles = related_articles|merge([{
+                    'article': article,
+                    'matches': match_count
+                }]) %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+    {% if related_articles|length > 0 %}
+        <div class="bg-white pt-8 pb-8 sm:py-8">
+            <div class="mx-auto max-w-7xl px-6 lg:px-8">
+                <div class="mx-auto max-w-2xl text-center">
+                    <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Related Articles</h2>
+                    <p class="mt-2 text-lg leading-8 text-gray-600">
+                        Based on: {% for tag in current_tags %}<span class="font-medium">{{ tag }}</span>{% if not loop.last %}, {% endif %}{% endfor %}
+                    </p>
+                </div>
+                <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+                    {% for item in related_articles|slice(0, 3) %} {# Show max 3 related articles #}
+                        {% set p = item.article %}
+                        {% set first_heading = p.content|split('</h1>')|first %}
+                        <article class="flex flex-col items-start justify-start">
+                            <div class="relative w-full">
+                                {% if p.header.thumbnail %}
+                                    {% set thumbnail_found = false %}
+                                    {% set thumbnail_url = '' %}
+
+                                    <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                    {% set thumbnail_clean = p.header.thumbnail %}
+                                    {% if thumbnail_clean starts with '/' %}
+                                        {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                    {% endif %}
+                                    {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                    <!-- Try standard Grav media approach first with cleaned filename -->
+                                    {% if p.media[thumbnail_clean] %}
+                                        {% set thumbnail_url = p.media[thumbnail_clean].url %}
+                                        {% set thumbnail_found = true %}
+                                    {% elseif p.media[p.header.thumbnail|lower] %}
+                                        <!-- Try lowercase original -->
+                                        {% set thumbnail_url = p.media[p.header.thumbnail|lower].url %}
+                                        {% set thumbnail_found = true %}
+                                    {% elseif p.media[p.header.thumbnail] %}
+                                        <!-- Fallback to exact original -->
+                                        {% set thumbnail_url = p.media[p.header.thumbnail].url %}
+                                        {% set thumbnail_found = true %}
+                                    {% else %}
+                                        <!-- Use cleaned filename in path construction -->
+                                        {% set thumbnail_url = p.path ~ '/' ~ thumbnail_clean %}
+                                        {% set thumbnail_found = true %}
+                                    {% endif %}
+
+                                    <img src="{{ thumbnail_url }}" alt="" class="aspect-[16/9] w-full rounded-2xl bg-gray-100 object-cover"
+                                         onerror="this.parentElement.innerHTML='<div class=&quot;aspect-[16/9] w-full rounded-2xl bg-gray-100 flex items-center justify-center&quot;><span class=&quot;text-gray-400 text-xs text-center&quot;>{{ thumbnail_clean }}<br><small>{{ thumbnail_url }}</small></span></div>'">
+                                {% else %}
+                                    <div class="aspect-[16/9] w-full rounded-2xl bg-gray-100 flex items-center justify-center">
+                                        <span class="text-gray-400 text-sm">No thumbnail defined</span>
+                                    </div>
+                                {% endif %}
+                                <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
+                            </div>
+                            <div class="max-w-xl">
+                                <div class="group relative">
+                                    <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+                                        {% if p.header.external_link and p.header.external_link != '' %}
+                                            <a href="{{ p.header.external_link }}" target="_blank" rel="noopener noreferrer">
+                                                <span class="absolute inset-0"></span>
+                                                {{ first_heading|raw }}
+                                                <svg class="inline w-3 h-3 ml-1 align-baseline" fill="currentColor" viewBox="0 0 24 24">
+                                                    <path d="M14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3m-2 16H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7Z"/>
+                                                </svg>
+                                            </a>
+                                        {% else %}
+                                            <a href="{{ p.header.routes.default }}">
+                                                <span class="absolute inset-0"></span>
+                                                {{ first_heading|raw }}
+                                            </a>
+                                        {% endif %}
+                                    </h3>
+                                    <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">
+                                        {% if p.header.external_link and p.header.external_medium %}
+                                            {{ p.header.external_medium }}
+                                        {% else %}
+                                            {{ p.header.summary }}
+                                        {% endif %}
+                                    </p>
+                                </div>
+                            </div>
+                        </article>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    {% endif %}
+{% endif %}

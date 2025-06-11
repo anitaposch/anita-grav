@@ -7,7 +7,7 @@ routes:
 date: 2022-10-10 10:55
 dateformat: 'Y-m-d H:i'
 summary: My Bitcoin for Fairness team in Zambia and I conducted a workshop for journalists to educate the educators. They learned how to send and receive bitcoin and we emphasized the importance of Bitcoin as a neutral, inclusive and permissionless money for the Internet.
-thumbnail: /_2022-10-07-journalist-bitcoin-1.jpg
+thumbnail: _2022-10-07-journalist-bitcoin-1.jpg
 template: article
 ---
 

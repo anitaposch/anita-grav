@@ -15,10 +15,11 @@
             {% endfor %}
         {% endfor %}
 
+        {#
         <!-- Debug: Show what we found -->
         <p>Year folders found: {{ year_folders|length }}</p>
         <p>Total articles found: {{ all_articles|length }}</p>
-
+        #}
         <!-- Collect all unique tags -->
         {% set all_tags = [] %}
         {% for article in all_articles %}
