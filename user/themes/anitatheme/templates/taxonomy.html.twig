@@ -55,80 +55,137 @@
 
         <!-- Display count -->
         <p class="text-gray-600 mb-6">Found {{ tagged_articles|length }} articles</p>
-        
+
         <!-- Display articles -->
         {% if tagged_articles|length > 0 %}
             <div class="space-y-4">
                 {% for article in tagged_articles|reverse %}
-                    {% if article.header.external_link and article.header.external_link != '' %}
-                        <!-- External link article - simplified display -->
-                        <div class="border-l-4 border-blue-500 pl-4 py-3 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                    <div class="pl-4 py-3 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+
+                        <!-- Thumbnail -->
+                        {% if article.header.thumbnail %}
+                            {% set thumbnail_found = false %}
+                            {% set thumbnail_url = '' %}
+
+                            <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                            {% set thumbnail_clean = article.header.thumbnail %}
+                            {% if thumbnail_clean starts with '/' %}
+                                {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                            {% endif %}
+                            {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                            <!-- Try standard Grav media approach first with cleaned filename -->
+                            {% if article.media[thumbnail_clean] %}
+                                {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                {% set thumbnail_found = true %}
+                            {% elseif article.media[article.header.thumbnail|lower] %}
+                                <!-- Try lowercase original -->
+                                {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                {% set thumbnail_found = true %}
+                            {% elseif article.media[article.header.thumbnail] %}
+                                <!-- Fallback to exact original -->
+                                {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                {% set thumbnail_found = true %}
+                            {% else %}
+                                <!-- Use cleaned filename in path construction -->
+                                {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                {% set thumbnail_found = true %}
+                            {% endif %}
+
+                            {% if article.header.external_link and article.header.external_link != '' %}
                                 <a href="{{ article.header.external_link }}" target="_blank" rel="noopener noreferrer"
-                                   class="text-blue-600 hover:text-blue-800 hover:underline">
-                                    {{ article.title }}
-                                    <svg class="inline w-4 h-4 ml-1 align-baseline" fill="currentColor" viewBox="0 0 24 24">
-                                        <path d="M14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3m-2 16H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7Z"/>
-                                    </svg>
+                                   class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                    <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                 </a>
-                            </h3>
-
-                            <div class="flex items-center text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    <span>{{ article.date|date('F j, Y') }}</span>
-                                {% endif %}
-
-                                {% if article.header.external_medium and article.date %}
-                                    <span class="mx-2">|</span>
-                                {% endif %}
-
-                                {% if article.header.external_medium %}
-                                    <span>{{ article.header.external_medium }}</span>
-                                {% endif %}
-                            </div>
-                        </div>
-                    {% else %}
-                        <!-- Regular article - full display -->
-                        <div class="border-l-4 border-blue-500 pl-4 py-3 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                            {% else %}
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            <!-- Article excerpt if available -->
-                            {% if article.header.summary %}
-                                <p class="text-gray-700 mt-2">{{ article.header.summary }}</p>
                             {% endif %}
+                        {% else %}
+                            <!-- Placeholder when no thumbnail -->
+                            <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                </svg>
+                            </div>
+                        {% endif %}
 
-                            <!-- All tags for this article -->
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        {% set tag_slug = tag|lower|replace({' ': '-'}) %}
-                                        <a href="/category/{{ tag_slug }}"
-                                           class="px-2 py-1 {% if tag|lower == current_tag|lower or tag_slug == current_tag|lower %}bg-blue-500 text-white{% else %}bg-gray-100 text-gray-600 hover:bg-gray-200{% endif %} text-xs rounded">
-                                            {{ tag }}
-                                        </a>
-                                    {% endfor %}
+                        <!-- Content -->
+                        <div class="flex-1">
+                            {% if article.header.external_link and article.header.external_link != '' %}
+                                <!-- External link article -->
+                                <h3 class="text-lg font-medium">
+                                    <a href="{{ article.header.external_link }}" target="_blank" rel="noopener noreferrer"
+                                       class="hover:underline">
+                                        {{ article.title }}
+                                        <svg class="inline w-4 h-4 ml-1 align-baseline" fill="currentColor" viewBox="0 0 24 24">
+                                            <path d="M14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3m-2 16H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7Z"/>
+                                        </svg>
+                                    </a>
+                                </h3>
+
+                                <div class="flex items-center text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        <span>{{ article.date|date('F j, Y') }}</span>
+                                    {% endif %}
+
+                                    {% if article.header.external_medium and article.date %}
+                                        <span class="mx-2">|</span>
+                                    {% endif %}
+
+                                    {% if article.header.external_medium %}
+                                        <span>{{ article.header.external_medium }}</span>
+                                    {% endif %}
                                 </div>
+                            {% else %}
+                                <!-- Regular article -->
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}" class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}" class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                <!-- Article excerpt if available -->
+                                {% if article.header.summary %}
+                                    <p class="text-gray-700 mt-2">{{ article.header.summary }}</p>
+                                {% endif %}
+
+                                <!-- All tags for this article -->
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            {% set tag_slug = tag|lower|replace({' ': '-'}) %}
+                                            <a href="/category/{{ tag_slug }}"
+                                               class="px-2 py-1 {% if tag|lower == current_tag|lower or tag_slug == current_tag|lower %}bg-blue-500 text-white{% else %}bg-gray-100 text-gray-600 hover:bg-gray-200{% endif %} text-xs rounded">
+                                                {{ tag }}
+                                            </a>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
                             {% endif %}
                         </div>
-                    {% endif %}
+                    </div>
                 {% endfor %}
             </div>
         {% else %}

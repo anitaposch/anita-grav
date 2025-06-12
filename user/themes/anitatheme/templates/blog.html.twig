@@ -84,36 +84,89 @@
                 <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2025</h2>
                 <div class="space-y-3">
                     {% for article in articles_2025|reverse %}
-                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                        <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+                            <!-- Thumbnail -->
+                            {% if article.header.thumbnail %}
+                                {% set thumbnail_found = false %}
+                                {% set thumbnail_url = '' %}
+
+                                <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                {% set thumbnail_clean = article.header.thumbnail %}
+                                {% if thumbnail_clean starts with '/' %}
+                                    {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                {% endif %}
+                                {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                <!-- Try standard Grav media approach first with cleaned filename -->
+                                {% if article.media[thumbnail_clean] %}
+                                    {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail|lower] %}
+                                    <!-- Try lowercase original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail] %}
+                                    <!-- Fallback to exact original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                    {% set thumbnail_found = true %}
+                                {% else %}
+                                    <!-- Use cleaned filename in path construction -->
+                                    {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                    {% set thumbnail_found = true %}
+                                {% endif %}
+
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
-                        {{ tag }}
-                    </span>
-                                    {% endfor %}
+                            {% else %}
+                                <!-- Placeholder when no thumbnail -->
+                                <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
                                 </div>
                             {% endif %}
+
+                            <!-- Content -->
+                            <div class="flex-1">
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                                                {{ tag }}
+                                            </span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
@@ -125,36 +178,89 @@
                 <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2024</h2>
                 <div class="space-y-3">
                     {% for article in articles_2024|reverse %}
-                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                        <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+                            <!-- Thumbnail -->
+                            {% if article.header.thumbnail %}
+                                {% set thumbnail_found = false %}
+                                {% set thumbnail_url = '' %}
+
+                                <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                {% set thumbnail_clean = article.header.thumbnail %}
+                                {% if thumbnail_clean starts with '/' %}
+                                    {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                {% endif %}
+                                {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                <!-- Try standard Grav media approach first with cleaned filename -->
+                                {% if article.media[thumbnail_clean] %}
+                                    {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail|lower] %}
+                                    <!-- Try lowercase original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail] %}
+                                    <!-- Fallback to exact original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                    {% set thumbnail_found = true %}
+                                {% else %}
+                                    <!-- Use cleaned filename in path construction -->
+                                    {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                    {% set thumbnail_found = true %}
+                                {% endif %}
+
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
-                        {{ tag }}
-                    </span>
-                                    {% endfor %}
+                            {% else %}
+                                <!-- Placeholder when no thumbnail -->
+                                <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
                                 </div>
                             {% endif %}
+
+                            <!-- Content -->
+                            <div class="flex-1">
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                                                {{ tag }}
+                                            </span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
@@ -166,36 +272,89 @@
                 <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2023</h2>
                 <div class="space-y-3">
                     {% for article in articles_2023|reverse %}
-                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                        <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+                            <!-- Thumbnail -->
+                            {% if article.header.thumbnail %}
+                                {% set thumbnail_found = false %}
+                                {% set thumbnail_url = '' %}
+
+                                <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                {% set thumbnail_clean = article.header.thumbnail %}
+                                {% if thumbnail_clean starts with '/' %}
+                                    {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                {% endif %}
+                                {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                <!-- Try standard Grav media approach first with cleaned filename -->
+                                {% if article.media[thumbnail_clean] %}
+                                    {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail|lower] %}
+                                    <!-- Try lowercase original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail] %}
+                                    <!-- Fallback to exact original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                    {% set thumbnail_found = true %}
+                                {% else %}
+                                    <!-- Use cleaned filename in path construction -->
+                                    {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                    {% set thumbnail_found = true %}
+                                {% endif %}
+
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
-                        {{ tag }}
-                    </span>
-                                    {% endfor %}
+                            {% else %}
+                                <!-- Placeholder when no thumbnail -->
+                                <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
                                 </div>
                             {% endif %}
+
+                            <!-- Content -->
+                            <div class="flex-1">
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                                                {{ tag }}
+                                            </span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
@@ -207,36 +366,89 @@
                 <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2022</h2>
                 <div class="space-y-3">
                     {% for article in articles_2022|reverse %}
-                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                        <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+                            <!-- Thumbnail -->
+                            {% if article.header.thumbnail %}
+                                {% set thumbnail_found = false %}
+                                {% set thumbnail_url = '' %}
+
+                                <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                {% set thumbnail_clean = article.header.thumbnail %}
+                                {% if thumbnail_clean starts with '/' %}
+                                    {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                {% endif %}
+                                {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                <!-- Try standard Grav media approach first with cleaned filename -->
+                                {% if article.media[thumbnail_clean] %}
+                                    {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail|lower] %}
+                                    <!-- Try lowercase original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail] %}
+                                    <!-- Fallback to exact original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                    {% set thumbnail_found = true %}
+                                {% else %}
+                                    <!-- Use cleaned filename in path construction -->
+                                    {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                    {% set thumbnail_found = true %}
+                                {% endif %}
+
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
-                        {{ tag }}
-                    </span>
-                                    {% endfor %}
+                            {% else %}
+                                <!-- Placeholder when no thumbnail -->
+                                <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
                                 </div>
                             {% endif %}
+
+                            <!-- Content -->
+                            <div class="flex-1">
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                                                {{ tag }}
+                                            </span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
@@ -248,77 +460,183 @@
                 <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">2021</h2>
                 <div class="space-y-3">
                     {% for article in articles_2021|reverse %}
-                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                        <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+                            <!-- Thumbnail -->
+                            {% if article.header.thumbnail %}
+                                {% set thumbnail_found = false %}
+                                {% set thumbnail_url = '' %}
+
+                                <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                {% set thumbnail_clean = article.header.thumbnail %}
+                                {% if thumbnail_clean starts with '/' %}
+                                    {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                {% endif %}
+                                {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                <!-- Try standard Grav media approach first with cleaned filename -->
+                                {% if article.media[thumbnail_clean] %}
+                                    {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail|lower] %}
+                                    <!-- Try lowercase original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail] %}
+                                    <!-- Fallback to exact original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                    {% set thumbnail_found = true %}
+                                {% else %}
+                                    <!-- Use cleaned filename in path construction -->
+                                    {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                    {% set thumbnail_found = true %}
+                                {% endif %}
+
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
-                        {{ tag }}
-                    </span>
-                                    {% endfor %}
+                            {% else %}
+                                <!-- Placeholder when no thumbnail -->
+                                <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
                                 </div>
                             {% endif %}
+
+                            <!-- Content -->
+                            <div class="flex-1">
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                                                {{ tag }}
+                                            </span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
             </div>
         {% endif %}
-
+        
         {% if articles_other|length > 0 %}
             <div class="year-group mb-12">
                 <h2 class="text-3xl font-bold mb-6 text-gray-800 border-b-2 border-gray-200 pb-2">Other Years</h2>
                 <div class="space-y-3">
                     {% for article in articles_other|reverse %}
-                        <div class="border-l-4 border-blue-500 pl-4 py-2 hover:bg-gray-50 transition-colors">
-                            <h3 class="text-lg font-medium">
+                        <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
+                            <!-- Thumbnail -->
+                            {% if article.header.thumbnail %}
+                                {% set thumbnail_found = false %}
+                                {% set thumbnail_url = '' %}
+
+                                <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
+                                {% set thumbnail_clean = article.header.thumbnail %}
+                                {% if thumbnail_clean starts with '/' %}
+                                    {% set thumbnail_clean = thumbnail_clean|slice(1) %}
+                                {% endif %}
+                                {% set thumbnail_clean = thumbnail_clean|lower %}
+
+                                <!-- Try standard Grav media approach first with cleaned filename -->
+                                {% if article.media[thumbnail_clean] %}
+                                    {% set thumbnail_url = article.media[thumbnail_clean].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail|lower] %}
+                                    <!-- Try lowercase original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail|lower].url %}
+                                    {% set thumbnail_found = true %}
+                                {% elseif article.media[article.header.thumbnail] %}
+                                    <!-- Fallback to exact original -->
+                                    {% set thumbnail_url = article.media[article.header.thumbnail].url %}
+                                    {% set thumbnail_found = true %}
+                                {% else %}
+                                    <!-- Use cleaned filename in path construction -->
+                                    {% set thumbnail_url = article.path ~ '/' ~ thumbnail_clean %}
+                                    {% set thumbnail_found = true %}
+                                {% endif %}
+
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="text-blue-600 hover:text-blue-800 hover:underline">
-                                        {{ article.title }}
+                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                        <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
-                            </h3>
-
-                            <p class="text-sm text-gray-500 mt-1">
-                                {% if article.date %}
-                                    {{ article.date|date('F j, Y') }}
-                                {% endif %}
-                            </p>
-
-                            {% if article.taxonomy.tags %}
-                                <div class="flex flex-wrap gap-1 mt-2">
-                                    {% for tag in article.taxonomy.tags %}
-                                        <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
-                        {{ tag }}
-                    </span>
-                                    {% endfor %}
+                            {% else %}
+                                <!-- Placeholder when no thumbnail -->
+                                <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                    <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
                                 </div>
                             {% endif %}
+
+                            <!-- Content -->
+                            <div class="flex-1">
+                                <h3 class="text-lg font-medium">
+                                    {% if article.header.routes.default %}
+                                        <a href="{{ article.header.routes.default }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ article.url }}"
+                                           class="hover:underline">
+                                            {{ article.title }}
+                                        </a>
+                                    {% endif %}
+                                </h3>
+
+                                <p class="text-sm text-gray-500 mt-1">
+                                    {% if article.date %}
+                                        {{ article.date|date('F j, Y') }}
+                                    {% endif %}
+                                </p>
+
+                                {% if article.taxonomy.tags %}
+                                    <div class="flex flex-wrap gap-1 mt-2">
+                                        {% for tag in article.taxonomy.tags %}
+                                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded">
+                                                {{ tag }}
+                                            </span>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
