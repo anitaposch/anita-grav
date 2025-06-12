@@ -3,7 +3,7 @@
         <meta name="{{ key }}" content="{{ value }}" />
     {% endfor %}
 {% else %}
-    <meta name="description" content="{{ header.description|e }}" />
+    <meta name="description" content="{{ header.summary|e }}" />
     <meta name="generator" content="{{ site.title|e }}" />
     <meta name="author" content="{{ site.author.name|e }}" />
     <meta property="og:title" content="{{ header.title|e }}" />
