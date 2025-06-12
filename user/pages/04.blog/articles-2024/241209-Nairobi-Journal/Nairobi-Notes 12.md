@@ -19,7 +19,7 @@ The first conference day! Unfortunately, we missed the opening of the conference
 
 On our way there, we ran into Meron Estefanos, and a couple of her peers. We all headed to the pool deck together, and I did a short interview with Meron about how Bitcoin supports her work with refugees.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WH2ugTQtYTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/WH2ugTQtYTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 As I was discussing the difficulties of Internet access in Zimbabwe, she also told me about the Starlink Mini device that provides satellite internet and fits into a small rucksack and is very useful in Uganda. It costs around €300 in Europe. I decided to check one out back in Austria. 
 

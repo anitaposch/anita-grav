@@ -21,7 +21,7 @@ It’s important to use wallet software that is open source so that there is no 
 
 For instance the software for Ledger's hardware wallets is closed source! So no one can check their code; which is anti-ethical to Bitcoin's principle of transparency.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fEOHqi9eZYQ?si=Hsm43sirLVTE8rFK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube-nocookie.com/embed/fEOHqi9eZYQ?si=Hsm43sirLVTE8rFK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Verify Desktop Software
 

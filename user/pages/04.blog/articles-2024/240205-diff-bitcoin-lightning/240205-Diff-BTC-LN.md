@@ -15,7 +15,7 @@ template: article
 
 Understanding the difference between Bitcoin's base layer and the Lightning Network is important even if you are just a regular user and not interested in the backgrounds of the technology. In this blog post, we'll explore what the Lightning Network is, its relationship with Bitcoin, and how it differs from the base Bitcoin protocol.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FxGtlKWsIkg?si=J8mVZjCrCRLpSkKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/FxGtlKWsIkg?si=J8mVZjCrCRLpSkKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## The Base Layer: The Bitcoin ~~Blockchain~~ Timechain

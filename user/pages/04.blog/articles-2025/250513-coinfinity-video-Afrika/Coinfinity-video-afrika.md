@@ -17,7 +17,7 @@ Die Coinfinity Bitcoin Stories zeigen die Highlights meines [Aufenthalts in Nair
 
 Dieses Video zeigt eindrucksvoll, wie stark und lebendig die Bitcoin-Adoption in Afrika ist - und warum wir im globalen Norden viel von diesen Communities lernen können. Jetzt ansehen!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AedbEpyLVyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/AedbEpyLVyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Vor Ort trifft Anita Posch auf Menschen, die Bitcoin nicht nur verstehen, sondern ihn ganz selbstverständlich im Alltag nutzen. Sie spricht mit den Gründern von Tando ([hier das ganze Interview]([https://youtu.be/7fFnAnbZBUU](https://youtu.be/7fFnAnbZBUU))), einer App, die Bitcoin-Zahlungen in Sekundenschnelle ermöglicht – und dabei automatisch in die Landeswährung (Kenya Shilling) umrechnet.
 

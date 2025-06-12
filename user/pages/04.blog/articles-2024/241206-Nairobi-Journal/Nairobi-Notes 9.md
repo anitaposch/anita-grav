@@ -25,7 +25,7 @@ When we prepared to head out, we realized the electricity is out, meaning no hot
 
 By 3 pm, we left for the Friends of BITSACCO meeting at Waitabit Coffee in Gigiri. We met Jodom, Mary, Alex Li, Marcel, Edith, Jason, and others. During the meetup, I did an impromptu interview with El Fuego Mutaz, Head of Africa at Refunite, a speaker at ABC2024, and connected with Meron Estefanos from BTC Innovation Hub Uganda and Fedi. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txdt3PdVMg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/txdt3PdVMg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Before leaving, we bought 10 BITSACCO shares worth KES 10,000 and received limited edition tote bags from Mary. After a nerve wrecking long wait for BOLT, we headed to Sarit Shopping Center in Westlands to buy groceries and gifts for Austria, spending most of our KES cash.
 

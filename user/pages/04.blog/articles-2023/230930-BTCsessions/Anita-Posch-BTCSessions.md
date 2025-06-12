@@ -15,7 +15,7 @@ template: article
 
 I was a guest on BTC Sessions “Why are we bullish?!” live stream. Other guests were Lyn Alden, author of “Broken Money”, she’s one of my favorite Bitcoiners and she was a guest on my show two times and Steven Lubka, managing director at Swan. **Please enjoy! I did.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWXihExEGRs?si=-kg4u2YeW6w2KQUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/vWXihExEGRs?si=-kg4u2YeW6w2KQUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

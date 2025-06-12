@@ -19,7 +19,7 @@ I'll walk you through the process of upgrading your existing Phoenix Wallet to i
 
 It's important to know that this upgrade will close all your existing channels and Phoenix will automatically open new ones for you. But don't worry -  I'll guide you through the entire process.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GqbnjwuD5yw?si=vBS1mPkn81fM4Ck6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/GqbnjwuD5yw?si=vBS1mPkn81fM4Ck6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Step-by-Step Guide
 

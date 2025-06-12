@@ -17,7 +17,7 @@ Trevor Ncube, a Zimbabwean media entrepreneur influential and well respected thr
 
 Ncube was named among the 100 most influential people in Africa in 2012 and 2013. He has currently 270k followers on Twitter. On 10 December 2005, Trevor Ncube had his passport taken away by Robert Mugabe's government, in the first application of restrictive press freedom laws. He exiled to South Africa, now he is recording his show in Harare.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Isrhajmf9cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/Isrhajmf9cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Trevor Ncube is Chairman of Alpha Media Holdings (AMH) based in Harare Zimbabwe, a company he co-founded 25 years ago. AMH owns four newspaper titles in Zimbabwe namely [NewsDay](https://www.newsday.co.zw/) (national daily), [Southern Eye](https://www.southerneye.co.zw/) (regional daily), [The Zimbabwe Independent](http://theindependent.co.zw/) (business weekly) and [The Standard](https://thestandard.newsday.co.zw/) (Sunday).
 

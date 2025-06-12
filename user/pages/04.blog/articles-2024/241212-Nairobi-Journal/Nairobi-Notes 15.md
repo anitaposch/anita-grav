@@ -31,9 +31,9 @@ After lunch, we visited the merchants who accept Bitcoin payments. An inspiring 
 
 By 4:30 pm, we left Kimbo and headed back into town with Noelyne, who joined us for the ride. In the car, Noelyne introduced me to Machankura's WhatsApp feature. I recorded a short interview while Noelyne demonstrated the feature. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzXfd237XVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/XzXfd237XVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A0IXFvzbTXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/A0IXFvzbTXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We dropped her off at the JW Marriott, where she had a meeting. 
 

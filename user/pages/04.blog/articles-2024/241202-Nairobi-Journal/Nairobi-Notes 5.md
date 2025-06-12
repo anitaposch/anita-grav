@@ -21,11 +21,11 @@ After a night of heavy rain, we woke up well-rested (though I was awake from 4 a
 
 The morning was spent working from home - handling ABC conference ticket communications, registering for dinners, sharing our meeting with Tando on Nostr, and learning about the ABC Social Impact Award voting process, which requires email verification to send sats. I communicated with the ABC team about the obligation to give away personal data although it could be voluntary too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q6LZiAC8Qhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/q6LZiAC8Qhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Lunch at home, then off to the 'Nairobi Garage' co-working space to meet Marcel Lorraine for an interview. While waiting, we met two other DADAs, Wefe and Adele, and the Maasai market vendor who had supplied gifts for the ABC speakers. We then had a 30-minute interview with Marcel about Bitcoin Dada and DADAdevs. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YFIWdvecZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/4YFIWdvecZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Afterwards, we walked to Westgate shopping mall, buying fresh coconuts from a vendor (who wanted KES 500 for filming, so we passed). At Decathlon, we bought new swimming costumes and a towel, paying in bitcoin with Aqua wallet via Tando for the first time. We also stopped at Carrefour for groceries before heading home. To our delight, one elevator was finally working!
 

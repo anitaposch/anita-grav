@@ -17,7 +17,7 @@ template: article
 
 The Phoenix Wallet is a self-contained Lightning node that runs on your phone and gives you full control in managing your bitcoin. It is very easy to use and therefore highly recommended for beginners and advanced Bitcoin users to engage in fast and secure Lightning payments.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/chSktrFRN6E?si=LYhENkm5PTFr2cK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/chSktrFRN6E?si=LYhENkm5PTFr2cK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I provide you with the knowledge to utilize the full potential of the Phoenix Wallet. What you will learn:
 
@@ -33,7 +33,7 @@ I provide you with the knowledge to utilize the full potential of the Phoenix Wa
 ## Sending Bitcoin with Your Phoenix Wallet
 Here I walk you through the simple process of sending bitcoin using your Phoenix Wallet. It's quick, efficient, and secure. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eao2X2zSdbw?si=oaI1VN8lEX3tZkqW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/eao2X2zSdbw?si=oaI1VN8lEX3tZkqW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Step-by-Step Guide to Send Lightning Bitcoin
 * **Copy the Address:** First, you copy the recipient's Lightning address or invoice address. This can be done from any message or document where it's shared.

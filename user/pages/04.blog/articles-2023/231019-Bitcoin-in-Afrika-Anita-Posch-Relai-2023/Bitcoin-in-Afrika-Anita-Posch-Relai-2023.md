@@ -19,4 +19,4 @@ Ihr Buch ‘(L)earn Bitcoin - Become Financially Sovereign’ ist ein umfassende
 
 Im Gespräch mit Relai-CEO Julian Liniger erzählt Anita, warum Bitcoin für viele Menschen in Afrika der einzige Ausweg aus konstanter Geldentwertung ist und was sie als Menschenrechtsaktivistin antreibt.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MC8lylgIQtI?si=MilRO6nnhYAYXyzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/MC8lylgIQtI?si=MilRO6nnhYAYXyzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

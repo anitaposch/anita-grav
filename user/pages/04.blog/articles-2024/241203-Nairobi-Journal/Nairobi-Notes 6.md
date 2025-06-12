@@ -25,7 +25,7 @@ Our first stop was the Nairobi Contemporary Art Institute at Rosslyn Riviera Mal
 
 Next, we went to Java Coffee for a treat. I enjoyed a Banana Split, and Martina was happy to have real coffee after days of instant. Unfortunately, the cinnamon rolls were out of stock, but we grabbed a ginger scone instead. We had some hiccups with Tando payments, paid twice, but ended up with Kenyan coffee beans and a decaf Americano for me as compensation. We also found a beautiful Kenyan beaded bracelet for me, which we paid for in cash.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqz-ZUa7rAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/wqz-ZUa7rAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We then called a Bolt and headed home, but the Nairobi traffic (around 6 pm) was intense. During the long ride, the driver, Martin, introduced us to some popular Kenyan music. It wasn’t our favorite, but it was better than the church music playing earlier!
 

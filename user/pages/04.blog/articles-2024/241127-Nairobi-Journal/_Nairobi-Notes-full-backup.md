@@ -49,7 +49,7 @@ By midday, we went to The Promenade/The Garage co-working space (very impressive
 
 Following our meeting with Marcel, we met with Jodom, Co-founder of [BITSACCO](https://bitsacco.com/), who also worked from the same co-working space that day. After a friendly introduction and learning that reliable internet costs about $80 per month in Nairobi, we conducted a short interview with him about BITSACCO. He also gave us a preview of the Beta version, with the official launch scheduled for the conference.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KwgaWqL08LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/KwgaWqL08LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Afterwards, we stopped by Carrefour for some shopping, then headed home to cook and finish up some work.
 
@@ -59,7 +59,7 @@ The morning started at home, with some correspondence and organizing the houseke
 
 We had a great exchange during our breakfast, followed by a short interview with Sabina and Jason about their Tando journey. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fFnAnbZBUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/7fFnAnbZBUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 At 11:00, we went to the BitDevs Nairobi meetup, hosted by Jodom of BITSACCO and others. There we also met with other Bitcoiners, including Sharon from BTrust, and the developers Simon and Isaac. I contributed to the meetup with hosting the topic about 'Responsible Bitcoin Development', focused on Human Rights aspects, developers’ privacy, and user privacy. The discussion emerged around good practice examples such as wallets that improve user privacy, secure messengers like Signal, etc.
 
@@ -67,7 +67,7 @@ At 11:00, we went to the BitDevs Nairobi meetup, hosted by Jodom of BITSACCO and
 
 After the meetup, we enjoyed drinks, pizza, and took a group photo. Then, Sharon joined us at the bar before heading to the Maasai Market in Nairobi’s CBD to shop for gifts for the conference speakers. We had a great time and even picked up a few items for ourselves to take back to Austria, that we paid with bitcoin via Tando.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034887313?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241130-11"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -92,11 +92,11 @@ After a night of heavy rain, we woke up well-rested (though I was awake from 4 a
 
 The morning was spent working from home - handling ABC conference ticket communications, registering for dinners, sharing our meeting with Tando on Nostr, and learning about the ABC Social Impact Award voting process, which requires email verification to send sats. I communicated with the ABC team about the obligation to give away personal data although it could be voluntary too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q6LZiAC8Qhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/q6LZiAC8Qhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Lunch at home, then off to the 'Nairobi Garage' co-working space to meet Marcel Lorraine for an interview. While waiting, we met two other DADAs, Wefe and Adele, and the Maasai market vendor who had supplied gifts for the ABC speakers. We then had a 30-minute interview with Marcel about Bitcoin Dada and DADAdevs. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YFIWdvecZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/4YFIWdvecZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Afterwards, we walked to Westgate shopping mall, buying fresh coconuts from a vendor (who wanted KES 500 for filming, so we passed). At Decathlon, we bought new swimming costumes and a towel, paying in bitcoin with Aqua wallet via Tando for the first time. We also stopped at Carrefour for groceries before heading home. To our delight, one elevator was finally working!
 
@@ -112,7 +112,7 @@ Our first stop was the Nairobi Contemporary Art Institute at Rosslyn Riviera Mal
 
 Next, we went to Java Coffee for a treat. I enjoyed a Banana Split, and Martina was happy to have real coffee after days of instant. Unfortunately, the cinnamon rolls were out of stock, but we grabbed a ginger scone instead. We had some hiccups with Tando payments, paid twice, but ended up with Kenyan coffee beans and a decaf Americano for me as compensation. We also found a beautiful Kenyan beaded bracelet for me, which we paid for in cash.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqz-ZUa7rAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/wqz-ZUa7rAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We then called a Bolt and headed home, but the Nairobi traffic (around 6 pm) was intense. During the long ride, the driver, Martin, introduced us to some popular Kenyan music. It wasn’t our favorite, but it was better than the church music playing earlier!
 
@@ -158,7 +158,7 @@ When we prepared to head out, we realized the electricity is out, meaning no hot
 
 By 3 pm, we left for the Friends of BITSACCO meeting at Waitabit Coffee in Gigiri. We met Jodom, Mary, Alex Li, Marcel, Edith, Jason, and others. During the meetup, I did an impromptu interview with El Fuego Mutaz, Head of Africa at Refunite, a speaker at ABC2024, and connected with Meron Estefanos from BTC Innovation Hub Uganda and Fedi. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txdt3PdVMg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/txdt3PdVMg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Before leaving, we bought 10 BITSACCO shares worth KES 10,000 and received limited edition tote bags from Mary. After a nerve wrecking long wait for BOLT, we headed to Sarit Shopping Center in Westlands to buy groceries and gifts for Austria, spending most of our KES cash.
 
@@ -190,7 +190,7 @@ Waking up to blue skies in Nairobi, we soaked up some sun on the balcony before 
 
 A lively discussion was happening and I participated with some contributions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3vbEqVwkRcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/3vbEqVwkRcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We left the event around 12:00 pm and caught a Bolt to JW Marriott Hotel, where the bus to the Human Rights Foundation's event at Gridless offices took off. We had great conversations with fellow builders, entrepreneurs, educators and the HRF team about each others plans for 2025. We eventually caught a Bolt and got home around 9:30 PM. 
 
@@ -200,7 +200,7 @@ The first conference day! Unfortunately, we missed the opening of the conference
 
 On our way there, we ran into Meron Estefanos, and a couple of her peers. We all headed to the pool deck together, and I did a short interview with Meron about how Bitcoin supports her work with refugees.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WH2ugTQtYTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/WH2ugTQtYTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 As I was discussing the difficulties of Internet access in Zimbabwe, she also told me about the Starlink Mini device that provides satellite internet and fits into a small rucksack and is very useful in Uganda. It costs around €300 in Europe. I decided to check one out back in Austria. 
 
@@ -289,9 +289,9 @@ After lunch, we visited the merchants who accept Bitcoin payments. An inspiring 
 
 By 4:30 pm, we left Kimbo and headed back into town with Noelyne, who joined us for the ride. In the car, Noelyne introduced me to Machankura's WhatsApp feature. I recorded a short interview while Noelyne demonstrated the feature. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzXfd237XVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/XzXfd237XVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A0IXFvzbTXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/A0IXFvzbTXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We dropped her off at the JW Marriott, where she had a meeting. 
 

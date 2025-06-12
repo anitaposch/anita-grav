@@ -28,7 +28,7 @@ My easy-to-follow tutorial is designed to equip you with all the necessary instr
 Each section of the tutorial is timestamped, so you can easily navigate through the content based on your interests and needs.
 
 ## Watch the full tutorial here
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1vdpmPGBG_8?si=JTgrGekK-bZX2fJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/1vdpmPGBG_8?si=JTgrGekK-bZX2fJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Please find more information about the Green Wallet here: https://blockstream.com/green/
 

@@ -17,7 +17,7 @@ If you've ever been puzzled by terms like Bitcoin, Lightning, Liquid, and E-Cash
 
 The following descriptions are definitely not technically correct. I'm painting a picture so that everyone, even beginners and those without a tech-background can understand what a sidechain is and what the differences between Bitcoin, Liquid, Lightning, and E-Cash tokens are. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3E12dUnYh90?si=YcE28Z4JHSTUTkfH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/3E12dUnYh90?si=YcE28Z4JHSTUTkfH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bitcoin: The Secure Foundation
 The Bitcoin blockchain is a database consisting of connected blocks which are filled with transactions and each of these transactions has an end point, where your bitcoin, your money sits. 

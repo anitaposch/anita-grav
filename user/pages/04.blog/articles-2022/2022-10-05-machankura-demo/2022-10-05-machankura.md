@@ -21,7 +21,7 @@ The service is using USSD code, just like M-Pesa or EcoCash do. USSD stands for 
 
 It's important to note that Machankura8333 is a custodial solution that doesn't offer a backup method (yet, I hope this will be added soon) and therefore you should use it only for daily spendings and not keep a lot of money on it. Here I'm showing how you can send bitcoin via USSD code to a lightning address on our Bitcoin for Fairness crowdfunding page on Geyser.fund with out the need to have an internet connection.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCiK1AZuPRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/FCiK1AZuPRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---

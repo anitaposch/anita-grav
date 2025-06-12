@@ -74,7 +74,7 @@ My journey also included a meeting with Bitcoin Banamayo, a group dedicated to e
 
 Furthermore, I was a guest in the Zambian online format [‘The FIZ Show’ - Financial insight Zambia](https://www.youtube.com/watch?v=FIJ-ZwaZTfg) and facilitated a Freedom Money workshop for Human Rights activists from 23 African countries. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FIJ-ZwaZTfg?si=KqbBg9IXRCd0MsH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/FIJ-ZwaZTfg?si=KqbBg9IXRCd0MsH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 During this month, my work with Bitcoin for Fairness was [featured in Bitcoin Magazine's 'Women in Bitcoin' series. This article highlighted my efforts in global Bitcoin education](https://bitcoinmagazine.com/culture/anita-posch-on-global-bitcoin-education) and can be accessed online for an in-depth view of my journey and contributions.
 
@@ -103,7 +103,7 @@ A highlight of the month was [presenting a keynote at Pizza Day Prague](https://
 
 In June, I had the pleasure to attend BTC Prague, where I held a [keynote about ‘Bitcoin Empowers Africa and Africans empower Bitcoin’](https://www.youtube.com/watch?v=LY1UG1KSKew), sharing insights on the symbiotic relationship between a continent on the rise and fair money. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LY1UG1KSKew?si=7uqy5kxQCZpE0A3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/LY1UG1KSKew?si=7uqy5kxQCZpE0A3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **BFF Meetup in Prague**
 
@@ -117,12 +117,12 @@ In July, I actively engaged in further creating content for Crack The Orange. Th
 
 On July 19th, I [discussed the intersection of charity and Bitcoin with the C4's Certified Bitcoin Professional Committee](https://www.youtube.com/watch?v=lB0rkUM7ZHk).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lB0rkUM7ZHk?si=XtyX7Og2PVJrWMIr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/lB0rkUM7ZHk?si=XtyX7Og2PVJrWMIr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### **August**
 
 In August, I had the opportunity to join Laura Shin on the [Unchained Podcast](https://www.youtube.com/watch?v=R1IV91XNYxU), explaining why Bitcoin is a tool for freedom. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R1IV91XNYxU?si=azqJ3wv3jY2Zqibb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/R1IV91XNYxU?si=azqJ3wv3jY2Zqibb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Then, finally, I officially launched Crack The Orange and granted the first scholarships to educators and community builders in the Global South. This was a big milestone for me in contributing positively to Bitcoin education and adoption in the (for me) most important areas.
 
@@ -130,7 +130,7 @@ Then, finally, I officially launched Crack The Orange and granted the first scho
 
 In September, I engaged in several influential Bitcoin-related events, starting with attending Noob Day at Bitcoin Riga week. Here, [I was a panel guest](https://www.youtube.com/live/V3vvybsc1A4?si=kpeEZabsFF0n5LkA&t=25113) and also delivered a keynote at the Baltic Honeybadger Conference 2023.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsPqVqX5VJc?si=S9VkQwuPk_0_mvRr&amp;start=4846" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/ZsPqVqX5VJc?si=S9VkQwuPk_0_mvRr&amp;start=4846" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This month also marked the very first live call with the scholars for the Crack The Orange course on September 9 - a big kick-off for this new program. 
 
@@ -138,7 +138,7 @@ After that, from September 13-16, I attended the Global Bitcoin Summit at Bitcoi
 
 My travels then took me to Austin, Texas, to visit Bitcoin Commons and PlebLab, innovative coworking spaces dedicated to Bitcoin development. I ended the month with my participation in the [BTC Live-Sall Session 'WHY ARE WE BULLISH?'](https://www.youtube.com/watch?v=vWXihExEGRs) on September 30th, alongside noted experts Lyn Alden and Steve Lubka. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWXihExEGRs?si=Ag57XtSz5wKttVMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/vWXihExEGRs?si=Ag57XtSz5wKttVMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### **October**
 
@@ -148,11 +148,11 @@ In October, my schedule was filled with very diverse and impactful engagements i
 
 Following this, on October 20th, [I attended Lugano Plan B, where I had the honor of delivering a keynote speech](https://anitaposch.com/africans-empower-bitcoin), sharing why Bitcoin is a game-changer for Africa and how the enormous contributions of the African community are helping Bitcoin development and adoption globally.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CExOwVQYHNg" title="Bitcoin Empowers Africa and Africans Empower Bitcoin | Plan ₿ Forum 2023 | Lugano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/CExOwVQYHNg" title="Bitcoin Empowers Africa and Africans Empower Bitcoin | Plan ₿ Forum 2023 | Lugano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My journey continued with my participation in the Bitcoin Indonesia Conference between October 26th and 28th. There, [I gave a beginner-friendly 'Bitcoin 101 - Know Your Basics’' talk](https://anitaposch.com/bitcoin-know-your-basics), which offered a comprehensive introduction to Bitcoin and provided the necessary knowledge to safely navigate the Bitcoin ecosystem. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HAeGSSIhdqs?si=6pDiIeIqnutROGax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/HAeGSSIhdqs?si=6pDiIeIqnutROGax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The month concluded with [my guest appearance on the German 'Fast & Curious' podcast](https://anitaposch.com/bitcoin-hype-oder-wert) on October 30th, where I had the opportunity to discuss various aspects of Bitcoin and its impact in a more financial context. This format was a great chance to reach out to a German-speaking audience of people that are usually not so much involved in the Bitcoin community.  
 
@@ -160,7 +160,7 @@ The month concluded with [my guest appearance on the German 'Fast & Curious' pod
 
 In November, I focused on both educational content and community engagement. [I produced and published a Green Wallet Tutorial](https://youtu.be/1vdpmPGBG_8), which aimed to provide comprehensive guidance on this user-friendly, self-custody Bitcoin wallet.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1vdpmPGBG_8?si=7njbE26ky7AvEHH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/1vdpmPGBG_8?si=7njbE26ky7AvEHH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I ended the month with a [Bitcoin for Fairness meetup in Accra, Ghana](https://bffbtc.org/recap-bitcoin-fo…etup-accra-ghana/), a successful social event, bringing together about 30 Bitcoin enthusiasts from around the world and local Ghanaians at the One Corner Garden. The meetup was enriched by guests like Peter McCormack, Erik Hersman, and representatives from Fedi, offering diverse perspectives on Bitcoin's potential. My personal highlight of the evening was the participation of Bitcoin DADA from Kenya with four women from their education program, showcasing the real-world impact of our initiatives.
 

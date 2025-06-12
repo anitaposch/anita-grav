@@ -40,7 +40,7 @@ Sending Bitcoin directly from Green to BitBox02 requires transaction fees, but i
 ### Seed Phrase Import - Not Recommended
 A method to transfer funds without paying transaction fees is by importing the seed phrase from your Green wallet into your BitBox02. This is turning your cold storage into a hot storage, meaning all the security of the hardware wallet gets lost as you're importing a seed phrase that was stored on a hot device previously and could be compromised.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cyYF5P1umtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/cyYF5P1umtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Always Use New Bitcoin Addresses
 

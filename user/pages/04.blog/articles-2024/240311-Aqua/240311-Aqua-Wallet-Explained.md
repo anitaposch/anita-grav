@@ -15,7 +15,7 @@ template: article
 
 Explore the AQUA Wallet with me – a self-custodial wallet that handles Bitcoin, Lightning, and USDT and other assets on Liquid. Started at Blockstream and now released by JAN3, AQUA is a considerable option for those who use USDT, especially in places with volatile national currencies like Zimbabwe. Learn about AQUA's features, how it manages transactions, and how it compares to other wallets. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kzBawGXwxZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/kzBawGXwxZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## What Is AQUA?
 

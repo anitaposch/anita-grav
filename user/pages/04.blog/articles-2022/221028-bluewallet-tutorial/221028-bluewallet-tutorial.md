@@ -15,7 +15,7 @@ template: article
 
 ## A video guide to setup the Blue Wallet on your phone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NqY3wBhloH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/NqY3wBhloH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This guide shows you how to install the Blue Wallet on your phone (Android and iOS). Blue Wallet is an open-source and non-custodial Bitcoin wallet and a custodial Lightning wallet. You can receive, save and send bitcoin immediately after the set-up. No registration or email needed. 
 

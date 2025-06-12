@@ -19,7 +19,7 @@ Your Bitcoin wallet manages thousands of [Bitcoin addresses](https://anitaposch.
 
 Most wallets do not offer Coin Control tools for the users, instead they select the UTXOs automatically leaving you with no possibility to manage your UTXOs effectively. BlueWallet, Sparrow Wallet, Trezor Suite and BitBox02 allow you to take control and do it manually (these are the ones I have used so far). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/whfUJw1Usko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/whfUJw1Usko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## UTXOs and Transaction Fees
 Imagine you have a Bitcoin wallet with several chunks of bitcoin, known as UTXOs (Unspent Transaction Outputs), stored at different addresses. These chunks can vary in size - for instance, you might have the following UTXOs: 

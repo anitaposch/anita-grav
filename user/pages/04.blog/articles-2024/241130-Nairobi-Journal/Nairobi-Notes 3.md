@@ -19,7 +19,7 @@ The morning started at home, with some correspondence and organizing the houseke
 
 We had a great exchange during our breakfast, followed by a short interview with Sabina and Jason about their Tando journey. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fFnAnbZBUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/7fFnAnbZBUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 At 11:00, we went to the BitDevs Nairobi meetup, hosted by Jodom of BITSACCO and others. There we also met with other Bitcoiners, including Sharon from BTrust, and the developers Simon and Isaac. I contributed to the meetup with hosting the topic about 'Responsible Bitcoin Development', focused on Human Rights aspects, developers’ privacy, and user privacy. The discussion emerged around good practice examples such as wallets that improve user privacy, secure messengers like Signal, etc.
 
@@ -27,7 +27,7 @@ At 11:00, we went to the BitDevs Nairobi meetup, hosted by Jodom of BITSACCO and
 
 After the meetup, we enjoyed drinks, pizza, and took a group photo. Then, Sharon joined us at the bar before heading to the Maasai Market in Nairobi’s CBD to shop for gifts for the conference speakers. We had a great time and even picked up a few items for ourselves to take back to Austria, that we paid with bitcoin via Tando.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034887313?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241130-11"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 

@@ -21,4 +21,4 @@ She also discusses why stablecoins like USDT are more widely adopted than Bitcoi
 
 Want to understand how Bitcoin can drive real change where it's needed most? Listen to the full conversation now!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hC77XrsY9Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/hC77XrsY9Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

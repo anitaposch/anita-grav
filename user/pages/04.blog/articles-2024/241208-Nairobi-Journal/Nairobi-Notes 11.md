@@ -19,7 +19,7 @@ Waking up to blue skies in Nairobi, we soaked up some sun on the balcony before 
 
 A lively discussion was happening and I participated with some contributions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3vbEqVwkRcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/3vbEqVwkRcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We left the event around 12:00 pm and caught a Bolt to JW Marriott Hotel, where the bus to the Human Rights Foundation's event at Gridless offices took off. We had great conversations with fellow builders, entrepreneurs, educators and the HRF team about each others plans for 2025. We eventually caught a Bolt and got home around 9:30 PM. 
 

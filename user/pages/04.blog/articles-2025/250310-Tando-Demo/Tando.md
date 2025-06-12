@@ -16,14 +16,14 @@ template: article
 Imagine arriving in Kenya with no local currency and still being able to pay for everything using Bitcoin. That’s exactly what Tando makes possible. 52 million Kenyans can now be paid with bitcoin. This innovative application is the missing link between Bitcoin and everyday spending in Kenya.
 
 See it in action! Here I pay a merchant at the Maasai market: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Here I use Tando to pay for my coffee:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqz-ZUa7rAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/wqz-ZUa7rAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I interview the founders of Tando to explore how they made it possible. Learn how this innovative solution is empowering locals and tourists to seamlessly spend bitcoin while merchants receive Kenyan Shillings instantly. It’s a fascinating look at Bitcoin adoption in action.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fFnAnbZBUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/7fFnAnbZBUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## The Birth of Tando
 

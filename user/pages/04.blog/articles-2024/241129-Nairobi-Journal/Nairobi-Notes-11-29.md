@@ -25,7 +25,7 @@ By midday, we went to The Promenade/The Garage co-working space (very impressive
 
 Following our meeting with Marcel, we met with Jodom, Co-founder of [BITSACCO](https://bitsacco.com/), who also worked from the same co-working space that day. After a friendly introduction and learning that reliable internet costs about $80 per month in Nairobi, we conducted a short interview with him about BITSACCO. He also gave us a preview of the Beta version, with the official launch scheduled for the conference.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KwgaWqL08LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/KwgaWqL08LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Afterwards, we stopped by Carrefour for some shopping, then headed home to cook and finish up some work.
 

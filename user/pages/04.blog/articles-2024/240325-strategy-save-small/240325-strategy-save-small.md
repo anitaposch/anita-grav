@@ -15,7 +15,7 @@ template: article
 
 In the last months of 2023 high transaction fees have made saving small amounts of bitcoin in self-custody a daunting task. But there is a strategy to navigate these waters. In this blog post, I'll give you my recommendations on how to effectively save bitcoin despite high transaction fees. I'll explain how to start with a (self-custody) Lightning wallet, swap your funds for long-term storage or use the funds to open channels to optimize your savings. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ygfc14kSiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/5ygfc14kSiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## The Strategy Simplified
 

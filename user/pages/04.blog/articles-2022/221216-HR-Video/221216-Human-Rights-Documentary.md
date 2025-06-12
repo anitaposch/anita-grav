@@ -16,7 +16,7 @@ template: article
 
 Opposing the corruptible fiat system, Bitcoin enforces Universal Human Rights as laid out by the United Nations. By using Bitcoin you are supporting freedom fighters globally and helping make the world more inclusive. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > This was originally published as an article on [Bitcoin Magazine](https://bitcoinmagazine.com/culture/bitcoin-enforces-universal-human-rights) by BTC Inc. 
 > You can [read it on my website](https://anitaposch.com/bitcoin-enforces-human-rights) too.

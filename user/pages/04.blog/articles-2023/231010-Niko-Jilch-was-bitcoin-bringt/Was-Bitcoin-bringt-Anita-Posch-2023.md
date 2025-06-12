@@ -15,5 +15,5 @@ template: article
 
 Niko Jilch spricht mit der großartigen Anita Posch, die in Afrika und anderswo an der Bitcoin-Aufklärung arbeitet. Unsere Themen: Bitcoin für Menschenrechte, Bitcoin in Afrika und ihre Sicht auf die "Bitcoin-Bro's" und ihre Ansichten im Westen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66pSk7XXuoc?si=GgsHCxzQLHWD15JB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/66pSk7XXuoc?si=GgsHCxzQLHWD15JB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

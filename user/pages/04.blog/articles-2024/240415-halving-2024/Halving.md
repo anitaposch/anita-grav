@@ -14,7 +14,7 @@ template: article
 # Bitcoin Halving 2024: What You Need to Know
 The Bitcoin community is buzzing with anticipation as the next halving is happening very soon, on April 20 (you can check the [countdown here](https://www.bitcoinblockhalf.com/)). But what exactly is the Bitcoin halving, and does it matter? 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9WrgW3EuvR4?si=3MLnx8N9q9rRhFev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/9WrgW3EuvR4?si=3MLnx8N9q9rRhFev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## What Is The Bitcoin Halving?
 

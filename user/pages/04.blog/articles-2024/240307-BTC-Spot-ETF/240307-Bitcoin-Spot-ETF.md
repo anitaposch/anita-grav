@@ -15,7 +15,7 @@ template: article
 
 Bitcoin spot ETFs combine traditional finance with the revolutionary world of Bitcoin, raising questions about the impact of financial institutions on Bitcoin adoption, their backing by actual bitcoin, and the alignment with Bitcoin's foundational principles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7RRyAsDqh6w?si=uzgQ0_WHKFZO-y2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/7RRyAsDqh6w?si=uzgQ0_WHKFZO-y2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## What are Bitcoin Spot ETFs?
 Bitcoin spot ETFs are like investment funds for Bitcoin, and they're managed by big financial companies like BlackRock and Fidelity. But here's the thing: it's hard to check if they really have the bitcoin they say they do. It's a bit like a mystery box.

@@ -21,7 +21,7 @@ Are you looking for an alternative operating system (OS) for your phone to use B
 
 * **CalyxOS:** CalyxOS is another Android-based OS that focuses on privacy and security. Even though it is only supported by a limited number of devices, it is one of the best options for a Google-free OS while having regular system updates. [Check it out at CalyxOS](https://calyxos.org/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7v6IiaMhOys?si=QR9w-79yhNvyXZnv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/7v6IiaMhOys?si=QR9w-79yhNvyXZnv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## App Stores for Privacy
 

@@ -267,7 +267,7 @@ The Bitcoin blockchain is a transparent ledger of all transactions that took pla
 
 But this doesn’t contradict the privacy-preserving properties of Bitcoin. If you choose to make a budget auditable, you can. The private keys give you the possibility to stay private or to reveal data. If you self custody your bitcoin, you decide. This is how Bitcoin empowers individuals and keeps authorities in check.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sl4Yr9fBqQ4?start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/sl4Yr9fBqQ4?start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How Bitcoin Fixes the Right to Equality
 
@@ -282,7 +282,7 @@ You read that correctly: privacy is one of the human rights mentioned in the dec
 
 Financial surveillance and control seem to be the goals of institutions like the BIS. In 2021, the general manager, Agustín Carstens, [said in regards to central bank digital currencies (CBDCs)](https://bitcoinist.com/the-bis-wants-absolute-control-of-your-money-via-central-bank-digital-currencies/):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9FM4Fu2ujDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/9FM4Fu2ujDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](_15-bis-100usd.png)
 
@@ -337,7 +337,7 @@ This happened in Nigeria [during the EndSARS](https://bitcoinmagazine.com/cultur
 ![](_23-nigeria-demonstration.png)
 [Source](https://qz.com/africa/1922466/how-bitcoin-powered-nigerias-endsars-protests), [source two](https://anita.link/88)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BH-XqzmavQo?start=2713" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/BH-XqzmavQo?start=2713" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How Bitcoin fixes Freedom of Association
 
