@@ -1,7 +1,7 @@
 ---
-title: Send a message
+title: Donate
 thumbnail: _Anita-Profile-small.jpg
-keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
+keywords: "Donate, Support, Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
 ---
 
 # Ways to Support Anita Posch and Bitcoin for Fairness
