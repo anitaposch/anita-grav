@@ -94,25 +94,25 @@
 
                             {% if article.header.external_link and article.header.external_link != '' %}
                                 <a href="{{ article.header.external_link }}" target="_blank" rel="noopener noreferrer"
-                                   class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                   class="block w-24 h-16 md:w-40 md:h-24 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
                                     <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                 </a>
                             {% else %}
                                 {% if article.header.routes.default %}
                                     <a href="{{ article.header.routes.default }}"
-                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                       class="block w-24 h-16 md:w-40 md:h-24 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
                                         <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% else %}
                                     <a href="{{ article.url }}"
-                                       class="block w-16 h-16 md:w-32 md:h-32 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                       class="block w-24 h-16 md:w-40 md:h-24 rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
                                         <img src="{{ thumbnail_url }}" alt="{{ article.title }}" class="w-full h-full object-cover">
                                     </a>
                                 {% endif %}
                             {% endif %}
                         {% else %}
                             <!-- Placeholder when no thumbnail -->
-                            <div class="w-16 h-16 md:w-32 md:h-32 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                            <div class="w-24 h-16 md:w-40 md:h-24 rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
                                 <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
                                 </svg>

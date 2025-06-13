@@ -1439,9 +1439,6 @@ select {
 .w-1\/2 {
   width: 50%;
 }
-.w-16 {
-  width: 4rem;
-}
 .w-24 {
   width: 6rem;
 }
@@ -2576,8 +2573,8 @@ body{
     display: none;
   }
 
-  .md\:h-32 {
-    height: 8rem;
+  .md\:h-24 {
+    height: 6rem;
   }
 
   .md\:h-8 {
@@ -2592,8 +2589,8 @@ body{
     width: 50%;
   }
 
-  .md\:w-32 {
-    width: 8rem;
+  .md\:w-40 {
+    width: 10rem;
   }
 
   .md\:w-8 {
