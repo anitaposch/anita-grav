@@ -63,4 +63,4 @@ main_menu:
       - title: Social Media
         url: '/about#social-media'
       - title: RSS Feed
-        url: '/blog.rss'
+        url: '/feed.rss'
