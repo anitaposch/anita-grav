@@ -23,7 +23,7 @@ After a quick shower, we made our way to JW Marriott, battling heavy traffic and
 
 Sessions started a bit late, so we briefly joined the fireside chat with Jack Dorsey before heading to my panel on 'Unlocking Funding: Bitcoin Project Grants from HRF, Open Sats, and B-trust'. The session was packed, seems like funding for projects draws in a crowd!
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069377?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-17"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069377?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-17"></iframe></div>
 
 We ran into Erick from Tanzania, one of the first Crack the Orange students from 2023. Thanks to Prince Akpah, we managed to get him a ticket for the conference.
 
@@ -31,7 +31,7 @@ After lunch, we went back to the hustle and bustle, hanging in the VIP lounge, h
 
 Next, we attended my BTC DADA: Opportunities for Women in the Bitcoin Ecosystem panel with Renata, Mogashni, and Ella, which was moderated by Marcel.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069185?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069185?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-1"></iframe></div>
 
 After the panel, we hung out with Meron, Paoles, and their group by the pool area. We exchanged experiences about scammers in the Bitcoin space.
 

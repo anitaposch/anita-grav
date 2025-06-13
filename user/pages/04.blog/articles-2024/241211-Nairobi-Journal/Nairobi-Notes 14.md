@@ -29,7 +29,7 @@ We caught up with Humphrey, who shared his plans to move to Livingstone. I encou
 
 At the ABC Social Impact Award [our work with Bitcoin for Fairness was recognized as 2nd runner-up](https://bffbtc.org/abc-social-impact-award/), winning 1 million sats, which will be donated to Bitcoin Zambia.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038441548?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241211-17"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038441548?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241211-17"></iframe></div>
 
 On our way out, we ran into the Bitcoin Babies team and confirmed the time and location for the project visit scheduled for the next day.
 

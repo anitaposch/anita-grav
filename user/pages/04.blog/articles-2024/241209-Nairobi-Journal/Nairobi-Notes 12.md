@@ -29,11 +29,11 @@ During the interview with Meron we hit a
 
 Next, it was time for my session, which went really well with a great turnout. We filmed the session and took photos. The nice thing was that Humphrey from [Bitcoin Zambia](https://bffbtc.org/bff-zambia/) and [Bitcoin Victoria Falls](https://bffbtc.org/bitcoin-victoria-falls/) was in attendance, and he was excited to hear about our plans to visit Zambia in March 2025. I shared with him how Bitcoin for Fairness facilitates the Alby Lightning node to collect donations.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714288?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-7"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714288?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-7"></iframe></div>
 
 Afterwards, we met Daniel from Fairdeeds, and I signed his surfboard for the ABC2024 event.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714242?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714242?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-2"></iframe></div>
 
 We then had an informal chat with an Austrian working in Bitcoin mining in Malawi to get to know each other better. I shared about a mining operation in Zimbabwe and our plans to bring Bitaxe miners to the country. 
 
@@ -44,7 +44,7 @@ At the conference, I had a good conversation with a fellow entrepreneur, where w
 We then went across the JW Marriott to the mall to grab a bite to eat, finding a place with some vegetarian Maki to relax a bit. Afterwards, we mingled with a few familiar faces, and suddenly Jack Dorsey was standing next to us chatting with someone. I joined the conversation, Jack Dorsey recognized me and asked how I was doing. I shared my goal for early 2025 to bring Bitcoin knowledge to opposition movements across the continent. After that great conversation, we felt it wouldn’t get any better at the crowded dinner event and we were tired, so we decided to head home.
 
 Jack Dorsey on stage at the ABC.
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038075647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-24"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038075647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-24"></iframe></div>
 
 We ended the evening in our apartment with a small cheese snack, some nuts, and a sip of wine.
 

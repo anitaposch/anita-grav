@@ -17,7 +17,7 @@ template: article
 
 After a short night, I woke up feeling a bit off, but we both managed to squeeze in our first swim in the pool. The morning flew by with scheduling meetings and sending feedback to Bitcoin Zambia on their application.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034579061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241129-3-driving-buses"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034579061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241129-3-driving-buses"></iframe></div>
 
 By midday, we went to The Promenade/The Garage co-working space (very impressive) to meet with Marcel Lorraine, founder of Bitcoin Dada. We had a great conversation about the Nairobi and African Bitcoin scene. 
 

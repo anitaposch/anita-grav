@@ -29,7 +29,7 @@ Next, we went to Java Coffee for a treat. I enjoyed a Banana Split, and Martina 
 
 We then called a Bolt and headed home, but the Nairobi traffic (around 6 pm) was intense. During the long ride, the driver, Martin, introduced us to some popular Kenyan music. It wasn’t our favorite, but it was better than the church music playing earlier!
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1035845490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241203-9"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1035845490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241203-9"></iframe></div>
 
 Finally, we made it home, enjoyed a cold drink, and caught up on some work.
 

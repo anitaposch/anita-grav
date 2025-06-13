@@ -29,7 +29,7 @@ By 3 pm, we left for the Friends of BITSACCO meeting at Waitabit Coffee in Gigir
 
 Before leaving, we bought 10 BITSACCO shares worth KES 10,000 and received limited edition tote bags from Mary. After a nerve wrecking long wait for BOLT, we headed to Sarit Shopping Center in Westlands to buy groceries and gifts for Austria, spending most of our KES cash.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036960928?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241206-7"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036960928?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241206-7"></iframe></div>
 
 Arriving home late with a female BOLT driver, we faced Tando payment issues but luckily had just enough cash to settle the ride. There's always a little bit of stress involved in pioneering Lightning payments all over Africa. Back at the flat, we managed to recharge the tokens and got the power back on. We enjoyed some reheated leftovers for dinner.
 

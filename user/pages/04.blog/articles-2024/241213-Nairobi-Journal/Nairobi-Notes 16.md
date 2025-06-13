@@ -21,7 +21,7 @@ Winnie arrived for a final massage session, making sure we felt refreshed and re
 
 Martina cooked a delicious lunch at the flat, giving us a chance to enjoy one last homemade meal together in Nairobi.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041543859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241213-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041543859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241213-1"></iframe></div>
 
 At 1:30 pm, we left and made our way to the airport, ready for the long journey back to Europe. It marked the end of an incredible time in Nairobi, full of meaningful connections, inspiring projects, and memorable experiences.
 

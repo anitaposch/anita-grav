@@ -13,7 +13,7 @@ template: article
 
 # Bitcoin and Human Rights - Why Bitcoin is a crucial tool for the civil society
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1021723485?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bitcoin &amp; Human Rights: What 99% Are Getting Wrong | Keynote BTC Prague 2024"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1021723485?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bitcoin &amp; Human Rights: What 99% Are Getting Wrong | Keynote BTC Prague 2024"></iframe></div>
 
 In this talk at the BTC Prague conference in 2024 I discuss the powerful connection between Bitcoin and human rights, highlighting what 99% of people are getting wrong. Learn how Bitcoin empowers people in the global South, supports freedom of speech, and offers financial inclusion. Watch now to see why Bitcoin is crucial for human rights activists!
 

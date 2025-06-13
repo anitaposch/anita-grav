@@ -19,11 +19,11 @@ I traveled to Nairobi to attend the Africa Bitcoin conference and connect with t
 
 We landed early in the morning at Jomo Kenyatta International Airport, happy to see all our luggage had arrived safely. Immigration granted me a 1-month visa and Martina a 3-month visa - why the difference? We have no idea. After a 45-minute Uber ride through Nairobi’s lively streets, we reached our AirBnB in Kileleshwa. We spent the morning settling in and getting familiar with our new space.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034628921?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241127-traffic"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034628921?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241127-traffic"></iframe></div>
 
 Later, we downloaded the [Tando.me app](https://tando.me/) on Martina's phone and headed to Carrefour Westgate for grocery shopping. On the way, we tried tipping our Uber driver, Solomon, using Tando and M-PESA. Our first attempt failed, but after contacting Sabina from Tando, we gained access to a Beta testing environment. While we didn’t get it set up in time to pay at Carrefour, we successfully tipped our Uber driver on the ride back to the AirBnB.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034125222?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2024-11-27 16-15-21  Taxi Tando MPesa 2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034125222?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2024-11-27 16-15-21  Taxi Tando MPesa 2"></iframe></div>
 
 Back home, we were happy to find that drinking water we ordered had already been delivered to our door. We wrapped up the day by cooking a nice dinner, and Martina tried Tusker, a local Kenyan beer with an elephant logo, marking the start of our Kenyan adventure.
 
@@ -41,7 +41,7 @@ In the afternoon, we explored the neighborhood, chatting with street vendors and
 
 After a short night, I woke up feeling a bit off, but we both managed to squeeze in our first swim in the pool. The morning flew by with scheduling meetings and sending feedback to Bitcoin Zambia on their application.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034579061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241129-3-driving-buses"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034579061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241129-3-driving-buses"></iframe></div>
 
 By midday, we went to The Promenade/The Garage co-working space (very impressive) to meet with Marcel Lorraine, founder of Bitcoin Dada. We had a great conversation about the Nairobi and African Bitcoin scene. 
 
@@ -69,7 +69,7 @@ After the meetup, we enjoyed drinks, pizza, and took a group photo. Then, Sharon
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/JUMuOBXKo70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034887313?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241130-11"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1034887313?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241130-11"></iframe></div>
 
 The day wrapped up with a visit to ‘Big Fish’ restaurant, where we enjoyed local Tilapia fish with Ugali (the local sadza) and vegetables with Marcel and Sharon reflecting on a busy but exciting day.
 
@@ -78,7 +78,7 @@ The day wrapped up with a visit to ‘Big Fish’ restaurant, where we enjoyed l
 
 We started the day with some exercise, like gymnastics and swimming, all before the lift in the building stopped working - and we are at the 9th floor! The morning was relaxed with coffee, breakfast, and some correspondence. We also organized drinking water and booked an appointment for a massage with Sarah, a Bitcoin DADA scholar recommended by Marcel.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1035462542?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241201-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1035462542?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241201-1"></iframe></div>
 
 The massage was much different to what we expected from the description, we paid Sarah directly with bitcoin. Her story as a Bitcoin DADA scholar was quite impressive. Her business is listed on BTCmap and she is passionate about spreading Bitcoin knowledge to her friends, family, and future generations. She even bought her car with bitcoin.
 
@@ -116,7 +116,7 @@ Next, we went to Java Coffee for a treat. I enjoyed a Banana Split, and Martina 
 
 We then called a Bolt and headed home, but the Nairobi traffic (around 6 pm) was intense. During the long ride, the driver, Martin, introduced us to some popular Kenyan music. It wasn’t our favorite, but it was better than the church music playing earlier!
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1035845490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241203-9"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1035845490?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241203-9"></iframe></div>
 
 Finally, we made it home, enjoyed a cold drink, and caught up on some work.
 
@@ -124,11 +124,11 @@ Finally, we made it home, enjoyed a cold drink, and caught up on some work.
 
 Waking up at 6 am, we caught the sunrise for the first time since arriving in Nairobi, enjoying the view from the rooftop of our apartment. I spent the morning uploading videos and photos from yesterday, as the connection is faster in the morning. Martina took care of some laundry, and we got into our morning routine. The morning was spent on correspondence and finalizing our new grant application, only to find out that applications were closed for now - Bummer! We concluded that everything has its reason and decided to submit some other time. We prepared a delicious breakfast/lunch with plantains, veggies, rice leftovers, avocado, a fried egg, and baguette. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036235541?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241204-11"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036235541?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241204-11"></iframe></div>
 
 Later we went out with a Bolt taxi to go for a walk to the Arboretum. The driver told us there is only one entrance we can use, which proved to be wrong - he probably just made an extra 100 KES! We started paying the 600 KES entrance fee each with Tando, but the M-Pesa payment process was reversed, meaning Tando couldn't be used. Fortunately, a young woman in the queue behind us offered to help and paid for us, and we transferred the 1200 KES via Tando to her M-Pesa account. When we got the receipt, I realized I had actually paid 1250 KES, with the extra 50 KES being hidden transfer charges. We turned around and gave the friendly woman 100 KES in cash to make up for it. Once inside, we explored, enjoying the monkeys, butterflies, and trees, though there was significant pollution, especially along the river walk.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036235549?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241204-6"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036235549?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241204-6"></iframe></div>
 
 At 4 pm, we met with Abubakar Nur Khalil, CEO of BTrust at Java Coffee House by a petrol station around the exit from the Arboretum, where we had initially planned to enter earlier, but the Bolt driver told us it wouldn't be possible ;) We had nice coffee again at Java Coffee House and a great catch-up with Abubakar in a rather unusual meeting place at the petrol station. We discussed technical stuff, various wallets, the space in general, and our upcoming workshop at ABC2024.
 
@@ -162,7 +162,7 @@ By 3 pm, we left for the Friends of BITSACCO meeting at Waitabit Coffee in Gigir
 
 Before leaving, we bought 10 BITSACCO shares worth KES 10,000 and received limited edition tote bags from Mary. After a nerve wrecking long wait for BOLT, we headed to Sarit Shopping Center in Westlands to buy groceries and gifts for Austria, spending most of our KES cash.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036960928?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241206-7"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036960928?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241206-7"></iframe></div>
 
 Arriving home late with a female BOLT driver, we faced Tando payment issues but luckily had just enough cash to settle the ride. There's always a little bit of stress involved in pioneering Lightning payments all over Africa. Back at the flat, we managed to recharge the tokens and got the power back on. We enjoyed some reheated leftovers for dinner.
 
@@ -174,11 +174,11 @@ Back at the flat for a shower, laundry, and some correspondence. I worked on my 
 
 For lunch, we headed to Big Fish in Church Street, Westlands via Bolt. We had local Tilapia from Lake Victoria, served with Ugali and greens, and enjoyed refreshing non-alcoholic cocktails with pineapple, mint, and coconut. All paid with bitcoin and Tando. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037015626?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241207-2-eating-local-fish"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037015626?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241207-2-eating-local-fish"></iframe></div>
 
 We took some shots and videos of Westlands before reaching the noisy petrol station environment where the coffee shop was located. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037015636?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241207-8"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037015636?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241207-8"></iframe></div>
 
 At 4:00 PM, Winnie, the massage therapist, returned. We enjoyed a relaxing massage and paid Winnie with bitcoin and Tando into her M-Pesa account. Martina then went up to the rooftop to watch the sunset - finally, no clouds! 
 
@@ -208,11 +208,11 @@ As I was discussing the difficulties of Internet access in Zimbabwe, she also to
 
 Next, it was time for my session, which went really well with a great turnout. We filmed the session and took photos. The nice thing was that Humphrey from [Bitcoin Zambia](https://bffbtc.org/bff-zambia/) and [Bitcoin Victoria Falls](https://bffbtc.org/bitcoin-victoria-falls/) was in attendance, and he was excited to hear about our plans to visit Zambia in March 2025. I shared with him how Bitcoin for Fairness facilitates the Alby Lightning node to collect donations.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714288?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-7"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714288?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-7"></iframe></div>
 
 Afterwards, we met Daniel from Fairdeeds, and I signed his surfboard for the ABC2024 event.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714242?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037714242?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241209-2"></iframe></div>
 
 We then had an informal chat with an Austrian working in Bitcoin mining in Malawi to get to know each other better. I shared about a mining operation in Zimbabwe and our plans to bring Bitaxe miners to the country. 
 
@@ -223,7 +223,7 @@ At the conference, I had a good conversation with a fellow entrepreneur, where w
 We then went across the JW Marriott to the mall to grab a bite to eat, finding a place with some vegetarian Maki to relax a bit. Afterwards, we mingled with a few familiar faces, and suddenly Jack Dorsey was standing next to us chatting with someone. I joined the conversation, Jack Dorsey recognized me and asked how I was doing. I shared my goal for early 2025 to bring Bitcoin knowledge to opposition movements across the continent. After that great conversation, we felt it wouldn’t get any better at the crowded dinner event and we were tired, so we decided to head home.
 
 Jack Dorsey on stage at the ABC.
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038075647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-24"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038075647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-24"></iframe></div>
 
 We ended the evening in our apartment with a small cheese snack, some nuts, and a sip of wine.
 
@@ -237,7 +237,7 @@ After a quick shower, we made our way to JW Marriott, battling heavy traffic and
 
 Sessions started a bit late, so we briefly joined the fireside chat with Jack Dorsey before heading to my panel on 'Unlocking Funding: Bitcoin Project Grants from HRF, Open Sats, and B-trust'. The session was packed, seems like funding for projects draws in a crowd!
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069377?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-17"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069377?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-17"></iframe></div>
 
 We ran into Erick from Tanzania, one of the first Crack the Orange students from 2023. Thanks to Prince Akpah, we managed to get him a ticket for the conference.
 
@@ -245,7 +245,7 @@ After lunch, we went back to the hustle and bustle, hanging in the VIP lounge, h
 
 Next, we attended my BTC DADA: Opportunities for Women in the Bitcoin Ecosystem panel with Renata, Mogashni, and Ella, which was moderated by Marcel.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069185?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038069185?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241210-1"></iframe></div>
 
 After the panel, we hung out with Meron, Paoles, and their group by the pool area. We exchanged experiences about scammers in the Bitcoin space.
 
@@ -267,7 +267,7 @@ We caught up with Humphrey, who shared his plans to move to Livingstone. I encou
 
 At the ABC Social Impact Award [our work with Bitcoin for Fairness was recognized as 2nd runner-up](https://bffbtc.org/abc-social-impact-award/), winning 1 million sats, which will be donated to Bitcoin Zambia.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038441548?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241211-17"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038441548?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241211-17"></iframe></div>
 
 On our way out, we ran into the Bitcoin Babies team and confirmed the time and location for the project visit scheduled for the next day.
 
@@ -275,15 +275,15 @@ On our way out, we ran into the Bitcoin Babies team and confirmed the time and l
 
 Around 10:30 am, we headed out to the Bitcoin Babies gathering in Kimbo at Best Ever Garden. I had the idea of ordering a comfortable Uber taxi instead of a cheap Bolt one, because of the length of the journey, and our driver, Camlus and his car, turned out to be wonderful - as the gravel road and potholes were challenging for driver and passengers. He ended up spending the entire day with us, and I compensated him generously for his time and excellent service. Of course I paid in bitcoin via Tando.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824329?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-19"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824329?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-19"></iframe></div>
 
 At the gathering, we met the Bitcoin Babies founders - Naomi, Ramon, and Veronicah, the lead for Bitcoin Babies in Nairobi. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824066?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-25-1-Naomi-Veronica-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824066?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-25-1-Naomi-Veronica-1"></iframe></div>
 
 We were introduced to the mothers and children involved in the Bitcoin Babies initiative, as well as some of the merchants accepting Bitcoin payments. I interviewed Naomi and Veronicah while many photos were taken to capture the moments. We all enjoyed a relaxed lunch together.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-36"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-36"></iframe></div>
 
 After lunch, we visited the merchants who accept Bitcoin payments. An inspiring and at the same time exhausting experience in the heat of the day.
 
@@ -307,6 +307,6 @@ Winnie arrived for a final massage session, making sure we felt refreshed and re
 
 Martina cooked a delicious lunch at the flat, giving us a chance to enjoy one last homemade meal together in Nairobi.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041543859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241213-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041543859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241213-1"></iframe></div>
 
 At 1:30 pm, we left and made our way to the airport, ready for the long journey back to Europe. It marked the end of an incredible time in Nairobi, full of meaningful connections, inspiring projects, and memorable experiences.

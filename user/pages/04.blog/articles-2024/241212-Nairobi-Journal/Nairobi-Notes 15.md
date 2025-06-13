@@ -17,15 +17,15 @@ template: article
 
 Around 10:30 am, we headed out to the Bitcoin Babies gathering in Kimbo at Best Ever Garden. I had the idea of ordering a comfortable Uber taxi instead of a cheap Bolt one, because of the length of the journey, and our driver, Camlus and his car, turned out to be wonderful - as the gravel road and potholes were challenging for driver and passengers. He ended up spending the entire day with us, and I compensated him generously for his time and excellent service. Of course I paid in bitcoin via Tando.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824329?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-19"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824329?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-19"></iframe></div>
 
 At the gathering, we met the Bitcoin Babies founders - Naomi, Ramon, and Veronicah, the lead for Bitcoin Babies in Nairobi. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824066?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-25-1-Naomi-Veronica-1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824066?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-25-1-Naomi-Veronica-1"></iframe></div>
 
 We were introduced to the mothers and children involved in the Bitcoin Babies initiative, as well as some of the merchants accepting Bitcoin payments. I interviewed Naomi and Veronicah while many photos were taken to capture the moments. We all enjoyed a relaxed lunch together.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-36"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038824280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="241212-36"></iframe></div>
 
 After lunch, we visited the merchants who accept Bitcoin payments. An inspiring and at the same time exhausting experience in the heat of the day.
 
