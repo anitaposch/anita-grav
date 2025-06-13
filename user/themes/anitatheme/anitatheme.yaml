@@ -47,7 +47,7 @@ main_menu:
       - title: Media
         url: '/category/features'
       - title: Donate
-        url: '#'
+        url: '/donate'
       - title: Now
         url: '/category/now'
   - title: Newsletter
