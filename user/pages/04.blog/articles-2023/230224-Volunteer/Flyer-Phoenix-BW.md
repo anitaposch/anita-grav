@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Flyer Update: moving to Phoenix Wallet for Lightning"
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Earn Bitcoin]
+    tags: [Blog, Learn Bitcoin, Earn bitcoin]
 routes:
     default: '/bff-flyer-23'
 date: 2023-03-13 08:40

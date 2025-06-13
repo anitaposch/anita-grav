@@ -9,6 +9,7 @@ dateformat: 'Y-m-d H:i'
 summary: Updated the Bitcoin flyer, a short intro to using Bitcoin for meetups and beginners. With Blue Wallet and Phoenix. Available in Francais, Slovak, Deutsch and Portuguese Brazilian.
 thumbnail: assets/_BFF-EN-Bitcoin-flyer-page2.JPG
 template: article
+published: false
 ---
 
 # Bitcoin flyer in French, German, Slovak and Portuguese Brazilian
