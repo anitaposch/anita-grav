@@ -16,5 +16,7 @@ summary:
 redirects: null
 routes:
   '/category/(.+)': '/category'
+  '/feed': '/blog'
+  '/feed.rss': '/blog.rss'
 blog:
   route: /blog
