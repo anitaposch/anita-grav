@@ -38,6 +38,7 @@
     <link rel="alternate" type="application/rss+xml" title="Anita Posch Blog Feed" href="{{ base_url }}/feed.rss" />
 </head>
 <body class="h-full {{ page.header.body_classes|e }}">
+{% include 'partials/matomo.html.twig' %}
 
 {% block header %}
     {% include 'partials/navbar.html.twig' %}
