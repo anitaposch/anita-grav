@@ -4,7 +4,7 @@ taxonomy:
     tags: [Blog, Learn Bitcoin, Earn bitcoin]
 routes:
     default: '/bitcoin-flyer-francais-deutsch-slovak'
-date: 2023-04-01
+date: 2023-04-01 10:00
 dateformat: 'Y-m-d H:i'
 summary: Updated the Bitcoin flyer, a short intro to using Bitcoin for meetups and beginners. With Blue Wallet and Phoenix. Available in Francais, Slovak, Deutsch and Portuguese Brazilian.
 thumbnail: assets/_BFF-EN-Bitcoin-flyer-page2.JPG

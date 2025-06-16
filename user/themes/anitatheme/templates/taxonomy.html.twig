@@ -39,7 +39,7 @@
         {% set tagged_articles = [] %}
         {% if current_tag and current_tag != 'category' %}
             {% for article in all_articles %}
-                {% if article.taxonomy.tags %}
+                {% if not (article.header.published is defined and article.header.published == false) and article.taxonomy.tags %}
                     {% for tag in article.taxonomy.tags %}
                         <!-- Compare both original and URL-friendly versions -->
                         {% set tag_slug = tag|lower|replace({' ': '-'}) %}

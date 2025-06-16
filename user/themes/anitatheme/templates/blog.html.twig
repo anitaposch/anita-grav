@@ -11,7 +11,9 @@
         {% for year_folder in year_folders %}
             <!-- Get all articles within each year folder -->
             {% for article in year_folder.children() %}
-                {% set all_articles = all_articles|merge([article]) %}
+                {% if not (article.header.published is defined and article.header.published == false) %}
+                    {% set all_articles = all_articles|merge([article]) %}
+                {% endif %}
             {% endfor %}
         {% endfor %}
 
