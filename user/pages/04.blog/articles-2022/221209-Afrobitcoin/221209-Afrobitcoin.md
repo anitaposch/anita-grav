@@ -1,7 +1,7 @@
 ---
 title: First African Bitcoin only Conference sowing the seeds for further adoption
 taxonomy:
-    tags: [Blog, Ghana, Bitcoin in Africa, On the ground]
+    tags: [Blog, Bitcoin in Africa, On the Ground]
 routes:
     default: '/afrobitcoin-22'
 date: 2022-12-09 12:40

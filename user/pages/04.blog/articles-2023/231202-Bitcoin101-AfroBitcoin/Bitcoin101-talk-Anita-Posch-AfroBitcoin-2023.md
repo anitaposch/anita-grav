@@ -1,7 +1,7 @@
 ---
 title: Slides Bitcoin 101 - Africa Bitcoin Conference 2023
 taxonomy:
-    tags: [Blog, Talks, Learn Bitcoin, On the ground]
+    tags: [Blog, Talks, Learn Bitcoin, On the Ground]
 routes:
     default: '/bitcoin-101-Africa-conference'
 date: 2023-12-02 11:00

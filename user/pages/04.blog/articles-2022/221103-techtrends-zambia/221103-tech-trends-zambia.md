@@ -1,7 +1,7 @@
 ---
 title: Anita Posch on Techtrends Zambia
 taxonomy:
-    tags: [Features, Blog, Zambia]
+    tags: [Features, Blog, Bitcoin in Africa]
 routes:
     default: '/zambia-techtrends-bitcoin'
 date: 2022-11-03 11:40

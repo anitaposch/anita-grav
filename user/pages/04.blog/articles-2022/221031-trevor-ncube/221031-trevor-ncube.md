@@ -1,7 +1,7 @@
 ---
 title: Anita Posch on influential Zimbabwean YouTube channel
 taxonomy:
-    tags: [Features, Blog, Zimbabwe, On the ground]
+    tags: [Features, Blog, Bitcoin in Africa, On the Ground]
 routes:
     default: '/conversation-with-trevor-ncube'
 date: 2022-10-31 11:40

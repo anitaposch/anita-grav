@@ -1,7 +1,7 @@
 ---
 title: Nairobi Journal
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Kenya, On the ground]
+    tags: [Blog, Bitcoin in Africa, On the Ground]
 routes:
     default: '/nairobi-journal-241213'
 date: 2025-02-17 11:00

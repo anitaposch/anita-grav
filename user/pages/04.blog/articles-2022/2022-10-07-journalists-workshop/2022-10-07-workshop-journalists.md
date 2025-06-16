@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Workshop for Journalists in Zambia
 taxonomy:
-    tags: [Blog, Zambia, On the Ground, Talks]
+    tags: [Blog, Bitcoin in Africa, On the Ground, Talks]
 routes:
     default: '/bitcoin-journalists-zambia'
 date: 2022-10-10 10:55

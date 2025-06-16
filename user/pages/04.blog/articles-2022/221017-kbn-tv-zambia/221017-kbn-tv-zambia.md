@@ -1,7 +1,7 @@
 ---
 title: Talking about Bitcoin mining in Zambia
 taxonomy:
-    tags: [Features, Blog, Zambia]
+    tags: [Features, Blog, Bitcoin in Africa]
 routes:
     default: '/kbn-tv-zambia'
 date: 2022-10-17 14:40

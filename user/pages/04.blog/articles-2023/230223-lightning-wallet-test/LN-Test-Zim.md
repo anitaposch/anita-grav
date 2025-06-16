@@ -1,7 +1,7 @@
 ---
 title: "Review: The best Lightning wallets for slow internet 2023"
 taxonomy:
-    tags: [Blog, Lightning Network, Bitcoin in Africa, Wallets, On the ground]
+    tags: [Blog, Lightning Network, Bitcoin in Africa, Wallets, On the Ground]
 routes:
     default: '/lnw23'
 date: 2023-02-23 12:40

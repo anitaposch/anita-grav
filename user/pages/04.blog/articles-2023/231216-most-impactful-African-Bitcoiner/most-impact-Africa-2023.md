@@ -1,7 +1,7 @@
 ---
-title: #7 Most Impactful African Bitcoiner
+title: Anita Posch Seventh Most Impactful African Bitcoiner
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, On the ground]
+    tags: [Blog, Bitcoin in Africa, On the Ground]
 routes:
     default: '/impactful-african-bitcoiner-2023'
 date: 2023-12-15 08:00
@@ -11,7 +11,7 @@ thumbnail: _Thumbnail-Most-Impactful-African-Bitcoiner.jpeg
 template: article
 ---
 
-# #7 Most Impactful African Bitcoiner
+# Seventh Most Impactful African Bitcoiner
 
 I'm thrilled to share that I've been recognized as the #7 Most Impactful African Bitcoiner of the year 2023. This is the [second time after 2022 I have been in the top 10](https://anitaposch.com/impactful-african-bitcoiner-22). This honor is not only a personal achievement but also reflects the growing impact of Bitcoin in Africa. 
 

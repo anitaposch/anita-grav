@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Flyer in Shona
 taxonomy:
-    tags: [Blog, Learn Bitcoin]
+    tags: [Blog, Learn Bitcoin, Bitcoin in Africa]
 routes:
     default: '/bitcoin-flyer-shona'
 date: 2023-05-07, 13:00

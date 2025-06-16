@@ -1,7 +1,7 @@
 ---
 title: "Nairobi Journal: Africa Bitcoin Conference and Project Visits in Kenya"
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Kenya]
+    tags: [Blog, Bitcoin in Africa]
 routes:
     default: '/nairobi-journal-2024'
 date: 2025-01-30 11:00

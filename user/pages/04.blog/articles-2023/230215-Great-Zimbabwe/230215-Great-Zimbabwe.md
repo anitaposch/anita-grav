@@ -1,7 +1,7 @@
 ---
 title: Great Zimbabwe second biggest monument in Africa
 taxonomy:
-    tags: [Blog, Zimbabwe, On the ground, Commentary]
+    tags: [Blog, Bitcoin in Africa, On the Ground, Commentary]
 routes:
     default: '/great-zimbabwe'
 date: 2023-02-15 12:40

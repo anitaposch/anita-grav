@@ -1,7 +1,7 @@
 ---
 title: "\"In Conversation with Trevor\" the first Zimbabwean podcast to receive bitcoin payments"
 taxonomy:
-    tags: [Blog, Zimbabwe, Earn bitcoin, Freedom Tech]
+    tags: [Blog, Bitcoin in Africa, Earn bitcoin, Freedom Tech]
 routes:
     default: '/icwt-bitcoin-enabled'
 date: 2022-11-10 11:30

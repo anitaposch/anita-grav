@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Bitcoin Payments in Kenya - Interview with Tando Founders
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Lightning Network, Perspectives, On the ground]
+    tags: [Blog, Bitcoin in Africa, Lightning Network, Perspectives, On the Ground]
 routes:
     default: '/tando-kenya'
 date: 2025-03-10 12:00

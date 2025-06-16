@@ -1,7 +1,7 @@
 ---
 title: "Message to Zimbabweans: \"Bitcoin should be the currency of choice\""
 taxonomy:
-    tags: [Blog, Features, Zimbabwe]
+    tags: [Blog, Features, Bitcoin in Africa]
 routes:
     default: '/newsday-zimbabwe'
 date: 2022-11-04 11:30

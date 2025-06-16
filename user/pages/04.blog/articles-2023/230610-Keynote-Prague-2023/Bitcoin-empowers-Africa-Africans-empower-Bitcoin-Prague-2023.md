@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Empowers Africa and Africans Empower Bitcoin
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Talks, On the ground]
+    tags: [Blog, Bitcoin in Africa, Talks, On the Ground]
 routes:
     default: '/Bitcoin-Africa-Keynote-Prague'
 date: 2023-06-11 8:00

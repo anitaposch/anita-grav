@@ -1,7 +1,7 @@
 ---
-title: #5 Most Impactful African Bitcoiner
+title: Anita Posch Fifth Most Impactful African Bitcoiner
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, On the ground]
+    tags: [Blog, Bitcoin in Africa, On the Ground]
 routes:
     default: '/impactful-african-bitcoiner-22'
 date: 2022-12-26 11:00
@@ -11,7 +11,7 @@ thumbnail: _Thumbnail-Most-Impactful-African-Bitcoiner-2022.jpeg
 template: article
 ---
 
-# #5 Most Impactful African Bitcoiner
+# Fifth Most Impactful African Bitcoiner
 
 I'm happy to share that I've been recognized as the #5 Most Impactful African Bitcoiner of the year 2022. 
 

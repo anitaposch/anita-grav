@@ -1,7 +1,7 @@
 ---
 title: Bitcoin price surges during a war on cash in Nigeria
 taxonomy:
-    tags: [Blog, Nigeria, Bitcoin in Africa, Perspectives]
+    tags: [Blog, Bitcoin in Africa, Perspectives]
 routes:
     default: '/nigeria-bitcoin-naira-2023'
 date: 2023-02-03 10:40
