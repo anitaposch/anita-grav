@@ -4,4 +4,10 @@
     <div class="content prose max-w-4xl pt-24">
         {{ page.content|raw }}
     </div>
+    
+    {% if page.header.blog_latest %}
+        <div class="mx-auto max-w-4xl mt-12">
+            {% include 'modular/blog-latest.html.twig' %}
+        </div>
+    {% endif %}
 {% endblock %}
