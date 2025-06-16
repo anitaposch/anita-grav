@@ -1,7 +1,7 @@
 ---
 title: 5th Bitcoin for Fairness Meetup in Lusaka, Zambia
 taxonomy:
-    tags: [Blog, Ghana, Bitcoin in Africa]
+    tags: [Blog, Ghana, Bitcoin in Africa, On the ground]
 routes:
     default: '/BFF-meetup-zambia-5'
 date: 2022-12-17 20:12

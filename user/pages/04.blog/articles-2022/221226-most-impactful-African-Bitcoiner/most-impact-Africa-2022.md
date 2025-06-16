@@ -1,7 +1,7 @@
 ---
 title: #5 Most Impactful African Bitcoiner
 taxonomy:
-    tags: [Blog, Bitcoin in Africa]
+    tags: [Blog, Bitcoin in Africa, On the ground]
 routes:
     default: '/impactful-african-bitcoiner-22'
 date: 2022-12-26 11:00

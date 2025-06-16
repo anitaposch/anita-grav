@@ -1,7 +1,7 @@
 ---
 title: The Bitcoin Community in Zambia is Growing
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Zambia]
+    tags: [Blog, Bitcoin in Africa, Zambia, On the ground]
 routes:
     default: '/7th-bitcoin-meetup-zambia'
 date: 2023-04-16 8:00

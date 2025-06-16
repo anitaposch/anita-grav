@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Technology Center \"BTC\" in Edwinase community near Kumasi"
 taxonomy:
-    tags: [Blog, Ghana, Bitcoin in Africa]
+    tags: [Blog, Ghana, Bitcoin in Africa, On the ground]
 routes:
     default: '/bitcoin-technology-center-ghana'
 date: 2022-12-10 12:40

@@ -1,7 +1,7 @@
 ---
 title: Cypherpunks’ Code Enforces Human Rights
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Features]
+    tags: [Blog, Bitcoin in Africa, Features, Talks]
 routes:
     default: '/cypherpunks-talk-prague-23'
 date: 2023-05-21 8:00

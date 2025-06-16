@@ -1,7 +1,7 @@
 ---
 title: Sending Bitcoin without Internet
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Learn Bitcoin]
+    tags: [Blog, Bitcoin in Africa, Learn Bitcoin, Freedom Tech]
 routes:
     default: '/bitcoin-works-without-internet'
 date: 2022-10-09 13:55

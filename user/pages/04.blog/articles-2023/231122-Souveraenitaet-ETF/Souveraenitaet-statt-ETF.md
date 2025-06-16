@@ -1,7 +1,7 @@
 ---
 title: Bitcoin, Souveränität statt ETF Investment
 taxonomy:
-    tags: [Blog, Deutsch]
+    tags: [Blog, Deutsch, Perspectives]
 routes:
     default: '/bitcoin-soveraenitaet-statt-ETF-investment'
 date: 2023-11-21 0:10

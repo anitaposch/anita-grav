@@ -1,7 +1,7 @@
 ---
 title: "A black raised fist on my book cover - a \"bold choice\""
 taxonomy:
-    tags: [Blog]
+    tags: [Blog, Commentary, Freedom Tech]
 routes:
     default: '/bitcoin-colonialism'
 date: 2022-10-04 18:30

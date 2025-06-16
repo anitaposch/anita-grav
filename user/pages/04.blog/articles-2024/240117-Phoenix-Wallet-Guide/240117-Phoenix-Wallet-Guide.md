@@ -1,7 +1,7 @@
 ---
 title: Lightning Self-Custody for Beginners with Phoenix Wallet
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Lightning, Wallets]
+    tags: [Blog, Learn Bitcoin, Lightning Network, Wallets]
 routes:
     default: '/lightning-self-custody-phoenix'
 date: 2024-01-17 12:00

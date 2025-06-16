@@ -1,7 +1,7 @@
 ---
 title: Why are we bullish? Lyn Alden, Anita Posch, Steve Lubka
 taxonomy:
-    tags: [Blog, Features]
+    tags: [Blog, Features, Learn Bitcoin]
 routes:
     default: '/bullish-lyn-alden'
 date: 2023-10-01 8:00

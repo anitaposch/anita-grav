@@ -1,7 +1,7 @@
 ---
 title: Countries where people suffer the most from currency depreciation
 taxonomy:
-    tags: [Blog, Ghana, Zimbabwe, Bitcoin in Africa, Inflation]
+    tags: [Blog, Ghana, Zimbabwe, Bitcoin in Africa, Perspectives]
 routes:
     default: '/worst-currencies-nov22'
 date: 2022-12-04 09:40

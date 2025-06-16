@@ -1,7 +1,7 @@
 ---
 title: Education on Zambian TV Show
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Features, Zambia]
+    tags: [Blog, Bitcoin in Africa, Features, Zambia, On the ground]
 routes:
     default: '/zambia-education-TV'
 date: 2023-05-20 8:00

@@ -1,7 +1,7 @@
 ---
 title: Bitcoin, ein Instrument für Freiheit und finanzielle Selbstbestimmung
 taxonomy:
-    tags: [Blog, Deutsch]
+    tags: [Blog, Deutsch, Freedom Tech]
 routes:
     default: '/bitcoin-grundlagen-humanitaere-bedeutung'
 date: 2023-11-08 6:00

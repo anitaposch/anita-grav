@@ -1,7 +1,7 @@
 ---
 title: "Video Documentary: How Bitcoin Enforces Human Rights"
 taxonomy:
-    tags: [Blog, Features, Human Rights]
+    tags: [Blog, Features, Human Rights, Perspectives]
 routes:
     default: '/btc-human-rights-video'
 date: 2022-12-16 12:40

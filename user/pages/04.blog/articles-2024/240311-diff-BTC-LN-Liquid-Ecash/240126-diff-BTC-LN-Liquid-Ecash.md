@@ -1,7 +1,7 @@
 ---
 title: A Non-Technical Explainer of Bitcoin, Lightning, Liquid, and E-Cash
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Lightning, Wallets, Liquid, E-Cash]
+    tags: [Blog, Learn Bitcoin, Lightning Network, Wallets, Liquid, E-Cash]
 routes:
     default: '/difference-bitcoin-lightning-liquid-ecash'
 date: 2024-01-26 12:00

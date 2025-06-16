@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Flyer in Spanish
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Earn bitcoin]
+    tags: [Blog, Learn Bitcoin]
 routes:
     default: '/bitcoin-flyer-spanish'
 date: 2023-05-11, 14:00
@@ -9,6 +9,7 @@ dateformat: 'Y-m-d H:i'
 summary: The Bitcoin flyer, a short intro to using Bitcoin for meetups and beginners is available in Spanish now.
 thumbnail: _BFF-Flyer-in-Spanish-1.jpeg
 template: article
+published: false
 ---
 
 # Bitcoin Flyer in Spanish

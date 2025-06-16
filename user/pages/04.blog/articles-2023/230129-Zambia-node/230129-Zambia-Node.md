@@ -1,7 +1,7 @@
 ---
 title: First Bitcoin and Lightning node in Zambia
 taxonomy:
-    tags: [Blog, Zambia, Bitcoin in Africa]
+    tags: [Blog, Zambia, Bitcoin in Africa, Freedom Tech, On the ground]
 routes:
     default: '/zambia-bitcoin-node'
 date: 2023-01-29 12:40

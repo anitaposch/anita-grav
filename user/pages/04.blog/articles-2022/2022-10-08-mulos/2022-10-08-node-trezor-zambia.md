@@ -1,7 +1,7 @@
 ---
 title: A Bitcoin node and Trezor hardware wallets for Zambia
 taxonomy:
-    tags: [Blog, Zambia, Nomad Diary]
+    tags: [Blog, Zambia, On the ground]
 routes:
     default: '/bitcoin-node-trezor-zambia'
 date: 2022-10-10 13:55

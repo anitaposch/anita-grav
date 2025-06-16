@@ -1,13 +1,13 @@
 ---
 title: Unjust Systems Prevail, Social Change is Rare
 taxonomy:
-    tags: [Blog]
+    tags: [Blog, Commentary]
 routes:
     default: '/unjust'
 date: 2024-03-30 10:00
 dateformat: 'Y-m-d H:i'
 summary: "People are rationalizing the status quo even if it's to their detriment. System justification makes change happen rarely."
-thumbnail: ../../assets/_Featured-Image-BLOG.png
+thumbnail: _Featured-Image-BLOG.png
 template: article
 ---
 
@@ -17,7 +17,7 @@ template: article
 
 In the past few years, I've devoted nearly 12 months to Zimbabwe, sharing knowledge about Bitcoin, introducing people to it, and helping establish local meetup groups. I was also a guest on one of the country's largest YouTube shows, discussing how Bitcoin can address the need for a global, permissionless currency and serve as a savings tool in a country plagued by inflation and financial controls for over 30 years.
 
-![](../../assets/_Featured-Image-BLOG.png)
+![](_Featured-Image-BLOG.png)
 
 Turns out: there hasn't been any significant change. Unlike neighboring countries such as Zambia and South Africa, I struggled to encourage regular meetups or local initiatives aimed at promoting the concept of freedom money. While many individuals did enhance their understanding, it's disheartening that Bitcoin online groups ended up echoing the ideology prevalent on US-based Bitcoin Twitter accounts.
 

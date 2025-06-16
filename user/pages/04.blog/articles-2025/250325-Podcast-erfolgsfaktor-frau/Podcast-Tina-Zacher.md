@@ -1,5 +1,5 @@
 ---
-title: Warum Bitcoin mehr ist als nur eine Kryptowährung - Podcast „Erfolgsfaktor Frau“
+title: Warum Bitcoin mehr ist als nur eine Kryptowährung - Anita Posch im Podcast „Erfolgsfaktor Frau“
 taxonomy:
     tags: [Blog, Deutsch, Features]
 routes:

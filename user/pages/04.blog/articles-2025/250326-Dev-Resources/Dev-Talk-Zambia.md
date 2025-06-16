@@ -1,7 +1,7 @@
 ---
 title: First BitDevs Meetup Lusaka - Introduction to Bitcoin Development by Anita Posch
 taxonomy:
-    tags: [Blog, Learn Bitcoin]
+    tags: [Blog, Learn Bitcoin, On the ground, Talks]
 routes:
     default: '/bitcoin-devs-start'
 date: 2025-03-26 12:00

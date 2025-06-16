@@ -1,7 +1,7 @@
 ---
 title: Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Features, Human Rights]
+    tags: [Blog, Learn Bitcoin, Features, Human Rights, Perspectives]
 routes:
     default: '/bitcoin-enforces-human-rights'
 date: 2022-11-28 16:30

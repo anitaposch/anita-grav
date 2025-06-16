@@ -1,7 +1,7 @@
 ---
 title: Great Zimbabwe second biggest monument in Africa
 taxonomy:
-    tags: [Blog, Zimbabwe]
+    tags: [Blog, Zimbabwe, On the ground, Commentary]
 routes:
     default: '/great-zimbabwe'
 date: 2023-02-15 12:40
@@ -15,7 +15,7 @@ template: article
 # Great Zimbabwe second biggest monument in Africa
 
 
-Great Zimbabwe, the place I chose for my **soon to be released** [Lightning wallet test](/lightning-self-custody-wallets-2023) isn't just any place. It's the second largest monument in Africa after the Egyptian pyramides.
+Great Zimbabwe, the place I chose for my [Lightning wallet test](/lightning-self-custody-wallets-2023) isn't just any place. It's the second largest monument in Africa after the Egyptian pyramides.
 
 Great Zimbabwe is the name of stone ruins of an ancient city. After the Egyptian pyramides, the ruins of Great Zimbabwe are the second largest monument in Africa. It has been abandoned in the 15th century and is a rural and lightly populated area today. 10,000-20,000 people lived in Great Zimbabwe, which was built around 1100 C.E.. It was part of a large and wealthy global trading network, with trading connections up and down the east African coast reaching to China, Persia and Arabia. 
 

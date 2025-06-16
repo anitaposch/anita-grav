@@ -1,7 +1,7 @@
 ---
 title: Hosted a Bitcoin for Fairness Meetup in Accra, Ghana
 taxonomy:
-    tags: [Blog, Ghana, Bitcoin in Africa]
+    tags: [Blog, Ghana, Bitcoin in Africa, On the ground]
 routes:
     default: '/BFF-meetup-ghana'
 date: 2022-12-12 12:12

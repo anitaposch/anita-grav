@@ -1,7 +1,7 @@
 ---
 title: "Podcast: On the Access Tribe Podcast"
 taxonomy:
-    tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin]
+    tags: [Blog, Bitcoin in Africa, Learn Bitcoin, Features]
 routes:
     default: '/podcast-access-tribe'
 date: 2024-02-21 18:00
@@ -19,8 +19,6 @@ This is an interview with me, Anita Posch from the Access Tribe podcast. During 
 
 Access Tribe will inspire, educate, and connect you with other women in the Bitcoin world, accelerating your learning journey and opening the door of opportunity.
 
-## BTC Podcasting
-The Anita Posch Show is hosted on [BTC Podcasting](https://btcpodcasting.com/), a Bitcoin for Fairness project, where you can host your podcast for free and at the same time earn bitcoin. Prior solutions required that the host is running their own Lightning node, which is no easy task. At BTC Podcasting we’re working together with Alby to make earning bitcoin accessible for anyone.
 
 ## How to Listen to My Podcast
 This is a [Value4Value](https://value4value.info/) bitcoin enabled podcast. This means you can use a lightning wallet like Breez on your phone and send some satoshis to me while listening to the episode. I’m adding images and links to the episode chapters, you can see them on [the Breez app](https://breez.technology/), too. It’s a podcast app and a non-custodial bitcoin wallet, with a lightning node running on your phone! (available for Android and iOS)

@@ -1,7 +1,7 @@
 ---
 title: Slides Bitcoin 101 - Africa Bitcoin Conference 2023
 taxonomy:
-    tags: [Blog, Talks, Learn Bitcoin, Mining]
+    tags: [Blog, Talks, Learn Bitcoin, On the ground]
 routes:
     default: '/bitcoin-101-Africa-conference'
 date: 2023-12-02 11:00
@@ -31,8 +31,3 @@ You are welcome to [use my slides](https://docs.google.com/presentation/d/1uV4Pe
 * What is Bitcoin's fixed supply?
 * Why are the transaction fees so important?
 
-
-> Of course, there is a lot more to learn about Bitcoin.
-> * Join my Bitcoin learning platform [Crack The Orange](https://cracktheorange.com)
-> * Read my book "(L)EARN BITCOIN": https://learnbitcoin.link/
-> * Subscribe to my weekly newsletter: https://anitaposch.com/newsletter

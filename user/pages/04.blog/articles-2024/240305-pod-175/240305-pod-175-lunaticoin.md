@@ -1,7 +1,7 @@
 ---
-title: "Podcast: Financial Empowerment"
+title: "Podcast: Anita Posch about Financial Empowerment on Lunaticoin"
 taxonomy:
-    tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin]
+    tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin, Freedom Tech]
 routes:
     default: '/podcast-financial-empowerment'
 date: 2024-03-05 18:00
@@ -22,8 +22,4 @@ This is a [Value4Value](https://value4value.info/) bitcoin enabled podcast. This
 
 Search for The Anita Posch Show inside your podcast app or add the RSS feed directly and subscribe to my show. The URL for the [RSS Feed](https://btcpodcasting.com/@anitaposch/feed.xml) is [https://btcpodcasting.com/@anitaposch/feed.xml](https://btcpodcasting.com/@anitaposch/feed.xml).
 
-## Do you want to learn more about Bitcoin? 
 
-> * Subscribe to my weekly newsletter: [The Orange Journal](https://anita.link/news)
-> * Join my Bitcoin learning platform [Crack The Orange](https://cracktheorange.com) and I'll give you all the tools and knowledge you need to use Bitcoin in a secure way.
-> * Read my book [(L)EARN BITCOIN](https://learnbitcoin.link/)

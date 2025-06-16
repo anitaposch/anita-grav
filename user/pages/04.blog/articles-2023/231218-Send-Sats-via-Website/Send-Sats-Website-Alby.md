@@ -1,7 +1,7 @@
 ---
 title: Fast and easy payments with bitcoin - Let people send sats via your website
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Lightning]
+    tags: [Blog, Learn Bitcoin, Lightning Network, Earn bitcoin]
 routes:
     default: '/send-sats-website'
 date: 2023-12-18 07:00

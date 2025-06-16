@@ -1,7 +1,7 @@
 ---
 title: Bitcoin setzt Menschenrechte durch
 taxonomy:
-    tags: [Blog, Deutsch, Features]
+    tags: [Blog, Deutsch, Features, Human Rights]
 routes:
     default: '/was-Bitcoin-bringt-2023'
 date: 2023-10-10 8:00

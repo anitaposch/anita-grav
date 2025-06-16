@@ -1,7 +1,7 @@
 ---
 title: Upgrade your existing Phoenix Wallet for Splicing
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Lightning, Wallets]
+    tags: [Blog, Learn Bitcoin, Lightning Network, Wallets]
 routes:
     default: '/lightning-phoenix-upgrade'
 date: 2024-02-15 12:00

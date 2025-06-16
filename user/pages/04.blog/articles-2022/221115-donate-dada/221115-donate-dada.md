@@ -1,7 +1,7 @@
 ---
 title: Empowering female Bitcoin educators in Africa
 taxonomy:
-    tags: [Blog, Bitcoin in Africa]
+    tags: [Blog, Bitcoin in Africa, On the ground]
 routes:
     default: '/more-women-bitcoin'
 date: 2022-11-15 10:30

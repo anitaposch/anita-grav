@@ -1,7 +1,7 @@
 ---
 title: "Earn bitcoin on Stacker News: People asked and I answered"
 taxonomy:
-    tags: [Blog, Features, Earn bitcoin]
+    tags: [Blog, Features, Earn bitcoin, Commentary]
 routes:
     default: '/ama-stacker-news'
 date: 2022-11-11 11:30

@@ -1,7 +1,7 @@
 ---
 title: "Can't Afford Bitcoin Self-Custody? Start Saving Small Amounts with this Strategy"
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Wallets, Lightning, Liquid]
+    tags: [Blog, Learn Bitcoin, Wallets, Lightning Network, Liquid]
 routes:
     default: '/save-small-amounts-bitcoin'
 date: 2024-03-25 18:00

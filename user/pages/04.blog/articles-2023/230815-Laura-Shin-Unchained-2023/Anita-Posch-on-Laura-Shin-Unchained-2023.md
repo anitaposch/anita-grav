@@ -1,7 +1,7 @@
 ---
 title: "Why ‘Bitcoin Is a Tool for Freedom’ - Especially in Africa: Guest at Laura Shin's Unchained Podcast"
 taxonomy:
-    tags: [Blog, Features, Bitcoin in Africa]
+    tags: [Blog, Features, Bitcoin in Africa, Freedom Tech]
 routes:
     default: '/guest-laura-shin-unchained'
 date: 2023-08-15 8:00

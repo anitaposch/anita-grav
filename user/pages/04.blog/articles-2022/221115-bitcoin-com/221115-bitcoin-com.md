@@ -1,7 +1,7 @@
 ---
 title: Bitcoin.com launches Verse token
 taxonomy:
-    tags: [Blog, Learn Bitcoin]
+    tags: [Blog, Learn Bitcoin, Commentary]
 routes:
     default: '/bitcoin-dot-com'
 date: 2022-11-15 12:30

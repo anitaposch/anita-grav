@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin als Zahlungsmittel gescheitert: Stimmt das?"
 taxonomy:
-    tags: [Blog, Deutsch, Features]
+    tags: [Blog, Deutsch, Features, Commentary]
 routes:
     default: '/bitcoin-zahlungen-analyse-2025'
 date: 2025-03-03 15:00

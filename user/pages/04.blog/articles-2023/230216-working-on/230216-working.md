@@ -9,6 +9,7 @@ dateformat: 'Y-m-d H:i'
 summary: "You might wonder why I haven't produced a podcast episode in recent weeks, even if you're not, here's a short update from me."
 thumbnail: _middlenowhere.jpg
 template: article
+published: false
 ---
 
 

@@ -9,6 +9,7 @@ dateformat: 'Y-m-d H:i'
 summary: "\"Bitcoin has failed, it'll never serve people in areas with no Internet\" is something you'll hear often. Read why this is wrong in this article."
 thumbnail: _230211-technology-distribution-1676114336080.jpeg
 template: article
+published: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Bitcoin For Fairness Review 2023
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Show]
+    tags: [Blog, Bitcoin in Africa, Show, Review]
 routes:
     default: '/podcast-bitcoin-review-2023-173'
 date: 2023-12-26 10:00

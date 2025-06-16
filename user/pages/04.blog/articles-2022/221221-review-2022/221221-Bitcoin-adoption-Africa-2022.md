@@ -1,7 +1,7 @@
 ---
 title: "Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa"
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Show]
+    tags: [Blog, Bitcoin in Africa, Show, Review]
 routes:
     default: '/bitcoin-africa-review-2022'
 date: 2022-12-28 16:00

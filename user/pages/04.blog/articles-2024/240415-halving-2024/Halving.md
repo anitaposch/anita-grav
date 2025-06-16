@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Halving 2024: What You Need to Know"
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Economics, Inflation]
+    tags: [Blog, Learn Bitcoin, Mining]
 routes:
     default: '/bitcoin-halving'
 date: 2024-04-15 12:00

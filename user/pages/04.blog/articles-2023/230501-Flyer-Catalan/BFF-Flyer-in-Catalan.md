@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Flyer in Catalan
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Earn bitcoin]
+    tags: [Blog, Learn Bitcoin]
 routes:
     default: '/bitcoin-flyer-catalan'
 date: 2023-05-01, 13:00

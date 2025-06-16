@@ -1,7 +1,7 @@
 ---
 title: Bitcoin and Human Rights - Why Bitcoin is a crucial tool for the civil society
 taxonomy:
-    tags: [Blog, Talks, Human Rights]
+    tags: [Blog, Talks, Human Rights, Perspectives]
 routes:
     default: '/bitcoin-and-human-rights'
 date: 2024-06-14 12:00

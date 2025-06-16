@@ -9,6 +9,7 @@ dateformat: 'Y-m-d H:i'
 summary: Explore the world of Bitcoin with the Anita Posch AI Bot, a user-friendly tool designed to provide AI-generated answers backed by my extensive resources.
 thumbnail: _Thumbnail-Anita-Posch-AI-Bot.jpeg
 template: article
+published: false
 ---
 
 # Introducing the Anita Posch AI Bot: Your Personal Bitcoin Educator

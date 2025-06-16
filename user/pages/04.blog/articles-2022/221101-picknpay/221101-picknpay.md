@@ -1,7 +1,7 @@
 ---
 title: Paying your groceries with bitcoin in South Africa
 taxonomy:
-    tags: [Blog, South Africa]
+    tags: [Blog, South Africa, On the ground, Perspectives]
 routes:
     default: '/picknpay-southafrica-accept-bitcoin'
 date: 2022-11-01 18:35

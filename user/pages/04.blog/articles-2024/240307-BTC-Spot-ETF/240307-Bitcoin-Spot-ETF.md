@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Spot ETF? Discussion: Curse Or Blessing For Bitcoin Adoption?"
 taxonomy:
-    tags: [Blog, Learn Bitcoin]
+    tags: [Blog, Learn Bitcoin, Commentary]
 routes:
     default: '/bitcoin-spot-etf'
 date: 2024-03-07 18:00
@@ -28,12 +28,3 @@ I don’t like the idea of Bitcoin spot ETFs. They turn Bitcoin into "paper bitc
 
 ## Conclusion
 While Bitcoin spot ETFs might sound like a good idea for bringing Bitcoin into the mainstream, they come with risks that could go against what Bitcoin stands for. Let's not forget the original purpose of Bitcoin and ensure it remains a tool for financial freedom, not a new playground for large institutions.
-
-## Do you want to learn more about Bitcoin? 
-
-> * Subscribe to my weekly newsletter: [The Orange Journal](https://anita.link/news)
-> * Join my Bitcoin learning platform [Crack The Orange](https://cracktheorange.com) and I'll give you all the tools and knowledge you need to use Bitcoin in a secure way.
-> * Read my book [(L)EARN BITCOIN](https://learnbitcoin.link/)
-
-
-

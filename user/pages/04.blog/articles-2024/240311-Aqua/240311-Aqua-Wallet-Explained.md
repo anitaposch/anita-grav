@@ -1,7 +1,7 @@
 ---
 title: "AQUA Wallet Explained: Is It Right For You?"
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Wallets, Lightning, Liquid]
+    tags: [Blog, Learn Bitcoin, Wallets, Lightning Network, Liquid]
 routes:
     default: '/aqua-wallet-explained'
 date: 2024-03-11 18:00

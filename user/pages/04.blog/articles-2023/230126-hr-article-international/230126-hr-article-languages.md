@@ -1,7 +1,7 @@
 ---
 title: Bitcoin and Human Rights Article goes international
 taxonomy:
-    tags: [Blog, Human Rights, Deutsch]
+    tags: [Blog, Human Rights, Deutsch, Perspectives]
 routes:
     default: '/btc-human-rights-international'
 date: 2023-01-26 09:00

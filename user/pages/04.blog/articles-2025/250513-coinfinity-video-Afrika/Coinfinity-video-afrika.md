@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Stories: Anita Posch unterwegs in Afrika"
 taxonomy:
-    tags: [Blog, Deutsch, Features]
+    tags: [Blog, Deutsch, Features, Bitcoin in Africa]
 routes:
     default: '/bitcoin-afrika-kenia'
 date: 2025-05-13 10:00

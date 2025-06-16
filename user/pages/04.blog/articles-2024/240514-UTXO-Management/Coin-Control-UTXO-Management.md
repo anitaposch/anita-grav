@@ -1,7 +1,7 @@
 ---
 title: The Importance of UTXO Management aka Coin Control
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Earn bitcoin, Wallets]
+    tags: [Blog, Learn Bitcoin, Wallets]
 routes:
     default: '/coincontrol-utxo-management'
 date: 2024-05-14 12:00

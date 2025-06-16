@@ -1,7 +1,7 @@
 ---
-title: "The Future of the Internet Is Decentralized and  Nostr Could Play an Important Role"
+title: "The Future of the Internet Is Decentralized and Nostr Could Play an Important Role"
 taxonomy:
-    tags: [Blog, Nostr]
+    tags: [Blog, Nostr, Freedom Tech]
 routes:
     default: '/nostr'
 date: 2023-04-04 08:40

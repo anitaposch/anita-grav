@@ -1,7 +1,7 @@
 ---
 title: Aprenda Bitcoin - Book in Portuguese
 taxonomy:
-    tags: [Blog, Book, Nomad Diary]
+    tags: [Blog, Book]
 routes:
     default: '/aprenda-bitcoin-portuguese'
 date: 2022-10-18 13:55

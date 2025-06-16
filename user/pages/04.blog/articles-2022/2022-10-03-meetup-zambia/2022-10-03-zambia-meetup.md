@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Meetup in Zambia
 taxonomy:
-    tags: [Blog, Zambia, Nomad Diary]
+    tags: [Blog, Zambia, On the ground]
 routes:
     default: '/bitcoin-meetup-zambia'
 date: 2022-10-03 23:55

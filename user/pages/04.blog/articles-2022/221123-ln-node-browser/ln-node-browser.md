@@ -1,7 +1,7 @@
 ---
 title: Lightning Node in a Browser
 taxonomy:
-    tags: [Blog, Learn Bitcoin]
+    tags: [Blog, Learn Bitcoin, Freedom Tech]
 routes:
     default: '/lightning-node-browser'
 date: 2022-11-23 16:30

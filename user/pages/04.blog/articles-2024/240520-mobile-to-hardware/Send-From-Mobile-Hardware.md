@@ -1,7 +1,7 @@
 ---
 title: Send Bitcoin From Mobile Wallet To Hardware Wallet and Navigate High Fees
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Wallets, Privacy]
+    tags: [Blog, Learn Bitcoin, Wallets]
 routes:
     default: '/send-bitcoin-mobile-hardware'
 date: 2024-05-20 12:00

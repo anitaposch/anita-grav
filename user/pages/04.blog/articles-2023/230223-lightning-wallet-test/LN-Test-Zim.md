@@ -1,7 +1,7 @@
 ---
 title: "Review: The best Lightning wallets for slow internet 2023"
 taxonomy:
-    tags: [Blog, Lightning, Bitcoin in Africa, Wallets]
+    tags: [Blog, Lightning Network, Bitcoin in Africa, Wallets, On the ground]
 routes:
     default: '/lnw23'
 date: 2023-02-23 12:40
@@ -152,5 +152,3 @@ Non-custodial Lightning wallets might be a little less convenient to use and com
 
 Furthermore, I am optimistic that Bitcoin developers and entrepreneurs will find solutions to make self-custody even more convenient and lower the barrier of entry in the coming years.
 
------
-Get a slice of Bitcoin wisdom delivered to your inbox weekly: https://anita.link/weekly

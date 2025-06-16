@@ -8,6 +8,7 @@ dateformat: 'Y-m-d H:i'
 summary: "You've received a decent amount of satoshis and want to change it to Bitcoin? Here is  how you can swap Lightning to on-chain with low fees."
 thumbnail: 
 template: article
+published: false
 ---
 
 ## Swap out lightning to on-chain

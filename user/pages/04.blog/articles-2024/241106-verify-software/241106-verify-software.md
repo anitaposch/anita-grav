@@ -1,7 +1,7 @@
 ---
 title: "How to Verify Bitcoin Wallet Software: A Security Guide for Mac and Windows Users | 2024"
 taxonomy:
-    tags: [Blog, Security, Wallets]
+    tags: [Blog, Security, Wallets, Freedom Tech]
 routes:
     default: '/verify-bitcoin-wallet-software'
 date: 2024-11-06 23:30

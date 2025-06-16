@@ -1,7 +1,7 @@
 ---
 title: Start using Bitcoin in 5 Minutes
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Earn bitcoin]
+    tags: [Blog, Learn Bitcoin, Wallets]
 routes:
     default: '/bitcoin-blue-wallet-setup'
 date: 2022-10-28 14:30

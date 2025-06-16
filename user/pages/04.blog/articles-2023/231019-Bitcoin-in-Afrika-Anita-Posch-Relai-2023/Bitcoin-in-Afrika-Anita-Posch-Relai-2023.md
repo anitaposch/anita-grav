@@ -1,7 +1,7 @@
 ---
 title: Bitcoin, Afrika und Menschenrechte
 taxonomy:
-    tags: [Blog, Deutsch, Features]
+    tags: [Blog, Deutsch, Features, Human Rights]
 routes:
     default: '/Bitcoin-in-Afrika-Relai-Podcast-2023'
 date: 2023-10-19 18:00

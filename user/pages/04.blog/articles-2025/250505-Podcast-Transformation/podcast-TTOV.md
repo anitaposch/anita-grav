@@ -1,7 +1,7 @@
 ---
 title: Can Africa Become Financially Sovereign? With Anita Posch
 taxonomy:
-    tags: [Blog, Features]
+    tags: [Blog, Features, Bitcoin in Africa]
 routes:
     default: '/podcast-transformation-of-value'
 date: 2025-05-05 10:00
