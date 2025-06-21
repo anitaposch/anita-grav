@@ -17,7 +17,7 @@ Meet Jörg Platzer, co-founder of Room77 in Berlin, the very first bar in the wo
 
 This episode was recorded on Sept 1, 2021.
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/joerg-platzer-room77/embed/dark"></iframe>
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25701&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 > “I wanted to have Bitcoin, I failed at mining, so why not just put on a sign and accept it.” – Jörg Platzer
 
@@ -52,10 +52,4 @@ Topics:
 
 ### How to listen to my podcast
 
-This is a [Value4Value](https://value4value.info) bitcoin enabled podcast. This means you can use a lightning wallet like Breez on your phone and send some satoshis to me while listening to the episode. I'm adding images and links to the episode chapters, you can see them on [the Breez app](https://breez.technology), too. It's a podcast app and a non-custodial bitcoin wallet, with a lightning node running on your phone! (available for Android and iOS)
-
-Search for The Anita Posch Show inside the podcast app or add the RSS feed directly and subscribe to my show. The URL for the [RSS Feed](https://btcpodcasting.com/@anitaposch/feed.xml) is https://btcpodcasting.com/@anitaposch/feed.xml. 
-
----
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/geyser), send sats to our lightning address bff@geyser.fund or send fiat money on [Patreon](https://patreon.com/anitaposch).
-
+This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
