@@ -1,441 +1,434 @@
 ---
-title: Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
-taxonomy:
+title: Kupinga Mfumo wa Pesa Za Serikali Unaoweza Kupotoshwa, Bitcoin Inalinda Haki za Binadamu za Ulimwengu Wote:
     tags: [Blog, Learn Bitcoin, Features, Human Rights]
 routes:
-    default: '/bitcoin-enforces-human-rights'
-date: 2022-11-28 16:30
+    default: '/swahilih-bitcoin-enforces-human-rights'
+date: 2025-06-28 16:30
 dateformat: 'Y-m-d H:i'
-summary: "This is the most important article I've written for Bitcoin Magazine so far. It outlines how the properties of Bitcoin allow it to protect the human rights of people around the world, as outlined by the United Nations."
+summary: "Hii ndiyo makala muhimu zaidi ambayo nimeandika hadi sasa kwa Bitcoin Magazine. Inaeleza jinsi sifa za Bitcoin zinavyoiwezesha kulinda haki za binadamu kwa watu duniani kote, kama ilivyobainishwa na Umoja wa Mataifa."
 thumbnail: _1-eleanor-roosevelt.png
 template: article
 ---
 
-# Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
+# Bitcoin ni Dhamira ya Kupinga Udhalimu wa Fedha - Na inalenga kulinda Haki za Binadamu Duniani Kote
 
-> You can listen to this article it's [episode 166 "How Bitcoin Enforces Human Rights"](https://anitaposch.com/podcast-bitcoin-enforces-human-rights-166).
+> Unaweza Sikiliza makala hii kupitia [episode 166 "How Bitcoin Enforces Human Rights"](https://anitaposch.com/podcast-bitcoin-enforces-human-rights-166).
 
-In 2022, European politicians formed an initiative with the goal of [banning proof-of-work mining](https://www.coindesk.com/policy/2021/11/02/unpacking-europes-looming-mica-crypto-regulation/) because of its high electricity consumption. The underlying goal is to blame Bitcoin for damaging the environment, when it’s - as they claim - just a tool for useless speculation.
-
+Mnamo 2022, wanasiasa wa Uropa waliunda mpango kwa lengo la [Kupiga marufuku Uchimbaji wa Bitcoin](https://www.coindesk.com/policy/2021/11/02/unpacking-europes-looming-mica-crypto-regulation/) kwa sababu ya matumizi yake makubwa ya umeme. Lengo la msingi ni kulaumu Bitcoin kwa kuharibu mazingira, wakati ni - kama wanavyodai - ni zana tu ya uvumi usio na maana.
 ![](_Bitcoin-Human-Rights.png)
 
-> This article was originally published on [Bitcoin Magazine](https://bitcoinmagazine.com/culture/bitcoin-enforces-universal-human-rights) by BTC Inc.
+> Makala hii ilichapishwa hapo awali [Bitcoin Magazine](https://bitcoinmagazine.com/culture/bitcoin-enforces-universal-human-rights) by BTC Inc.
 
-In 2021, the co-founder of Ripple, which [advertises itself](https://ripple.com/xrp/) as having better qualities than bitcoin, [donated $5 million](https://bitcoinmagazine.com/culture/greenpeace-environment-attacks-help-bitcoin) to support Greenpeace USA with a campaign called “Clean Up the Code.” It attempts to lobby Bitcoin developers to change the mining mechanism from proof of work to proof of stake, which would supposedly reduce its power consumption by 99%. With Ethereum moving from proof of work to proof of stake recently, these actors feel they have seen their theory confirmed and are trying to lobby against Bitcoin even more.
+Mnamo 2021, mwanzilishi mwenza wa Ripple, ambayo [kama ilivyo tangazwa](https://ripple.com/xrp/) kuwa na sifa bora kuliko bitcoin, [ilichangiwa dola za kimarekani milioni 5](https://bitcoinmagazine.com/culture/greenpeace-environment-attacks-help-bitcoin) kusaidia Greenpeace USA na kampeni inayoitwa "Safisha Kanuni." Inajaribu kushawishi watengenezaji wa Bitcoin kubadilisha utaratibu wa uchimbaji madini kutoka kwa uthibitisho wa kazi hadi uthibitisho wa hisa, ambayo ingepunguza matumizi yake ya nguvu kwa 99%. Pamoja na Ethereum kuhama kutoka kwa uthibitisho wa kazi hadi uthibitisho wa hisa hivi karibuni, watendaji hawa wanahisi wameona nadharia yao imethibitishwa na wanajaribu kushawishi dhidi ya Bitcoin hata zaidi.
 
-What they don’t mention is that the [differences between proof of work to proof of stake are huge](https://anitaposch.com/bitcoin-differences-proof-of-work-stake). These mechanisms have different goals and very different outcomes, which result in different properties of the cryptocurrencies they secure. In short: the immutability of proof of work is stronger than that of proof of stake. 
+Kitu ambacho hawakukitaja ni [tofauti baina ya Uthibitisho wa Kazi na Uthibitisho wa uekaji wa Hisa kama dhamana](https://anitaposch.com/bitcoin-differences-proof-of-work-stake). Mbinu hizi zina malengo tofauti na matokeo tofauti kabisa, ambayo husababisha tofauti katika sifa za sarafu za kidijitali zinazozilinda. Kwa ufupi: uthibitisho wa kazi (proof of work) una uthabiti mkubwa zaidi kuliko uthibitisho wa hisa (proof of stake). 
 
-Proof of work is better at producing a robust, immutable blockchain that has a fair degree of decentralization and cannot be easily tampered with, even by very rich, very influential, very powerful organizations and entities. Proof of stake doesn’t have any of these goals. It has the goal of governance in an environmentally-friendly way that still maintains decentralization but allows some flexibility of a blockchain. In the short weeks after Ethereum’s switch, the overwhelming proportion of validators started to [censor transactions following the U.S. Office of Foreign Asset Control (OFAC) sanctions list](https://cointelegraph.com/news/ethereum-inches-even-closer-to-total-censorship-due-to-ofac-compliance).
+Uthibitisho wa kazi (proof of work) ni bora zaidi katika kuunda blockchain imara na isiyoweza kubadilishwa, ambayo ina kiwango cha haki cha ugatuaji na haiwezi kuchezewa kwa urahisi hata na taasisi au mashirika yenye utajiri, ushawishi, na mamlaka makubwa. Uthibitisho wa hisa (proof of stake) hauna malengo haya. Lengo lake ni kusimamia mtandao kwa njia rafiki kwa mazingira huku ukidumisha ugatuaji, lakini pia kuruhusu blockchain kubadilika kwa kiasi fulani. Katika wiki chache tu baada ya Ethereum kubadili mfumo wake, asilimia kubwa ya walidhihirishaji (validators) ilianza [asilimia kubwa ya walidhihirishaji (validators) ilianza kuzuia miamala kwa kufuata orodha ya vikwazo ya Ofisi ya Udhibiti wa Mali za Kigeni ya Marekani (OFAC)](https://cointelegraph.com/news/ethereum-inches-even-closer-to-total-censorship-due-to-ofac-compliance).
 
-Proof of work makes Bitcoin uncensorable, immutable and permissionless. These are the properties for resistance. It’s a tool for financial self defense and a Trojan horse for freedom. Bitcoin is a silent revolution. It empowers civil resistance. It’s our only shot at finding a better money that actively enforces human rights and supports activists in their resistance against dictators and authoritarians.
+Uthibitisho wa kazi (proof of work) unafanya Bitcoin isiweze kudhibitiwa, isiweze kubadilishwa, na isiwe na vizuizi vya ruhusa. Hizi ndizo sifa kuu za uwezo wa kupinga udhalimu. Ni zana ya kujilinda kifedha, na farasi wa Troyi wa uhuru. Bitcoin ni mapinduzi ya kimya. Inaipa nguvu harakati za upinzani wa kiraia. Ni nafasi yetu pekee ya kupata mfumo bora wa fedha unaolinda haki za binadamu na kuwaunga mkono wanaharakati katika mapambano yao dhidi ya madikteta na watawala wa kimabavu.
 
-In this article, I won’t discuss energy use, because as soon as you understand the importance of Bitcoin to make the world more fair, you’ll get that the amount of energy used is off topic. You’ll understand that even better when you understand that Bitcoin mining is securing the total value stored on the blockchain and renders it the most secure network that we know of. And, on top of that, Bitcoin mining is already one of the greenest industries globally.
+Katika makala hii, sitajadili matumizi ya nishati, kwa sababu mara tu utakapofahamu umuhimu wa Bitcoin katika kuifanya dunia kuwa yenye usawa zaidi, utaelewa kuwa hoja ya matumizi ya nishati si ya msingi. Utaelewa hilo hata zaidi pale utakapotambua kuwa uchimbaji wa Bitcoin (Bitcoin mining) unalinda thamani yote iliyohifadhiwa kwenye blockchain, na kuifanya iwe mtandao salama zaidi tuliowahi kuujua. Na zaidi ya hayo, uchimbaji wa Bitcoin tayari ni miongoni mwa sekta zinazotumia nishati safi zaidi duniani.
 
-In the following, I lay out how Bitcoin enforces seven of the 30 articles mentioned in the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). It should become clear that Bitcoin is neither useless nor just a tool for speculation.
+Katika sehemu inayofuata, naeleza jinsi Bitcoin inavyotekeleza vipengele saba kati ya 30 vilivyotajwa katika[Azimio la haki za Binadamu Duniani](https://www.un.org/en/about-us/universal-declaration-of-human-rights). Inapaswa kufahamika wazi kuwa Bitcoin si kitu kisicho na maana, wala si kwa ajili ya uvumi pekee — ni teknolojia yenye matumizi ya kweli na umuhimu wa kijamii.
 
-## The Universal Declaration of Human Rights
+## Azimia la haki za Binadamu Duniani
 
-Let’s turn back time to December 1948. Three years after the end of World War II, the world was still in horror over what had happened since Germany attacked Poland in [September 1939](https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939). It started a war that lasted six years, killed approximately [80 million people](https://en.wikipedia.org/wiki/World_War_II_casualties), including [six million Jews](https://www.nationalww2museum.org/war/articles/holocaust) and many other members of minorities like Roma, Sinti, Black Germans, the differently abled, socialists, communists and homosexuals.
+Tuirudishe historia hadi Desemba 1948. Miaka mitatu baada ya kumalizika kwa Vita vya Pili vya Dunia, dunia bado ilikuwa imeshtushwa na yale yaliyotokea tangu Ujerumani ilipovamia Poland mwaka [Septemba 1939](https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939). Ilianzisha vita ambavyo vilidumu zaidi ya miaka sita kuchukua maisha ya [milioni 80](https://en.wikipedia.org/wiki/World_War_II_casualties), ukijumuisha [Wayahudi/walowezi Milioni 6](https://www.nationalww2museum.org/war/articles/holocaust) na watu wengine wengi wa makundi ya wachache kama vile Waroma, Wasinti, Wajerumani Weusi, watu wenye ulemavu, wanasoshalisti, wakomunisti na watu wanajiohusisha na mapenzi ya jinsia moja.
 
-As a consequence, the United Nations was [founded in 1945 by 51 countries](https://en.wikipedia.org/wiki/United_Nations) committed to maintaining international peace and security, developing friendly relations among nations and promoting social progress, better living standards and human rights.
+Kwa madhara haya, umoja wa mataifa uliundwa rasmi [Uliundwa mwaka 1945 na nchi  51 duniani](https://en.wikipedia.org/wiki/United_Nations) waliodhamiria kudumisha amani na usalama wa kimataifa, kukuza uhusiano wa kirafiki kati ya mataifa, na kuendeleza maendeleo ya kijamii, viwango bora vya maisha, na haki za binadamu.
 
-One of the outcomes was the Universal Declaration of Human Rights which was proclaimed on [December 10, 1948.](https://www.un.org/en/about-us/udhr/history-of-the-declaration) In succeeding decades it has been integrated into many countries’ laws and can be seen as a common standard of achievements for all peoples and all nations. It sets out, for the first time in human history, fundamental human rights to be universally protected and it has been [translated into over 500 languages](https://www.ohchr.org/en/stories/2016/11/universal-declaration-human-rights-now-available-more-500-languages-and-dialects).
+Moja ya matokeo yake ilikuwa ni Azimio la Kimataifa la Haki za Binadamu ambalo lilitangazwa tarehe. [Disemba 10, 1948.](https://www.un.org/en/about-us/udhr/history-of-the-declaration) Katika miongo iliyofuata, Azimio hili limeingizwa katika sheria za nchi nyingi na linaweza kuonekana kama kiwango cha pamoja cha mafanikio kwa watu wote na mataifa yote. Linabainisha, kwa mara ya kwanza katika historia ya binadamu, haki za msingi za binadamu ambazo zinapaswa kulindwa kote duniani, na limekuwa [imetafsiriwa kwa zaidi ya lugha 500 tofauti](https://www.ohchr.org/en/stories/2016/11/universal-declaration-human-rights-now-available-more-500-languages-and-dialects).
 
-![Eleanor Roosevelt with the Universal Declaration of Human Rights in 1949](_1-eleanor-roosevelt.png) 
+![Eleanor Roosevelt wna Azimio la haki za binadamu Duniani katika mwaka 1949](_1-eleanor-roosevelt.png) 
 [Source](https://www.flickr.com/photos/fdrlibrary/27758131387/)
 
-An UN committee chaired by [Eleanor Roosevelt](https://en.wikipedia.org/wiki/Eleanor_Roosevelt) [drafted 30 articles](https://www.un.org/en/observances/human-rights-day/women-who-shaped-the-universal-declaration). [Hansa Jivraj Mehta](https://en.wikipedia.org/wiki/Hansa_Jivraj_Mehta), an Indian educator, independence activist, feminist and writer, [was responsible](https://www.un.org/en/about-us/udhr/history-of-the-declaration) for changing the language of the Universal Declaration of Human Rights from “all men are born free and equal” to “all human beings are born free and equal,” highlighting the need for gender equality.
+Kamati ya uoja wa Mataiafa ikiongozwa [Eleanor Roosevelt](https://en.wikipedia.org/wiki/Eleanor_Roosevelt) [viliandaliwa vifungu 30](https://www.un.org/en/observances/human-rights-day/women-who-shaped-the-universal-declaration). [Hansa Jivraj Mehta](https://en.wikipedia.org/wiki/Hansa_Jivraj_Mehta), Mwanaharakati,msomi,mwandishi na mpigania uhuru mwenye asili ya Kihindi writer, [alikuwa na jukumu](https://www.un.org/en/about-us/udhr/history-of-the-declaration) kubadilisha lugha ya Azimio la Haki za Binadamu Duniani “wanadamu wote wako huru na sawa” kwa “wanadamu wote wamezaliwa wako huru na sawa,” ikilenga kutilia mkazo umuhimun wa Usawa wa Kijinsia
 
-![Indian feminist and writer Hansa Jivray Mehta](_2-hansa-jivraj-mehta.png)
+![Mwanaharakati wa Haki za Wanawake na Mwandishi mwenye asilia ya Bara Hindi Hansa Jivray Mehta](_2-hansa-jivraj-mehta.png)
 [Source](https://thelogicalindian.com/story-feed/get-inspired/dr-hansa-mehta/)
 
-The Universal Declaration of Human Rights served as a recommendation for a number of laws. Laws can be enforced or not. Laws in themselves are no guarantee that anyone is treated equally or is not being discriminated against or free from suffering under financial oppression. Contrary to human-enforced laws, a protocol that is enforced by mathematical rules built in consensus with all its users will always be non-discriminatory and provide an inclusive financial system. “Rules without rulers,” as [Andreas M. Antonopoulos says](https://youtu.be/gq-t7Ky6QmE).
+Azimio la Kimataifa la Haki za Binadamu lilitumika kama pendekezo kwa sheria mbalimbali. Sheria zinaweza kutekelezwa au zisiwepo kabisa. Sheria zenyewe si dhamana kwamba mtu yeyote atatendewa kwa usawa, hatabaguliwa, au ataepushwa na mateso ya unyanyasaji wa kifedha. Kinyume na sheria zinazotekelezwa na binadamu, mkataba unaotekelezwa na kanuni za kihisabati zilizojengwa kwa makubaliano ya pamoja kati ya watumiaji wake wote utabaki kuwa usiobagua na utatoa mfumo shirikishi wa kifedha. “Sheria bila watawala.”, kama alivyosema [Andreas M. Antonopoulos says](https://youtu.be/gq-t7Ky6QmE).
 
-The questions remain: How much electricity is the life and freedom of billions of people worth? How do people in the developed North come to decide what a good use of energy is for the South? Beyond a tool for “speculation,” isn’t Bitcoin also a great tool for privacy and financial self-sovereignty globally?
+Maswali yanaendelea kubaki: Ni kiasi gani cha umeme kina thamani ya maisha na uhuru wa mabilioni ya watu? Ni kwa namna gani watu wa Kaskazini iliyoendelea wanaweza kuamua nini ni matumizi mazuri ya nishati kwa watu wa Kusini? Zaidi ya kuwa chombo cha ‘kubahatisha bei,’ je, Bitcoin si pia nyenzo kubwa kwa faragha na uhuru wa kifedha duniani kote?
 
-Let’s take a look at the state of the world today and how this global regulatory regime came into place that is defining who has possibilities and who hasn’t.
+Hebu tuangalie hali ya dunia ya leo na jinsi utawala huu wa udhibiti wa kimataifa ulivyojitokeza ambao unaamua nani ana fursa na nani hana.
 
-## The State of the World
+## Hali ya Dunia kwa Sasa
 
-### The Unequal Distribution of Democracy
+### Mgawanyo wa Demokrasia ulivyokosa Usawa
 
-![Democracy Index, 2021](_3-democracy-index.png)
-[Source](https://en.wikipedia.org/wiki/Democracy_Index)
+![Taarifa za Demekrosia, 2021](_3-democracy-index.png)
+[Chanzo](https://en.wikipedia.org/wiki/Democracy_Index)
 
-Fifty-four percent of the global population lives in authoritarian or hybrid regimes. They don’t enjoy the privilege of living in full democracies. Only 6.4% of all people live in countries of “full democracy” like Germany, France, Austria and so on, or in the U.S. All of the others around the world are living in either flawed democracies or they are in full dictatorships or authoritarian regimes. The place where you were born largely defines the chances you’ll have in life (exceptions are rare).
+Asilimia hamsini na nne (54%) ya watu duniani wanaishi chini ya tawala za kiimla au mifumo ya mseto wa kiimla na kidemokrasia. Hawapati fursa ya kuishi katika nchi zenye demokrasia kamili. Ni asilimia 6.4 tu ya watu wote wanaoishi katika nchi zenye “demokrasia kamili” kama vile Ujerumani, Ufaransa, Austria, na kadhalika, au Marekani. Wengine wote duniani wanaishi ama katika demokrasia zenye mapungufu, au chini ya utawala wa kidikteta au wa kiimla kabisa. Mahali ulipozaliwa mara nyingi hufafanua kwa kiasi kikubwa nafasi utakazopata maishani (isipokuwa kwa nadra sana).
 
-![Map of the Democracy Index, 2021](_4-map-democracy-index.png)
-[Source](https://www.visualcapitalist.com/mapped-the-state-of-global-democracy-2022/)
+![Ramani ikionesha taarifa za Demokrasia, 2021](_4-map-democracy-index.png)
+[Chanzo](https://www.visualcapitalist.com/mapped-the-state-of-global-democracy-2022/)
 
-A look at the map of the democracy index shows a pattern to remember. The dark red areas are the countries where life is the worst, their peoples have the least freedom. The worst country per this metric is Afghanistan, followed by Myanmar, North Korea, the Democratic Republic of the Congo, Syria and the Central African Republic.
+Ramani ya Kielelezo cha Demokrasia kunaonesha mtindo wa kukumbukwa. Maeneo mekundu sana ndiyo nchi ambazo maisha ni mabaya zaidi, na watu wake wana uhuru mdogo kabisa. Kwa mujibu wa kipimo hiki, nchi iliyo katika hali mbaya zaidi ni Afghanistan, ikifuatiwa na Myanmar, Korea Kaskazini, Jamhuri ya Kidemokrasia ya Kongo, Syria na Jamhuri ya Afrika ya Kati.
 
 ### The Centers of Corruption
 
 ![Corruption Perceptions Index, 2021](_5-map-public-corruption.png)
 [Source](https://www.transparency.org/en/cpi/2021)
 
-A look on the map of political corruption shows a similar pattern. The dark red areas are stretched from the Northeast, starting in Russia and China, going over Africa and into South America. There seems to be some sort of correlation between corruption and failing democracies. That is corruption enables both human rights abuses and democratic decline. In turn, these factors lead to higher levels of corruption, setting off a vicious cycle.
+Ramani ya ufisadi wa kisiasa kunaonesha mtindo unaofanana. Maeneo mekundu sana yanatokea Kaskazini-Mashariki, yakianzia Urusi na China, yakivuka Afrika na kuingia Amerika Kusini. Kuna uhusiano fulani unaoonekana kati ya ufisadi na kushindwa kwa demokrasia. Ufisadi unachochea ukiukwaji wa haki za binadamu pamoja na kuporomoka kwa demokrasia. Nayo hali hii huongeza viwango vya ufisadi, na hivyo kuanzisha mzunguko hatari usioisha.
 
-### The Inequality of Wealth
+### Usawa Duni wa Mgawanyo wa Utajiri(Mali)
 
-![An astonishing level of inequality between the have’s and the have-not’s, 2018](_6-world-wealth-map.png)
-[Source](https://howmuch.net/articles/world-wealth-map-2018)
+![Kiwango cha kushangaza cha kutokuwepo kwa usawa wa kiuchumi kati ya waliokuwa na rasilimali na wale wasiokuwa nazo, 2018](_6-world-wealth-map.png)
+[Chanzo](https://howmuch.net/articles/world-wealth-map-2018)
 
-Finally, let’s look at the world wealth map. The same pattern is visible. In countries with dictators and authoritarian leaders, people are on average poorer, with the poorest countries being in Africa and the Middle East.
+Hatimaye, hebu tuitazame ramani ya utajiri duniani. Mtindo uleule unaonekana wazi. Katika nchi zenye watawala wa kidikteta na wa kiimla, watu huwa maskini kwa wastani, huku nchi maskini zaidi zikiwa barani Afrika na katika eneo la Mashariki ya Kati.
 
-The average net worth across the entire world indicates the enormous disparity between the developed world and everyone else. At one extreme, there are countries with net worth (with “net worth” being measured as the market value of all assets minus any outstanding debts) numbers over $500,000, and at the other extreme, there are places where people have less than $500 to their names. There is a smattering of light orange countries in between, but the worldwide map demonstrates an astonishing level of inequality between the haves and the have nots.
+Thamani ya wastani wa mali halisi duniani inaonesha tofauti kubwa sana kati ya mataifa yaliyoendelea na mataifa mengine yote. Kwa upande mmoja, kuna nchi ambazo wastani wa mali halisi (mali halisi ikimaanisha thamani ya soko ya mali zote mtu anazomiliki baada ya kutoa madeni) unazidi dola 500,000, na kwa upande mwingine, kuna maeneo ambako watu wana chini ya dola 500 kwa jina lao. Kuna nchi chache za rangi ya machungwa hafifu katikati ya viwango hivyo, lakini ramani ya dunia inaonesha kiwango cha kushangaza cha kutokuwepo kwa usawa kati ya waliokuwa na mali na wasiokuwa nayo..
 
-## A History of Monetary Power
+## Historia ya Nguvu ya Kifedha
 
-### The British Empire
+### Utawala wa Muingereza
 
-The reasons for the huge inequality are manifold. Colonialism has definitely been one of them. This map below shows the British Empire in 1910. This political and economical control enabled the United Kingdom to become the first monetary hegemon (“hegemony” refers to a single state that has decisive influence over the functions of the international monetary system). In 1910, the British pound was [still backed by gold](https://www.royalmint.com/invest/discover/gold-news/what-was-the-gold-standard/) (the gold standard meant that a portion of circulating money was backed by gold in the treasuries of banks) and everyone used it for trade.
+Sababu za kuwepo kwa tofauti kubwa ya kiuchumi ni nyingi. Ukoloni bila shaka umekuwa mojawapo ya sababu kuu. Ramani iliyo hapa chini inaonesha Milki ya Uingereza mwaka 1910. Udhibiti huu wa kisiasa na kiuchumi uliiwezesha Uingereza kuwa dola ya kwanza yenye mamlaka ya kifedha duniani (“hegemoni” ikimaanisha taifa moja lenye ushawishi mkubwa juu ya uendeshaji wa mfumo wa fedha wa kimataifa). Mwaka 1910, pauni ya Uingereza ilikuwa [bado ililindwa na dhahabu](https://www.royalmint.com/invest/discover/gold-news/what-was-the-gold-standard/) (Kiwango cha dhahabu kilimaanisha kuwa sehemu ya fedha zilizokuwa kwenye mzunguko ilikuwa imeungwa mkono na dhahabu iliyohifadhiwa katika hazina za mabenki, na kila mtu alitumia pauni hiyo kwa ajili ya biashara.
 
-![Map of the British Empire in 1910](_7-map-british-empire.png)
-[Source](https://en.wikipedia.org/wiki/British_Empire)
+![Ramani ya Utawala wa Muingereza mnamo 1910](_7-map-british-empire.png)
+[Chanzo](https://en.wikipedia.org/wiki/British_Empire)
 
-### The United States of Power
+### Nguvu za Kiutawala wa Mmarekani
 
-After the first world war, this British power faded. The second world war created a new hegemon. The U.S. had won the war, had the most powerful economy and controlled [basically all of the world’s gold reserves](https://www.imf.org/external/np/exr/center/mm/eng/mm_dr_01.htm#:~:text=By%201947%2C%20the%20United%20States,to%20pay%20for%20the%20war.). During the war, [many European countries sent their gold reserves to the U.S.](https://en.wikipedia.org/wiki/Bretton_Woods_system) to protect them from being stolen by the Nazis.
+Baada ya Vita ya Kwanza ya Dunia, nguvu hii ya Uingereza ilianza kufifia. Vita ya Pili ya Dunia ilizalisha dola mpya yenye mamlaka makubwa. Marekani ilikuwa imeshinda vita, ilikuwa na uchumi wenye nguvu zaidi, na ilidhibiti.[kimsingi hakiba yote ya dhahabu duniani](https://www.imf.org/external/np/exr/center/mm/eng/mm_dr_01.htm#:~:text=By%201947%2C%20the%20United%20States,to%20pay%20for%20the%20war.). Wakati wa vita, [nchi nyingi za bara Ulaya zilituma hakiba ya dhahabu zao kwenda Ummoja wa Nchi za Amerika](https://en.wikipedia.org/wiki/Bretton_Woods_system) kuzilinda dhidi ya ubadhrifu wa Watu wa sera za Kinazi.
 
-As financial analyst Lyn Alden [describes](https://www.lynalden.com/fraying-petrodollar-system/): 
+Mchambuzi wa Maswala ya Kifedha Lyn Alden [ameeleza](https://www.lynalden.com/fraying-petrodollar-system/): 
 
-> “With the Bretton Woods system and the following petrodollar system, the United States obtained a near-global lock on the international money system. Previous empire currencies never obtained that complete of a financial lock on the world, and thus were never true ‘global reserve’ currencies but instead were just ‘widely recognized and dominant’ currencies…
+> “Kupitia mfumo wa Bretton Woods na ule wa baadaye wa petrodola, Marekani ilipata udhibiti wa karibu wa kimataifa juu ya mfumo wa fedha wa dunia. Sarafu za himaya zilizotangulia hazikuwahi kupata udhibiti wa kifedha wa kiwango hicho duniani, na kwa hivyo hazikuwahi kuwa ‘sarafu ya akiba ya kimataifa’ kwa maana halisi, bali zilikuwa tu ‘sarafu zinazotambuliwa sana na kutawala kwa kiasi kikubwa…
 
-> “However, after only a decade, the Bretton Woods system began to fray. The United States began running large fiscal deficits and experiencing mildly rising inflation levels, first for the late 1960s domestic programs, and then for the Vietnam War. The United States began to see its gold reserves shrink, as other countries began to doubt the backing of the dollar and therefore redeemed dollars for gold instead of comfortably holding dollars…
+> “Hata hivyo, baada ya miongo michache tu, mfumo wa Bretton Woods ulianza kusambaratika. Marekani ilianza kupata nakisi kubwa za bajeti na kushuhudia viwango vya mfumuko wa bei vikianza kupanda kwa kiasi, kwanza kutokana na mipango ya ndani ya miaka ya mwisho ya 1960, na baadaye kutokana na Vita ya Vietnam. Marekani ilianza kuona akiba yake ya dhahabu ikipungua, kwani nchi nyingine zilianza kutilia shaka uhalali wa dhamana ya dola, na hivyo kuanza kubadilisha dola kwa dhahabu badala ya kuzihifadhi kwa utulivu…
 
-> “The system had an underlying flaw that when left unaddressed brought the system down. It was never truly sustainable as designed. There was no way that the U.S. could maintain enough gold to back all of its currency for domestic use, and simultaneously back enough currency for expanding global use as well (which was the part that was redeemable).” 
+> “Mfumo huo ulikuwa na dosari ya msingi ambayo ilipoachwa bila kushughulikiwa, ilisababisha kuanguka kwa mfumo mzima. Kamwe haukuwa endelevu kwa jinsi ulivyoundwa. Haikuwezekana kwa Marekani kuwa na dhahabu ya kutosha kudhamini fedha zote za matumizi ya ndani, huku wakati huo huo ikidhamini pia fedha za matumizi yanayozidi kimataifa (ambazo ndizo zilikuwa na haki ya kubadilishwa kwa dhahabu).” 
 
-### The Birth of the Fiat System
+### Uzao wa Pesa za Serikali(Fiati)
 
-As Alden continues: “Eventually in 1971, math came back with a vengeance on the Bretton Woods system, and Richard Nixon ended the convertibility of dollars to gold, and thus ended the Bretton Woods system. The closing of gold convertibility was proposed to be temporary at the time, but it ultimately became permanent. Rather than shifting to another country, though, the United States was able to re-order the global monetary system with itself still in the center, in the next system.” 
 
-When Richard Nixon [abolished the gold standard in 1971](https://www.investopedia.com/ask/answers/09/gold-standard.asp#:~:text=The%20Bretton%20Woods%20agreement%20established,the%20U.S.%20dollar%20to%20gold.), he basically rendered all currencies in the world as fiat money. “[Fiat](https://en.wiktionary.org/wiki/fiat#:~:text=Etymology,let%20it%20be%20done%E2%80%9D).)” is a Latin word that means “let it be done.” Since 1971, our currencies aren’t backed by gold anymore and only have value because they are legal tender. The [economical consequences have been immense](https://wtfhappenedin1971.com/).
+Kama Alden anavyoendelea kueleza: “Hatimaye mwaka 1971, hesabu zilijibu kwa nguvu dhidi ya mfumo wa Bretton Woods, na Richard Nixon akaamua kusitisha kubadilishwa kwa dola kuwa dhahabu, hatua iliyokuwa mwisho rasmi wa mfumo wa Bretton Woods. Kufungwa kwa uwezekano wa kubadilisha dola kuwa dhahabu kulipendekezwa kuwa ni kwa muda tu, lakini mwishowe kuligeuka kuwa hatua ya kudumu. Badala ya mfumo huo kuhamia katika nchi nyingine, Marekani iliweza kupangilia upya mfumo wa fedha wa kimataifa kwa namna ambayo ilibaki kuwa katikati ya mfumo mpya.”
 
-It was the first time in history that only fiat currencies existed. This can lead to serious problems, for instance when one tries to use printed paper in another country. Why should businesses and governments in other countries accept pieces of paper, which can be printed endlessly by a foreign government and have no firm backing, as a form of payment for their valuable goods and services? The fiat system had a problem.
+Kipindi Richard Nixon [iliondoa mfumo wa kiwango cha dhahabu mwaka 1971](https://www.investopedia.com/ask/answers/09/gold-standard.asp#:~:text=The%20Bretton%20Woods%20agreement%20established,the%20U.S.%20dollar%20to%20gold.), Kimsingi, aliifanya sarafu zote duniani ziwe fedha za fiati. “[Pesa za Kiserikali](https://en.wiktionary.org/wiki/fiat#:~:text=Etymology,let%20it%20be%20done%E2%80%9D).)” ni neno la Kilatini linalomaanisha “na iwe hivyo.” Tangu mwaka 1971, sarafu zetu hazijaungwa tena na dhahabu, na zina thamani tu kwa sababu zinatambuliwa kisheria kama njia halali ya malipo. [Athari za kiuchumi zilizotokana na hatua hiyo zimekuwa za kiwango kikubwa na zenye athari za muda mrefu.](https://wtfhappenedin1971.com/).
 
-### The Petrodollar
+likuwa mara ya kwanza katika historia ambapo sarafu zote zilizokuwepo zilikuwa za fiat pekee. Hali hii inaweza kusababisha matatizo makubwa, kwa mfano, pale mtu anapojaribu kutumia karatasi iliyochapishwa kama fedha katika nchi nyingine. Kwa nini biashara na serikali za mataifa mengine zikubali vipande vya karatasi, ambavyo vinaweza kuchapishwa bila kikomo na serikali ya kigeni, na ambavyo havina dhamana madhubuti, kama njia halali ya kulipia bidhaa na huduma zao zenye thamani? Mfumo wa fiat ulikuwa na tatizo la msingi.
 
-In 1974, following a variety of geopolitical conflicts including, the [Yom Kippur War](https://en.wikipedia.org/wiki/Yom_Kippur_War) and the [OPEC oil embargo](https://history.state.gov/milestones/1969-1976/oil-embargo), the United States and Saudi Arabia [reached an agreement](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret) to sell their oil exclusively in U.S. dollars in exchange for U.S. protection and cooperation. From there, the world was set on the petrodollar system; a clever way to make a global fiat currency system work decently enough.
+### Dola ya Mafuta: Mfumo wa Malipo ya Mafuta kwa Dola ya Marekani
 
-![The Petrodollar since 1974](_8-petrodollar.png)
-[Source](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
+Mwaka 1974, kufuatia migogoro mbalimbali ya kijiografia ya kisiasa, ikiwa ni pamoja na.[Vita vya Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur_War) na [Vikwazo vya mafuta vya OPEC](https://history.state.gov/milestones/1969-1976/oil-embargo),Marekani pamoja na Utawala wa Saudia walifikia makubaliano](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret) kuuza mafuta yao kwa dola za Marekani pekee, kwa kwa ahadi ya kupatiwa ulinzi na ushirikiano kutoka Marekani. Kuanzia hapo, dunia ikaingia rasmi katika mfumo wa dola ya mafuta (petrodollar); mbinu ya kisiasa na kiuchumi iliyobuniwa kwa ustadi ili kuufanya mfumo wa sarafu ya fiat ya kimataifa ufanye kazi kwa kiwango kinachokubalika
 
-### The Petrodollar Since 1974
+![Dola kwa Mafuta 1974](_8-petrodollar.png)
+[Chanzo](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
 
-But the system is cracking here and there. In August 2017, for instance, Venezuela declared that it would cease pricing its oil in U.S. dollars and instead use euros, yuan and other currencies. In March 2022, [media reports suggested](https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541) that Saudi Arabia was considering pricing some of its oil sales to China in the Chinese yuan rather than the U.S. dollar. On March 23, 2022, Vladimir Putin [announced an order](https://www.reuters.com/business/energy/putin-says-russia-will-start-selling-gas-unfriendly-countries-roubles-2022-03-23/) forbidding “non-friendly” countries (including EU countries, the U.S. and Japan) from buying Russian gas in any other currency besides Russian ruble (although the Russian Finance Ministry [reportedly said](https://en.wikipedia.org/wiki/Petrodollar_recycling) it would also accept gold or bitcoin).
+### Dola ya Mafuta: Mfumo wa Malipo ya Mafuta kwa Dola ya Marekani1974
 
-### A Decentralized Global Monetary System
+Lakini mfumo huu umeanza kuonyesha nyufa hapa na pale. Kwa mfano, mnamo Agosti 2017, Venezuela ilitangaza kuwa ingetumia euro, yuan na sarafu nyingine badala ya dola za Marekani katika upangaji wa bei ya mafuta yake. Mnamo Machi 2022,[Vyombo vya Havari viliripoti](https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541) Saudi Arabia ilikuwa ikifikiria kuweka bei ya baadhi ya mauzo yake ya mafuta kwa China kwa kutumia yuan ya Kichina badala ya dola ya Marekani. Mnamo tarehe 23 Machi 2022, Vladimir Putin [amri ilitangazwa](https://www.reuters.com/business/energy/putin-says-russia-will-start-selling-gas-unfriendly-countries-roubles-2022-03-23/) falikataza nchi zisizo “rafiki” (ikiwemo nchi za Umoja wa Ulaya, Marekani na Japani) kununua gesi ya Urusi kwa sarafu yoyote ile isipokuwa ruble ya Kirusi (ingawa Wizara ya Fedha ya Urusi [iliripotiwa kwa kusema](https://en.wikipedia.org/wiki/Petrodollar_recycling) Itakubali malipo ya Dhahabuau Bitcoin).
 
-Alden’s base case going forward [is that](https://www.lynalden.com/fraying-petrodollar-system/):
+### Mfumo Huru wa Fedha Duniani
 
-> “...over the next several years, the global economy will, more likely than not, encounter a bear cycle of the current petrodollar system. If so, assets such as global equities, quality residential real estate, precious metals, industrial commodities, and alternatives such as Bitcoin, are likely to do well.
+Dhana kuu ya Alden kuhusu mwelekeo wa baadaye [ini kwamba](https://www.lynalden.com/fraying-petrodollar-system/):
 
-> From there, the global monetary system will gradually become more decentralized, in the sense that alternate payment systems and alternate currency settlements among trading partners are growing in use. This will indeed be a more structural shift towards a new system. It could happen slowly, as it already is, or it could accelerate if the US itself also shifts out of the fraying system.” 
+> “...katika miaka michache ijayo, uchumi wa dunia huenda ukakumbwa na mzunguko wa kushuka kwa thamani (bear cycle) wa mfumo wa sasa wa dola ya mafuta (petrodollar). Iwapo hali hiyo itatokea, mali kama vile hisa za kimataifa, mali halisi bora ya makazi, madini ya thamani, bidhaa za viwandani, na mbadala kama Bitcoin, huenda zikanufaika.
 
-## Consequences of Monetary Hegemony
+> Kuanzia hapo, mfumo wa fedha wa kimataifa utaanza kuwa mgatuo zaidi, kwa maana ya kwamba mifumo mbadala ya malipo na matumizi ya sarafu mbadala kati ya washirika wa biashara itazidi kuenea. Hii itakuwa kweli ni mabadiliko ya kimuundo kuelekea mfumo mpya. Mabadiliko haya yanaweza kuwa ya polepole, kama yanavyoendelea hivi sasa, au yanaweza kuharakishwa endapo Marekani yenyewe itaondoka kwenye mfumo huu unaoendelea kudhoofika.” 
 
-For at least the past 78 years, marked by the end of World War II, the global economy has more or less revolved around the U.S. dollar. The Bretton Woods system was also the start of global financial institutions like the International Monetary Fund (IMF) and the World Bank. Since then, a lot of additional organizations like the Bank For International Settlements (BIS), the Financial Action Task Force (FATF) and OFAC were launched. Unelected representatives are inventing rules to fight money laundering, tax evasion and, in recent decades, terrorism. 
+## Madhara ya Kutegemea Taifa Moja Kifedha" 
 
-I haven’t heard of any financial regulation that was voted on by the population. But every country in the world has to regulate its banks. In parts for good reason, but despite the overarching regulations, the world is still riddled with fraud, banking failures (and now, also cryptocurrency fraud in cases such as [FTX](https://bitcoinmagazine.com/legal/ftx-files-for-bankruptcy-ceo-resigns), [Luna, etc.](https://bitcoinmagazine.com/markets/terra-collapse-teaches-about-crypto-and-bitcoin)) and money laundering. It’s just that the small fish get caught, while the big fish in most cases simply pay a fine which is less than their profits and move on.
+Kwa angalau miaka 78 iliyopita, kuanzia na mwisho wa Vita ya Pili ya Dunia, uchumi wa dunia kwa kiasi kikubwa umejikita kwenye dola ya Marekani. Mfumo wa Bretton Woods pia ulikuwa mwanzo wa taasisi za kifedha za kimataifa kama Shirika la Fedha la Kimataifa (IMF) na Benki ya Dunia. Tangu wakati huo, mashirika mengine mengi yaliibuka kama vile Benki ya Kimataifa ya Makazi (BIS), Kikosi Kazi cha Kimataifa cha Kukabiliana na Uhalifu wa Fedha (FATF), na Ofisi ya Udhibiti wa Mali za Kigeni ya Marekani (OFAC). Wawakilishi wasiochaguliwa wamekuwa wakibuni kanuni za kupambana na utakatishaji wa fedha, ukwepaji wa kodi, na katika miongo ya hivi karibuni, ugaidi.
 
-There is already enough regulation and laws around traditional finance and the cryptocurrency industry. The [fall of FTX was caused by fraud, not because Bitcoin is a tool to rip off people](/bitcoin-ponzi-scheme). The opposite is true. If all actors in the industry were to stay true to the Bitcoin principles of transparency and not building on debt, then these things wouldn’t have happened. It’s centralized actors and their secrecy that allow fraud like that to happen. Fraud has always been a crime, there are laws to deal with it. It’s not lack of regulation, it’s lack of oversight.
+Sijawahi kusikia kuhusu kanuni yoyote ya kifedha ambayo imepitishwa kwa kura ya wananchi. Lakini kila nchi duniani inalazimika kudhibiti benki zake. Kwa sehemu, hili lina maana nzuri, lakini licha ya kanuni hizi zinazotawala kila upande, dunia bado imejaa ulaghai, kushindwa kwa taasisi za kifedha (na sasa pia udanganyifu wa fedha za kidijitali katika kesi kama ya[FTX](https://bitcoinmagazine.com/legal/ftx-files-for-bankruptcy-ceo-resigns), [Luna, etc.](https://bitcoinmagazine.com/markets/terra-collapse-teaches-about-crypto-and-bitcoin)) na utakatishaji wa fedha(Pesa Chafu kuwa safi). Kinachotokea ni kwamba samaki wadogo(watu wa chini) ndio wanaokamatwa, huku samaki wakubwa(watu wenye uwezo kifedha,kisiasa)katika hali nyingi huishia kulipa faini ndogo isiyolingana na faida waliyopata kisha wanaendelea na shughuli zao kama kawaida.
 
-### Organized and Willful Financial Exclusion
+TTayari kuna sheria na kanuni nyingi zinazohusu sekta ya fedha za kawaida pamoja na tasnia ya fedha za kidijitali (cryptocurrency).. The [Anguko la FTX lilisababishwa na Ubadhirifu,na sio Bitcoin kama inavyodhaniwa kuwa ndio ilisababisha](/bitcoin-ponzi-scheme). Kinyume chake ndicho kilicho kweli. Kama wahusika wote katika tasnia hii wangekuwa waaminifu kwa misingi ya Bitcoin uwazi na kutotegemea madeni basi mambo haya yasingetokea. Ni wahusika wa kimfumo wa kati (centralized actors) na usiri wao ndio wanaowezesha ulaghai wa aina hiyo kutokea. Ulaghai umekuwa uhalifu tangu zamani, na zipo sheria za kushughulikia jambo hilo. Tatizo si ukosefu wa kanuni, bali ni ukosefu wa usimamizi wa kweli..
 
-![Organized financial exclusion](_10-organizations-of-exclusion.png)
+### Uondoaji wa Makusudi wa Watu Katika Mfumo wa Kifedha
 
-How did the above institutions come into being? It’s interesting to see the background of organizations which make decisions determining the difference between the have and have nots.
+![Uondoaji wa Makusudi wa Watu Katika Mfumo wa Kifedha](_10-organizations-of-exclusion.png)
 
-### The BIS: the Central Bank of Central Banks
+Je, taasisi hizi zilianzaje? Ni jambo la kufurahisha kuchunguza historia ya mashirika haya ambayo hufanya maamuzi yanayoamua tofauti kati ya waliokuwa na mali na wasiokuwa nayo
 
-The BIS is an [international financial institution](https://en.wikipedia.org/wiki/International_financial_institutions) owned by [central banks](https://en.wikipedia.org/wiki/Central_bank) that “fosters international monetary and financial cooperation and serves as a bank for central banks.” Interesting sidenote: the BIS shouldn’t exist anymore if it was for members of the Bretton Woods conference.
+### BIS: Benki Kuu ya Mabenki Kuu
 
-The BIS was founded in Europe in 1930. During the second world war, the BIS helped the Germans transfer assets from occupied countries. The fact that top-level German industrialists and advisors sat on the BIS board seemed to provide ample evidence of how the BIS might be used by [Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) throughout the war, with the help of American, British and French banks. Between 1933 and 1945, the BIS board of directors included several Nazis, for instance, a prominent Nazi official, [Emil Puhl](https://en.wikipedia.org/wiki/Emil_Puhl) responsible for processing dental gold looted from concentration camp victims. All of these directors were [later convicted of war crimes or crimes against humanity](https://en.wikipedia.org/wiki/Bank_for_International_Settlements).
+BIS ni [Taasisi ya kimataifa ya masuala ya Kifedha](https://en.wikipedia.org/wiki/International_financial_institutions) inayomilikiwa[central banks](https://en.wikipedia.org/wiki/Central_bank) ambayo “inahamasisha ushirikiano wa kimataifa wa kifedha na wa fedha za kigeni, na inahudumu kama benki kwa mabenki kuu.” Jambo la kuvutia pembeni: BIS haingekuwepo tena endapo maamuzi ya washiriki wa mkutano wa Bretton Woods yangefuatwa kikamilifu
 
-For this reason, the Bretton Woods Conference was [meant to be Norway’s proposal for](https://en.wikipedia.org/wiki/Bretton_Woods_Conference) “liquidation of the Bank for International Settlements at the earliest possible moment.” Moreover, now that the IMF has been established, the BIS seems even more superfluous.
+TBIS ilianzishwa barani Ulaya mwaka 1930. Wakati wa Vita ya Pili ya Dunia, BIS iliwasaidia Wajerumani kuhamisha mali kutoka katika nchi zilizokuwa zimevamiwa. Ukweli kwamba wanasiasa wa ngazi ya juu wa sekta ya viwanda wa Kijerumani pamoja na washauri walikaa katika bodi ya BIS ulionekana kutoa ushahidi wa kutosha kuhusu jinsi taasisi hiyo ingeweza kutumiwa na[Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) tkatika kipindi chote cha vita, kwa msaada wa benki za Marekani, Uingereza na Ufaransa. Kati ya mwaka 1933 na 1945, bodi ya wakurugenzi wa BIS ilijumuisha Wanazi kadhaa, kwa mfano, afisa mmoja mashuhuri wa utawala wa Nazi,[Emil Puhl](https://en.wikipedia.org/wiki/Emil_Puhl) aliyekuwa na jukumu la kushughulikia dhahabu ya meno iliyoibwa kutoka kwa wahanga wa kambi za mateso. Wakurugenzi wote hawa walikuwa [waliohusika baadaye walihukumiwa kwa uhalifu wa kivita au uhalifu dhidi ya ubinadamu](https://en.wikipedia.org/wiki/Bank_for_International_Settlements).
 
-But the momentum for dissolving the BIS faded after U.S. President Franklin Roosevelt died in April 1945. Under his successor, Harry S. Truman, the top U.S. officials most critical of the BIS, left office by 1948, the [liquidation had been put aside](https://en.wikipedia.org/wiki/Bretton_Woods_Conference).
+kwa sababu hii, mkutano wa Bretton Woods  [iliyokusudiwa kuwa pendekezo la Norway kwa ajili ya](https://en.wikipedia.org/wiki/Bretton_Woods_Conference) “kuifuta Benki ya Kimataifa ya Utatuzi(BIS) haraka iwezekanavyo." Zaidi ya hayo, sasa kwamba IMF (Shirika la Fedha la Kimataifa) limeanzishwa, BIS inaonekana kuwa haina umuhimu tena.
+Lakini msukumo wa kuivunja BIS ulipungua baada ya Rais wa Marekani Franklin Roosevelt kufariki dunia mwezi Aprili 1945. Chini ya mrithi wake, Harry S. Truman, maafisa wa juu wa Marekani waliokuwa wakikosoa vikali BIS waliondoka madarakani kufikia mwaka 1948, na hivyo [ufutwaji ulighairika na kuwekwa pembeni](https://en.wikipedia.org/wiki/Bretton_Woods_Conference).
   
-### The FATF: the Financial Action Task Force
+### FATF: Kikosi Kazi cha Kimataifa cha Kukabiliana na Uhalifu wa Kifedha
+FATF ni taasisi ya kimataifa ya ushirikiano wa kiserikali kati ya nchi wanachama"[iliyoanzishwa mnamo 1989](https://www.fatf-gafi.org/about/whatwedo/) okwa kuanzishwa na kundi la G7 kwa lengo la kuandaa sera za kupambana na utakatishaji wa fedha. Kufuatia mashambulizi ya kigaidi ya Septemba 11 mwaka 2001 nchini Marekani, mamlaka yake [mamlaka yake yalipanuliwa kujumuisha ufadhili wa ugaidi](https://www.fatf-gafi.org/publications/fatfgeneral/documents/terroristfinancing.html).
 
-The FATF is an intergovernmental organization [founded in 1989](https://www.fatf-gafi.org/about/whatwedo/) on the initiative of the G7 to develop policies to combat money laundering. Following the September 11 terrorist attacks in the U.S. in 2001, its mandate [was expanded to include terrorism financing](https://www.fatf-gafi.org/publications/fatfgeneral/documents/terroristfinancing.html).
+Tangu mwaka 2000, FATF imeendelea kudumisha.[Orodha ya nchi au taasisi zilizoorodheshwa na FATF kama hatari](https://en.wikipedia.org/wiki/FATF_blacklist#Current_FATF_blacklist) na pia [Orodha ya nchi au taasisi zilizo chini ya ufuatiliaji wa FATF](https://en.wikipedia.org/wiki/FATF_blacklist#Current_FATF_greylist). Hizi ni orodha za nchi ambazo FATF inaona hazishirikiani ipasavyo na zina dosari katika juhudi za kimataifa za kupambana na utakatishaji wa fedha na ufadhili wa ugaidi. Ingawa, chini ya sheria za kimataifa, orodha ya rangi ya FATF haina adhabu rasmi, katika hali halisi, nchi zilizoorodheshwa kwenye orodha hii mara nyingi hukumbwa na shinikizo kubwa la kifedha.
 
-Since 2000, the FATF has maintained the [FATF blacklist](https://en.wikipedia.org/wiki/FATF_blacklist#Current_FATF_blacklist) and the [FATF greylist](https://en.wikipedia.org/wiki/FATF_blacklist#Current_FATF_greylist). These are lists of countries that the FATF considers non-cooperative and deficient in the global effort to combat money laundering and terrorist financing. While, under international law, the FATF blacklist carries with it no formal sanctions, in reality, FATF blacklist members often fall under intense financial pressure.
+### Kubali Watu Bilioni Mbili Walioachwa Pembeni Kama Athari Mbaya Isiyokusudiwa
 
-### Accepting Two Billion Excluded People as Collateral Damage 
+Athari kwa watu katika nchi hizi ni kubwa sana. Vikwazo vinaumiza zaidi maskini na walio hatarini. Wenye mamlaka huwa na njia za kujiokoa. Kwa mfano, FATF imewafanya mashirika yasiyo ya serikali (NGOs) katika nchi hizi kugongwa na changamoto za kupata fedha za kusaidia katika hali za dharura kutokana na vigezo kali vya FATF. Mapendekezo ya FATF hayataji vikwazo maalum kwa mashirika yasiyo ya serikali.
 
-The effects on people in these countries are huge. Sanctions always hurt the poor and vulnerable the most. The powerful find their ways out. For instance, FATF has made it difficult for non-governmental organizations (NGOs) in these countries to access funds to aid in relief situations due to strict FATF criteria. The FATF recommendations do not specifically set out restrictions for NGOs.
+Kutokana[Wikipedia](https://en.wikipedia.org/wiki/Financial_Action_Task_Force):
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Financial_Action_Task_Force):
+“Katika karatasi ya mwaka 2020, Ronald Pol anasema kuwa ingawa FATF imefanikiwa sana kupata sera zake kukubalika duniani kote, athari halisi za sera hizo ni ndogo sana: kwa takwimu za Pol, chini ya asilimia 1 ya faida haramu hukamatwa, huku gharama za kutekeleza sera hizo zikiwa mara mia moja zaidi. Pol anasisitiza kuwa sekta na watunga sera mara nyingi huzipuuza hizi, na badala yake hupima mafanikio ya sera kwa vigezo ambavyo kwa kiasi kikubwa havihusiani".
 
-“In a 2020 paper, Ronald Pol states that while the FATF has been very successful in getting its policies adopted worldwide, the actual impact of those policies is rather small: according to Pol’s estimates, less than 1% of illegal profits are seized, with the costs of implementing the policies being at least one hundred times larger. Pol contends that industry and policymakers consistently ignore this, instead evaluating the policies based on success metrics that are largely irrelevant.”
+Marekani ilishambuliwa mwaka 2001 na katika miaka iliyofuata, ilizidisha kanuni za kupambana na ugaidi ambazo zilienea hadi karibu katika maeneo yote ya kisheria duniani, na hivyo kuwatenga mabilioni ya watu wasiojulikana na wasio na taifa kuanzisha akaunti za benki, kupata ajira, kununua nyumba au kuanzisha biashara. Zaidi ya hayo, watu hawa ni masikini, wamekataliwa, wanabaguliwa, hawana haki za kiraia na wamekataliwa kisiasa.
 
-The U.S. was attacked in 2001 and in the following years, it strengthened regulations to combat terrorism which trickled down to almost all jurisdictions in the world, consequently excluding billions of unregistered and stateless people from establishing bank accounts, get jobs, purchase homes or start businesses. In addition, these people are impoverished, marginalized, discriminated against, disenfranchised and politically excluded.
+Kwa mfano, kuna Winnet Zhamini, mwenye umri wa miaka 33 na bibi mkubwa. Yeye ni miongoni mwa Wazimbabwe 300,000 ambao hawatawahi kupata akaunti ya benki kwa sababu ya ukosefu wa karatasi za utambulisho. Kama alivyosema [The Guardian](https://www.theguardian.com/global-development/2021/jul/12/we-cannot-vote-or-get-jobs-plight-of-300000-zimbabweans-without-documents):
 
-For instance, there is Winnet Zhamini, aged 33 and grandmother. She is one of 300,000 Zimbabweans who will never have access to a bank account because of her lack of identification papers. As she told [The Guardian](https://www.theguardian.com/global-development/2021/jul/12/we-cannot-vote-or-get-jobs-plight-of-300000-zimbabweans-without-documents):
+> "Sijawahi kupata cheti cha kuzaliwa au kitambulisho. Baba yangu alikuwa Mmalawi na alikulia hapa miaka ya sabini. Tulipozaliwa, hatukuwa na nafasi ya kupata vyeti vya kuzaliwa. Mama yangu, ambaye alikuwa Mzimbabwe, alifariki, baba yangu alitoweka tu. Mume wangu alinitiachia kwa sababu sina nyaraka zozote. Dada yangu alioa na kuzaa watoto wanne, lakini mume wake alimkimbiza kwa sababu hana kitambulisho. Siwezi hata kununua kadi ya simu. Siwezi kupata kazi, naishi kwa kufanya kazi za kufua nguo. Lakini tunanyanyaswa kwa sababu hatuna chaguo."
 
-> “I have never had a birth certificate or an ID. My father was Malawian and settled here in the 70s. When we were born, we never had an opportunity to get birth certificates. My mother, who was Zimbabwean, died, my father just disappeared. My husband left me because I do not own any particulars. My sister got married and bore four children, but the husband chased her away because she has no ID. I cannot even buy a sim card. I cannot get a job, I survive on doing laundry. But we get exploited because there is no choice.”
+Mashirika haya yanawalazimisha watu wote kufuata kanuni na taratibu za jumla zinazowezesha udhibiti hadi kwa kiwango cha mtu binafsi, na kusababisha kutengwa kifedha na unyanyasaji wa mabilioni ya watu.
 
-These organizations are forcing everyone into overarching regulations and bureaucracy, which enable control on the level of the individual leading to financial exclusion and oppression of billions of people. 
+Takwimu zinazokusanywa na mamlaka ni kivutio kwa wadukuzi, uhalifu mtandaoni na utapeli. Haya yote hufanyika ili kuwatafuta wachache wanaofanya utakatishaji wa fedha au kufadhili ugaidi. Badala ya uangalizi wa jumla, kwa nini wasiangalie na kuwachukulia hatua wachache hao tu? Ni mzunguko hatari usioisha. Vikwazo, kanuni za jumla na udhibiti wa kifedha ndizo sababu kwanini watu wanahitaji Bitcoin
 
-The data collected by authorities is a honeypot for hackers, online crimes and extortion. And this all to find the few who are really money laundering or financing terrorism. Instead of general surveillance, why not focus and target the few? It’s a vicious circle. Sanctions, overarching regulations and financial control are the reasons why people need Bitcoin.
+## Jinsi Bitcoin Inavyosaidia Kutekeleza Azimio la Kimataifa la Haki za Binadamu
 
-## How Bitcoin Enforces The Universal Declaration Of Human Rights
+Utawala wa kimataifa wa udhibiti unaowatenga[takirabani watu bilioni 1.7](https://www.forbes.com/sites/niallmccarthy/2018/06/08/1-7-billion-adults-worldwide-do-not-have-access-to-a-bank-account-infographic/?sh=2c27ca4c4b01) (labda watu bilioni 3 ikiwa unahesabu watoto wawili kwa kila mtu mzima) wasio na uwezo wa kuwa na akaunti ya benki. Hii inatufikisha kwenye [Azimio la Haki za Binaadamu](https://www.un.org/en/about-us/universal-declaration-of-human-rights) na zipo katika [Vifungu 30](http://hrlibrary.umn.edu/edumat/hreduseries/hereandnow/Part-5/8_udhr-abbr.htm). Nitatumia vifungu saba kati ya hizi kuonyesha jinsi Bitcoin inavyounga mkono Haki za Binadamu
 
-A global regulatory regime is excluding an [estimated 1.7 billion](https://www.forbes.com/sites/niallmccarthy/2018/06/08/1-7-billion-adults-worldwide-do-not-have-access-to-a-bank-account-infographic/?sh=2c27ca4c4b01) (perhaps 3 billion if you include an estimated two children per adult) people from having a bank account. Which leads us to the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) and its [30 articles](http://hrlibrary.umn.edu/edumat/hreduseries/hereandnow/Part-5/8_udhr-abbr.htm). I’ll refer to seven of these articles to demonstrate how Bitcoin is supporting Human Rights.
+### Kifungu cha 1: Haki ya Usawa kwa wote
 
-
-### Article 1: Right to Equality
-
-![The Right to Equality](_9-art-1.png)
+![Haki ya Usawa](_9-art-1.png)
 [Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-This human right would suggest we all are born free to enjoy dignity and rights. But this is definitely not the case financially. Billions of people being too poor or without IDs are excluded from financial services. Of the 1.7 billion unbanked (these are just the household heads, including families, it’s more), 980 million are women.
+Haki hii ya binadamu inaonyesha kuwa sote tunazaliwa huru kufurahia hadhi na haki zetu. Lakini hali hii si kweli kifedha. Mabilioni ya watu wanaishi katika umasikini mkubwa au hawana vitambulisho na kwa hivyo wameachwa pembeni katika huduma za kifedha. Kutoka kwa watu bilioni 1.7 wasio na akaunti za benki (hawa ni wakuu wa kaya tu, ikijumuisha familia, idadi ni kubwa zaidi), milioni 980 ni wanawake.
 
-![57% of all unbanked are women](_11-unbanked.png)
+![wanawake 57% hawana huduma za Kibenki](_11-unbanked.png)
 [Data source](https://borgenproject.org/unbanked-population/) 
 
-Unbanked people can’t store their cash safely because of potential damage from animals like rats or because it makes them a target for robbery, and they can’t borrow money or else they fall prey to loan sharks.
+Watu wasio na akaunti za benki hawawezi kuhifadhi pesa zao kwa usalama kutokana na hatari ya uharibifu kutoka kwa wanyama kama panya, au kwa sababu hufanya kuwa lengo la wizi, na hawawezi kukopa pesa kwa hofu ya kushindwa kulipa na kuangukia mikononi mwa wakopaji wa riba kubwa.
+Kama mhanga wa mikopo yenye riba kubwa nchini Nigeria [alisema](https://www.theafricareport.com/238323/nigeria-post-covid-loan-sharks-target-most-vulnerable-nigeians/):
 
-As a Nigerian loan shark victim [has said](https://www.theafricareport.com/238323/nigeria-post-covid-loan-sharks-target-most-vulnerable-nigeians/):
+> “Karibu siku za mwisho za Februari (2022), nilikopa N18,000 (dola 43) kutoka kwenye app ya Soko-loan ambayo niliona kwenye Facebook. Wakati wa kuomba mkopo, app ilionyesha siku 92 kama muda wa chini wa mkopo, lakini baada ya kuweka taarifa zangu, niliona kiwango cha riba cha (takriban) asilimia 45 kwa siku 14!”
 
-> “Towards the last days of February (2022), I borrowed N18,000 ($43) from the Soko-loan app which I saw on Facebook. During the application, the app displayed 92 days as the minimum loan tenure but after I had submitted my data, I saw an interest rate of (about) 45% for 14 days!”
+Suluhisho si kanuni zaidi, bali ni upatikanaji wa wazi wa fedha salama na zisizodhibitiwa na mtu mmoja mmoja.
 
-The solution is not more regulation, but open access to secure, decentralized money.
+#### Kutokuwepo kwa Uelewa wa Masuala ya Kifedha na Ukosefu wa Mali Husababisha Kutengwa
 
-#### Financial Illiteracy and Lack of Wealth Cause Exclusion
-
-If you do manage to have an ID and access to a bank account or mobile money service in Africa, it still doesn’t mean that you can access it easily or send money to someone in your own country or abroad. Red tape, unfunctional or non-existent IT infrastructure and high fees make this so hard that many people, even though they own bank accounts, just stop using them.
+Ikiwa unapata kitambulisho na huduma ya akaunti ya benki au huduma ya fedha za simu Afrika, bado haimaanishi kuwa unaweza kuitumia kwa urahisi au kutuma pesa kwa mtu nchini kwako au nje ya nchi. Taratibu ngumu, miundombinu ya teknolojia isiyo imara au isiyokuwepo, pamoja na ada kubwa, hufanya iwe vigumu sana kiasi cha watu wengi, hata wale wenye akaunti za benki, kuacha kuzitumia.
 
 ![](_12-bank-fees-high.png)
-[Source](https://www.weforum.org/agenda/2017/04/financial-inclusion-south-africa/)
+[Chanzo](https://www.weforum.org/agenda/2017/04/financial-inclusion-south-africa/)
 
-The fee structure of South African banks, for instance, is up to four times higher than in countries such as Germany, Australia and even India. Many people are willing to run the risk of loss and theft associated with cash to avoid the fees and the red tape.
+Muundo wa ada za mabenki ya Afrika Kusini, kwa mfano, ni mara nne zaidi kuliko nchi kama Ujerumani, Australia na hata India. Watu wengi wako tayari kuchukua hatari ya kupoteza au kuibiwa fedha taslimu ili kuepuka ada hizo na taratibu ngumu.
 
-People on low incomes have a deep mistrust of the formal financial sector, which is rooted in fears of exploitation. Past abuses, such as the inappropriate [marketing and selling of financial products](https://www.groundup.org.za/article/postbank-security-breach-highlights-sassas-failures/), have shown that poor people are highly susceptible to rapacious commercial interests.
+Watu wenye kipato cha chini wana imani ndogo kabisa na sekta rasmi ya kifedha, ambayo imetokana na hofu za kunyanyaswa. Matumizi mabaya ya zamani, kama vile [utangaza na uuzaji wa bidhaa za kifedha](https://www.groundup.org.za/article/postbank-security-breach-highlights-sassas-failures/), imeonyesha kuwa watu maskini wanakumbwa kwa kiasi kikubwa na maslahi mabaya ya biashara yenye shauku ya faida.
 
-Africa’s poor are particularly vulnerable due to widespread financial illiteracy, exacerbating the sense of mistrust and levels of exploitation fostered by these practices. Unfortunately, this is a [systemic education problem](https://www.weforum.org/agenda/2017/04/financial-inclusion-south-africa/) within Africa that cannot be addressed in the short term.
+Maskini wa Afrika wako katika hatari zaidi kutokana na ukosefu mkubwa wa elimu ya kifedha, jambo ambalo linaongeza hali ya kutoaminiana na viwango vya unyonyaji vinavyochochewa na mwenendo huu. Kwa bahati mbaya, hili ni. [tatizo la elimu linalotokana na mfumo wa elimu](https://www.weforum.org/agenda/2017/04/financial-inclusion-south-africa/) Ndani ya Afrika, tatizo hili ni la mfumo mzima ambalo haliwezi kutatuliwa kwa muda mfupi.
 
-This is also a problem with all crypto tokens and outright scams as well. Bitcoin educators must make the difference between centralized institutions and the internet protocol of money clear to the people. Education is key, especially when the existing system must not be copied into the future, which was the goal of Bitcoin and Satoshi Nakamoto in the first place.
+Hii pia ni tatizo kwa sarafu zote za kidijitali (crypto tokens) na ulaghai wa moja kwa moja. Wataalamu wa Bitcoin wanapaswa kufafanua kwa watu tofauti kati ya taasisi zilizosimamiwa na watu wachache na itifaki ya mtandao wa fedha. Elimu ni muhimu sana, hasa wakati mfumo uliopo haupaswi kuigwa katika siku za usoni, ambalo lilikuwa lengo la Bitcoin na Satoshi Nakamoto tangu mwanzo.
 
-> “The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.” - Satoshi Nakamoto
+> “Tatizo kuu la sarafu za kawaida ni imani zote zinazohitajika ili ziweze kufanya kazi. Benki kuu inapaswa kuaminiwa isidorore thamani ya sarafu, lakini historia ya sarafu za fiat imejaa ukiukaji wa imani hiyo. Benki zinapaswa kuaminiwa kushikilia fedha zetu na kuhamisha kwa njia ya kielektroniki, lakini huwa zinaazimia mikopo katika wimbi la mabwawa ya mkopo huku zikiwa na akiba kidogo sana. Tunapaswa kuziamini kuhifadhi faragha yetu, kuziamini zisiruhusu wezi wa utambulisho kuchukua fedha zetu kutoka kwenye akaunti.”
+— Satoshi Nakamoto
 
-#### Monetary Colonialism
+#### Ukoloni wa Mfumo wa Fedha"
 
 ![](_13-monetary-colonialism.png)
-[Data Source](https://en.wikipedia.org/wiki/CFA_franc)
+[Chanzo cha taarifa](https://en.wikipedia.org/wiki/CFA_franc)
 
-Fourteen African countries which were colonized by France with about 200 million inhabitants are still obliged to use the Central African franc and the West African franc, collectively known as the CFA franc. The CFA franc is legal tender and is pegged to the euro. The countries must deposit half of their foreign exchange with the French Treasury. Although these countries have been independent for decades, they don’t have financial sovereignty. That’s not independence, that’s monetary colonialism.
+Nchi kumi na nne za Afrika ambazo zilikuwa koloni za Ufaransa, zenye watu takriban milioni 200, bado zinahitajika kutumia fedha za Kifaransa za Afrika ya Kati na Afrika Magharibi, zinazojulikana kwa pamoja kama CFA franki. CFA franki ni sarafu halali na imefungwa kwa euro. Nchi hizi zinapaswa kuweka nusu ya fedha zao za kigeni kwenye Hazina ya Ufaransa. Ingawa nchi hizi zimekuwa huru kwa miongo kadhaa, hazina uhuru wa kifedha. Hii si uhuru, ni ukoloni wa fedha.
 
-#### Inflation is Hidden Tax
+#### Mfumuko wa Bei ni Aina ya Kodi Isiyoonekana
 
-For the first time since the 1920s, Austrians and Germans are feeling the impact of inflation. [Ten percent was the peak in November 2022](https://www.trendingtopics.eu/energiekrise-inflation-in-oesterreich-steigt-auf-105-prozent/). [Energy prices in Europe are skyrocketing](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20221031-1). Friends in Austria are telling me that they won’t heat their flats this winter and are buying cheap food. They have “middle-class” jobs, they are well educated. Ten to 20 years ago, the jobs they are doing were paying enough to buy an apartment on credit, own a car and go on a holiday trip with the family. Those days are over.
+kwa mara ya kwanza tangu miaka ya 1920, Waustri na Wajerumani wanahisi athari za mfumuko wa bei [Asilimia 1o ndo kiwango cha juu mpaka 2022](https://www.trendingtopics.eu/energiekrise-inflation-in-oesterreich-steigt-auf-105-prozent/). [Bei za nishati Ulaya zinaongezeka kwa kasi isiyo ya kawaida](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20221031-1). Marafiki zangu huko Austria wananieleza kuwa hawawezi kutumia joto katika vyumba vyao msimu huu wa baridi na wananunua chakula cha bei nafuu. Wana kazi za "tabaka la kati," wameelimika vizuri. Miaka kumi hadi ishirini iliyopita, kazi wanazofanya zilitosha kununua nyumba kwa mkopo, kumiliki gari na kwenda likizo na familia. Siku hizo zimepita..
 
-Compared to countries like [Zimbabwe with 500% inflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), or [Cuba with 135%](https://translatingcuba.com/food-prices-increased-in-cuba-by-52-percent-last-year/), [Turkey with 73.5%](https://www.nxtmine.com/economics/with-turkish-ppi-hitting-a-shocking-132-erdogan-goes-after-short-sellers-as-hyperinflation-craters-the-lira/) and so on, this is still bearable. Being in Zimbabwe, I always wonder how people survive these difficulties. The current inflation is only topped by the [hyperinflation in Zimbabwe around 2008](https://anitaposch.com/baby-i-m-a-billionaire) when the highest denominated banknote was “worth” $100 trillion.
+Ikilinganishwa na nchi kama [Zimbabwe yenye 500% mfumuko wa Bei](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), or [Cuba with 135%](https://translatingcuba.com/food-prices-increased-in-cuba-by-52-percent-last-year/), [Uturuki yenye  73.5%](https://www.nxtmine.com/economics/with-turkish-ppi-hitting-a-shocking-132-erdogan-goes-after-short-sellers-as-hyperinflation-craters-the-lira/)na kadhalika, bado inaweza kuvumiliwa. Nikiwa Zimbabwe, huwa najiuliza watu wanawezaje kuishi na changamoto hizi. Mfumuko wa bei wa sasa unazidiwa tu na. [mfumuko wa bei wa juu sana (hyperinflation) uliojitokeza Zimbabwe takriban mwaka 2008](https://anitaposch.com/baby-i-m-a-billionaire) wakati karatasi ya thamani kubwa zaidi ilikuwa “inathamani” dola trilioni 100.
 
-Just imagine that the value of your money is decreasing by 500% per month. The salaries of civil servants, doctors and teachers in Zimbabwe are around $300 per month, and they are paid in the Zimbabwe dollar. Saving money is completely impossible. Either you spend it immediately or you try to find someone who wants to exchange it to the U.S. dollar. Every day is centered around money management. [“What is the rate today?”](https://anitaposch.com/finding-the-best-deals-in-zimbabwe) might be the most used question after “Hello, how are you?” in Zimbabwe, followed by the decision of [“in which currency am I going to pay?”](https://anitaposch.com/shopping-with-two-currencies-in-zimbabwe)
+Fikiria tu thamani ya pesa zako inapungua kwa asilimia 500 kwa mwezi. Misaada ya wafanyakazi wa umma, madaktari na walimu Zimbabwe ni takriban dola 300 kwa mwezi, na malipo yao hufanyika kwa dola ya Zimbabwe. Kuokoa pesa ni jambo lisilowezekana kabisa. Au unatumia papo hapo au unajaribu kupata mtu anayetaka kubadilisha pesa hizo kwa dola za Marekani. Kila siku inalenga usimamizi wa fedha [“Kwa Sasa(leo) ipo katikakiwango gani?”](https://anitaposch.com/finding-the-best-deals-in-zimbabwe) inaweza kuwa swali linalotumika zaidi baada ya “Habari, uko aje?” nchini Zimbabwe, ikifuatiwa na uamuzi wa [“Kwa pesa aina naweza kulipa vizuri?”](https://anitaposch.com/shopping-with-two-currencies-in-zimbabwe)
 
-![Zimbabwe the sad leader of the pack.](_17-inflation.png)
+![Zimbabwe, kiongozi wa huzuni katika kundi kubwa.](_17-inflation.png)
 [Source](https://twitter.com/steve_hanke/status/1562135077575954433/photo/1  )
 
-One of the reasons for the high inflation in Zimbabwe is [excessive money printing](https://zimpricecheck.com/analysis-and-opinion/its-not-gold-coins-here-is-the-real-reason-why-the-rate-has-fallen/).
+Moja ya sababu kubwa ya mfumuko wa bei ni [uchapaji wa fedha usio na mipaka](https://zimpricecheck.com/analysis-and-opinion/its-not-gold-coins-here-is-the-real-reason-why-the-rate-has-fallen/).
 
-![The main reason is excessive money “printing”.](_18-money-printing.png)
+!["uchapaji" wa fedha usio na mipaka.](_18-money-printing.png)
 [Source](https://zimpricecheck.com/analysis-and-opinion/its-not-gold-coins-here-is-the-real-reason-why-the-rate-has-fallen/)
 
-During my first visit to Zimbabwe in 2020 I put together a [podcast series where I documented the financial situation of people and if and how Bitcoin can be used to fight inflation and corruption](https://anita.link/51). My conclusion was that Zimbabwe sadly is a kleptocracy, the elites are corrupt and loot all money from the people.
+Wakati wa ziara yangu ya kwanza Zimbabwe mwaka 2020, niliandaa[mfululizo wa podcast ambapo niliandika kuhusu hali ya kifedha ya watu na kama na jinsi Bitcoin inaweza kutumika kupambana na mfumuko wa bei na ufisadi](https://anita.link/51). Hitimisho langu lilikuwa kwamba kwa huzuni Zimbabwe ni kleptokrasia, ambapo viongozi wa tabaka la juu ni wabadhirifu na huchukua bila sheria pesa zote kutoka kwa wananchi.
 
-#### How Bitcoin Fixes Inflation from Money Printing
+#### Jinsi Bitcoin Inavyopambana na Mfumuko wa Bei Unaosababishwa na Uchapaji wa Fedha
 
-There will only ever be 21 million bitcoin. When I mention that in my [talks in Zimbabwe](https://anitaposch.com/newsday-zimbabwe), people immediately understand the use case. There will be no monetary inflation, which would render bitcoin to have less value. Yes, bitcoin’s value is volatile, that’s because its price is determined by supply and demand and there is simply not enough demand yet to stabilize the value. But nobody can inflate the maximum amount of bitcoin that will be available. Bitcoin can also not be forged like cash or gold.
+Kutakuwa na Bitcoin milioni 21 tu kamwe. Nilipongelea katika.[Maongezi ndani Zimbabwe](https://anitaposch.com/newsday-zimbabwe), watu huelewa mara moja matumizi yake. Hakutakuwa na mfumuko wa fedha, ambao ungefanya Bitcoin kuwa na thamani ndogo. Ndiyo, thamani ya Bitcoin ni tete, hiyo ni kwa sababu bei yake huamuliwa na usambazaji na mahitaji, na bado mahitaji hayatoshi kudumisha thamani thabiti. Lakini hakuna mtu anayeweza kuongeza idadi ya juu kabisa ya Bitcoin itakayotolewa. Bitcoin pia haiwezi kuundwa bandia kama fedha taslimu au dhahabu.
 
-#### Corruption
+#### Rushwa(Ubadhirifu)
 
-Speaking of corruption and gold. Corruption is abuse of entrusted power for private gain. In Zimbabwe, the ruling elites are behind its disappearing gold. Every year, [gold worth $1.5 billion is being looted](https://www.businesstimes.com.sg/energy-commodities/zimbabwe-losing-us15b-gold-a-year-to-smuggling-report).
+Kuhusu ufisadi na dhahabu. Ufisadi ni matumizi mabaya ya madaraka yaliyotolewa kwa mtu kwa manufaa binafsi. Zimbabwe, viongozi wa tabaka la juu ndilo chanzo cha kupotea kwa dhahabu yake. Kila mwaka, [dhahabu yenye thamani ya dola bilioni 1.5 inaibiwa.](https://www.businesstimes.com.sg/energy-commodities/zimbabwe-losing-us15b-gold-a-year-to-smuggling-report).
 
-At the same time, Zimbabwe’s once enviable healthcare sector is collapsing under the weight of dilapidated infrastructure, a lack of drugs and poorly-paid staff going on frequent strike. [Pregnant women are being forced to pay bribes](https://www.theguardian.com/global-development/2020/nov/03/lives-have-been-lost-pregnant-women-in-zimbabwe-forced-to-pay-bribes-when-giving-birth) to get help with giving birth, with reports of babies being born in queues outside maternity clinics. People are dying in traffic every day due to the poor condition of streets, while the [government and ministers are rewarding themselves with new luxury cars](https://www.theguardian.com/world/2020/jul/07/zimbabwe-spends-millions-on-officials-luxury-cars-as-country-goes-hungry).
+Wakati huo huo, sekta ya huduma za afya nchini Zimbabwe ambayo hapo awali ilikuwa na hadhi ya kuigwa inavunjika kwa kasi kutokana na miundombinu iliyoharibika, ukosefu wa dawa na wafanyakazi waliolipwa vibaya ambao mara kwa mara wanaingia kwenye mgomo. [Wanawake wajawazito wanalazimishwa kulipa rushwa](https://www.theguardian.com/global-development/2020/nov/03/lives-have-been-lost-pregnant-women-in-zimbabwe-forced-to-pay-bribes-when-giving-birth) kupata huduma ya kujifungua, na ripoti za watoto huzaliwa wakati wakiwa katika foleni nje ya vituo vya uzazi. Watu wanakufa kila siku barabarani kutokana na hali mbaya ya miundombinu ya barabara, wakati [serikali na mawaziri wanajizawadia magari ya kifahari mapya](https://www.theguardian.com/world/2020/jul/07/zimbabwe-spends-millions-on-officials-luxury-cars-as-country-goes-hungry).
 
 ![](_19-corruption.png)
 [Source one](https://www.occrp.org/en/daily/16564-ruling-elites-behind-zimbabwe-s-disappearing-gold), [source two](https://www.bloomberg.com/news/articles/2020-11-24/zimbabwe-gold-smugglers-estimated-to-ship-1-5-billion-a-year#xj4y7vzkg)
 
-Not only in Zimbabwe is corruption a huge problem. Almost every authoritarian-led country has a high level of corruption. Corruption [erodes trust, weakens democracy, hampers economic development and further exacerbates inequality, poverty, social division and the environmental crisis](https://www.transparency.org/en/what-is-corruption).
+Si Zimbabwe pekee ambako ufisadi ni tatizo kubwa. Karibu kila nchi inayoongozwa kwa mabavu ina kiwango cha juu cha ufisadi. Ufisadi.[unadhoofisha imani ya wananchi, unalegeza misingi ya demokrasia, unakwamisha maendeleo ya kiuchumi na unaongeza zaidi ukosefu wa usawa, umasikini, mpasuko wa kijamii na mgogoro wa mazingira](https://www.transparency.org/en/what-is-corruption).
 
-#### How Bitcoin Fixes Corruption
+#### Namna Bitcoin Inavyosaidia Kupambana na Ufisadi
+Blockchain ya Bitcoin ni daftari wazi la miamala yote iliyofanyika tangu Bitcoin ilipoanza rasmi tarehe 3 Januari 2009. Hii inamaanisha kuwa bajeti za wizara au miradi zinaweza kukaguliwa. Kwa kutumia pochi za sahihi nyingi (multisignature wallets), uwezekano wa kuiba fedha unapungua sana. Hii ingewezekana tu endapo wasaini wote wangekubaliana kufanya njama.
 
-The Bitcoin blockchain is a transparent ledger of all transactions that took place since Bitcoin started publicly on January 3, 2009. That means that budgets for ministries or projects can be audited. With multisignature wallets, the possibility to steal funds shrinks. This would only be possible if all signers were to collude.
-
-But this doesn’t contradict the privacy-preserving properties of Bitcoin. If you choose to make a budget auditable, you can. The private keys give you the possibility to stay private or to reveal data. If you self custody your bitcoin, you decide. This is how Bitcoin empowers individuals and keeps authorities in check.
+Lakini hili halipingani na sifa ya Bitcoin ya kulinda faragha. Ukichagua kufanya bajeti iwe wazi kwa ukaguzi, unaweza kufanya hivyo. Ufunguo binafsi (private keys) unakupa uwezo wa kubaki faragha au kufichua taarifa. Ukijitunzia mwenyewe bitcoin zako, wewe ndiye unaefanya maamuzi. Hivi ndivyo Bitcoin inavyompa mtu mmoja mmoja nguvu na kuwaweka mamlaka katika mipaka yao..
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/sl4Yr9fBqQ4?start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### How Bitcoin Fixes the Right to Equality
+### Bitcoin Kama Njia ya Kutekeleza Haki ya Usawa
 
-Bitcoin is a neutral, global, borderless money. As an open protocol, it can be used by anyone. No one can be excluded and everyone is treated the same. Bitcoin gives self sovereignty on a personal and national level. Bitcoin doesn’t care where you were born. Suffering a high amount of inflation and corruption is a result of the misfortune of your birth location.
+Bitcoin ni fedha isiyoegemea upande wowote, ya kimataifa na isiyo na mipaka. Kama itifaki iliyo wazi, inaweza kutumiwa na mtu yeyote. Hakuna anayeweza kutengwa, na kila mtu anachukuliwa kwa usawa. Bitcoin inatoa mamlaka ya kujitawala kifedha kwa mtu binafsi na hata kwa taifa zima. Bitcoin haijali mahali ulipozaliwa. Kutaabika kutokana na mfumuko mkubwa wa bei na ufisadi ni matokeo ya bahati mbaya ya mahali ulipozaliwa
 
-### Article 12: The Right to Privacy
+### Kifungu: Haki ya Faragha na Usiri
 
-You read that correctly: privacy is one of the human rights mentioned in the declaration. How can it be that our privacy is highly infringed not only by companies like Facebook, but also by the regulatory authorities? In the name of preventing money laundering and child abuse, we’re all under constant surveillance.
-
-![The Right to Privacy](_14-art-12.png)
+Umesoma vizuri: faragha ni moja ya haki za binadamu zilizotajwa katika azimio hilo. Inawezekanaje kwamba faragha yetu inakiukwa kwa kiwango kikubwa, si tu na kampuni kama Facebook, bali pia na mamlaka za udhibiti? Kwa jina la kupambana na utakatishaji wa fedha na unyanyasaji wa watoto, sisi sote tunafuatiliwa kila wakati
+![Haki ya Faragha](_14-art-12.png)
 [Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
 
-Financial surveillance and control seem to be the goals of institutions like the BIS. In 2021, the general manager, Agustín Carstens, [said in regards to central bank digital currencies (CBDCs)](https://bitcoinist.com/the-bis-wants-absolute-control-of-your-money-via-central-bank-digital-currencies/):
+Ufuatiliaji na udhibiti wa kifedha vinaonekana kuwa ndio malengo ya taasisi kama BIS. Mwaka 2021, Meneja Mkuu wa taasisi hiyo, Agustín Carstens., [alisema kuhusu sarafu za kidijitali za benki kuu (CBDCs](https://bitcoinist.com/the-bis-wants-absolute-control-of-your-money-via-central-bank-digital-currencies/):
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/9FM4Fu2ujDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](_15-bis-100usd.png)
 
-Yet people arguing with me saying, "But I've got nothing to hide, it's ok, we need this control to fight criminals." 
+Hata hivyo, watu hunibishia wakisema, “Lakini mimi sina cha kuficha, ni sawa tu, tunahitaji udhibiti huu ili kupambana na wahalifu" 
 
-![It's not about hiding something.](_16-privacy-policy.png)
+![Faragha sio tu kuhusu kuficha kitu.](_16-privacy-policy.png)
 [Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
 
-My answer: it’s not about having nothing to hide! Alone, this idea is pushing human rights activists, lesbians and gays, opposition members and so on under the suspicion that they have something to hide. No, they do not have anything to hide. Nonetheless, they are targets of violence, intimidation and prison and are facing death in many countries. That’s the reason why privacy is important.
+Jibu langu: si suala la kutokuwa na cha kuficha! Wazo hili peke yake linawasukuma wanaharakati wa haki za binadamu, wapenzi wa jinsia moja (wanawake kwa wanawake na wanaume kwa wanaume), wanachama wa upinzani na wengine wengi kuwa chini ya mashaka kwamba wana jambo la kuficha. La hasha, hawana cha kuficha. Hata hivyo, wanakuwa waathirika wa vurugu, vitisho, vifungo, na wanakabiliwa na hatari ya kifo katika nchi nyingi. Hii ndiyo sababu kwanini faragha ni muhimu sana.
 
-Even more so, it’s important that everyone is using privacy protection. The more people who care about privacy, the better protected freedom fighters and vulnerable groups are. This means that more privacy protection needs to be included in Bitcoin at the blockchain level. Less-wealthy people can’t afford a VPN service that costs $10 per month. They use what they get for free.
+Zaidi ya hapo, ni muhimu kwamba kila mtu atumie njia za kulinda faragha. Kadri watu wengi wanavyojali faragha, ndivyo wapigania uhuru na makundi yaliyo hatarini wanavyolindwa zaidi. Hii inamaanisha kuwa ulinzi zaidi wa faragha unapaswa kujengwa moja kwa moja katika kiwango cha blockchain ya Bitcoin. Watu wasio na uwezo mkubwa kifedha hawawezi kumudu huduma ya VPN inayogharimu dola 10 kwa mwezi. Wanatumia kile walichonacho bure.
 
-[Many millions are on Facebook and WhatsApp in Africa](https://www.statista.com/topics/9922/social-media-in-africa/). Why? Because it’s the only option they have. The cheapest option that telecom providers there offer are “social media” bundles. That’s why [thousands of people believe that Facebook is the internet](https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet). We shouldn’t repeat that mistake. But we’re on the brink. Luno, Binance and Coinbase are well-known brands in Africa. Most people believe that one needs to use an exchange or a bank to be able to use Bitcoin, and not only in Africa. I’ve heard that several times from people.
+[Waafrika mamilioni wanatumia Whatsapp na Facebook](https://www.statista.com/topics/9922/social-media-in-africa/). Kwa nini? Kwa sababu hiyo ndiyo chaguo pekee walilonalo. Chaguo la bei nafuu zaidi ambalo watoa huduma za mawasiliano wanatoa huko ni vifurushi vya “mitandao ya kijamii.” Ndiyo maana. [Maelefu ya watu wanaamini Facebook ni Mtandao](https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet). Hatupaswi kurudia kosa hilo. Lakini tupo kwenye ukingo. Luno, Binance na Coinbase ni chapa zinazojulikana sana barani Afrika. Watu wengi wanaamini kuwa ni lazima kutumia soko la ubadilishanaji au benki ili kuweza kutumia Bitcoin na si Afrika tu. Nimesikia hilo mara kadhaa kutoka kwa watu mbalimbali.
 
-Privacy is a luxury for most Africans. They are even more prone to data collection and abuse.
+Faragha ni anasa kwa Waafrika wengi. Wao wako hatarini zaidi kukusanyiwa taarifa zao na kudhulumiwa kupitia matumizi mabaya ya taarifa za wateja.
 
-### How Bitcoin fixes the Right to Privacy
+### Namna Bitcoin Inavyolinda Haki ya Faragha
 
-Bitcoin’s privacy isn’t perfect, yet. New technologies like [PayJoins or Confidential Transactions](https://bitcoinmagazine.com/technical/list-of-bitcoin-privacy-proposals) will hopefully be implemented in the coming years. Payments on the Lightning Network are more private already. Wrapped Lightning invoices protect the recipient from being identified by custodians. With CoinJoins, you can already achieve a high level of privacy. In the future, this kind of protection needs to be the standard.
+Faragha ya Bitcoin bado haijakamilika kikamilifu. Teknolojia mpya kama vile.[PayJoins au Miamala ya Sir](https://bitcoinmagazine.com/technical/list-of-bitcoin-privacy-proposals) zinatarajiwa kutekelezwa katika miaka ijayo. Malipo kupitia Mtandao wa Lightning tayari yana faragha zaidi. Ankara za Lightning zilizounganishwa (wrapped invoices) hulinda mpokeaji asitambulike na watoa huduma wa kidijitali. Kwa kutumia CoinJoins, unaweza tayari kupata kiwango cha juu cha faragha. Katika siku zijazo, aina hii ya ulinzi inapaswa kuwa kiwango cha kawaida.
 
-Still, since Bitcoin is pseudonymous and many people in African countries use it peer to peer without know-your-customer (KYC) identification, it gives them more privacy than their bank or mobile money provider. In Zimbabwe, all digital transactions are [automatically taxed at 4%](https://bitcoinundco.com/en/bitcoin-insights-africa/). Every payment is traceable by the government since mobile money transactions are moving from one SIM card to the other and SIM users are registered.
+Hata hivyo, kwa kuwa Bitcoin ni ya jina-bandia (pseudonymous) na watu wengi katika nchi za Afrika huitumia kwa njia ya moja kwa moja ya mtu kwa mtu (peer to peer) bila utambulisho wa lazima (KYC), huwapa faragha zaidi kuliko benki au watoa huduma za fedha za simu. Nchini Zimbabwe, miamala yote ya kidijitali [ainatozwa kodi ya asilimia 4%](https://anitaposch.com/bitcoin-insights-africa/).Kila malipo yanaweza kufuatiliwa na serikali kwa sababu miamala ya fedha kwa njia ya simu huhamia kutoka laini moja ya simu kwenda nyingine, na watumiaji wa SIM wamesajiliwa.
 
-Privacy is never zero or one. It’s on a scale. The privacy possible while using Bitcoin is higher than that of your credit card, but lower than that of using cash. There is definitely a lot of work to be done and it’s important to make Bitcoin on the base chain more private. But Bitcoin gives you plausible deniability already now. It protects one from being an easy target.
+Faragha haiko katika kiwango cha sifuri au moja. Iko kwenye mizani. Faragha unayoweza kupata unapoitumia Bitcoin ni ya juu kuliko ile ya kadi ya mkopo, lakini ni ya chini kuliko ile ya kutumia fedha taslimu. Bila shaka, bado kuna kazi kubwa ya kufanya, na ni muhimu kufanya Bitcoin katika mnyororo wa msingi (base chain) kuwa ya faragha zaidi. Hata hivyo, Bitcoin tayari inakupa uwezo wa kukanusha kwa hoja ya msingi (plausible deniability). Inakulinda dhidi ya kuwa mlengwa rahisi.
 
-## Article 19: Freedom of Speech
+## Kifungu cha 19: Uhuru wa Kujieleza
 
-Funding the opposition in Zimbabwe? Supporting a gay rights group in Saudi Arabia? Protesting against China in Hong Kong? Donating toward Ukrainian refugees? Then you’re sharing your opinion with the world through your financial transactions. If you can’t send money to an abortion clinic in the U.S. for fear of being prosecuted, then your freedom of speech has been taken away.
+Kufadhili upinzani nchini Zimbabwe? Kusaidia kikundi cha kutetea haki za mashoga nchini Saudi Arabia? Kupinga utawala wa China huko Hong Kong? Kuchangia wakimbizi wa Kiukraine? Basi unakuwa unashiriki maoni yako na dunia kupitia miamala yako ya kifedha. Ikiwa huwezi kutuma pesa kwa kliniki ya kutoa mimba nchini Marekani kwa hofu ya kushtakiwa, basi uhuru wako wa kujieleza umechukuliwa.
 
 ![](_20-freedom-speech.png)
-[Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+[Chanzo](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-Similar cases to the below are not unique to Zimbabwe, but that is just the country I visited for the longest period. The young man pictured on the left was brutally murdered because he was an activist. The man pictured on the right was arrested because he was wearing a yellow t-shirt. Yellow is the color of the opposition, and [wearing yellow was forbidden by the government](https://bulawayo24.com/index-id-news-sc-local-byo-217547.html).
+Matukio kama haya yaliyo hapa chini si ya kipekee kwa Zimbabwe, lakini ndiyo nchi niliyokaa kwa muda mrefu zaidi. Kijana aliyeonyeshwa upande wa kushoto aliuawa kikatili kwa sababu alikuwa mwanaharakati. Mwanaume aliye upande wa kulia alikamatwa kwa sababu alikuwa amevaa fulana ya njano. Rangi ya njano ni alama ya upinzani, na [Seikali imepiga marufuku rangi ya manjano](https://bulawayo24.com/index-id-news-sc-local-byo-217547.html).
 
-“Even schoolchildren have not been spared with reports suggesting that schools with yellow uniforms have been directed to abandon them and pick different colours,” [ZimEye](https://www.zimeye.net/2022/03/08/mnangagwa-bans-yellow-attire/) reported.
+“Hata wanafunzi wa shule za msingi hawakuepuka katazo hili,kuwa kuna ripoti zinazodai kuwa shule zenye sare za rangi ya njano zimeelekezwa kuziacha na kuchagua rangi nyingine. [ZimEye](https://www.zimeye.net/2022/03/08/mnangagwa-bans-yellow-attire/) reported.
 
 ![](_21-political-prisoners.png)
-[Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[chanzo](https://anitaposch.com/bitcoin-human-rights-riga-2022)
 
-## How Bitcoin fixes Freedom of Speech
+## Namna Bitcoin Inavyosaidia Kulinda Uhuru wa Maon
 
-Bitcoin transactions are uncensorable. Used the right way, Bitcoin gives you enough privacy to express your opinion (I’m not talking about any privacy it may grant for committing crimes).
+Miamala ya Bitcoin haiwezi kuzuiwa na kufatliwa na mtu yeyote. Ikitumika kwa njia sahihi, Bitcoin inakupa faragha ya kutosha kueleza maoni yako (sizungumzii kuhusu faragha inayoweza kutumiwa kutenda uhalifu)..
 
-## Article 20: Freedom of Association
+## Kifungu cha 20: Haki ya Uhuru wa Kuunda na Kujiunga na Vikundi
 
-![](_22-freedom-association.png)
-[Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+![](_22-uhuruwa-kujumuima.png)
+[chanzo](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-Freedom of speech goes hand in hand with freedom of association. If you can’t express your political opinion, if you can’t meet with your fellow demonstrators or freedom fighters because of financial surveillance, then you’re stripped from political power. If your activism endangers the authoritarian powers, then they cut you off from your bank account. 
+Uhuru wa kujieleza huenda sambamba na uhuru wa kujumuika. Ikiwa huwezi kueleza maoni yako ya kisiasa, ikiwa huwezi kukutana na waandamanaji wenzako au wapigania uhuru kwa sababu ya ufuatiliaji wa kifedha, basi unanyang'anywa uwezo wako wa kisiasa. Ikiwa harakati zako za kiwanaharakati zinatishia watawala wa kimabavu, basi wanakukatia huduma za akaunti ya benk
 
-This happened in Nigeria [during the EndSARS](https://bitcoinmagazine.com/culture/nigerian-protest-group-finds-sovereign-lifeline-in-bitcoin) movement which started in October 2020. The demonstrations against police brutality were supported by the Nigerian Feminist Coalition. They collected donations via their bank account and gave food, drinks and other needed support to the demonstrators, but not for long. The country’s central bank cut off their bank account. But the women remembered Bitcoin, the technology that works without banks. Tech savvy as they were, they set up a BTCPay Server instance and started collecting donations in bitcoin from all over the world.
+Hii ilitokea nchini Nigeria [wakati wa maandamano maalumu yaliyoitwa EndSARS](https://bitcoinmagazine.com/culture/nigerian-protest-group-finds-sovereign-lifeline-in-bitcoin) harakati ambayo ilianza mwezi Oktoba 2020. Maandamano dhidi ya ukatili wa polisi yaliungwa mkono na Umoja wa Wanaharakati wa Kike wa Nigeria (Nigerian Feminist Coalition). Walikusanya michango kupitia akaunti yao ya benki na kutoa chakula, vinywaji na msaada mwingine muhimu kwa waandamanaji — lakini haikudumu kwa muda mrefu. Benki Kuu ya nchi hiyo ilikata akaunti yao ya benki. Lakini wanawake hao walikumbuka kuhusu Bitcoin, teknolojia inayofanya kazi bila kutegemea mabenki. Wakiwa na ujuzi wa kiteknolojia, waliunda mfumo wa BTCPay Server na kuanza kukusanya michango kwa Bitcoin kutoka kila kona ya dunia
 
-![](_23-nigeria-demonstration.png)
-[Source](https://qz.com/africa/1922466/how-bitcoin-powered-nigerias-endsars-protests), [source two](https://anita.link/88)
+![](_23-Maandamano-Nigeria.png)
+[Chanzo](https://qz.com/africa/1922466/how-bitcoin-powered-nigerias-endsars-protests), [source two](https://anita.link/88)
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/BH-XqzmavQo?start=2713" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## How Bitcoin fixes Freedom of Association
+## Namna Bitcoin Inavyolinda na Kukuza Haki ya Kujumuika
 
-Bitcoin’s privacy and uncensorability enables people to cooperate against dictatorships. You simply can’t freeze a Bitcoin account, because there are no accounts. As long as you self custody your keys, no one can take your money away from you.
+Faragha na usiri ndani ya Bitcoin na uwezo wake wa kutozuiliwa vinawawezesha watu kushirikiana dhidi ya tawala za kidikteta. Huwezi kufungia akaunti ya Bitcoin, kwa sababu hakuna akaunti katika mfumo huu. Mradi tu umehifadhi funguo zako binafsi mwenyewe, hakuna mtu anayeweza kukuchukulia pesa zako.
 
-## Article 2: Freedom from Discrimination
+## Kifungu cha 2: Uhuru na haki ya Kuishi Bila Ubaguzi
 
 ![](_24-freedom-discrimination.png)
 [Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-### Financial Oppression via Foreign Exchange Controls
+### Kikwazo cha Kifedha kwa Kutumia Udhibiti wa Mabadilishano ya Fedha za Kigeni
 
-> "Foreign exchange controls are imposed by a government on the purchase/sale of foreign currencies by residents, on the purchase/sale of local currency by nonresidents, or the transfers of any currency across national borders. Countries with weak and/or developing economies generally use foreign exchange controls to limit speculation against their currencies. They may also introduce capital controls, which limit foreign investment in the country." –[Wikipedia](https://en.wikipedia.org/wiki/Foreign_exchange_controls)
+> Udhibiti wa fedha za kigeni huwekwa na serikali ili kudhibiti ununuzi/uuza wa sarafu za kigeni na wakazi wa ndani, au ununuzi/uuza wa sarafu ya ndani na wageni, au uhamishaji wa aina yoyote ya sarafu kuvuka mipaka ya kitaifa. Nchi zenye uchumi dhaifu au unaoendelea kwa kawaida hutumia udhibiti huu ili kuzuia uvumi dhidi ya sarafu zao. Vilevile, zinaweza kuweka udhibiti wa mtaji (capital controls), ambao huzuia au kupunguza uwekezaji wa moja kwa moja wa kigeni ndani ya nchi. –[Wikipedia](https://en.wikipedia.org/wiki/Foreign_exchange_controls)
 
-Thirty-one countries globally are imposing foreign exchange controls, such as Argentina, Ethiopia, Ghana, Nigeria, Russia, Ukraine, Venezuela and Zimbabwe, just to name a few. These discriminatory restrictions are financial oppression.
+Nchi thelathini na moja duniani kote zimeweka vikwazo kwa lengo la udhibiti wa fedha za kigeni, zikiwemo Argentina, Ethiopia, Ghana, Nigeria, Urusi, Ukraine, Venezuela na Zimbabwe, kutaja chache tu. Vikwazo hivi vya kibaguzi ni aina ya ukandamizaji wa kifedha.
 
 ![](_25-financial-oppression.png)
-[Source](https://www.techzim.co.zw/2022/06/zipit-moxnthly-limits-increased/)
+[Chanzo](https://www.techzim.co.zw/2022/06/zipit-moxnthly-limits-increased/)
 
-[In Zimbabwe, for instance](https://www.techzim.co.zw/2022/06/zipit-moxnthly-limits-increased/), online banking transactions are limited to $600 dollars per month. Per transaction you can only transfer $37. It’s basically impossible to run a business like that.
+[Kwa mfano, nchini Zimbabwe](https://www.techzim.co.zw/2022/06/zipit-moxnthly-limits-increased/), onMiamala ya benki kwa njia ya mtandaoni imewekewa kikomo cha dola 600 kwa mwezi. Kwa kila muamala mmoja, unaweza tu kutuma dola 37. Kwa hali kama hii ni ngumu au haiwezekani kabisa kuendesha biashara katika mazingira kama haya.
 
-Another form of financial discrimination is the war on cash. In 2016, [the Indian government and central bank withdrew the highest-denominated banknotes](https://www.strategy-business.com/article/What-Happened-after-India-Eliminated-Cash) from one day to the other to fight money laundering and the black market. Hundreds of thousands of cash dependent people stormed banks and ATMs to exchange their banknotes. But, of course, ATMs were empty and it was a weekend.
+Aina nyingine ya ubaguzi wa kifedha ni vita dhidi ya matumizi ya fedha taslimu. Mwaka 2016.., [Serikali ya India na Benki Kuu yake zilitangaza kuondoa noti za juu zaidi kwa thamani katika mzunguko.](https://www.strategy-business.com/article/What-Happened-after-India-Eliminated-Cash) Kutoka siku moja hadi nyingine, hatua hiyo ilichukuliwa kwa lengo la kupambana na utakatishaji wa fedha na soko la magendo. Mamia ya maelfu ya watu waliotegemea fedha taslimu walifurika benki na mashine za ATM kubadilisha noti zao. Lakini, kama kawaida, mashine za ATM zilikuwa tupu na ilikuwa ni mwishoni mwa wiki
 
 ![](_27-india-unsuccessful.png)
 
-The result was that [82 people died](https://thewire.in/uncategorised/the-costs-of-demonetisation-death-toll-rises-to-82-eight-million-bidi-workers-remain-unpaid) and millions lost their money. And this overreach had seemingly zero positive effect, because two years later, the black market money problem still existed.
+Matokeo yake ni mabaya na [watu 82 walifariki](https://thewire.in/uncategorised/the-costs-of-demonetisation-death-toll-rises-to-82-eight-million-bidi-workers-remain-unpaid) Na mamilioni walipoteza fedha zao. Na licha ya hatua hiyo kali, haikuleta matokeo chanya, kwani miaka miwili baadaye, tatizo la pesa za soko la magendo bado liliendelea kuwepo.
 
 ![](_26-india.png)
-[Source one](https://www.theguardian.com/world/2016/nov/08/india-withdraws-500-1000-rupee-notes-fight-corruption), [source two](https://thewire.in/uncategorised/the-costs-of-demonetisation-death-toll-rises-to-82-eight-million-bidi-workers-remain-unpaid)
+[Chanzo](https://www.theguardian.com/world/2016/nov/08/india-withdraws-500-1000-rupee-notes-fight-corruption), [source two](https://thewire.in/uncategorised/the-costs-of-demonetisation-death-toll-rises-to-82-eight-million-bidi-workers-remain-unpaid)
 
-## How Bitcoin Fixes Freedom from Discrimination
+## Jinsi Bitcoin Inavyotatua Uhuru Dhidi ya Ubaguzi
 
-Bitcoin is permissionless. Anyone can use it, regardless of race, gender, status or wealth. Nobody can take it away from you. Since it’s a protocol controlled by code and machines, there can be no discrimination based on human prejudices.
+Bitcoin haina vikwazo vya ruhusa. Mtu yeyote anaweza kuitumia, bila kujali rangi, jinsia, hadhi au utajiri. Hakuna mtu anayeweza kukunyang’anya. Kwa kuwa ni itifaki inayoendeshwa na msimbo wa kompyuta na mashine, hakuna ubaguzi unaotokana na upendeleo wa kibinadamu.
 
-## Article 13: Freedom of Movement
+## Kifungu cha 13: Uhuru wa Kuhama na Kusafiri kutoka sehemu moja kwenda nyengine
 
 ![](_28-free-movement.png)
 [Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-Most people don’t have the right to free movement — at least they aren’t welcome to arrive in many countries. Even if one is allowed to move freely, one can’t take all of their wealth with themselves. 
+MWatu wengi hawana haki ya uhuru wa kusafiri — angalau hawakaribishwi kuingia katika nchi nyingi. Hata kama mtu ameruhusiwa kusafiri kwa uhuru, hawezi kuchukua mali zake zote pamoja naye.
 
-Imagine you need to flee your home because of war or discrimination and persecution. You can’t just go to the bank and ask for all of your money and transfer it abroad. [Foreign exchange controls and regulations](https://www.tradecommissioner.gc.ca/china-chine/control-controle.aspx?lang=eng) ban the import of a stash of money higher than a few thousand U.S. dollars. If you own a house or land, you need to sell it and see how you can transfer it from one jurisdiction to the other.
+Fikiria unalazimika kukimbia nyumbani kwako kutokana na vita, ubaguzi au mateso. Huwezi kwenda benki na kuomba pesa zako zote na kuzipeleka nje ya nchi kirahisi.. [Udhibiti na Kanuni za Fedha za Kigen](https://www.tradecommissioner.gc.ca/china-chine/control-controle.aspx?lang=eng) bNa huwezi kuingiza kiasi kikubwa cha pesa kinachozidi maelfu machache ya dola za Kimarekani. Ikiwa unamiliki nyumba au ardhi, unalazimika kuuza mali hiyo na kisha kuangalia namna ya kuhamisha thamani hiyo kutoka eneo moja la mamlaka hadi jingine.
 
-## How Bitcoin fixes Freedom of Movement
+## Namna Bitcoin inavyosaidia uhuru wa Kuhama na Kusafiri kutoka sehemu moja kwenda nyengine
 
 Bitcoin is borderless. It enables free movement without losing all your wealth.
 
 ![](_29-flee-with-bitcoin.png)
 [Source](https://www.cnbc.com/2022/03/23/ukrainian-flees-to-poland-with-2000-in-bitcoin-on-usb-drive.html)
 
-The Ukrainian referred to in the above headline was able to flee the war zone because they could take their bitcoin with them. In fact, you don’t even need a device to take all of your wealth with you. Memorize the 12 seed words to your Bitcoin wallet, throw away your smartphone or computer and move over borders. On the other side, get yourself a phone, install a wallet and import the seed words. You’ll have access to your money.
+Mwananchi wa Ukraine aliyezungumziwa katika kichwa cha habari hapo juu aliweza kukimbia eneo la vita kwa sababu aliweza kuchukua Bitcoin yake pamoja naye. Kwa kweli, huhitaji hata kifaa chochote ili kubeba utajiri wako wote. Kumbuka tu maneno 12 ya mbegu ya pochi yako ya Bitcoin, tupa simu yako au kompyuta, na vuka mipaka. Upande wa pili, nunua simu, sakinisha pochi (wallet), na uingize maneno ya mbegu. Utakuwa na uhuru wa pesa zako muda wowote.
 
-
-## Article 17: Right to Own Property
+## Kifungu cha 17: Haki ya Kumiliki Mali
 
 ![](_30-property.png)
 [Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
-Seventy-five economies globally [still limit women’s rights to manage assets](https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets). There are countries in which women are not allowed to own property or inherit it — they never will be owners of land that could be used as a security to apply for a loan or support their informal businesses. This is occurring mostly in countries in the Middle East, North Africa, South Asia, Sub-Saharan Africa, East Asia and the Pacific.
+Kuna jumla ya uchumi 75 duniani kote [wanakosesha wanawake haki ya kumiliki mali](https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets). Kuna nchi ambazo wanawake hawaruhusiwi kumiliki mali wala kurithi — kamwe hawatakuwa wamiliki wa ardhi ambayo ingeweza kutumika kama dhamana ya kupata mkopo au kuendeleza biashara zao zisizo rasmi. Hali hii inajitokeza zaidi katika nchi za Mashariki ya Kati, Afrika Kaskazini, Asia ya Kusini, Afrika Kusini mwa Jangwa la Sahara, Asia ya Mashariki na eneo la Pasifiki.
 
 ![](_31-limit-women-property.png)
-[Source](https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets)
+[Chanzo](https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets)
 
-> “Data shows that giving women greater access to assets through inheritance can change outcomes for children, particularly girls. In 1994, two states in India reformed the Hindu Succession Act to allow women and men the same ability to inherit joint family property. This altered control over assets within families and increased parental investments in daughters. Mothers who benefited from the reform spent twice as much on their daughters’ education, and women were more likely to have bank accounts and sanitary latrines where the reform occurred.” - [World Bank](https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets)
+> “Takwimu zinaonyesha kuwa kuwapa wanawake fursa kubwa ya kumiliki mali kupitia urithi kunaweza kubadilisha matokeo ya maisha kwa watoto, hasa wasichana. Mwaka 1994, majimbo mawili nchini India yalifanya marekebisho kwenye Sheria ya Urithi wa Kihindu (Hindu Succession Act) ili kuruhusu wanawake na wanaume kuwa na haki sawa ya kurithi mali ya familia ya pamoja. Hatua hii ilibadilisha udhibiti wa mali ndani ya familia na kuongeza uwekezaji wa wazazi kwa watoto wa kike. Akina mama waliowanufaika na marekebisho hayo walitumia kiasi cha mara mbili zaidi kwa elimu ya mabinti zao, na wanawake walikuwa na uwezekano mkubwa wa kuwa na akaunti za benki na vyoo vya kisasa katika maeneo ambayo marekebisho hayo yalifanyika.” - [Benki ya Dunia](https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets)
 
-Women are the majority of Kenya’s population; they perform [70% of the agricultural labor](https://www.weforum.org/agenda/2018/03/women-farmers-food-production-land-rights/), but they [own less than 2% of the land](https://www.csmonitor.com/World/Africa/2021/0322/Kenyan-women-can-own-land-too-A-women-only-village-inspires-others) and control very little of the income produced by their labor. According to a [Savings Learning Lab report](https://www.itad.com/wp-content/uploads/2020/02/Savings-Count-Trends-in-access-use-and-the-ecosystem-of-savings-in-Sub-Saharan-Africa-1.pdf), after being provided with savings accounts, market vendors in Kenya, primarily women, saved at a higher rate and invested 60% more in their businesses. Women-headed households in Nepal spent 15% more on nutritious foods (meat and fish) and 20% more on education after receiving free savings accounts. Moreover, farmers in Malawi who had their earnings deposited into savings accounts spent 13% more on farming equipment and increased their crop values by 15%.
+Wanawake wengi zaidi nchini Kenya; wao hufanya kazi asilimia kubwa katika[Asilimia zaidi ya 70% wamejingiza katika kilimo](https://www.weforum.org/agenda/2018/03/women-farmers-food-production-land-rights/), lakini [wanamiliki ardhi si zaidi ya asilimia 2%](https://www.csmonitor.com/World/Africa/2021/0322/Kenyan-women-can-own-land-too-A-women-only-village-inspires-others) lakini wanamiliki sehemu ndogo sana ya mapato yanayotokana na kazi yao. Kwa mujibu wa ripoti moja.. [Ripoti kutoka taasisi Savings Learning Lab](https://www.itad.com/wp-content/uploads/2020/02/Savings-Count-Trends-in-access-use-and-the-ecosystem-of-savings-in-Sub-Saharan-Africa-1.pdf), Baada ya kupewa akaunti za akiba, wauzaji sokoni nchini Kenya—ambao wengi wao ni wanawake—walianza kuweka akiba kwa kiwango kikubwa zaidi na kuwekeza kwa asilimia 60 zaidi katika biashara zao. Kaya zinazoongozwa na wanawake nchini Nepal zilitumia asilimia 15 zaidi kwa vyakula vyenye lishe bora (kama nyama na samaki), na asilimia 20 zaidi kwa elimu baada ya kupokea akaunti za akiba bila malipo. Zaidi ya hayo, wakulima nchini Malawi ambao walihifadhi mapato yao kwenye akaunti za akiba walitumia asilimia 13 zaidi kununua vifaa vya kilimo na wakaongeza thamani ya mazao yao kwa asilimia 15.
 
-Bitcoin empowers women and vulnerable groups, because one can own it secretly. No one needs to know. This lowers the danger of money being taken away by partners and family members.
+Bitcoin inawawezesha wanawake na makundi yaliyo hatarini, kwa sababu mtu anaweza kumiliki bila kujulikana. Hakuna anayehitaji kujua. Hii inapunguza hatari ya fedha kuchukuliwa na wapenzi au wanafamilia.
 
-In the near future, people will be able to use bitcoin as a collateral for micro loans. One can save as little as one cent or $1 in bitcoin a day on the Lightning Network. After saving a certain value, like $50, they can receive a micro loan. After paying back, they’ll get back the collateral.
+Katika siku za usoni, watu wataweza kutumia bitcoin kama dhamana ya kupata mikopo midogo. Mtu anaweza kuweka akiba ya senti moja au dola moja kwa siku kwa kutumia Mtandao wa Lightning. Baada ya kufikisha thamani fulani, kama dola 50, anaweza kupata mkopo mdogo. Akimaliza kulipa mkopo, atarejeshewa dhamana yake..
 
-### How Bitcoin Fixes the Right to Property
+### Namna Bitcoin inavyosaidia Uhuru wa Kumiliki Mali
 
-Bitcoin is not only digital money, it’s digital property. Therefore, self custodying your bitcoin makes you an owner of property. Since Bitcoin is permissionless, the right to own property is granted to anyone.
+Bitcoin si pesa za kidijitali tu au mtandao, bali pia ni mali ya kidijitali. Kwa hiyo, unapohifadhi bitcoin yako binafsi, unakuwa mmiliki halali wa mali. Kwa kuwa Bitcoin haina vikwazo vya ruhusa, haki ya kumiliki mali inatolewa kwa mtu yeyote.
 
-## Bitcoin Is a Silent Revolution
+## Bitcoin Ni Mapinduzi ya Kimya yasio na Madhara
 
 ![](_32-collective-power.png)
-[Source](https://www.transparency.org/en/news/cpi-2021-corruption-human-rights-democracy), image source: Lagos, Nigeria – Activists protest against the controversial anti-social media bill introduced in the parliament, November 2019. Photo: Oluwafemi Dawodu/Shutterstock
+[Chanzo](https://www.transparency.org/en/news/cpi-2021-corruption-human-rights-democracy), image source: Lagos, Nigeria – Wanaharakati wakiandamana kupinga muswada tata wa kupinga matumizi ya mitandao ya kijamii uliowasilishwa bungeni, Novemba 2019. Picha: Oluwafemi Dawodu/Shutterstock
 
-> “In authoritarian contexts where control rests with a few, social movements are the last remaining check on power. It is the collective power held by ordinary people from all walks of life that will ultimately deliver accountability.” - Daniel Eriksson, CEO Transparency International
+> Katika mazingira ya kiimla au kibabe na nguvu ambako madaraka yanashikiliwa na wachache, harakati za kijamii ndizo kizuizi cha mwisho dhidi ya madaraka yasiyodhibitiwa. Ni nguvu ya pamoja inayoshikiliwa na watu wa kawaida kutoka tabaka mbalimbali za maisha ambayo hatimaye italeta uwajibikaji.” – Daniel Eriksson, Mkurugenzi Mtendaji wa Transparency International
 
-Bitcoin is carried by a social movement. It’s a silent revolution. By being in charge of our private keys, each one of us is part of a collective with the power to force governments to be held accountable. With the help of Bitcoin, dictators can be toppled. Self custody your bitcoin, incapacitate them from the power to create and seize money and their funds will dry out. Hold them accountable by pressuring them to audit public funds.
+Bitcoin inaendeshwa na harakati ya kijamii. Ni mapinduzi ya kimya. Kwa kuwa na udhibiti wa funguo zetu binafsi, kila mmoja wetu ni sehemu ya nguvu ya pamoja yenye uwezo wa kulazimisha serikali kuwajibika. Kwa msaada wa Bitcoin, madikteta wanaweza kuondolewa madarakani. Hifadhi bitcoin yako mwenyewe (self-custody), uwanyang’anye uwezo wa kuunda na kunyakua pesa, na fedha zao zitakauka. Wawajibishe kwa kuwalazimisha kufanya ukaguzi wa matumizi ya fedha za umma.
 
-It may sound illogical, but by using Bitcoin, you’re supporting freedom fighters globally and helping make the world more inclusive. This is why my non-profit initiative is called “[Bitcoin For Fairness.”](https://bffbtc.org/) Ultimately Bitcoin doesn’t fix everything. There will always be rich and poor people. But Bitcoin definitely fixes one huge thing: It enables fair access to a borderless, neutral money that can’t be altered to the advantage of any single entity.
+Inaweza kuonekana kama si jambo la ajabu na nje ya maadili, lakini kwa kutumia Bitcoin, unawaunga mkono wapigania uhuru kote duniani na unasaidia kuufanya ulimwengu kuwa jumuishi zaidi. Hii ndiyo sababu mpango wangu wa kijamii usio wa kibiashara unaitwa “[Bitcoin kwa Madhumuni ya Haki.”](https://bffbtc.org/) Hatimaye, Bitcoin haitatatua kila kitu au matatizo ya mtu mmoja mmoja. Kutakuwa na matajiri na masikini daima. Lakini Bitcoin bila shaka inarekebisha jambo moja kubwa: inatoa fursa ya haki kwa kila mtu kupata pesa na kuweza kutumia pasipo na mipaka, isiyoegemea upande wowote, na isiyoweza kubadilishwa kwa manufaa ya chombo au taasisi moja tu.
 
-![By using Bitcoin you support freedom fighters globally and help to make the world more fair. - Anita Posch](_33-more-fair-world.png)
+![Kwa kutumia Bitcoin, unaunga mkono wapigania uhuru kote duniani na unasaidia kuufanya ulimwengu kuwa wa haki zaidi.. - Anita Posch](_33-more-fair-world.png)
 
-Bitcoin delivers the opportunity for historical reparation from the effects of colonialism. It can make the gap between rich and poor smaller. That’s why I put so much effort into sharing Bitcoin self-custody knowledge in African countries and the Global South. The peer-to-peer, non-KYC revolution will take place here, where people are used not to using banks. My motto is: “Keep the unbanked unbanked” and support them in their fight for financial freedom. I’m just an ally visiting and sharing knowledge. The local people are key. The opportunity is there, I trust they’ll take it and run.
+Bitcoin inatoa fursa ya kufidia kihistoria madhara ya ukoloni. Inaweza kupunguza pengo kati ya matajiri na maskini. Ndiyo maana ninawekeza juhudi kubwa katika kueneza uelewa wa kujitunza Bitcoin katika nchi za Afrika na Kusini mwa Dunia. Mapinduzi ya moja kwa moja ya mtu kwa mtu (peer-to-peer), yasiyohitaji uthibitisho wa utambulisho (non-KYC), yatafanyika hapa, mahali ambapo watu hawajaizoea benki. Kaulimbiu yangu ni: “Waacha wasio na benki waendelee kuwa wasio na benki” na kuwasaidia katika mapambano yao ya uhuru wa kifedha. Mimi ni mshirika tu anayetembelea na kueneza maarifa. Watu wa hapa ndio msingi. Fursa ipo, nina imani wataitumia na kufanikisha.
 
-Bitcoin isn’t useless, it’s priceless. Anyone who is lobbying for a Bitcoin ban or attempts to control it is an enemy of freedom and of humankind. It’s a voluntary network, if you don’t like it, don’t use it.
-
----
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/geyser), send sats to our lightning address bff@geyser.fund or send fiat money on [Patreon](https://patreon.com/anitaposch).
+Bitcoin si bure, ni ya thamani isiyopimika. Yeye yeyote anayepigania marufuku ya Bitcoin au kujaribu kuizuia ni adui wa uhuru na ubinadamu. Ni mtandao wa hiari; kama huupendi, usiitumie.
 
 ---
+Unaweza penda zaidi kazi na bidii yangu[Bitcoin kwa Madhumuni ya Haki](https://bffbtc.org) tuendeleza matumizi ya Bitcoin mtaani katika Kusini mwa Dunia? Yote haya yanaendeshwa na jamii na kufadhiliwa kwa michango. Jiunge nasi bila ya[Changia harakati zetu za uezeshaji na usimamizi](https://anita.link/donate), Tuma sats kwa anwani yetu ya Lightning: bff@geyser.fund 
 
-Sources:
+---
+
+Vyanzo vya taarifa kwa maelezo zaidi.
 
 [^1] https://www.flickr.com/photos/fdrlibrary/27758131387/  
 [^2] https://thelogicalindian.com/story-feed/get-inspired/dr-hansa-mehta/  
