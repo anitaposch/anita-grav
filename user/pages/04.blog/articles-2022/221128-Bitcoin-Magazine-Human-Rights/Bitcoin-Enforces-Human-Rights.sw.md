@@ -48,7 +48,7 @@ Kamati ya uoja wa Mataiafa ikiongozwa [Eleanor Roosevelt](https://en.wikipedia.o
 ![Mwanaharakati wa Haki za Wanawake na Mwandishi mwenye asilia ya Bara Hindi Hansa Jivray Mehta](_2-hansa-jivraj-mehta.png)
 [Source](https://thelogicalindian.com/story-feed/get-inspired/dr-hansa-mehta/)
 
-Azimio la Kimataifa la Haki za Binadamu lilitumika kama pendekezo kwa sheria mbalimbali. Sheria zinaweza kutekelezwa au zisiwepo kabisa. Sheria zenyewe si dhamana kwamba mtu yeyote atatendewa kwa usawa, hatabaguliwa, au ataepushwa na mateso ya unyanyasaji wa kifedha. Kinyume na sheria zinazotekelezwa na binadamu, mkataba unaotekelezwa na kanuni za kihisabati zilizojengwa kwa makubaliano ya pamoja kati ya watumiaji wake wote utabaki kuwa usiobagua na utatoa mfumo shirikishi wa kifedha. “Sheria bila watawala.”, kama alivyosema [Andreas M. Antonopoulos says](https://youtu.be/gq-t7Ky6QmE).
+Azimio la Kimataifa la Haki za Binadamu lilitumika kama pendekezo kwa sheria mbalimbali. Sheria zinaweza kutekelezwa au zisiwepo kabisa. Sheria zenyewe si dhamana kwamba mtu yeyote atatendewa kwa usawa, hatabaguliwa, au ataepushwa na mateso ya unyanyasaji wa kifedha. Kinyume na sheria zinazotekelezwa na binadamu, mkataba unaotekelezwa na kanuni za kihisabati zilizojengwa kwa makubaliano ya pamoja kati ya watumiaji wake wote utabaki kuwa usiobagua na utatoa mfumo shirikishi wa kifedha. “Sheria bila watawala.”, kama alivyosema [Andreas M. Antonopoulos](https://youtu.be/gq-t7Ky6QmE).
 
 Maswali yanaendelea kubaki: Ni kiasi gani cha umeme kina thamani ya maisha na uhuru wa mabilioni ya watu? Ni kwa namna gani watu wa Kaskazini iliyoendelea wanaweza kuamua nini ni matumizi mazuri ya nishati kwa watu wa Kusini? Zaidi ya kuwa chombo cha ‘kubahatisha bei,’ je, Bitcoin si pia nyenzo kubwa kwa faragha na uhuru wa kifedha duniani kote?
 
@@ -378,7 +378,7 @@ Fikiria unalazimika kukimbia nyumbani kwako kutokana na vita, ubaguzi au mateso.
 
 ## Namna Bitcoin inavyosaidia uhuru wa Kuhama na Kusafiri kutoka sehemu moja kwenda nyengine
 
-Bitcoin is borderless. It enables free movement without losing all your wealth.
+Bitcoin haina mipaka. Inamruhusu mtu kufanya safari popote pale bila kupoteza mali au utajiri anaomiliki nchi au sehemu anaishi wakati huu kabla kuhama.
 
 ![](_29-flee-with-bitcoin.png)
 [Source](https://www.cnbc.com/2022/03/23/ukrainian-flees-to-poland-with-2000-in-bitcoin-on-usb-drive.html)
