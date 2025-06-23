@@ -1,8 +1,9 @@
 ---
-title: Kupinga Mfumo wa Pesa Za Serikali Unaoweza Kupotoshwa, Bitcoin Inalinda Haki za Binadamu za Ulimwengu Wote:
-    tags: [Blog, Learn Bitcoin, Features, Human Rights]
+title: Kupinga Mfumo wa Pesa Za Serikali Unaoweza Kupotoshwa, Bitcoin Inalinda Haki za Binadamu za Ulimwengu Wote
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Features, Human Rights, Perspectives]
 routes:
-    default: '/swahilih-bitcoin-enforces-human-rights'
+    default: '/swahili-bitcoin-enforces-human-rights'
 date: 2025-06-28 16:30
 dateformat: 'Y-m-d H:i'
 summary: "Hii ndiyo makala muhimu zaidi ambayo nimeandika hadi sasa kwa Bitcoin Magazine. Inaeleza jinsi sifa za Bitcoin zinavyoiwezesha kulinda haki za binadamu kwa watu duniani kote, kama ilivyobainishwa na Umoja wa Mataifa."
