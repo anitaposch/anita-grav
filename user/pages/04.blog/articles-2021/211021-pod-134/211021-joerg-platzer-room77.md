@@ -53,3 +53,5 @@ Topics:
 ### How to listen to my podcast
 
 This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
+
+Listen on: [Apple Podcast](https://podcasts.apple.com/at/podcast/bitcoin-co/id1432576313) | [Spotify](https://open.spotify.com/show/0EJu3cMWF0AMxeO8NMH71z) | [YouTube](https://www.youtube.com/playlist?list=PL2zepPkogWotoUrb4T2XjLHa3SGHT5IX-) | [Pocket Casts](https://pca.st/YYPf) 
