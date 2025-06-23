@@ -425,7 +425,7 @@ Bitcoin inatoa fursa ya kufidia kihistoria madhara ya ukoloni. Inaweza kupunguza
 Bitcoin si bure, ni ya thamani isiyopimika. Yeye yeyote anayepigania marufuku ya Bitcoin au kujaribu kuizuia ni adui wa uhuru na ubinadamu. Ni mtandao wa hiari; kama huupendi, usiitumie.
 
 ---
-Unaweza penda zaidi kazi na bidii yangu[Bitcoin kwa Madhumuni ya Haki](https://bffbtc.org) tuendeleza matumizi ya Bitcoin mtaani katika Kusini mwa Dunia? Yote haya yanaendeshwa na jamii na kufadhiliwa kwa michango. Jiunge nasi bila ya[Changia harakati zetu za uezeshaji na usimamizi](https://anita.link/donate), Tuma sats kwa anwani yetu ya Lightning: bff@geyser.fund 
+Unaweza penda zaidi kazi na bidii yangu [Bitcoin kwa Madhumuni ya Haki](https://bffbtc.org) tuendeleza matumizi ya Bitcoin mtaani katika Kusini mwa Dunia? Yote haya yanaendeshwa na jamii na kufadhiliwa kwa michango. Jiunge nasi bila ya[Changia harakati zetu za uezeshaji na usimamizi](https://anita.link/donate), Tuma sats kwa anwani yetu ya Lightning: bff@geyser.fund 
 
 ---
 
