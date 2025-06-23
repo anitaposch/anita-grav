@@ -185,7 +185,6 @@ The data collected by authorities is a honeypot for hackers, online crimes and e
 
 A global regulatory regime is excluding an [estimated 1.7 billion](https://www.forbes.com/sites/niallmccarthy/2018/06/08/1-7-billion-adults-worldwide-do-not-have-access-to-a-bank-account-infographic/?sh=2c27ca4c4b01) (perhaps 3 billion if you include an estimated two children per adult) people from having a bank account. Which leads us to the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) and its [30 articles](http://hrlibrary.umn.edu/edumat/hreduseries/hereandnow/Part-5/8_udhr-abbr.htm). I’ll refer to seven of these articles to demonstrate how Bitcoin is supporting Human Rights.
 
-
 ### Article 1: Right to Equality
 
 ![The Right to Equality](_9-art-1.png)
@@ -303,7 +302,7 @@ Privacy is a luxury for most Africans. They are even more prone to data collecti
 
 Bitcoin’s privacy isn’t perfect, yet. New technologies like [PayJoins or Confidential Transactions](https://bitcoinmagazine.com/technical/list-of-bitcoin-privacy-proposals) will hopefully be implemented in the coming years. Payments on the Lightning Network are more private already. Wrapped Lightning invoices protect the recipient from being identified by custodians. With CoinJoins, you can already achieve a high level of privacy. In the future, this kind of protection needs to be the standard.
 
-Still, since Bitcoin is pseudonymous and many people in African countries use it peer to peer without know-your-customer (KYC) identification, it gives them more privacy than their bank or mobile money provider. In Zimbabwe, all digital transactions are [automatically taxed at 4%](https://bitcoinundco.com/en/bitcoin-insights-africa/). Every payment is traceable by the government since mobile money transactions are moving from one SIM card to the other and SIM users are registered.
+Still, since Bitcoin is pseudonymous and many people in African countries use it peer to peer without know-your-customer (KYC) identification, it gives them more privacy than their bank or mobile money provider. In Zimbabwe, all digital transactions are [automatically taxed at 4%](https://anitaposch.com/bitcoin-insights-africa/). Every payment is traceable by the government since mobile money transactions are moving from one SIM card to the other and SIM users are registered.
 
 Privacy is never zero or one. It’s on a scale. The privacy possible while using Bitcoin is higher than that of your credit card, but lower than that of using cash. There is definitely a lot of work to be done and it’s important to make Bitcoin on the base chain more private. But Bitcoin gives you plausible deniability already now. It protects one from being an easy target.
 
@@ -327,14 +326,14 @@ Bitcoin transactions are uncensorable. Used the right way, Bitcoin gives you eno
 
 ## Article 20: Freedom of Association
 
-![](_22-freedom-association.png)
+![](_22-uhuruwa-kujumuima.png)
 [Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 Freedom of speech goes hand in hand with freedom of association. If you can’t express your political opinion, if you can’t meet with your fellow demonstrators or freedom fighters because of financial surveillance, then you’re stripped from political power. If your activism endangers the authoritarian powers, then they cut you off from your bank account. 
 
 This happened in Nigeria [during the EndSARS](https://bitcoinmagazine.com/culture/nigerian-protest-group-finds-sovereign-lifeline-in-bitcoin) movement which started in October 2020. The demonstrations against police brutality were supported by the Nigerian Feminist Coalition. They collected donations via their bank account and gave food, drinks and other needed support to the demonstrators, but not for long. The country’s central bank cut off their bank account. But the women remembered Bitcoin, the technology that works without banks. Tech savvy as they were, they set up a BTCPay Server instance and started collecting donations in bitcoin from all over the world.
 
-![](_23-nigeria-demonstration.png)
+![](_23-Maandamano-Nigeria.png)
 [Source](https://qz.com/africa/1922466/how-bitcoin-powered-nigerias-endsars-protests), [source two](https://anita.link/88)
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/BH-XqzmavQo?start=2713" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -431,7 +430,7 @@ Bitcoin delivers the opportunity for historical reparation from the effects of c
 Bitcoin isn’t useless, it’s priceless. Anyone who is lobbying for a Bitcoin ban or attempts to control it is an enemy of freedom and of humankind. It’s a voluntary network, if you don’t like it, don’t use it.
 
 ---
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/geyser), send sats to our lightning address bff@geyser.fund or send fiat money on [Patreon](https://patreon.com/anitaposch).
+You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/donate), send sats to our lightning address bff@geyser.fund.
 
 ---
 
