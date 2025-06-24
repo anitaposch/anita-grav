@@ -11,7 +11,7 @@ thumbnail: _221031-conversation-trevor-ncube-anita-posch.jpg
 template: article
 ---
 
-# Anita Posch on influential Zimbabwean YouTube channel
+# Anita Posch in conversation with Trevor Ncube on influential Zimbabwean channel
 
 Trevor Ncube, a Zimbabwean media entrepreneur influential and well respected throughout Southern Africa, invited me to be a guest on his show "In conversation with Trevor", an honor and pleasure for me.
 
