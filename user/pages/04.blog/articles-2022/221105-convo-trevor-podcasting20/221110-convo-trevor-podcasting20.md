@@ -29,9 +29,13 @@ Update June 2025: Since there has been a lot of technical development, the V4V f
 
 ![Sending a message and some satoshis via Fountain app](_podcast-sending-satoshis.png)
 
+![Team V4V Zimbabwe](_team-podcast-20-zimbabwe.JPG)
+
 ## How can I stream bitcoin to a podcast?
 
 As a podcast listener you need to install a Lightning enabled podcast app like [Fountain](https://www.fountain.fm/) on your phone. Then you need to top it up with a little bit of bitcoin and you can start showing the podcaster that you value their content by streaming satoshis per minute and send boostagrams.
 
-![Team V4V Zimbabwe](_team-podcast-20-zimbabwe.JPG)
+
+
+
 
