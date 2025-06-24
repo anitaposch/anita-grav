@@ -33,5 +33,3 @@ As a podcast listener you need to install a Lightning enabled podcast app like [
 
 ![](_team-podcast-20-zimbabwe.JPG)
 
----
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/geyser), send sats to our lightning address bff@geyser.fund or send fiat money on [Patreon](https://patreon.com/anitaposch).
