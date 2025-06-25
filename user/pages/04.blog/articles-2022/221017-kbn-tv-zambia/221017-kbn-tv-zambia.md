@@ -1,5 +1,5 @@
 ---
-title: Talking about Bitcoin mining in Zambia
+title: Anita Posch about Bitcoin mining on KBN TV in Zambia
 taxonomy:
     tags: [Features, Blog, Bitcoin in Africa]
 routes:
@@ -11,8 +11,10 @@ thumbnail: _221017-KBN.png
 template: article
 ---
 
-# Talking about Bitcoin mining in Zambia
+# Anita Posch about Bitcoin mining on KBN TV in Zambia
 
-Addressing the possibilities of Bitcoin mining in Zambia and how to detect scams was a topic at our Bitcoin for Fairness workshop for journalists.
+Addressing the possibilities of Bitcoin mining in Zambia and how to detect scams was a topic at our Bitcoin for Fairness workshop for journalists. 
+
+A Zambian TV station visited our workshop and asked a few questions:
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/31-3_L2ywW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
