@@ -1,7 +1,7 @@
 ---
 title: Bitcoin documentary with Anita Posch on German TV
 taxonomy:
-    tags: [Blog, Features, Deutsch, On the Ground, Bitcoin in Africa]
+    tags: [Blog, Features, On the Ground, Bitcoin in Africa]
 routes:
     default: '/ard-betastories'
 date: 2022-10-26 13:30

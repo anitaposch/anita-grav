@@ -1,12 +1,12 @@
 ---
-title: Bitcoin documentary with Anita Posch on German TV
+title: Dokumentation über Bitcoin in Südafrika mit Anita Posch im deutschen Fernsehen
 taxonomy:
     tags: [Blog, Features, Deutsch, On the Ground, Bitcoin in Africa]
 routes:
-    default: '/ard-betastories'
+    default: '/ard-betastories-de'
 date: 2022-10-26 13:30
 dateformat: 'Y-m-d H:i'
-summary: German TV ARD published a Bitcoin documentary and followed me to South Africa where I worked with Bitcoin Ekasi in May 2022.
+summary: Die deutschen Fernsehsender ARD und BR haben eine Bitcoin-Dokumentation veröffentlicht, für die sie Anita Posch nach Südafrika begleitet haben, wo sie im Mai 2022 mit Bitcoin Ekasi gearbeitet hat.
 thumbnail: _221026-betastories-anita-posch.jpg
 template: article
 ---
@@ -27,5 +27,4 @@ Hier ist die Dokumentation auf Deutsch (bis zum 25. Oktober 2027 verfügbar):
 [![](_221026-betastories-anita-posch.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
 
 ---
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/donate), send sats to our lightning address bff@geyser.fund.
-
+Sie mögen Anita Posch's Arbeit und Bemühungen mit [Bitcoin for Fairness](https://bffbtc.org), die Bitcoin-Adoption im Globalen Süden zu fördern? Alles wird ausschließlich über Spenden finanziert. Falls Sie dazu beitragen möchten, [bitte spenden Sie hier](https://anita.link/donate) oder senden Sie direkt sats an unsere Lightning-Adresse: bffbtc@getalby.com.
