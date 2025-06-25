@@ -27,4 +27,6 @@ Select your choice.
 Below: Text messages showing the recharge and my wallet balance. The first text explains the transaction limits. I’m allowed to send a maximum of ZWL 50,000 per transaction to someone else, that is USD 90 at today’s official rate. This is capped at a maximum of ZWL 280,000 a month. Meaning I can send USD 509 in total monthly.
 ![](assets/_2022-09-08-received-airtime.JPG)
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

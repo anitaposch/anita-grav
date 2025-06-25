@@ -16,4 +16,6 @@ After the panel we rushed to another radio interview on the other side of town j
 ![No interview for Komboni radio today](assets/_2022-09-29-No-Komboni-radio.JPG)
 
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

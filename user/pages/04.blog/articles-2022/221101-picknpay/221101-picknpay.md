@@ -28,4 +28,6 @@ The first shop owner to accept bitcoin was Nosihle. In May she told me she had w
 <small>Source: https://www.timeslive.co.za/news/south-africa/2022-11-01-pick-n-pay-lets-you-pay-for-groceries-using-bitcoin-here-are-stores-where-its-accepted/</small>
 
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

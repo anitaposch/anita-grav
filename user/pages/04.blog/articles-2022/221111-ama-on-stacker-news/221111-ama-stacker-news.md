@@ -21,4 +21,6 @@ You login to Stacker News with Lightning meaning the people behind the service d
 
 The Ask me Anything session was started by an initial post by me, where I introduced myself and the AMA. I was asked a lot of interesting questions and enjoyed the session very much. Here you can [read all questions and answers](https://stacker.news/items/92142).
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

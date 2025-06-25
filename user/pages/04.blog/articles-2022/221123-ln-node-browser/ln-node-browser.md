@@ -25,4 +25,6 @@ There are concerns though about the security of a Lightning node in a browser as
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We got a freaking entire lightning node running inside of a phone&#39;s browser! Here&#39;s a quick preview of me using it to buy an OP_RETURN <a href="https://t.co/ckr14MUDRm">pic.twitter.com/ckr14MUDRm</a></p>&mdash; Carman (@benthecarman) <a href="https://twitter.com/benthecarman/status/1595395624010190850?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

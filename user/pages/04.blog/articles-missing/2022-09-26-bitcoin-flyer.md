@@ -12,4 +12,6 @@ Today I released the [Bitcoin flyer](https://bffbtc.org/flyer). A 2 page pamphle
 
 You can [find the PDF here](https://bffbtc.org/flyer).
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

@@ -14,4 +14,6 @@ We talked about the price of bitcoin, how it is derived from supply and demand a
 
 After finishing the massage she wanted the payment in USD, which I understand, because it’s the currency that she can use daily. She said, she will use Bitcoin as a savings tool, because she was very fast in understanding that with the price at 20k and not 60k is a good time to start.
 
+---
+
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
