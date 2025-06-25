@@ -22,6 +22,6 @@ Listen to my [interview with Damilola Odufuwa and Ire Aderinokun Co-Founders of 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25655&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 Watch with video:
-<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/BH-XqzmavQo?si=Jy5l7_ZSpcV95oCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube-nocookie.com/embed/BH-XqzmavQo?si=Jy5l7_ZSpcV95oCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
