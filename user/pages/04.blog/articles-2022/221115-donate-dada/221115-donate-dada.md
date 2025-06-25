@@ -29,6 +29,5 @@ I have spent some months in the Southern African region the last years and my ma
 
 Bitcoin Dada is a women centric entity that is working towards educating African women into Bitcoin. Dada means Sister in Swahili. The goal of Bitcoin Dada is to narrow the gender divide in the space through education, online courses, community events and social networking.
 
----
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/geyser), send sats to our lightning address bff@geyser.fund or send fiat money on [Patreon](https://patreon.com/anitaposch).
+You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
 
