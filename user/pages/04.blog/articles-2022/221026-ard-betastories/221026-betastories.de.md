@@ -11,7 +11,7 @@ thumbnail: _221026-betastories-anita-posch.jpg
 template: article
 ---
 
-# Bitcoin-Dokumentarfilm mit Anita Posch im deutschen Fernsehen
+# Dokumentation über Bitcoin in Südafrika mit Anita Posch im deutschen Fernsehen
 Die deutschen Fernsehsender ARD und BR haben eine Bitcoin-Dokumentation veröffentlicht, für die sie Anita Posch nach Südafrika begleitet haben, wo sie im Mai 2022 mit Bitcoin Ekasi gearbeitet hat. Das Township ist ein Beispiel dafür, dass Bitcoin von jedem genutzt werden kann, auch von Menschen in weniger privilegierten Verhältnissen.
 
 Insgesamt findet Anita Posch die Dokumentation sehr gut gemacht. Es gibt einige sachlich falsche Dinge, wie wenn "Tante" über die CO2-Emissionen spricht, die eine einzelne Transaktion verursacht. Das ist fehlerhafte Mathematik. Der Energieverbrauch für Bitcoin skaliert nicht mit der Anzahl der Transaktionen. Die Anzahl der Transaktionen, die on-chain stattfinden, und die Anzahl der Transaktionen, die off-chain stattfinden - zum Beispiel über Second-Layer-Technologien wie das Lightning Network oder über Börsen, die Transaktionen bündeln - korrelieren nicht mit den Kosten des Minings. 

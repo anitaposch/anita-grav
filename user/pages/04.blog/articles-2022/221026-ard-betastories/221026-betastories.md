@@ -11,7 +11,7 @@ thumbnail: _221026-betastories-anita-posch.jpg
 template: article
 ---
 
-# Bitcoin documentary with Anita Posch on German TV
+# Documentary about Bitcoin in South Africa with Anita Posch on German TV
 
 German TV stations ARD and BR published a Bitcoin documentary for which they followed me to South Africa where I worked with Bitcoin Ekasi in May 2022. The Bitcoin township is an example that Bitcoin can be used by anyone even people in less privileged circumstances.
 
