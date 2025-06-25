@@ -19,12 +19,11 @@ Overall I find the documentary very well done. There are some things factually w
 
 Other outcomes of this journey are:   
 * I brought a [raspiblitz](https://twitter.com/raspiblitz) which is connecting [BitcoinEkasi](https://twitter.com/BitcoinEkasi) with the Lightning and Bitcoin network. As they can verify their own transactions with the node, they are their own bank now.
-* we set up [Trezor hardware wallets](https://trezor.com) which are securing the shop owners bitcoin   
-* Peer-to-Peer Bitcoin exchange [Paxful](https://paxful.com) opened an education center in the township
+* we set up [Trezor hardware wallets](https://trezor.com) with the team which are securing the shop owners bitcoin.
 
 Here you can watch the documentary in German (until 25 October 2027):
-[![](_221026-betastories-anita-posch.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
+[![](articles-2022/221026-ard-betastories/_221026-betastories-anita-posch.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
 
 ---
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/geyser), send sats to our lightning address bff@geyser.fund or send fiat money on [Patreon](https://patreon.com/anitaposch).
+You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our campaign with a donation](https://anita.link/donate), send sats to our lightning address bff@geyser.fund.
 
