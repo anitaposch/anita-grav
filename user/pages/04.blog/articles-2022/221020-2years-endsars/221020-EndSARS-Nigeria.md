@@ -1,7 +1,7 @@
 ---
 title: How Bitcoin supported Nigerian protests against police brutality
 taxonomy:
-    tags: [Blog, Bitcoin in Africa, Human Rights]
+    tags: [Blog, Bitcoin in Africa, Human Rights, Feminism]
 routes:
     default: '/bitcoin-endsars-nigeria'
 date: 2022-10-20 13:55
