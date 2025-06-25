@@ -1,5 +1,5 @@
 ---
-title: Bitcoin documentary with Anita Posch on German TV
+title: Documentary about Bitcoin in South Africa with Anita Posch on German TV
 taxonomy:
     tags: [Blog, Features, On the Ground, Bitcoin in Africa]
 routes:
