@@ -24,6 +24,7 @@ Other outcomes of this journey are: 
 Here you can watch the documentary in German (until 25 October 2027):
 [![](articles-2022/221026-ard-betastories/_221026-betastories-anita-posch.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
 
+
 ---
 You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
 
