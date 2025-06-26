@@ -50,7 +50,7 @@ Topics:
 - the vision for Bitcoin
 - using a Blockstream satellite dish
 
-### How to listen to my podcast
+### How to listen to The Anita Posch Show
 
 This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 

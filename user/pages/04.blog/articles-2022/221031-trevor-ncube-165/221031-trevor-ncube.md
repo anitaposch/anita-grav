@@ -25,7 +25,7 @@ Trevor Ncube is Chairman of Alpha Media Holdings (AMH) based in Harare Zimbabwe,
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25734&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
-### How to listen to my podcast
+### How to listen to The Anita Posch Show
 
 This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 
