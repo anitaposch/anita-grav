@@ -1,23 +1,23 @@
 ---
-title: "Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa"
+title: "Review 2022 - A Year In Grassroots Bitcoin Adoption For Africa"
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Show, Review]
 routes:
     default: '/bitcoin-africa-review-2022'
 date: 2022-12-28 16:00
 dateformat: 'Y-m-d H:i'
-summary: This is a review of my work with Bitcoin for Fairness and what we have achieved in 2022. The goal was to spread education on the ground, foster local communities to start their own meetups, distribute infrastructure and drive connections between African communities and the so-called Western world.
+summary: This is a review of Anita Posch's work with Bitcoin for Fairness and what we have achieved in 2022. The goal was to spread education on the ground, foster local communities to start their own meetups, distribute infrastructure and drive connections between African communities and the so-called Western world.
 thumbnail: _221221-Bitcoin-adoption-Africa-2022-1671717345032.jpeg
 template: article
 ---
 
-# Podcast: 2022 - A Year In Grassroots Bitcoin Adoption For Africa
+# Review 2022 - A Year In Grassroots Bitcoin Adoption For Africa
 
 In early 2020, during my first visit in Zimbabwe, my assumption that Bitcoin is needed the most in the Global South was confirmed. I found a nation in distress about money, because of a kleptocratic ruling elite that had been defrauding and stealing from their people by [inflating the national currency for decades](https://anita.link/50). Despite this, corruption and military support allowed these leaders to stay at the top for over 40 years.
 
-> This [article was originally published on Bitcoin Magazine](https://bitcoinmagazine.com/culture/2022s-bitcoin-adoption-in-africa) by BTC Inc. It's available as a [podcast episode](https://anita.link/167), too.
+> This [article was originally published on Bitcoin Magazine](https://bitcoinmagazine.com/culture/2022s-bitcoin-adoption-in-africa) by BTC Inc.
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px; overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/bitcoin-adoption-africa-2022/embed"></iframe>
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25736&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 The need was there, but what about understanding of Bitcoin? I found a few true believers and HODLers from the early days, but I didn’t find a single Bitcoin-only event or community. What existed were cryptocurrency trading groups on WhatsApp and Facebook and a lot of scams. The first questions about Bitcoin always were: “How can I join Bitcoin?” (which is the language that scammers are using to lure in their victims) and “How can I trade it?” (which is the language of short time preference).
 
@@ -31,7 +31,10 @@ With the advice of Jacob Strumwasser of Lightning Labs and Sharon Dow, I drafted
 
 Through Bitcoin For Fairness, I visited four African countries to spread Bitcoin education and connections this year. The most time I spent was in Zimbabwe and Zambia, which I visited two times each. In April after Bitcoin 2022 in Miami, I gave up my apartment in Vienna and started my nomad life. 
 
-It led me to South Africa in May, where I worked with [Bitcoin Ekasi](https://anita.link/154). In June, I was at the Oslo Freedom Forum to connect with human rights activists and freedom fighters like Meron Estefanos, Farida Nabourema and Leopoldo Lopez. COVID-19 stopped me for a few weeks and after the Baltic Honeybadger conference in Riga, I returned to Zimbabwe and Zambia. The last traveling I did in 2022 led me to the first pan-African Bitcoin conference in Ghana.
+It led me to South Africa in May, where I worked with Bitcoin Ekasi and did an interview with initiator Hermann:
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25724&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+ In June, I was at the Oslo Freedom Forum to connect with human rights activists and freedom fighters like Meron Estefanos, Farida Nabourema and Leopoldo Lopez. COVID-19 stopped me for a few weeks and after the Baltic Honeybadger conference in Riga, I returned to Zimbabwe and Zambia. The last traveling I did in 2022 led me to the first pan-African Bitcoin conference in Ghana.
 
 
 ## Zambia
@@ -44,9 +47,8 @@ In October, I visited for the second time. I was speaking at the [Forum On Inter
 
 ![](_221221-Bitcoin-adoption-Africa-2022-1671718612784.jpeg)
 
-In December the 5th BFF meetup was happening and the Bitcoin and Lightning node was up and running. The BFF goal to initiate a local group of Bitcoiners, regular meetups and bringing Bitcoin infrastructure to Zambia has been fully met. The local BFF group has setup their own [ZambiaBitcoinMeetups.com](https://ZambiaBitcoinMeetups.com) website, they meet at Scallywags a restaurant accepting bitcoin and one of the members started a [Bitcoin podcast in the local Bemba language](https://btcpodcasting.com/@BantuBitcoinBemba/episodes) on our recently launched "BTC Podcasting" platform. 
+In December the 5th BFF meetup was happening and the Bitcoin and Lightning node was up and running. The BFF goal to initiate a local group of Bitcoiners, regular meetups and bringing Bitcoin infrastructure to Zambia has been fully met. The local BFF group has setup their own [ZambiaBitcoinMeetups.com](https://ZambiaBitcoinMeetups.com) website, they meet at Scallywags a restaurant accepting bitcoin and one of the members started a Bitcoin podcast in the local Bemba language on our recently launched "BTC Podcasting" platform. 
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@BantuBitcoinBemba/episodes/mwaisenipo-bonse-ku-bantu-bitcoin/embed/dark"></iframe>
 
 ## Zimbabwe
 
@@ -58,7 +60,9 @@ I actually lost count on the number of Bitcoin meetups that happened in Zimbabwe
 
 https://twitter.com/prestigegroup01/status/1547274244836528128
 
-We gave away Trezor devices and I conducted a workshop to help people set the devices up. Because of my work a Zimbabwean farmer owning a solar power plant came together with someone from the international community, who donated 6 ASIC miners. The machines have been mining bitcoin from solar since June 2022. I did an [interview with the miner](https://anita.link/157) in July.
+We gave away Trezor devices and I conducted a workshop to help people set the devices up. Because of my work a Zimbabwean farmer owning a solar power plant came together with someone from the international community, who donated 6 ASIC miners. The machines have been mining bitcoin from solar since June 2022. I did an interview with the miner in July.
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25727&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 https://twitter.com/AnitaPosch/status/1545082894871298050
 
@@ -70,12 +74,14 @@ This tweet had been shared a lot and Trevor Ncube a highly acclaimed journalist 
 
 After my appearance on “In Conversation With Trevor,” Newsday Zimbabwe published an [article titled “Bitcoin Should Be The Currency Of Choice](https://www.newsday.co.zw/business/article/200002981/bitcoin-should-be-the-currency-of-choice),” writing, “Anita Posch has urged Zimbabwean businesses and individuals to use bitcoin as a medium of exchange because of its low charges when transacting as well as its being less prone to abuse.”
 
-![Newsday Zimbabwe has 640,000 followers on Twitter and is one of the bigger newspapers in Zimbabwe.](_anita-posch-newsday-zimbabwe%201.png)
+![Newsday Zimbabwe has 640,000 followers on Twitter and is one of the bigger newspapers in Zimbabwe.](_anita-posch-newsday-zimbabwe-1.png)
 
 
 ## South Africa
 
-In May, I went to South Africa to work with Bitcoin Ekasi, the circular Bitcoin economy in Mossel Bay. First I spent some time in Cape Town and [met Bitcoin builders like Carel van Wyk](https://anita.link/155), who was already working on a solution to what later became [Pick n Pay’s acceptance of Lightning payments](https://bitcoinmagazine.com/business/pick-n-pay-now-accepts-bitcoin).
+In May, I went to South Africa to work with Bitcoin Ekasi, the circular Bitcoin economy in Mossel Bay. First I spent some time in Cape Town and met Bitcoin builders like Carel van Wyk, who was already working on a solution to what later became [Pick n Pay’s acceptance of Lightning payments](https://bitcoinmagazine.com/business/pick-n-pay-now-accepts-bitcoin).
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25725&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 Since November, you have been able to pay for your groceries at one of the biggest supermarket chains in South Africa. This is a huge step for the future success of the circular Bitcoin economy in the township. Now, people can earn and spend bitcoin without the need to exchange to the South African rand.
 
@@ -90,7 +96,7 @@ https://twitter.com/AnitaPosch/status/1525148698354892800
 German television was interested to do a documentary about Bitcoin and cryptocurrencies. Since they were aware of my work we agreed that a TV team was following BFF and the Ekasi team in the township. 
 
 Here you can watch the documentary in German (until 25 October 2027):
-[![](_221026-betastories-anita-posch%201.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
+[![](_221026-betastories-anita-posch-1.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
 
 Last but not least, I served as the matchmaker between Bitcoin Ekasi’s new teacher, named Ms. Nomsa, and a BFF volunteer, who helped her get knowledgeable about Bitcoin. I also connected Paxful with the community, which led to a Paxful and Built With Bitcoin education center being placed on site. 
 
@@ -116,7 +122,7 @@ On top of all of the above, I published the [BFF Bitcoin flyer](https://bffbtc.o
 
 ### BTC Podcasting
 
-Together with [Michael Bumann from Alby](https://getalby.com), I developed a new podcast hosting platform called BTC Podcasting, where Bitcoiners can [host their podcasts for free and, at the same time, earn bitcoin from their listeners](https://btcpodcasting.com/) without the need to run their own Lightning nodes. BFF wants to encourage communities to start their own podcasts. Given that the cost for internet bandwidth is very high and the speed also doesn’t allow video streaming in many African regions, we learned that audio is a much better medium through which to reach people.
+Together with [Michael Bumann from Alby](https://getalby.com), I developed a new podcast hosting platform called BTC Podcasting, where Bitcoiners can host their podcasts for free and, at the same time, earn bitcoin from their listeners without the need to run their own Lightning nodes. BFF wants to encourage communities to start their own podcasts. Given that the cost for internet bandwidth is very high and the speed also doesn’t allow video streaming in many African regions, we learned that audio is a much better medium through which to reach people.
 
 ### Documentary: How Bitcoin Enforces Human Rights 
 
@@ -126,15 +132,13 @@ During the last six years since I started in the Bitcoin space, it became clear 
 
 I also produced a podcast and a video documentary about it, so that people can share these thoughts easily with their peers. The importance of the Bitcoin project may not be underestimated. It’s our only shot to regain digital and financial privacy and to have an alternative system for the short-sighted, debt-based and consumption-driven fiat economy. If we mess up, there will be no similar freedom project in the near future.
 
-https://www.youtube.com/watch?v=AXLiwrrk3sk
-
 ## Learnings
 
 Blockchain technology and crypto are big in African countries. But the differences between Bitcoin and altcoins are widely not understood. Altcoins and their marketing departments have done a great job of letting people believe that they are the better Bitcoin, telling them that the original is slow and not scalable. Even the people who are organizing events and sharing crypto knowledge haven’t heard of the Lightning Network or sidechains like Rootstock or Liquid yet.
 
 In most countries, crypto and stablecoins are king. Only in Nigeria is the share of Bitcoin usage higher than that of altcoins, as I was told by Ray Youssef, the CEO of Paxful. In Zimbabwe, a [trader who exchanged a volume of $6 million in 2021 told me](https://anitaposch.com/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe) that most people are using USDT, and only a handful of convinced Bitcoiners are HODLing.
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/bitcoin-insights-africa/embed/dark"></iframe>
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25732&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 There are hundreds of free guides, tutorials and videos about Bitcoin, but where to start? Five out of 50 people at my first talk in Lusaka were interested in Bitcoin only. They are isolated and far away from where the experienced users and developers are — it’s hard to catch up. They can’t afford to attend Lightning hackdays or other Bitcoin-focused conferences, which are mostly in the U.S. or Europe. Traveling to other African countries is expensive and cumbersome.
 
@@ -142,7 +146,7 @@ There is a need for more boots on the ground to share knowledge and tools. Nobod
 
 There is a need for more local Bitcoin infrastructure and the [Africa Free Routing project](https://bitcoiners.africa/africa-free-routing/) is a great start, because the two nodes I was able to bring are not enough. One great example of a solution built for Africa by an African is [Machankura](https://8333.mobi), a custodial Lightning wallet, which allows you to send and receive bitcoin on a feature phone without internet connection. It’s using the same technology that mobile money providers in Africa have been using for years called USSD. We used it in Zambia.
 
-https://www.youtube.com/watch?v=FCiK1AZuPRM
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FCiK1AZuPRM?si=Ms2KLQWxC_Qxhgoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Going forward
 
