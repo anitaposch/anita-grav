@@ -1,20 +1,29 @@
-Tags: Learn Bitcoin, Blog
-Link: /what-bitcoin-btc-bsv-bch-btg
-Date: 2020-09-07
+---
+title: Lightning Self-Custody for Beginners with Phoenix Wallet
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Show]
+routes:
+    default: '/what-bitcoin-btc-bsv-bch-btg'
+date: 2020-09-07 12:00
+dateformat: 'Y-m-d H:i'
+summary: Learn how to set up and use the Phoenix Wallet, a self-custody Lightning wallet and node that runs on your phone.
+thumbnail: assets/_4-Which-Bitcoin-to-invest.jpg
+template: article
+---
 
 
 # BCH, BSV, BTG, BTC, BTC2, BTCV...What to Invest In
 
-This is an article based on "The Context" episode 075 of the Bitcoin &amp; Co. Podcast. I am answering questions by a listener named Thamzin:
+This is an article based on "The Context" episode 075 of the Anita Posch Show. 
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25642&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+I am answering questions by a listener named Thamzin:
 <ul>
  	<li>What is the difference between Bitcoin Vault and LocalBitcoins?</li>
  	<li>What are all those different Bitcoin versions that can be found on exchanges or Coinmarketcap?</li>
  	<li>How do I know, what a good investment looks like?</li>
 </ul>
 
-![](assets/_4-Which-Bitcoin-to-invest.jpg)
-
-<iframe title="Podlove Web Player: Bitcoin & Co. Mastering Freedom - THE CONTEXT: BCH, BSV, BTG, BTC, BTC2, BTCV...What to Invest In?" width="768" height="290" src="https://cdn.podlove.org/web-player/share.html?episode=https%3A%2F%2Fbitcoinundco.com%2Fen%2F%3Fpodlove_player4%3D928" frameborder="0" scrolling="no" tabindex="0"></iframe>
 Ok, so Thamzin has looked into the possibilities of earning money with Bitcoin or other cryptocurrencies. It is great that he found out about this and that he is looking for Bitcoin, because I really do believe, that it can make a big difference for him and you. I do not know where Thamzin is living, I guess somewhere in Africa, and I know that the African continent is shaken by high inflation rates. People are constantly losing money because their national currencies are devalued through monetary inflation. For instance the Nigerian Naira got devalued by almost 20% in the time from March to June 2020. And in many African countries this is the case, too. With billions of money created by central bank policies as a reaction of politics to the Covid-19 crisis, other regions of the world will face higher inflation, too. And even, if not: the economical impact of the lockdowns will have severe consequences, better rely on an uncensorable and not inflatable asset like bitcoin.
 
 So even if you might not get rich in the short run, Bitcoin can be an alternative way to save the money you have. You might even earn something by holding it. But: of course this is not a given. There are many risks involved in using an asset like Bitcoin. What I am saying in this episode is based on my experience to the best of my knowledge, but you never know and I cannot foresee the future.
@@ -48,4 +57,3 @@ In short, the answer for Thamzin and all of you: Bitcoin Vault is just another i
 For further information on how to use bitcoin I recommend my talk about Bitcoin Basics I gave in Zimbabwe earlier this year:
 https://youtu.be/0TwKdJIMBIs
 
-Send me your questions via <a href="https://anita.link/vm">anita.link/vm</a> and I will answer them.
