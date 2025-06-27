@@ -13,9 +13,11 @@ template: article
 
 # Paying your groceries with bitcoin in South Africa 
 
-## Pick'n'Pay one of the biggest supermarkets started accepting bitcoin lightning payments
+## Pick'n'Pay one of the biggest supermarket chains started accepting bitcoin lightning payments
 
-Since I visited South Africa in May 2022 I knew from Carel van Wyk's work to integrate bitcoin payments at Pick'n'Pay. [Carel van Wyk is one of the Bitcoin pioneers in South Africa. In our interview](https://anita.link/155) he is speaking about how he had found out about Bitcoin in 2010. Being a technically skilled entrepreneur he realized Bitcoin’s potential to change the world very early. As a co-founder of Luno, now one of the largest exchanges in the world, he is sharing ideas how he sees Bitcoin unleash its full potential.
+Since I visited South Africa in May 2022 I knew from Carel van Wyk's work to integrate bitcoin payments at Pick'n'Pay. Carel van Wyk is one of the Bitcoin pioneers in South Africa. In our interview he is speaking about how he had found out about Bitcoin in 2010. Being a technically skilled entrepreneur he realized Bitcoin’s potential to change the world very early. As a co-founder of Luno, now one of the largest exchanges in the world, he is sharing ideas how he sees Bitcoin unleash its full potential.
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25725&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 Carel is a builder so I was pleased to hear that he was working on a tool to enable Lightning payments at Pick'n'Pay. I was visiting Bitcoin Ekasi in Mossel Bay the same time and I understood the importance of Carel's project in regards to the ability to buy groceries without having to exchange their bitcoin before. The Bitcoin Ekasi coaches are paid in bitcoin and now they can immediately spend it in the local Spaza shops (the small informal grocery stores in the township) and the shop owners can restock and spend their earned bitcoin at Pick'n'Pay. This is a huge development for the Bitcoin Ekasi project as it enables a circular economy.
 
