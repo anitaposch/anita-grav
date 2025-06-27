@@ -13,7 +13,10 @@ template: article
 
 # Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
 
-> You can listen to this article it's [episode 166 "How Bitcoin Enforces Human Rights"](https://anitaposch.com/podcast-bitcoin-enforces-human-rights-166).
+> Below article is available as a video and podcast episode: 
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25735&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In 2022, European politicians formed an initiative with the goal of [banning proof-of-work mining](https://www.coindesk.com/policy/2021/11/02/unpacking-europes-looming-mica-crypto-regulation/) because of its high electricity consumption. The underlying goal is to blame Bitcoin for damaging the environment, when it’s - as they claim - just a tool for useless speculation.
 
