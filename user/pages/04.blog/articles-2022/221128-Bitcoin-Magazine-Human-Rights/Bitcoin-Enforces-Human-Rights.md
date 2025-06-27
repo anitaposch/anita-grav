@@ -326,14 +326,14 @@ Bitcoin transactions are uncensorable. Used the right way, Bitcoin gives you eno
 
 ## Article 20: Freedom of Association
 
-![](_22-uhuruwa-kujumuima.png)
+![](_22-freedom-association.png)
 [Source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 Freedom of speech goes hand in hand with freedom of association. If you can’t express your political opinion, if you can’t meet with your fellow demonstrators or freedom fighters because of financial surveillance, then you’re stripped from political power. If your activism endangers the authoritarian powers, then they cut you off from your bank account. 
 
 This happened in Nigeria [during the EndSARS](https://bitcoinmagazine.com/culture/nigerian-protest-group-finds-sovereign-lifeline-in-bitcoin) movement which started in October 2020. The demonstrations against police brutality were supported by the Nigerian Feminist Coalition. They collected donations via their bank account and gave food, drinks and other needed support to the demonstrators, but not for long. The country’s central bank cut off their bank account. But the women remembered Bitcoin, the technology that works without banks. Tech savvy as they were, they set up a BTCPay Server instance and started collecting donations in bitcoin from all over the world.
 
-![](_23-Maandamano-Nigeria.png)
+![](_23-nigeria-demonstration.png)
 [Source](https://qz.com/africa/1922466/how-bitcoin-powered-nigerias-endsars-protests), [source two](https://anita.link/88)
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/BH-XqzmavQo?start=2713" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

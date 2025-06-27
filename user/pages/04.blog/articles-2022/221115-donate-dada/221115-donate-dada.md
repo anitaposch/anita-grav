@@ -19,8 +19,6 @@ In the name of Bitcoin Dada I want to thank everyone who donated towards getting
 
 In our work in Ghana we will focus on self-custody, choosing wallets, how to safely store the backup. I want to show her how to setup a Bitcoin podcast and how to earn satoshis.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On Behalf of Bitcoin Dada I would like to extend my gratitude to the larger <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> community who contributed in making African BTC conference a reality for <a href="https://twitter.com/marcelorraine?ref_src=twsrc%5Etfw">@marcelorraine</a> <br>Special thanks to <a href="https://twitter.com/AnitaPosch?ref_src=twsrc%5Etfw">@AnitaPosch</a> for the guidance &amp; contributions, <a href="https://twitter.com/SatoshiJournal?ref_src=twsrc%5Etfw">@satoshijournal</a> <a href="https://twitter.com/GloireKW?ref_src=twsrc%5Etfw">@GloireKW</a> from...<br>1/n</p>&mdash; Bitcoin DADA (@dada_bitcoin) <a href="https://twitter.com/dada_bitcoin/status/1592286052336766983?ref_src=twsrc%5Etfw">November 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## African women need the right training to combat financial exclusion
 
 ![Dada means Sister in Swahili](_btcdada.png)
@@ -29,7 +27,6 @@ I have spent some months in the Southern African region the last years and my ma
 
 Bitcoin Dada is a women centric entity that is working towards educating African women into Bitcoin. Dada means Sister in Swahili. The goal of Bitcoin Dada is to narrow the gender divide in the space through education, online courses, community events and social networking.
 
----
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On Behalf of Bitcoin Dada I would like to extend my gratitude to the larger <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> community who contributed in making African BTC conference a reality for <a href="https://twitter.com/marcelorraine?ref_src=twsrc%5Etfw">@marcelorraine</a> <br>Special thanks to <a href="https://twitter.com/AnitaPosch?ref_src=twsrc%5Etfw">@AnitaPosch</a> for the guidance &amp; contributions, <a href="https://twitter.com/SatoshiJournal?ref_src=twsrc%5Etfw">@satoshijournal</a> <a href="https://twitter.com/GloireKW?ref_src=twsrc%5Etfw">@GloireKW</a> from...<br>1/n</p>&mdash; Bitcoin DADA (@dada_bitcoin) <a href="https://twitter.com/dada_bitcoin/status/1592286052336766983?ref_src=twsrc%5Etfw">November 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
 

@@ -19,10 +19,6 @@ After my appearance on "In Conversation With Trevor" Newsday Zimbabwe published 
 
 Newsday Zimbabwe has 640k followers on Twitter and is one of the bigger newspapers in Zimbabwe.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shared with 670k followers of NewsDay <a href="https://twitter.com/hashtag/Zimbabwe?src=hash&amp;ref_src=twsrc%5Etfw">#Zimbabwe</a>.<br><br>Probably nothing. <a href="https://t.co/dwn5wi8p5F">https://t.co/dwn5wi8p5F</a></p>&mdash; Anita ⚡🏳️‍🌈 Bitcoin for Fairness (@AnitaPosch) <a href="https://twitter.com/AnitaPosch/status/1588486255972876288?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ![](_anita-posch-newsday-zimbabwe.png)
 
----
-
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shared with 670k followers of NewsDay <a href="https://twitter.com/hashtag/Zimbabwe?src=hash&amp;ref_src=twsrc%5Etfw">#Zimbabwe</a>.<br><br>Probably nothing. <a href="https://t.co/dwn5wi8p5F">https://t.co/dwn5wi8p5F</a></p>&mdash; Anita ⚡🏳️‍🌈 Bitcoin for Fairness (@AnitaPosch) <a href="https://twitter.com/AnitaPosch/status/1588486255972876288?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

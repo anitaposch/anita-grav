@@ -28,7 +28,6 @@ The rise of Swahili, for some Africans, was a mark of true cultural and personal
 The author calls Swahili a "liberation language". It seems to me that Swahili and Bitcoin are a good fit.
 
 ![](_swahili-flyer.png)
-![](_swahili-flyer-2.png)
 
 ---
 
