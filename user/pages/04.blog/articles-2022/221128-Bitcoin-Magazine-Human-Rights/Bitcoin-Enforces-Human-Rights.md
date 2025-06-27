@@ -13,11 +13,6 @@ template: article
 
 # Opposing The Corruptible Fiat System, Bitcoin Enforces Universal Human Rights
 
-> Below article is available as a video and podcast episode: 
-<iframe src="https://www.vodio.fr/frameplay.php?idref=25735&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
-
-<iframe width="100%" height="473" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In 2022, European politicians formed an initiative with the goal of [banning proof-of-work mining](https://www.coindesk.com/policy/2021/11/02/unpacking-europes-looming-mica-crypto-regulation/) because of its high electricity consumption. The underlying goal is to blame Bitcoin for damaging the environment, when it’s - as they claim - just a tool for useless speculation.
 
 ![](_Bitcoin-Human-Rights.png)
@@ -35,6 +30,12 @@ Proof of work makes Bitcoin uncensorable, immutable and permissionless. These ar
 In this article, I won’t discuss energy use, because as soon as you understand the importance of Bitcoin to make the world more fair, you’ll get that the amount of energy used is off topic. You’ll understand that even better when you understand that Bitcoin mining is securing the total value stored on the blockchain and renders it the most secure network that we know of. And, on top of that, Bitcoin mining is already one of the greenest industries globally.
 
 In the following, I lay out how Bitcoin enforces seven of the 30 articles mentioned in the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). It should become clear that Bitcoin is neither useless nor just a tool for speculation.
+
+You can listen to this article here:
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25735&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+Or watch Anita Posch's documentary by [Cinemuck](https://www.aaronmucke.com/):
+<iframe width="100%" height="473" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Universal Declaration of Human Rights
 
