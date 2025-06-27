@@ -1,12 +1,33 @@
-Tags: Talks, Bitcoin in Africa, Zimbabwe, Blog
-Link: /bitcoin-zimbabwe-botswana
-Date: 2020-04-22
+---
+title: Bitcoin Learnings from Zimbabwe and Botswana
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/bitcoin-zimbabwe-botswana'
+date: 2020-04-22 12:00
+dateformat: 'Y-m-d H:i'
+summary: Bitcoin Learnings from Zimbabwe and Botswana
+thumbnail: assets/_7-Learnings-Bitcoin-Zimbabwe.png
+template: article
+---
+
 
 # Bitcoin Learnings from Zimbabwe and Botswana
 
-In February 2020 I travelled to Zimbabwe and Botswana to learn more about the usage of <a href="https://bitcoinundco.com/en/bitcoin-in-africa/" rel="noopener noreferrer" target="_blank">Bitcoin in Africa and to present the findings in my 6-part podcast series</a>.
+In February 2020 I travelled to Zimbabwe and Botswana to learn more about the use and necessity of Bitcoin in Africa and to present the findings in this 6-part podcast series.
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25617&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25618&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25619&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25620&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25620&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25622&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
 Additionally I summarized the findings with recommendations and ideas to broaden the accessibility and usability of bitcoin in under-develeoped regions in this talk:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddYimGGyxA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![Zimbabwe - Conditions for Bitcoin](assets/_7-Learnings-Bitcoin-Zimbabwe.png)
