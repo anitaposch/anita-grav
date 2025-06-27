@@ -21,7 +21,7 @@ Since I visited South Africa in May 2022 I knew from Carel van Wyk's work to int
 
 Carel is a builder so I was pleased to hear that he was working on a tool to enable Lightning payments at Pick'n'Pay. I was visiting Bitcoin Ekasi in Mossel Bay the same time and I understood the importance of Carel's project in regards to the ability to buy groceries without having to exchange their bitcoin before. The Bitcoin Ekasi coaches are paid in bitcoin and now they can immediately spend it in the local Spaza shops (the small informal grocery stores in the township) and the shop owners can restock and spend their earned bitcoin at Pick'n'Pay. This is a huge development for the Bitcoin Ekasi project as it enables a circular economy.
 
-![Nosihle was the first shop owner in Bitcoin Ekasi who accepted bitcoin as a payment. On the right is Luthando the Bitcoin senior coach in Ekasi.](_Nosihle-Bitcoin-Ekasi.jpeg)
+![Nosihle was the first shop owner in Bitcoin Ekasi who accepted bitcoin as a payment. On the right is Luthando the Bitcoin senior coach in Ekasi.](_nosihle-bitcoin-ekasi.jpeg)
  
 The first shop owner to accept bitcoin was Nosihle. In May she told me she had wanted proof that one can buy real goods with bitcoin, before she was going to accept it in her shop. Coach Luthando had convinced her by using a Bitrefill voucher to buy something real with it. When she saw that with her own eyes, she started accepting bitcoin. Now Nosihle and the other shop owners can restock their inventory without the hassle of converting their bitcoin to Rand. 
 
@@ -29,7 +29,3 @@ The first shop owner to accept bitcoin was Nosihle. In May she told me she had w
 
 <small>Source: https://www.timeslive.co.za/news/south-africa/2022-11-01-pick-n-pay-lets-you-pay-for-groceries-using-bitcoin-here-are-stores-where-its-accepted/</small>
 
-
----
-
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
