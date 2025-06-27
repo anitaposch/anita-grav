@@ -1,7 +1,18 @@
-Tags: Economics, Blog
-Link: /bitcoin-institutions-feb-2021
+---
+title: On Bitcoin and Companies in 2021
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Perspectives]
+routes:
+    default: '/bitcoin-institutions-feb-2021'
+date: 2021-02-15 12:00
+dateformat: 'Y-m-d H:i'
+summary: How and why are companies adopting bitcoin?
+thumbnail: assets/_anita-posch-500-2.jpg
+template: article
+---
 
-# Bitcoin and Institutions Feb. 2021
+
+# On Bitcoin and Companies in 2021
 
 Bitcoin was made for individuals to be able to own like property or cash. An individual can hold the keys by themselves and decide what to do with it. Spend or hold. A company has to follow procedures for purchasing goods, for paying salaries and so on. In a company no single individual can decide to unilateraly spend money. There needs to be multi-signature schemes for spending and other procedures to split responsibilities between employees, teams and managers. 
 
@@ -22,4 +33,4 @@ Elon Musk's company Tesla exchanged $1.5B of its cash holdings to bitcoin and an
 
 And that's how you can approach Bitcoin too. Dip your toes in the water, learn how to exchange your fiat money to bitcoin without risking it all. Learn how to safely store and use bitcoin. 
 
-Bitcoin was made for individuals. For people like you and me. For us. This is your chance to exit the sinking boat of fiat currencies. The privileged people like Michael Saylor and Elon Musk are already testing the waters. What are you waiting for? Bitcoin is your life boat. It might look unsafe, it might be new technology that you don't trust. Educate yourself about it. The alternative is to go down with the Euro, the US-Dollar, or whatever your fiat currency is called. 
+Bitcoin was made for individuals. For people like you and me. For us. This is your chance to exit the sinking boat of fiat currencies. Privileged people like Michael Saylor and Elon Musk are already testing the waters. What are you waiting for? Bitcoin is your life boat. It might look unsafe, it might be new technology that you don't trust. Educate yourself about it. The alternative is to go down with the Euro, the US-Dollar, or whatever your fiat currency is called. 

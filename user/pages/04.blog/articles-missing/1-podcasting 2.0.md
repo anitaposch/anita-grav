@@ -1,17 +1,17 @@
 ---
-title: Lightning Self-Custody for Beginners with Phoenix Wallet
+title: Value 4 Value - How to earn bitcoin through content creation
 taxonomy:
     tags: [Blog, Learn Bitcoin, Lightning Network]
 routes:
-    default: '/lightning-self-custody-phoenix'
+    default: '/podcasting-2-0-how-to-earn-bitcoin-with-content-creation'
 date: 2020-12-30 12:00
 dateformat: 'Y-m-d H:i'
-summary: Learn how to set up and use the Phoenix Wallet, a self-custody Lightning wallet and node that runs on your phone.
+summary: Value 4 value and Podcasting 2.0: How to earn bitcoin with content creation
 thumbnail: assets/_1-podcasting20.png
 template: article
 ---
 
-# Podcasting 2.0: How to earn bitcoin with content creation
+# Value 4 Value and Podcasting 2.0: How to earn bitcoin with content creation
 
 Anita Posch presents how you can build a self-sustaining decentralized ecosystem for podcasting with bitcoin. [Podcasting 2.0](https://anitaposch.com/bitcoin-co-podcast-one-of-the-first-to-enable-streaming-money/) is an open movement that was initiated by the “podfather” Adam Curry and developer Dave Jones. Learn about the business of podcasting and how you can set up your own podcast tribe in combination with a Lightning Node in the Sphinx Chat app.
 

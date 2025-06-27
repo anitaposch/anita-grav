@@ -1,18 +1,18 @@
 ---
-title: Lightning Self-Custody for Beginners with Phoenix Wallet
+title: Differences between Bitcoin and Bitcoin Cash, Bitcoin SV and others?
 taxonomy:
     tags: [Blog, Learn Bitcoin, Show]
 routes:
     default: '/what-bitcoin-btc-bsv-bch-btg'
 date: 2020-09-07 12:00
 dateformat: 'Y-m-d H:i'
-summary: Learn how to set up and use the Phoenix Wallet, a self-custody Lightning wallet and node that runs on your phone.
+summary: What are all those different Bitcoin versions that can be found on exchanges or Coinmarketcap?
 thumbnail: assets/_4-Which-Bitcoin-to-invest.jpg
 template: article
 ---
 
 
-# BCH, BSV, BTG, BTC, BTC2, BTCV...What to Invest In
+# BCH, BSV, BTG, BTC, BTC2, BTCV...What are the Differences?
 
 This is an article based on "The Context" episode 075 of the Anita Posch Show. 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25642&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
@@ -55,5 +55,5 @@ Why? Because the localbitcoins wallet does not give you your private keys. Meani
 In short, the answer for Thamzin and all of you: Bitcoin Vault is just another in my opinion fruitless attempt to build a better Bitcoin. There is no better form of money in the cryptocurrency space than BTC. It has the largest user base, the best developers, the most powerful network effect and properties that make it unique in the cryptocurrency space. Even if there are advancements by other projects, if those inventions make sense, Bitcoin developers will adopt it.
 
 For further information on how to use bitcoin I recommend my talk about Bitcoin Basics I gave in Zimbabwe earlier this year:
-https://youtu.be/0TwKdJIMBIs
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0TwKdJIMBIs?si=8eibvpcGTfuHC32M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
