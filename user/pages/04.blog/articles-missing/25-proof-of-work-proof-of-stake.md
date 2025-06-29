@@ -1,8 +1,15 @@
-Tags: Blog, Learn Bitcoin, Mining
-Link: /bitcoin-differences-proof-of-work-stake
-Date: 2022-09-18
-Summary: Proof-of-Work and Proof-of-Stake have different goals, so the question is: what are you trying to achieve with a blockchain? 
-Thumbnail: assets/_25-PoW-PoS.png
+---
+title: Differences between Proof-of-Work and Proof-of-Stake
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Perspectives, Bitcoin Mining]
+routes:
+    default: '/bitcoin-differences-proof-of-work-stake'
+date: 2022-09-18 12:00
+dateformat: 'Y-m-d H:i'
+summary: Proof-of-Work and Proof-of-Stake have different goals, so the question is: what are you trying to achieve with a blockchain?
+thumbnail: assets/_25-PoW-PoS.png
+template: article
+---
 
 # Differences between Proof-of-Work and Proof-of-Stake
 ## Can Bitcoin use Proof-of-Stake?

@@ -1,6 +1,16 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Date: 2022-09-07
-Thumbnail: assets/_2022-09-07-toiletpaper.JPG
+---
+title: Finding the best deals in Zimbabwe
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/finding-the-best-deals-in-zimbabwe'
+date: 2022-09-07 12:00
+dateformat: 'Y-m-d H:i'
+summary: There are huge price differences depending on where you go to purchase your daily goods.
+thumbnail: assets/_2022-09-07-toiletpaper.JPG
+template: article
+---
+
 
 # Finding the best deals in Zimbabwe
 

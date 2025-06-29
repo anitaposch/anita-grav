@@ -1,6 +1,15 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Date: 2022-09-06
-Thumbnail: assets/_2022-09-06-toiletpaper.JPG
+---
+title: How the Multi-Currency System in Zimbabwe Works
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/shopping-with-two-currencies-in-zimbabwe'
+date: 2022-09-06 12:00
+dateformat: 'Y-m-d H:i'
+summary: You can pay with USD or the local Zimbabwe Dollar, which is legal tender.
+thumbnail: assets/_2022-09-06-toiletpaper.JPG
+template: article
+---
 
 # Shopping with two currencies in Zimbabwe
 
