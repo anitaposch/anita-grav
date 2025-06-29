@@ -1,7 +1,15 @@
-Tags: Talks, Blog, Learn Bitcoin, Features
-Link: /bitcoin-human-rights-riga-2022
-Date: 2022-09-03
-Thumbnail: assets/_24-Talk-Riga.png
+---
+title: Bitcoin Is the Embodiment of Human Rights - Talk
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Perspectives, Talks]
+routes:
+    default: '/bitcoin-human-rights-riga-2022'
+date: 2022-09-03 12:00
+dateformat: 'Y-m-d H:i'
+summary: Anita Posch explains how Bitcoin represents human rights and acts as a tool for civil resistance and empowerment.
+thumbnail: assets/_24-Talk-Riga.png
+template: article
+---
 
 # Bitcoin Is the Embodiment of Human Rights - Talk
 ## The Ultimate Case For Bitcoin: Economic Empowerment & Civil Resistance

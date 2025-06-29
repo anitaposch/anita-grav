@@ -1,7 +1,15 @@
-Tags: Learn Bitcoin, Economics, Blog, Volatility
-Link: /bitcoin-volatility-over-time
-Date: 2022-06-09
-Thumbnail: assets/_23-Bitcoin-vol.png
+---
+title: Bitcoin's Volatility Is Decreasing
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Perspectives]
+routes:
+    default: '/bitcoin-volatility-over-time'
+date: 2022-06-09 12:00
+dateformat: 'Y-m-d H:i'
+summary: If the price of bitcoin goes up 5% on one day and down 10% the next day then this up and down is called volatility.
+thumbnail: assets/_23-Bitcoin-vol.png
+template: article
+---
 
 # Bitcoin's Volatility Is Decreasing
 ## What is volatility?
