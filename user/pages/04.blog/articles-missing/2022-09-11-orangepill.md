@@ -1,6 +1,16 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Date: 2022-09-11
-Thumbnail: assets/_2022-09-11.JPG
+---
+title: Peer to Peer Adoption of Bitcoin in Zimbabwe
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/p2p-adoption'
+date: 2022-09-11 12:00
+dateformat: 'Y-m-d H:i'
+summary: Massage therapist was very fast in understanding that with the Bitcoin price at 20k and not 60k it is a good time to start saving it.
+thumbnail: assets/_2022-09-11-orangepill.jpg
+template: article
+---
+
 
 # P2P Adoption 
 

@@ -1,5 +1,5 @@
 ---
-title: Baby, I'm a Billionaire
+title: Traditional currencies are worthless without authorities
 taxonomy:
     tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
 routes:
@@ -11,7 +11,7 @@ thumbnail: assets/_2022-09-09-55-Billion.JPG
 template: article
 ---
 
-# Baby, I'm a Billionaire
+# Traditional currencies are worthless without authorities
 No need to wait for bitcoin to go to 10 Million anymore! I'm a Billionaire already!
 ![](assets/_2022-09-09-55-Billion.jpg)
 
