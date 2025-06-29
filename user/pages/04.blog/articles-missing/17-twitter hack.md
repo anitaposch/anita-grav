@@ -1,8 +1,15 @@
-Title: Bitcoin was never hacked. Twitter was.
-Link: /bitcoin-was-never-hacked-twitter-was
-Date: 2020-07-16
-Tags: Learn Bitcoin, Blog
-
+---
+title: Bitcoin was never hacked. Twitter was.
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Freedom Tech]
+routes:
+    default: '/bitcoin-was-never-hacked-twitter-was'
+date: 2020-07-16 12:00
+dateformat: 'Y-m-d H:i'
+summary: Centralized platforms will always be the target of hackers. On July 15th 2020 Twitter was severely hacked. 
+thumbnail: assets/_17-btc-address-twitter-hack.png
+template: article
+---
 
 # Bitcoin was never hacked. Twitter was.
 

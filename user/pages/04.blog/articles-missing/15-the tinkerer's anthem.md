@@ -1,6 +1,16 @@
-Tags: Learn Bitcoin, Blog
-Link: /the-tinkerers-anthem
-Date: 2020-09-06
+---
+title: The Tinkerer's Anthem
+taxonomy:
+    tags: [Blog, Learn Bitcoin]
+routes:
+    default: '/the-tinkerers-anthem'
+date: 2020-09-06 12:00
+dateformat: 'Y-m-d H:i'
+summary: The Tinkerer's Anthem is a reminder that as a Bitcoin enthusiast you are an early-adopter, a misfit. Throughout history inventors, visionaries, entrepreneurs were laughed at. 
+thumbnail: assets/_15-Tinkerer-Anthem.jpg
+template: article
+---
+
 
 # The Tinkerer's Anthem
 
@@ -10,7 +20,7 @@ Watch this video, with a talk of Andreas M. Antonopoulos and be enlightened.
 
 https://youtu.be/8OIJIjGzyHQ
 
-Featuring: Andreas Antonopoulos (https://www.youtube.com/user/aantonop)
+Featuring: Andreas M. Antonopoulos (https://www.youtube.com/user/aantonop)
 Music by: Proof Of Beats (https://soundcloud.com/proofofbeats)
 Copyleft. No rights reserved.
 

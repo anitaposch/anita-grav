@@ -1,6 +1,16 @@
-Tags: Podcasting 2.0, Blog, Earn bitcoin
-Link: /bitcoin-podcast-enable-streaming-money
-Date: 2020-11-11
+---
+title: The Anita Posch Show One of the First Podcasts Enabling Streaming Money
+taxonomy:
+    tags: [Blog, Earn bitcoin, Freedom Tech, Learn Bitcoin]
+routes:
+    default: '/bitcoin-podcast-enable-streaming-money'
+date: 2020-11-11 12:00
+dateformat: 'Y-m-d H:i'
+summary: You can listen to my podcast episodes and at the same time send some sats to show your appreciation.
+thumbnail: assets/_14-The-first-podcasts-streaming-money.jpg
+template: article
+---
+
 
 # The Anita Posch Show One of the First Podcasts Enabling Streaming Money
 
@@ -14,4 +24,4 @@ You need to connect the <a href="https://sphinx.chat/" target="_blank" rel="noop
 
 ![Sphinx chat app](assets/_14-Sphinx-chat-podcast.jpg)
 
-https://anitaposch.com/streaming-money-podcast-player/
+[Prior article around this topic](https://anitaposch.com/streaming-money-podcast-player/)

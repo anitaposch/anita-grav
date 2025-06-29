@@ -1,11 +1,23 @@
-Link: /upgrading-my-raspiblitz-bitcoin-and-lightning-node
-Date: 2021-05-02
-Tags: Learn Bitcoin, Blog
+---
+title: Documentation of my RaspiBlitz 1.7 upgrade
+taxonomy:
+    tags: [Blog, Learn Bitcoin]
+routes:
+    default: '/upgrading-my-raspiblitz-bitcoin-and-lightning-node'
+date: 2021-05-02 12:00
+dateformat: 'Y-m-d H:i'
+summary: How to update your RaspiBlitz Bitcoin and Lightning node.
+thumbnail: assets/_18-finale-pw.jpg
+template: article
+---
 
 # Documentation of my RaspiBlitz 1.7 upgrade
 
 I am a Windows user, I have some very basic BASIC knowledge. I know how to build websites with HTML, PHP and MySQL, but I am not a coder. I have difficulties using GitHub and how to handle the Command window and PuTTY.
-<a href="https://bitcoin-austria.at/raspiblitz-lightning-network-building-workshop/" target="_blank" rel="noopener noreferrer">I set up my first RaspiBlitz at a Bitcoin Austria workshop in Feb 2020</a>. This device was a present to <a href="https://bitcoinundco.com/en/africa6/" target="_blank" rel="noopener noreferrer">Alakanani Itireleng and the Satoshicentre in Botswana</a>.
+<a href="https://bitcoin-austria.at/raspiblitz-lightning-network-building-workshop/" target="_blank" rel="noopener noreferrer">I set up my first RaspiBlitz at a Bitcoin Austria workshop in Feb 2020</a>. This device was a present to Alakanani Itireleng and the Satoshicentre in Botswana (our interview below).
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25622&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
 In July 2020 I set up a new RaspiBlitz for myself with the help of a friend from Bitcoin Austria, who also assisted me in the upgrade process. To be honest: I could not have done that without my friends. This is what makes Bitcoin and open source software so great. You are getting support from other people and I am learning every time.
 The purpose of this documentation is to have a guide for the next upgrade for myself and maybe it is helpful for somebody else too.
 
