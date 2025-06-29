@@ -1,6 +1,15 @@
-Tags: Podcasting 2.0, Blog, Earn bitcoin
-Link: /streaming-money-podcast-player
-Date: 2020-11-11
+---
+title: Streaming Money. In Your Podcast Player Soon.
+taxonomy:
+    tags: [Blog, Earn bitcoin, Freedom Tech, Learn Bitcoin]
+routes:
+    default: '/streaming-money-podcast-player'
+date: 2020-11-11 12:00
+dateformat: 'Y-m-d H:i'
+summary: Streaming money is coming to content creators. That means no paywalls, but the possibility to receive donations.
+thumbnail: assets/_anita-posch-show-cover-700.png
+template: article
+---
 
 # Streaming Money. In Your Podcast Player Soon.
 
