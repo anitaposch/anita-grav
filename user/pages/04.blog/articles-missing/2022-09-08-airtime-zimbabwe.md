@@ -1,6 +1,15 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Date: 2022-09-08
-Thumbnail: assets/_2022-09-08-choose.JPG
+---
+title: Topping up my phone with EcoCash
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/topping-up-my-phone-with-ecocash'
+date: 2022-09-08 12:00
+dateformat: 'Y-m-d H:i'
+summary: I used my Zimbabwean SIM card and added airtime to it so that I can do calls and send texts.
+thumbnail: assets/_2022-09-08-choose.JPG
+template: article
+---
 
 # Topping up my phone with EcoCash
 

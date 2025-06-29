@@ -1,6 +1,15 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Date: 2022-09-09
-Thumbnail: assets/_2022-09-09-55-Billion.JPG
+---
+title: Baby, I'm a Billionaire
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/baby-im-a-billionaire'
+date: 2022-09-09 12:00
+dateformat: 'Y-m-d H:i'
+summary: My Zimbabwean friend searched her archive and found 55 Billion Dollar!
+thumbnail: assets/_2022-09-09-55-Billion.JPG
+template: article
+---
 
 # Baby, I'm a Billionaire
 No need to wait for bitcoin to go to 10 Million anymore! I'm a Billionaire already!
@@ -9,6 +18,8 @@ No need to wait for bitcoin to go to 10 Million anymore! I'm a Billionaire alrea
 My Zimbabwean friend searched her archive and found 55 Billion Dollar! No need to work anymore! Oh, it's Zimbabwean Dollar? From 2008?
 
 Thanks, you can have it. It's not worth the paper it's printed on.
+
+Jokes aside as this is a serious issue for the Zimbabweans who had to live through several periods of hyperinflation since independence.
 
 As I was sorting the notes I remembered that I saw some of these banknotes in an antiques shop somewhere in Zimbabwe in 2020. One of those was sold for 5 USD. I could make 500 USD by selling it. Theoretically. Thing is, it's illegal to sell these old banknotes. 
 
@@ -21,7 +32,8 @@ Goes to show that fiat banknotes and coins can be issued and rendered worthless 
 
 ![](assets/_2022-09-09-Money-expires.JPG)
 
-https://youtu.be/pMobznkP2UE
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/pMobznkP2UE?si=XnvHIQWZRBrcCbUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 
