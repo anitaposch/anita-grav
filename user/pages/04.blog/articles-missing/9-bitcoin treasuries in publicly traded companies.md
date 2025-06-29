@@ -1,6 +1,15 @@
-Link: /bitcoin-treasuries-publicly-traded-companies
-Date: 2020-11-05
-Tags: Economics, Blog
+---
+title: Bitcoin Treasuries in Publicly Traded Companies
+taxonomy:
+    tags: [Blog, Perspectives]
+routes:
+    default: '/bitcoin-treasuries-publicly-traded-companies'
+date: 2020-11-05 12:00
+dateformat: 'Y-m-d H:i'
+summary: In 20202 companies held in total 811,233 BTC, that was 11.8 billion USD on their balance sheets.
+thumbnail: assets/_9-bitcoin-treasuries.jpg
+template: article
+---
 
 # Bitcoin Treasuries in Publicly Traded Companies
 

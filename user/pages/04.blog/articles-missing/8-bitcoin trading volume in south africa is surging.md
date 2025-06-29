@@ -1,6 +1,16 @@
-Tags: Economics, Bitcoin in Africa, Blog
-Link: /bitcoin-trading-volume-in-south-africa-is-surging
-Date: 2020-11-05
+---
+title: Bitcoin Trading Volume in South Africa Is Surging
+taxonomy:
+    tags: [Blog, Bitcoin in Africa, Perspectives]
+routes:
+    default: '/bitcoin-trading-volume-in-south-africa-is-surging'
+date: 2020-11-05 12:00
+dateformat: 'Y-m-d H:i'
+summary: Overall increase in Bitcoin trading between 2016 to 2020
+thumbnail: assets/_8-combined-btc-trading-vol.jpg
+template: article
+---
+
 
 # Bitcoin Trading Volume in South Africa Is Surging
 
@@ -8,7 +18,7 @@ This is the chart depicting the <strong>cumulative trading volume</strong> on th
 
 There are steady ups and downs, peaking in 2016, 2018 and 2019, with an all-time high recently in September 2020. The trend shows an <strong>overall increase in volume of bitcoin trading</strong>. The blue bars stand for LocalBitcoins' volume and the purples are for Paxful.
 
-![Combined bitcoin trading volume](assets/_8-combined-BTC-trading-vol.jpg) 
+![Combined bitcoin trading volume](assets/_8-combined-btc-trading-vol.jpg) 
 <small> [Source: usefultulips, Nov 2020](https://www.usefultulips.org/combined_ZAR_Page.html) </small>
 
 Notice the change in mid-2020, which analysts attribute to the Covid-19 crisis.

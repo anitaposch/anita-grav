@@ -1,12 +1,22 @@
-Link: /bitcoin-ponzi-scheme
-Tags: Learn Bitcoin, Blog
-Date: 2020-09-04
+---
+title: Bitcoin is not a Ponzi scheme
+taxonomy:
+    tags: [Blog, Perspectives]
+routes:
+    default: '/bitcoin-ponzi-scheme'
+date: 2020-09-04 12:00
+dateformat: 'Y-m-d H:i'
+summary: The story of Carlo Ponzi's frauds and why Bitcoin is not a Ponzi scheme
+thumbnail: assets/_10-Charles_Ponzi_mug_shot.jpg
+template: article
+---
 
 # Is Bitcoin a Ponzi scheme?
 ## The story of italian born Carlo Ponzi confidence trickster of 1920
 In August 1920 the "financial legend" Charles Ponzi was arrested. In only a year he had taken in $20 million dollars from ten-thousands of victims. Often referred to as investors. His promise was to double their money within three months. In return for cash investors received promissory notes, that guaranteed the original investment plus 50 percent interest. These notes bore Ponzi‘s ink-stamped signature, many referred to them as "Ponzi notes". It was a classical "rob Peter to pay Pauline" scheme, that he did not invent nor did his conviction to three years in prison prevent other fraudsters from doing so. In 1957, the Encyclopedia Britannica - the Wikipedia of it’s time - formally acknowledged that his name had become synonymous with swindle. The Ponzi scheme officially had a name.
 
-[Listen to the story of Charles Ponzi here](https://bitcoinundco.com/en/ponzi-scheme/)
+Listen to the story of Charles Ponzi here:
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25645&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 Charles Ponzi's Wikimedia entry assigns his occupation to the categories: Influenceur, Banker, Autobiographer. No joke - in this order. On Wikipedia he is a Financier and confidence trickster.
 
