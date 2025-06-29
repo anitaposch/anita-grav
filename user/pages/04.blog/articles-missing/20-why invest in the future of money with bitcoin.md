@@ -1,3 +1,17 @@
+---
+title: Why Invest in the Future of Money with Bitcoin
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Talks]
+routes:
+    default: '/bitcoin-invest-future-money'
+date: 2020-06-23 12:00
+dateformat: 'Y-m-d H:i'
+summary: Anita Posch's slides from the Lesbians Who Tech Virtual Pride Summit in 2020, speaking about the uniqueness and importance of Bitcoin.
+thumbnail: assets/_20-Bitcoin-Future.jpg
+template: article
+---
+
+
 Tags: Learn Bitcoin, Talks, Blog
 Link: /bitcoin-invest-future-money
 Date: 2020-06-23

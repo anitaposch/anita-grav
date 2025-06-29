@@ -1,8 +1,17 @@
-Tags: Economics, Blog
-Link: /why-bitcoin-now-differences-to-2017
-Date: 2020-11-27
+---
+title: Why Bitcoin in 2020? Differences to 2017
+taxonomy:
+    tags: [Blog, Learn Bitcoin, Perspectives]
+routes:
+    default: '/why-bitcoin-now-differences-to-2017'
+date: 2020-11-27 12:00
+dateformat: 'Y-m-d H:i'
+summary: Is Bitcoin dying or thriving? Bitcoin adoption from 2017 to 2020
+thumbnail: assets/_19-Glassnode-btc-addresses.jpg
+template: article
+---
 
-# Why Bitcoin now? Differences to 2017
+# Why Bitcoin in 2020? Differences to 2017
 
 This week Bitcoin reached almost a new all-time-high. For the first time since December 16, 2017, the bitcoin price was only 2 percent under the ATH. I can remember being totally fomo-ed back then. I was in hospital and woke up from a big surgery. The first thing I did as soon as I could do anything was to get my laptop and buy bitcoin. It was crazy, because I couldn't think clearly. Afterward, I was scared that I might have mis-typed the bitcoin receive address and that the funds would go into Nirvana. Which it did not in the end. A few weeks later the price plummeted and one year later the price was only 3,000 USD. Many people have sold their bitcoin at a loss in that time. I did not. Because I have always been interested in Bitcoin as a profound new technology that enables direct financial relationships between people. Without banks, and without the <a href="https://www.youtube.com/watch?v=tRFNLE6aV80" target="_blank" rel="noopener noreferrer">fractional reserve banking system that is a Ponzi scheme</a>.
 ## What is the difference between the 2017 all-time-high and today?

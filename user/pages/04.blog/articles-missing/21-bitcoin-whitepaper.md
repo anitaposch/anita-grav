@@ -1,7 +1,15 @@
-Tags: Learn Bitcoin, Blog, Whitepaper
-Link: /bitcoin-whitepaper
-Date: 2018-03-21
-Thumbnail: /assets/_21-bitcoin-whitepaper.png
+---
+title: The Bitcoin Whitepaper
+taxonomy:
+    tags: [Blog, Learn Bitcoin]
+routes:
+    default: '/bitcoin-whitepaper'
+date: 2018-03-21 12:00
+dateformat: 'Y-m-d H:i'
+summary: The Bitcoin Whitepaper as published by Satoshi Nakamoto on Oct 30, 2008
+thumbnail: assets/_21-bitcoin-whitepaper.png
+template: article
+---
 
 # Bitcoin Whitepaper
 

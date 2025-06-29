@@ -1,7 +1,16 @@
-Tags: Learn Bitcoin, Blog
-Link: /bitcoin-start-learning
-Date: 2021-11-18
-Thumbnail: assets/_22-rabbithole.png
+---
+title: The Art of (L)earning Bitcoin
+taxonomy:
+    tags: [Blog, Learn Bitcoin]
+routes:
+    default: '/bitcoin-start-learning'
+date: 2021-11-18 12:00
+dateformat: 'Y-m-d H:i'
+summary: Recommended resources for self-studying Bitcoin.
+thumbnail: assets/_22-rabbithole.png
+template: article
+---
+
 
 # The Art of (L)earning Bitcoin
 
