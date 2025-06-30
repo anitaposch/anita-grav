@@ -1,8 +1,16 @@
-Tags: Blog, Zambia, Nomad Diary
-Link: /first-impressions-lusaka
-Date: 2022-10-01
-Summary: Day 1 in Lusaka, Zambia
-Thumbnail: assets/_2022-09-28-PoshMedia-Zambia.jpg
+---
+title: Bitcoin for Fairness on the ground in Lusaka
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/first-impressions-lusaka'
+date: 2022-10-01 12:00
+dateformat: 'Y-m-d H:i'
+summary: Day 1 in Lusaka, Zambia
+thumbnail: assets/_2022-09-28-PoshMedia-Zambia.jpg
+template: article
+---
+
 
 # Bitcoin for Fairness on the ground in Lusaka
 

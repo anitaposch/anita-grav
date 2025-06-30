@@ -1,6 +1,16 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Date: 2022-09-12
-Thumbnail: assets/_2022-09-12-50cent.JPG
+---
+title: Insights from exchanging Bitcoin Peer-to-Peer in Zimbabwe
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe'
+date: 2022-09-11 12:00
+dateformat: 'Y-m-d H:i'
+summary: Speaking and trading freely with bitcoin can make you the target of harassment, arrest or worse things.
+thumbnail: assets/_2022-09-12-50cent.JPG
+template: article
+---
+
 
 # Insights from exchanging Bitcoin Peer-to-Peer in Zimbabwe 
 

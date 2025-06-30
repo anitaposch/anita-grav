@@ -1,8 +1,15 @@
-Tags: Blog, Zambia, Earn bitcoin, Talks
-Link: /bitcoin-unza
-Date: 2022-10-03 17:55
-Summary: Anita Posch gave a Bitcoin lecture at the University of Zambia in front of 30 students. Here you can find the video and the presentation of the talk.
-Thumbnail: assets/_2022-09-30-Unza-1.JPG.jpg
+---
+title: Panel on Digital Rights turned into a promotion of Bitcoin
+taxonomy:
+    tags: [Blog, On the Ground, Bitcoin in Africa, Talks]
+routes:
+    default: '/bitcoin-unza'
+date: 2022-10-03 12:00
+dateformat: 'Y-m-d H:i'
+summary: Anita Posch gave a Bitcoin lecture at the University of Zambia in front of 30 students. Here you can find the video and the presentation of the talk.
+thumbnail: assets/_2022-09-30-Unza-1.JPG.jpg
+template: article
+---
 
 # Bitcoin lecture at University of Zambia
 

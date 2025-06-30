@@ -1,8 +1,15 @@
-Tags: Blog, Zambia, Nomad Diary
-Link: /internet-freedom-africa
-Date: 2022-10-03 17:00
-Summary: A Panel on Digital Rights turned into a promotion of Bitcoin: Kathleen Ndongmo and Anita Posch made the case on how Bitcoin can be a viable alternative since the African governments and regulations keep excluding people from interacting economically with their peers. Including video.
-Thumbnail: assets/_2022-09-29-Forum-internet-freedom.jpg
+---
+title: Panel on Digital Rights turned into a promotion of Bitcoin
+taxonomy:
+    tags: [Blog, On the Ground, Bitcoin in Africa, Features]
+routes:
+    default: '/internet-freedom-africa'
+date: 2022-10-03 12:00
+dateformat: 'Y-m-d H:i'
+summary: A Panel on Digital Rights turned into a promotion of Bitcoin: Kathleen Ndongmo and Anita Posch made the case on how Bitcoin can be a viable alternative since the African governments and regulations keep excluding people from interacting economically with their peers. Including video.
+thumbnail: assets/_2022-09-29-Forum-internet-freedom.jpg
+template: article
+---
 
 # The Panel on Digital Rights turned into a promotion of Bitcoin
 

@@ -1,8 +1,16 @@
-Tags: Blog, Zambia, Nomad Diary
-Link: /FIFAfrica-BreakfastTV
-Date: 2022-10-02 23:45
-Summary: Preparing for the panel at the Forum on Internet Freedom and TV interview
-Thumbnail: assets/_2022-09-28-QfM-TV-Zambia.JPG
+---
+title: Bitcoin for Fairness on the ground in Lusaka
+taxonomy:
+    tags: [Blog, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/FIFAfrica-BreakfastTV'
+date: 2022-10-02 12:00
+dateformat: 'Y-m-d H:i'
+summary: Preparing for the panel at the Forum on Internet Freedom and TV interview
+thumbnail: assets/_2022-09-28-QfM-TV-Zambia.JPG
+template: article
+---
+
 
 # Forum on Internet Freedom and TV interview
 

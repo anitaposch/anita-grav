@@ -1,8 +1,17 @@
-Tags: Blog, Zimbabwe, Nomad Diary
-Link: /send-money-from-zimbabwe-to-south-africa-with-zero-fee
-Date: 2022-10-02
-Summary: An outing to the Eastern Highlands of Zimbabwe with camping, stunning views, ancient rock paintings and in this remote area I wanted to test Bitcoin payments.
-Thumbnail: assets/_2022-09-14-BitcoinEkasi-invoice.jpg
+---
+title: Insights from exchanging Bitcoin Peer-to-Peer in Zimbabwe
+taxonomy:
+    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+routes:
+    default: '/send-money-from-zimbabwe-to-south-africa-with-zero-fee'
+date: 2022-10-02 12:00
+dateformat: 'Y-m-d H:i'
+summary: An outing to the Eastern Highlands of Zimbabwe with camping, stunning views, ancient rock paintings and in this remote area I wanted to test Bitcoin payments.
+thumbnail: assets/_2022-09-14-BitcoinEkasi-invoice.jpg
+template: article
+---
+
+
 
 # Sending money from Zimbabwe to South Africa with almost Zero fees
 Middle of September we did a tour from Harare to the Eastern Highlands in Zimbabwe. It's interesting how my perception of Africa is changing by seeing all the different landscapes. I guess many people who aren't from the continent believe that Africa is only deserts. Red sand and dunes. But Zimbabwe is a very green country. The colors of the trees when they are blooming are stunning. It's September and this is spring. Many trees are blooming and others are losing their leaves. It looks a bit like autumn in Europe. The Eastern Highlands are famous for their red leaved trees in spring. It reminded me of Indian Summer in Maine, USA. The leaves are only red for a few days and then they turn green.
