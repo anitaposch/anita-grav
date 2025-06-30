@@ -1,7 +1,7 @@
 ---
 title: Bitcoin for Fairness on the ground in Lusaka
 taxonomy:
-    tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
+    tags: [Blog, On the Ground, Bitcoin in Africa]
 routes:
     default: '/first-impressions-lusaka'
 date: 2022-10-01 12:00

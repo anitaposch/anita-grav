@@ -1,6 +1,15 @@
-Tags: Features, Blog
-Link: /guest-tatiana-show
-Date: 2019-10-16
+---
+title: Anita Posch on "The Tatiana Show"
+taxonomy:
+    tags: [Blog, Features]
+routes:
+    default: '/guest-tatiana-show'
+date: 2019-10-16 12:00
+dateformat: 'Y-m-d H:i'
+summary: I was a invited as an interview partner by singer, songwriter and longtime Blockchain enthusiast Tatiana Moroz. She started her show back in 2015 and has 5,000 to 10,000 listeners per episode.
+thumbnail: assets/_F005-Anita-Posch-guest-Tatiana-show.png
+template: article
+---
 
 
 # Anita Posch on "The Tatiana Show"

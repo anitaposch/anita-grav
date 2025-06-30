@@ -1,6 +1,16 @@
-Tags: Features, Blog
-Link: /decrypt-first-btc-product
-Date: 2020-09-20
+---
+title: Major European Stock Exchange Lists First Bitcoin Product
+taxonomy:
+    tags: [Blog, Features, Commentary]
+routes:
+    default: '/decrypt-first-btc-product'
+date: 2020-09-20 12:00
+dateformat: 'Y-m-d H:i'
+summary: Wiener Börse clients can now get exposure to crypto from a regulated trading platform without having to actually buy the cryptocurrency on their own.
+thumbnail: assets/_F004-Decrypt.png
+template: article
+---
+
 
 # Major European Stock Exchange Lists First Bitcoin Product
 
