@@ -13,15 +13,13 @@ template: article
 
 # Is Bitcoin Compatible With Democracy?
 
-## Anita Posch from the Oslo Freeedom Forum 2022 for Bitcoin Magazine 
+## Less than 20% of humanity lives in full democracies
 
-I wrote [The Oslo Freedom Forum Asks, Is Bitcoin Compatible With Democracy?](https://bitcoinmagazine.com/culture/is-bitcoin-compatible-with-democracy) an article about how four international human rights activists are using Bitcoin and what their views are about Bitcoin’s role in enabling democracy. 
+> [The Oslo Freedom Forum Asks, Is Bitcoin Compatible With Democracy?](https://bitcoinmagazine.com/culture/is-bitcoin-compatible-with-democracy) was featured on Bitcoin Magazine.
 
-This year’s Oslo Freedom Forum, a human rights conference organized by the Human Rights Foundation (HRF), took place from May 23 to May 25, 2022. It’s a yearly conference bringing together more than a thousand activists, civil society leaders, scholars, artists, technologists, business leaders and journalists with the goal of exchanging strategies, forming partnerships and inspiring one another to continue the fight for liberty and democracy all over the world. Here is a panel moderated by Anita Posch where four human rights activists discuss Bitcoin's role for democracy.
+This year’s Oslo Freedom Forum, a human rights conference organized by the Human Rights Foundation (HRF), took place from May 23 to May 25, 2022. It’s a yearly conference bringing together more than a thousand activists, civil society leaders, scholars, artists, technologists, business leaders and journalists with the goal of exchanging strategies, forming partnerships and inspiring one another to continue the fight for liberty and democracy all over the world. Here is a panel moderated by Anita Posch where four human rights activists discuss Bitcoin's role for democracy. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MTVPeXQwWCU?si=qUFLfFB9AF9rZF8y&amp;start=1669" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Less than 20% of humanity lives in full democracies
 
 Less than [20% of humanity lives in full democracies](https://slate.com/news-and-politics/2021/03/freedom-house-freedom-in-the-world.html) while [54% of the global population live in countries with authoritarian regimes and dictatorships](https://hrf.org/about/mission/). This means 4.2 billion people are deprived of basic human rights, such as free speech, freedom of transaction, the right to equality and the right to own property. They are excluded from economic participation and have no access to tools that would allow them to save money or receive loans.
 
