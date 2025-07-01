@@ -7,7 +7,7 @@ routes:
 date: 2021-12-23 12:00
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch's Commentary for Bitcoin Magazine after her visit to El Salvador showing that heavy-handed government efforts are clashing with Bitcoin’s self-sovereign and community-focused ethos.
-thumbnail: _sonzocate-bitcoin-city-sv.jpg
+thumbnail: assets/_F0014-BTCMagazine.png
 template: article
 ---
 
