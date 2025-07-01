@@ -45,7 +45,9 @@ Togo is a country with about [nine million inhabitants](https://tradingeconomics
 
 Bitcoin is a way for the Togolese opposition to raise funds in a private way, protect the donors and shift money away from the government’s control. To protect the CFA, laws have been passed banning citizens from owning foreign currency. You need specific authorization from the minister of commerce to get access to a foreign currency account and you won’t get that if you are openly opposed to the government. Additionally, the CFA has dropped significantly in purchasing power and increased poverty, being [devalued by 50% in foreign currency terms overnight in 1994](https://www.imf.org/external/pubs/ft/wp/2005/wp05145.pdf), for instance.
 
-“Bitcoin provides better stability while allowing us to continue our struggle and help us find a different monetary system with more accountability, because now the people of Togo have no say whatsoever in terms of our fiscal, monetary and financial policies,” Nabourema concluded during our panel.
+> “Bitcoin provides better stability while allowing us to continue our struggle and help us find a different monetary system with more accountability, because now the people of Togo have no say whatsoever in terms of our fiscal, monetary and financial policies,” Nabourema concluded during our panel.
+
+### Jaroslav Likhachevskiy,tech entrepreneur and co-founder of the Belarus Solidarity Foundation
 
 **Jaroslav Likhachevskiy** is a tech entrepreneur and co-founder of the Belarus Solidarity Foundation, which has been building a parallel digital state and economy to get rid of President Lukashenko, who [refers to himself](https://en.wikipedia.org/wiki/Alexander_Lukashenko) as the “last dictator in Europe.” Elections in Belarus are not considered to be free and fair by international monitors, opponents of the regime are repressed and the media is not free.
 
@@ -53,9 +55,13 @@ Prior to 2020, Likhachevskiy didn’t take cryptocurrency seriously, he made jok
 
 And fundraising is not the only thing it is using cryptocurrencies for. When Lukashenko [fired hundreds of doctors](http://v/) after the COVID-19 pandemic began, which brought deep political crisis, doctors couldn’t find work in Belarus anymore. BYSOL started developing a telemedicine platform, where doctors are offering their services in return for cryptocurrency payments. Next were the oppositional lawyers in the country, who started to offer their support on the parallel economic platform, too. As of today, 1,500 monthly telemedicine transactions take place and about 10,000 people are using the platform.
 
+### Leonid Volkov is the chief of staff for Alexey Navalny, a Russian opposition leader
+
 **Leonid Volkov** is the chief of staff for Alexey Navalny, a Russian opposition leader who was sentenced to [nine years in prison in March](https://www.washingtonpost.com/world/2022/03/22/russia-navalny-fraud-prison-sentence/), said during the panel that his anti-corruption foundation has been crowdfunded since its inception in 2011. In 2016, when Navalny ran for president, the team started to raise bitcoin as an additional payment method, too.
 
 The bitcoin address it used is still active and has received 675 bitcoin since 2016, 10% of all of its donations in that period. Authorities would have been able to switch off the traditional payment methods at any time, which is not possible with bitcoin. Offering Bitcoin donations was positive for the donors too, since they are also better protected. Since the anti-corruption movement has been recognized as an extremist movement, like Al Qaeda or ISIS has been in the U.S., and has been outlawed in Russia and forced to move abroad in April 2021, Volkov’s team realized that Bitcoin is also very important because it still can use it to support its allies in Russia.
+
+### Nelson Rauda Zablah is a Salvadoran investigative journalist
 
 **Nelson Rauda Zablah** is a Salvadoran investigative journalist who has been covering the use of Bitcoin in El Salvador for the independent newspaper *El Faro*, who thinks that Bitcoin has been co-opted by the government of President Bukele and is being used to distract from the deep problems of corruption, human rights abuses, power grabs and poverty in the country. He claims that the state-run [Chivo wallet](https://bitcoinmagazine.com/culture/the-polarity-of-bitcoin-in-el-salvador) is basically facilitating a CBDC and used as a surveillance tool by the government, which is antithetical to Bitcoin. Even more so since Chivo is a custodial wallet, Salvadorans are not being empowered by Bitcoin, but rather the opposite is true.
 
@@ -63,7 +69,7 @@ Zablah sees one positive use case for Bitcoin though: its use as a payment rail.
 
 When the close group around Bukele decided to make bitcoin legal tender in June 2021, it didn’t even inform its own government about this important step, let alone the opposition. Zablah and many other Salvadorans think that Bitcoiners have been played and don’t see positives for their country. Instead, Zablah has a message for enthusiastic Bitcoiners who have become defenders of Bukele’s politics: Stop whitewashing his actions which have undermined democratic institutions over the last few years.
 
-“It shouldn’t be surprising to tell Bitcoiners to not trust a government,” Zablah said during the panel. “The problem for me is to believe in a government that promises financial freedom while cracking down on press freedom.”
+> “It shouldn’t be surprising to tell Bitcoiners to not trust a government ... the problem for me is to believe in a government that promises financial freedom while cracking down on press freedom.” - Nelson Rauda Zablah 
 
 Zablah went on to say, “Bukele has weaponized Bitcoiners and their tweets to whitewash himself and the crooked actions of his government.”
 
@@ -77,9 +83,11 @@ The final statements to the audience were:
 > 
 > –Nabourema
 
+
 > “Bitcoin is some kind of financial democracy, because it’s controlled by all participants of the network.”
 > 
 > –Likhachevskiy
+
 
 > “If you believe in Bitcoin, you can cheer on the president and on the government for giving us this tool of financial freedom and still call on him to respect democracy, rule of law, separation of powers, freedom of the press and all the other things that human beings need.”
 > 
