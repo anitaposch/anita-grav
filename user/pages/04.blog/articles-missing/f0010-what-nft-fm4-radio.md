@@ -1,6 +1,17 @@
-Tags: Features, Blog
-Link: /what-is-NFT-audio
-Date: 2021-03-05
+---
+title: FM4 Radio: Crypto Art - What is an NFT?
+taxonomy:
+    tags: [Blog, Features]
+routes:
+    default: '/what-is-NFT-audio'
+date: 2021-03-05 12:00
+dateformat: 'Y-m-d H:i'
+summary: At the moment I see a hype in the crypto space around NFTs, similar to the ICO hype of 2017.
+thumbnail: assets/_W0018-NFT.jpg
+template: article
+---
+
+
 
 # FM4 Radio: Crypto Art - What is an NFT?
 

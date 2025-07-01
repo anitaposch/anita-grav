@@ -1,7 +1,16 @@
-Tags: Features, Blog, El Salvador
-Link: /bitcoinmagazine-elsalvador
-Date: 2021-12-23
-Thumbnail: assets/_F0014-BTCMagazine.png
+---
+title: Government-imposed Bitcoin adoption is clashing with community efforts on the ground in El Salvador
+taxonomy:
+    tags: [Blog, Features, Perspectives, Commentary]
+routes:
+    default: '/bitcoinmagazine-elsalvador'
+date: 2021-12-23 12:00
+dateformat: 'Y-m-d H:i'
+summary: Anita Posch's Commentary for Bitcoin Magazine after her visit to El Salvador showing that heavy-handed government efforts are clashing with Bitcoin’s self-sovereign and community-focused ethos.
+thumbnail: assets/_F0014-BTCMagazine.png
+template: article
+---
+
 
 # Government-imposed Bitcoin adoption is clashing with community efforts on the ground in El Salvador
 

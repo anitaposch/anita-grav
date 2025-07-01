@@ -1,13 +1,19 @@
-Tags: Features, Blog
-Link: /financial-inclusion-and-democratizing-money-beyond-the-chain
-Date: 2020-11-30
-
+---
+title: Financial inclusion and democratizing money - Beyond the Chain
+taxonomy:
+    tags: [Blog, Features]
+routes:
+    default: '/financial-inclusion-and-democratizing-money-beyond-the-chain'
+date: 2020-11-30 12:00
+dateformat: 'Y-m-d H:i'
+summary: Anita Posch discussing why Bitcoin is democratizing money with Ethan Fast on the Nash podcast.
+thumbnail: assets/_F009-Nash-Podcast-Anita-Posch.jpg
+template: article
+---
 
 # Financial inclusion and democratizing money - Beyond the Chain
 
-Anita Posch discussing why Bitcoin is democratizing money on Nash podcast.
-
-[![Anita Posch about democratizing money](assets/_F009-Nash-Podcast-Anita-Posch.jpg)](https://podcast.nash.io/912007/6343486-financial-inclusion-and-democratizing-money-with-anita-posch-and-ethan-fast)
+Anita Posch discussing why Bitcoin is democratizing money with Ethan Fast on the Nash podcast.
 
 Topics:
 <ul>
@@ -17,4 +23,5 @@ Topics:
  	<li>Bitcoin distribution</li>
  	<li>Energy consumption of Bitcoin mining</li>
 </ul>
-<a href="https://podcast.nash.io/912007/6343486-financial-inclusion-and-democratizing-money-with-anita-posch-and-ethan-fast" target="_blank" rel="noopener noreferrer">Listen here</a>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4IkXLT0Ic6tBI9atUqR6QH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
