@@ -19,4 +19,4 @@ Bitcoin stories from all over the world! Anita tells us about her trip to southe
 
 We also discuss inflation, the 2020 halving, Coinmarketcap, Bcash, Coronavirus (Eugene is in the one country on Earth with basically no restrictions), Austria, Germany, and much more!
 
-<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/Lf294To36q8?si=tJUf-0ZeUSbAXuDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube-nocookie.com/embed/Lf294To36q8?si=tJUf-0ZeUSbAXuDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

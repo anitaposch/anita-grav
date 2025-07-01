@@ -1,6 +1,15 @@
-Tags: Podcasting 2.0, Features, Blog
-Link: /anita-posch-about-podcasting-2-0-on-the-bitcoin-magazine-podcast
-Date: 2021-02-26
+---
+title: Anita Posch about Podcasting 2.0 on the Bitcoin Magazine Podcast
+taxonomy:
+    tags: [Blog, Features, Lightning Network]
+routes:
+    default: '/anita-posch-about-podcasting-2-0-on-the-bitcoin-magazine-podcast'
+date: 2021-02-26 12:00
+dateformat: 'Y-m-d H:i'
+summary: Keroles and Posch focused on new podcasting technology being built on top of the Bitcoin Lightning Network.
+thumbnail: assets/_F007-Bitcoin-Magazine-Podcasting20.png
+template: article
+---
 
 # Anita Posch about Podcasting 2.0 on the Bitcoin Magazine Podcast
 
@@ -10,5 +19,4 @@ In this episode, Keroles and Posch focused on new podcasting technology being bu
 
 Listen in to this episode to learn more about Posch and the crossroads between Bitcoin and the future of podcasting. 
 
-[![Anita Posch about Podcasting 2.0 on Bitcoin Magazine](assets/_F007-Bitcoin-Magazine-Podcasting20.png)](https://youtu.be/8TGKcKonM20)
-
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/8TGKcKonM20?si=3RtlihpctKXcsPdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

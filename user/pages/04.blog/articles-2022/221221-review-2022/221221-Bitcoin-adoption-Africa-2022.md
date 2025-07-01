@@ -146,7 +146,7 @@ There is a need for more boots on the ground to share knowledge and tools. Nobod
 
 There is a need for more local Bitcoin infrastructure and the [Africa Free Routing project](https://bitcoiners.africa/africa-free-routing/) is a great start, because the two nodes I was able to bring are not enough. One great example of a solution built for Africa by an African is [Machankura](https://8333.mobi), a custodial Lightning wallet, which allows you to send and receive bitcoin on a feature phone without internet connection. It’s using the same technology that mobile money providers in Africa have been using for years called USSD. We used it in Zambia.
 
-<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/FCiK1AZuPRM?si=Ms2KLQWxC_Qxhgoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube-nocookie.com/embed/FCiK1AZuPRM?si=Ms2KLQWxC_Qxhgoz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Going forward
 

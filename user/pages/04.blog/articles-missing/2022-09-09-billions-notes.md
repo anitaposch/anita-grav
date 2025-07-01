@@ -32,7 +32,7 @@ Goes to show that fiat banknotes and coins can be issued and rendered worthless 
 
 ![](assets/_2022-09-09-Money-expires.JPG)
 
-<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/pMobznkP2UE?si=XnvHIQWZRBrcCbUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="473" src="https://www.youtube-nocookie.com/embed/pMobznkP2UE?si=XnvHIQWZRBrcCbUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---

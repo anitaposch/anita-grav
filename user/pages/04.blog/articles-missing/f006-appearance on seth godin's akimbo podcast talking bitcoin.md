@@ -1,7 +1,15 @@
-Tags: Features, Blog
-Link: /bitcoin-seth-godin-akimbo-podcast
-Date: 2020-08-03
-Summary: test description
+---
+title: Appearance on Seth Godin's Akimbo Podcast Talking Bitcoin
+taxonomy:
+    tags: [Blog, Features]
+routes:
+    default: '/bitcoin-seth-godin-akimbo-podcast'
+date: 2020-08-03 12:00
+dateformat: 'Y-m-d H:i'
+summary: Appearance on Seth Godin's Akimbo Podcast Talking Bitcoin
+thumbnail: assets/_F006-Akimbo.jpg
+template: article
+---
 
 # Appearance on Seth Godin's Akimbo Podcast Talking Bitcoin
 
