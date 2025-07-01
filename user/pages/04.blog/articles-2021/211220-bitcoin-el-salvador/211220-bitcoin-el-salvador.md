@@ -25,7 +25,7 @@ Embracing Bitcoin is a bold move and a great chance for countries like El Salvad
 
 In November 2021 I visited El Salvador for three weeks to research the use of Bitcoin, which has been legal tender since early September. I was attending Bitcoin week in San Salvador speaking at Adopting Bitcoin, a conference dedicated to the Lightning Network, and LaBitconf, the longest running Latin American Bitcoin conference. The following two weeks I spent in El Zonte at the Pacific Ocean, the village where Bitcoin Beach started in early 2020. I also visited [Bitcoin City SV](https://www.ascavderl.com/bitcoin-city-sv/comunidad-bitcoin) a cooperative in Sonzacate, which is educating their ~2,000 members about Bitcoin even longer than the folks at [Bitcoin Beach](https://anita.link/140).
 
-![Office of Bitcoin City SV in Sonzacate](_Sonzocate-Bitcoin-City-SV-office.jpg)
+![Office of Bitcoin City SV in Sonzacate](_sonzocate-bitcoin-city-sv-office.jpg)
 
 ![Map of local businesses accepting bitcoin](_Sonsonate-Bitcoin-City-SV-acceptance.jpg)
 
