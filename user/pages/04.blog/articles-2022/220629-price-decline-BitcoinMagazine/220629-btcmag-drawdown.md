@@ -1,5 +1,5 @@
 ---
-title: Bringing Bitcoin to Billions via the Lightning Network
+title: Crypto Lending Scheme Implosions Make Bitcoin Stronger
 taxonomy:
     tags: [Blog, Features, Learn Bitcoin]
 routes:
@@ -16,6 +16,8 @@ template: article
 ## Article for Bitcoin Magazine
 
 > I wrote [Crypto Lending Scheme Implosions Make Bitcoin Stronger](https://bitcoinmagazine.com/markets/crypto-price-dip-makes-bitcoin-stronger) an article arguing that despite the cryptocurrency market decline, it’s clear that Bitcoin can’t be stopped.
+
+Here is the full article:
 
 Recently, one of my followers from Zambia asked, “Why has the price of bitcoin gone down in the last few months?” While I usually don’t talk about price movements, because I think the utility of Bitcoin as digital cash and a global financial rail is more important than the question of when bitcoin will reach $100,000, recent price events deserve some attention.
 
