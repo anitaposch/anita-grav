@@ -1,8 +1,16 @@
-Tags: Features, Blog, Bitcoin in Africa, Zambia
-Link: /interview-daily-nation-zambia
-Summary: While in Zambia I was interviewed by Buumba Cimbulu for Daily Nation "The People's Newspaper" of Zambia. 
-Date: 2022-10-09 15:00
-Thumbnail: assets/_f0022-221006-Daily-Nation-Zambia-Posch.jpg
+---
+title: Learn about Bitcoin or be scammed - Zambia Daily Nation
+taxonomy:
+    tags: [Blog, Features, Bitcoin in Africa, On the Ground]
+routes:
+    default: '/interview-daily-nation-zambia'
+date: 2022-10-09 15:00
+dateformat: 'Y-m-d H:i'
+summary: While in Zambia I was interviewed by Buumba Cimbulu for Daily Nation "The People's Newspaper" of Zambia.
+thumbnail: assets/_f0022-221006-Daily-Nation-Zambia-Posch.jpg
+template: article
+---
+
 
 # Learn about Bitcoin or be scammed
 

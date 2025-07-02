@@ -1,8 +1,15 @@
-Tags: Features, Blog, Bitcoin in Africa
-Link: /adoption-btc-africa
-Summary: I was interviewed by Hannatu Asheolge for TechCabal at the beginning of October 2022. She asked about my work with Bitcoin for Fairness in Africa and we discussed the role of Bitcoin for human rights activists and opposition based on the example of the Nigerian Feminist Coalition.
-Date: 2022-10-09 16:25
-Thumbnail: assets/_f0021-TechCabal.png
+---
+title: Bitcoin communities drive adoption in Africa - Techcabal Africa
+taxonomy:
+    tags: [Blog, Features, Bitcoin in Africa]
+routes:
+    default: '/adoption-btc-africa'
+date: 2022-10-09 12:00
+dateformat: 'Y-m-d H:i'
+summary: I was interviewed by Hannatu Asheolge for TechCabal at the beginning of October 2022. She asked about my work with Bitcoin for Fairness in Africa and we discussed the role of Bitcoin for human rights activists and opposition based on the example of the Nigerian Feminist Coalition.
+thumbnail: assets/_f0021-TechCabal.png
+template: article
+---
 
 # Bitcoin communities drive adoption in Africa
 
