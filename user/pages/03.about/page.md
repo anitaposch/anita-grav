@@ -36,15 +36,19 @@ Bitcoin is money from the people, for the people. Its mathematical rules can't b
 
 Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anitaposch.bsky.social), sometimes [Twitter](https://twitter.com/anitaposch) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaposch/). Find over 400 videos by Anita Posch on [YouTube](https://www.youtube.com/anitaposch) and her work on [GitHub](https://github.com/anitaposch) and [Medium](https://medium.com/@anitaposch).
 
-> Anita Posch **is NOT on** Instagram, Facebook, Telegram, TikTok or any other platform and she **never asks you to invest or for your trades** or similar.
+> Anita Posch **is NOT on** Instagram, Facebook, Telegram, TikTok or any other platform and she **never asks you to invest, for your trades** or similar.
 
 ## Download Speaker Info <a id="speaker"></a>
+
+Anita Posch is a world-renowned speaker, she talked at conferences around the world for instance in Accra / Ghana, Cape Town / South Africa, Nairobi / Kenya, Lusaka / Zambia, San Salvador / El Salvador, Prague / Czech Republic, Lugano / Switzerland, Riga / Latvia, Bali / Indonesia
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LY1UG1KSKew?si=g2qzz6tcDMoqMstz&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Speaker Rider Anita Posch
 [Anita Posch Speaker Rider](/download)
 
 ### Profile Images Anita Posch
-Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) You can use them for free.
+Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) You can use them for free.
 
 |  |  |
 | ------ | ----------- |
