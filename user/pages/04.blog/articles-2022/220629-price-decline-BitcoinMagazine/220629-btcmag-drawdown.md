@@ -1,7 +1,7 @@
 ---
 title: Crypto Lending Scheme Implosions Make Bitcoin Stronger
 taxonomy:
-    tags: [Blog, Features, Learn Bitcoin]
+    tags: [Blog, Features, Learn Bitcoin, Commentary]
 routes:
     default: '/bitcoin-price-decline'
 date: 2022-06-29 12:00
