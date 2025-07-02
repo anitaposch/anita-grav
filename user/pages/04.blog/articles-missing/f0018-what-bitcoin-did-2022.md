@@ -1,5 +1,5 @@
 ---
-title: Bitcoin for Fairness in Zimbabwe and Zambia - Anita Posch on What Bitcoin Did
+title: Bitcoin Stories from Zimbabwe and Zambia - Anita Posch on What Bitcoin Did
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa]
 routes:
@@ -11,7 +11,7 @@ thumbnail: assets/_f0018-Anita-Posch-whatbitcoindid.png
 template: article
 ---
 
-# Bitcoin for Fairness on What Bitcoin Did
+# Bitcoin Stories from Zimbabwe and Zambia - Anita Posch on What Bitcoin Did
 
 > “In Zimbabwe with that high inflation: if you tell them you can’t inflate bitcoin, you can’t make more out of it, you can’t censor it, your government can’t take it away from you, everybody understands immediately.”
 
