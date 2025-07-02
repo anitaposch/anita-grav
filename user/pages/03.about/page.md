@@ -42,9 +42,11 @@ Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 
 Anita Posch is a world-renowned speaker, she talked at conferences around the world for instance in Accra / Ghana, Cape Town / South Africa, Nairobi / Kenya, Lusaka / Zambia, San Salvador / El Salvador, Prague / Czech Republic, Lugano / Switzerland, Riga / Latvia, Bali / Indonesia, Vienna / Austria or Nashville / USA.
 
-<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/LY1UG1KSKew?si=g2qzz6tcDMoqMstz&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+### Plan B coonference, Lugano 2023
 <iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/CExOwVQYHNg?si=R7hcmhpWHbyn0BND&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### BTCPrague, Prague 2024
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/klk13ahO2yo?si=OhDIOR1T4LWBpMn-&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Speaker Rider Anita Posch
 [Anita Posch Speaker Rider](/download)
