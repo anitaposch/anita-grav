@@ -7,7 +7,7 @@ routes:
 date: 2022-09-16 12:00
 dateformat: 'Y-m-d H:i'
 summary: First time I was the guest on a non-Bitcoin related podcast show. Mike Seminary was inviting me to talk about Bitcoin, mining and how it could empower people.
-thumbnail: assets/_anita-posch-show-cover-700.png
+thumbnail: _anita-posch-show-cover-700.png
 template: article
 ---
 
