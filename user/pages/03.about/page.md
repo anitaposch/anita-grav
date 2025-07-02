@@ -40,9 +40,11 @@ Anita Posch is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3
 
 ## Download Speaker Info <a id="speaker"></a>
 
+[Book Anita for your event](/contact)
+
 Anita Posch is a world-renowned speaker, she talked at conferences around the world for instance in Accra / Ghana, Cape Town / South Africa, Nairobi / Kenya, Lusaka / Zambia, San Salvador / El Salvador, Prague / Czech Republic, Lugano / Switzerland, Riga / Latvia, Bali / Indonesia, Vienna / Austria or Nashville / USA.
 
-### Plan B coonference, Lugano 2023
+### Plan B conference, Lugano 2023
 <iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/CExOwVQYHNg?si=R7hcmhpWHbyn0BND&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### BTCPrague, Prague 2024
