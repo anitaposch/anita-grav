@@ -15,7 +15,7 @@ template: article
 
 Anita Posch wrote an [op-ed for Bitcoin Magazine after her visit to El Salvador](https://bitcoinmagazine.com/culture/reporting-on-bitcoin-adoption-in-el-salvador) in November 2021 showing that heavy-handed government efforts are clashing with Bitcoin’s self-sovereign and community-focused ethos.
 
-[![Op-ed](assets/_F0014-BTCMagazine.png)](https://bitcoinmagazine.com/culture/reporting-on-bitcoin-adoption-in-el-salvador)
+[![Op-ed](_F0014-BTCMagazine.png)](https://bitcoinmagazine.com/culture/reporting-on-bitcoin-adoption-in-el-salvador)
 
 Below you find Anita's original commentary.
 
