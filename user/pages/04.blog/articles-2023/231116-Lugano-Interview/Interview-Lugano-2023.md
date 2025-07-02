@@ -11,6 +11,8 @@ thumbnail: _interview-lugano.png
 template: article
 ---
 
+# Africa, human rights and bitcoin adoption with Anita Posch - Lugano‘s Plan ₿ Podcast
+
 Anita Posch about Africa, human rights and bitcoin adoption on Lugano‘s Plan ₿ Podcast in October 2023.
 
 <iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/CEJb5gO6XTU?si=nK3eNhMf6sFtpoXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
