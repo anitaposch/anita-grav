@@ -16,7 +16,7 @@ template: article
 
 ## Strategies and Tools for Your Bitcoin Journey
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wG5ENaO-OQ8?start=14557" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube.com/embed/wG5ENaO-OQ8?start=14557" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Recommended resources to learn Bitcoin for beginners in **English and Spanish**
 

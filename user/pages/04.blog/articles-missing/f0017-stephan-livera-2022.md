@@ -24,4 +24,4 @@ I joined Stephan Livera to talk about my trip to Zimbabwe and Zambia in March 20
 -   Government views on Bitcoin
 -   p2p Bitcoin
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yXW_jOhuHvE?si=Wgbx5hw7RTIf8w9p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/yXW_jOhuHvE?si=Wgbx5hw7RTIf8w9p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

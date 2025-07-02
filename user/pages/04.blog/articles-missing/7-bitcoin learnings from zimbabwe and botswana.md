@@ -30,4 +30,4 @@ In February 2020 I travelled to Zimbabwe and Botswana to learn more about the us
 
 Additionally I summarized the findings with recommendations and ideas to broaden the accessibility and usability of bitcoin in under-develeoped regions in this talk:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ddYimGGyxA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube.com/embed/ddYimGGyxA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -26,4 +26,4 @@ Goals are
 
 Bitcoin assembly at rC3 Chaos Communication Congress, 28 Dec 2020
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YdLPo94B-sg?si=I8Sc6h7PqtbcVavX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/YdLPo94B-sg?si=I8Sc6h7PqtbcVavX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

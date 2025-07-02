@@ -17,7 +17,7 @@ I was invited to speak at the Department of Mathematics of the University of Zam
 
 You can find the presentation below the video and images:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1FB5JT1RRL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube.com/embed/1FB5JT1RRL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](assets/_2022-09-30-Unza-1.JPG)
 ![](assets/_2022-09-30-Unza-2.JPG)

@@ -55,5 +55,5 @@ Why? Because the localbitcoins wallet does not give you your private keys. Meani
 In short, the answer for Thamzin and all of you: Bitcoin Vault is just another in my opinion fruitless attempt to build a better Bitcoin. There is no better form of money in the cryptocurrency space than BTC. It has the largest user base, the best developers, the most powerful network effect and properties that make it unique in the cryptocurrency space. Even if there are advancements by other projects, if those inventions make sense, Bitcoin developers will adopt it.
 
 For further information on how to use bitcoin I recommend my talk about Bitcoin Basics I gave in Zimbabwe earlier this year:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0TwKdJIMBIs?si=8eibvpcGTfuHC32M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/0TwKdJIMBIs?si=8eibvpcGTfuHC32M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

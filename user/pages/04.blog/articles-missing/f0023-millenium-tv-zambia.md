@@ -16,5 +16,5 @@ template: article
 
 In an TV interview I emphasized the importance of Bitcoin mining for a country with cheap electricity and hydropower like Zambia and how to detect scams. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cZI2wkvxqf4?si=OjWQ5ThXuCItPULd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/cZI2wkvxqf4?si=OjWQ5ThXuCItPULd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

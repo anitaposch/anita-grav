@@ -19,7 +19,7 @@ template: article
 
 This year’s Oslo Freedom Forum, a human rights conference organized by the Human Rights Foundation (HRF), took place from May 23 to May 25, 2022. It’s a yearly conference bringing together more than a thousand activists, civil society leaders, scholars, artists, technologists, business leaders and journalists with the goal of exchanging strategies, forming partnerships and inspiring one another to continue the fight for liberty and democracy all over the world. Here is a panel moderated by Anita Posch where four human rights activists discuss Bitcoin's role for democracy. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MTVPeXQwWCU?si=qUFLfFB9AF9rZF8y&amp;start=1669" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/MTVPeXQwWCU?si=qUFLfFB9AF9rZF8y&amp;start=1669" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Less than 20% of humanity lives in full democracies
 

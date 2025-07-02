@@ -15,4 +15,4 @@ template: article
 
 Anita Posch speaks about how Bitcoin is a tool in fighting the global and local financial patriarchy on Peter McCormack's WhatBitcoinDid Podcast.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TcocGqqUt3E?si=XPHU-MdzqOc6Zvxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/TcocGqqUt3E?si=XPHU-MdzqOc6Zvxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

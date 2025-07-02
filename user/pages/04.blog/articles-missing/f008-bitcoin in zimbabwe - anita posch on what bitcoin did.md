@@ -17,4 +17,4 @@ template: article
 
 In this interview, Peter McCormack is talking with Anita Posch, Bitcoin podcaster, speaker and author. We discuss her recent trip to Zimbabwe, free speech & freedom of expression, scams & MLM, hyperinflation and if and how Zimbabweans are using Bitcoin.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1aMOrtr1rN4?si=32Qlk0W8aigdWYgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/1aMOrtr1rN4?si=32Qlk0W8aigdWYgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

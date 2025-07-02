@@ -19,4 +19,4 @@ template: article
 
 In this interview, we discuss my mission to educate Bitcoin educators in emerging countries, the challenges Africans face using Bitcoin, and the numerous innovative Bitcoin initiatives happening in Africa.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wUMxd-C4CZk?si=Gpj6wXTc0xJgFvHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/wUMxd-C4CZk?si=Gpj6wXTc0xJgFvHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
