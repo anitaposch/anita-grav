@@ -15,7 +15,7 @@ template: article
 
 I was a guest on the Lunaticoin podcast talking about my journey from urban planner to Bitcoin educator and activist, focusing my work on countries like Zimbabwe and Zambia. We discuss Bitcoin's vital role in financial empowerment in the face of hyperinflation, the unique advantages of Bitcoin over stablecoins like USDTether, and the mission behind "Bitcoin for Fairness". 
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/financial-empowerment/embed/dark"></iframe>
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25744&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 ### How to listen to my podcast
 
