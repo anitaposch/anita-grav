@@ -1,17 +1,17 @@
 ---
-title: Anita Posch in conversation with Trevor Ncube on influential Zimbabwean channel
+title: Anita Posch in conversation with Trevor Ncube on influential Zimbabwean channel - Ep. 165
 taxonomy:
     tags: [Features, Blog, Bitcoin in Africa, On the Ground, Show]
 routes:
     default: '/conversation-with-trevor-ncube'
 date: 2022-10-31 11:40
 dateformat: 'Y-m-d H:i'
-summary: Trevor Ncube, a Zimbabwean media entrepreneur known all over Southern Africa, invited me to be a guest on his show \"In Conversation with Trevor\" to discuss Bitcoin.
+summary: Trevor Ncube, a Zimbabwean media entrepreneur known all over Southern Africa, invited me to be a guest on his show 'In Conversation with Trevor' to discuss Bitcoin.
 thumbnail: _221031-conversation-trevor-ncube-anita-posch.jpg
 template: article
 ---
 
-# Anita Posch in conversation with Trevor Ncube on influential Zimbabwean channel
+# Anita Posch in conversation with Trevor Ncube on influential Zimbabwean channel - Ep. 165
 
 Trevor Ncube, a Zimbabwean media entrepreneur influential and well respected throughout Southern Africa, invited me to be a guest on his show "In conversation with Trevor", an honor and pleasure for me.
 
