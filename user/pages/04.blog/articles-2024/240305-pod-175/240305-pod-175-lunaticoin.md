@@ -1,5 +1,5 @@
 ---
-title: "Podcast: Anita Posch about Financial Empowerment on Lunaticoin"
+title: Anita Posch about Financial Empowerment on Lunaticoin - Ep. 175
 taxonomy:
     tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin, Freedom Tech]
 routes:

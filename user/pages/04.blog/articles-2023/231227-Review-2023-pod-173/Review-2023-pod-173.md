@@ -1,5 +1,5 @@
 ---
-title: Bitcoin For Fairness Review 2023
+title: Bitcoin For Fairness Review 2023 - Ep. 173
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Show, Review]
 routes:
@@ -11,7 +11,7 @@ thumbnail: _Thumbnail-Bitcoin-Review-2023.jpeg
 template: article
 ---
 
-# Bitcoin For Fairness Review 2023
+# Bitcoin For Fairness Review 2023 - Ep. 173
 
 In this article, I'm going to take you through the biggest achievements of each month. We'll also look at my highlights, [personal learnings](#learning) and what I'm [aiming for in the next year](#goals). So, let's recap this amazing and impactful year.
 
