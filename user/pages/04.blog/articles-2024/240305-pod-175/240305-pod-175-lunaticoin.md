@@ -17,9 +17,9 @@ I was a guest on the Lunaticoin podcast talking about my journey from urban plan
 
 <iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/financial-empowerment/embed/dark"></iframe>
 
-## How to Listen to My Podcast
-This is a [Value4Value](https://value4value.info/) bitcoin enabled podcast. This means you can use a lightning wallet like Breez or the Fountain app and send some satoshis to me while listening to the episode. 
+### How to listen to my podcast
 
-Search for The Anita Posch Show inside your podcast app or add the RSS feed directly and subscribe to my show. The URL for the [RSS Feed](https://btcpodcasting.com/@anitaposch/feed.xml) is [https://btcpodcasting.com/@anitaposch/feed.xml](https://btcpodcasting.com/@anitaposch/feed.xml).
+This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 
+Listen on: [Apple Podcast](https://podcasts.apple.com/at/podcast/the-anita-posch-show-a-bitcoin-only-podcast/id1432576313) | [Spotify](https://open.spotify.com/show/0EJu3cMWF0AMxeO8NMH71z) | [YouTube](https://www.youtube.com/playlist?list=PL2zepPkogWotoUrb4T2XjLHa3SGHT5IX-) | [Pocket Casts](https://pca.st/YYPf) 
 

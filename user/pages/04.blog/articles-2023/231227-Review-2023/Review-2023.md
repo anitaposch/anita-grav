@@ -17,7 +17,7 @@ In this article, I'm going to take you through the biggest achievements of each 
 
 > This review is available as a podcast episode too. 
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px; overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/bff-review-2023/embed"></iframe>
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25742&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 
 ## Highlights of 2023

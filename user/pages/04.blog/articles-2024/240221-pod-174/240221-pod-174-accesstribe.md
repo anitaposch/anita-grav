@@ -19,13 +19,9 @@ This is an interview with me, Anita Posch from the Access Tribe podcast. During 
 
 Access Tribe will inspire, educate, and connect you with other women in the Bitcoin world, accelerating your learning journey and opening the door of opportunity.
 
+### How to listen to my podcast
 
-## How to Listen to My Podcast
-This is a [Value4Value](https://value4value.info/) bitcoin enabled podcast. This means you can use a lightning wallet like Breez on your phone and send some satoshis to me while listening to the episode. I’m adding images and links to the episode chapters, you can see them on [the Breez app](https://breez.technology/), too. It’s a podcast app and a non-custodial bitcoin wallet, with a lightning node running on your phone! (available for Android and iOS)
+This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 
-Search for The Anita Posch Show inside the podcast app or add the RSS feed directly and subscribe to my show. The URL for the [RSS Feed](https://btcpodcasting.com/@anitaposch/feed.xml) is [https://btcpodcasting.com/@anitaposch/feed.xml](https://btcpodcasting.com/@anitaposch/feed.xml).
-
----
-
-You like my work and efforts with [Bitcoin for Fairness](https://bffbtc.org/) to foster Bitcoin adoption on the ground in the Global South? It’s all community powered and funded by donations. Feel free to [support our campaign with a donation](https://geyser.fund/project/bff), send sats to our lightning address [bff@geyser.fund](bff@geyser.fund) or send fiat money on [Patreon](https://patreon.com/anitaposch).
+Listen on: [Apple Podcast](https://podcasts.apple.com/at/podcast/the-anita-posch-show-a-bitcoin-only-podcast/id1432576313) | [Spotify](https://open.spotify.com/show/0EJu3cMWF0AMxeO8NMH71z) | [YouTube](https://www.youtube.com/playlist?list=PL2zepPkogWotoUrb4T2XjLHa3SGHT5IX-) | [Pocket Casts](https://pca.st/YYPf) 
 
