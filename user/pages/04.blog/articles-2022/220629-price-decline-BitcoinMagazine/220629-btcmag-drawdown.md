@@ -23,7 +23,7 @@ Recently, one of my followers from Zambia asked, “Why has the price of bitcoin
 
 ## Why Did The Price Of Bitcoin Go Down 72% From The All-Time High?
 
-![](/bitcoin-drawdown-from-ath.jpg)
+![](bitcoin-drawdown-from-ath.jpg)
 
 As you can see in the graph above, the recent bitcoin price drawdown is not the first of its kind in the history of Bitcoin. It’s not unusual that the price reaches a low in between two halving events, when the amount of newly-minted bitcoin is split in half, which occurs every four years.
 
@@ -33,11 +33,11 @@ Bitcoin is a free market. The price of bitcoin is not centrally controlled. It�
 
 The below graph shows the price development of bitcoin on a logarithmic scale. At times of high price, many people and mainstream media outlets start to speak of bitcoin being in “a bubble.” When the price drops they say, “Bitcoin is dead.” As you can see, Bitcoin has survived more of these up and down phases in the last 13 years, while the price went up in general.
 
-![](/average-bitcoin-price-across-exchanges.png)
+![](average-bitcoin-price-across-exchanges.png)
 
 Below, you can see the same chart on a linear scale. The price is still on the level of its all-time high from 2017. I admit this doesn’t look good for new entrants. It’s bad for you if you obtained bitcoin the first time in late 2021, when the price was $60,000. But on the other hand, it’s a great opportunity to start using bitcoin now or to get more bitcoin to lower the price at which you bought it on average. Say you bought bitcoin at $60,000, if you have been holding it, you’ve lost 60% value on paper. If you get more bitcoin at $20,000, your entry price is $40,000, optimizing your investment and giving you the chance for higher profits, because Bitcoin will be stronger in a few months. It will rise from the dead as it has done many times before.
 
-![](/2_bitcoin-price.png)
+![](2_bitcoin-price.png)
 
 ## What’s The Upside Of The Current Bitcoin Price Drawdown?
 
@@ -59,11 +59,11 @@ While many individual bitcoin holders sold their coins in panic, institutions ar
 
 This ETF fund “has witnessed consistent inflows over the last 30 days, precisely since the day the crash began,” stated [AMB Crypto](https://ambcrypto.com/is-bitcoins-btc-consolidation-at-30k-setting-up-buying-opportunity/). “During these inflows, the total holdings of the ETF grew by 10,767 BTC and hit the ATH of 43,701 BTC ($1.3 billion).” [*Source*](https://ambcrypto.com/is-bitcoins-btc-consolidation-at-30k-setting-up-buying-opportunity/)
 
-![](/purpose-bitcoin-etf-holdings.png)
+![](purpose-bitcoin-etf-holdings.png)
 
 The Lightning Network, which enables the use of bitcoin for fast micropayments and opens the door for people with few financial means at their disposal, is getting stronger, too. Below you can see the red line is Lightning Network capacity, which indicates how many bitcoin are used within the network. It has been growing despite bitcoin’s price decrease.
 
-![](/bitcoin-lightning-network-capacity.png)
+![](bitcoin-lightning-network-capacity.png)
 
 Bitcoin’s utility is unbroken, it’s getting stronger with each new network participant, like Bitcoin Ekasi, a township with a circular Bitcoin economy in South Africa — [it’s running its own Bitcoin and Lightning full node now](https://bffbtc.org/lightning-node-south-africa/).
 
