@@ -7,7 +7,7 @@ routes:
 date: 2022-06-29 12:00
 dateformat: 'Y-m-d H:i'
 summary: Despite the cryptocurrency market decline, it’s clear that Bitcoin can’t be stopped.
-thumbnail: _F0016-BTCMagazine.png
+thumbnail: _f0016-btcmagazine.png
 template: article
 ---
 
