@@ -17,6 +17,6 @@ template: article
 
 The event was organised by Bitcoin Zambia and sponsored by Bitcoin for Fairness:
 
-[Slides to Download](../../assets/Resources-Devs-Meetup-Zambia-2025.pdf)
+[Slides to Download](/Resources-Devs-Meetup-Zambia-2025.pdf)
 
 ![](_Dev-Talk-Zambia.jpeg)
