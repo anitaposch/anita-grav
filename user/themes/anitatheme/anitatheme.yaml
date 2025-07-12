@@ -25,6 +25,8 @@ main_menu:
         url: '/category/tech-independence'
       - title: Bitcoin in Africa
         url: '/category/bitcoin-in-africa'
+      - title: By Year
+        url: '/category/by-year'
   - title: Speaking
     url: '#toplevel-links-do-not-work'
     children:
