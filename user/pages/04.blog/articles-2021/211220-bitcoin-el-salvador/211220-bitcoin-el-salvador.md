@@ -27,13 +27,13 @@ In November 2021 I visited El Salvador for three weeks to research the use of Bi
 
 ![Office of Bitcoin City SV in Sonzacate](_sonzocate-bitcoin-city-sv-office.jpg)
 
-![Map of local businesses accepting bitcoin](_Sonsonate-Bitcoin-City-SV-acceptance.jpg)
+![Map of local businesses accepting bitcoin](_sonsonate-bitcoin-city-sv-acceptance.jpg)
 
 Here are my experiences about adoption on the ground and my thoughts about El Salvador's future plans for Bitcoin City and the Bitcoin bonds, an announcement I was watching live at President Bukele's painfully overcrowded party on November 20, 2021.
 
 Bitcoin is for anyone. That's my most important argument for Bitcoin as a tool supporting the human right to transact in a free way (as in free speech) and enabling financial inclusion of billions of people. I'm aware of the fact, that countries which have nothing left to lose and might be "rogue" states (at least from our "western" point of view) and authoritarian leaders will be the first to adopt bitcoin on a national level. If done the right way, it will most likely give their population a huge economic and sovereign leap forward compared to nation states that are laggards. As such I think it's a bold move and a great chance for El Salvador to embrace Bitcoin.
 
-![Paying souvenirs with Lightning at Hope House](_Buying-Souvenirs-Hope-House.jpg)
+![Paying souvenirs with Lightning at Hope House](_buying-souvenirs-hope-house.jpg)
 
 Nonetheless, Bitcoin is neutral and non-political in its foundations and actors in the Bitcoin space should act in alignment. I think it's one thing for private companies to do business with governments, it's in fact the purpose of businesses to make deals. But it gets a different spin, when prominent members of the Bitcoin space share a stage with an egomaniac politician, who is acting like an [authoritarian leader, dismantling democratic foundations](https://www.hrw.org/world-report/2021/country-chapters/el-salvador) for the sake of himself, his power and his friends.
 
