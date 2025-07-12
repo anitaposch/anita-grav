@@ -21,4 +21,3 @@ While travelling Zimbabwe and Botswana for my podcast audio documentary in Febru
 <iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/0TwKdJIMBIs?si=8eibvpcGTfuHC32M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-![Bitcoin basics talk Anita Posch](_6-btc-basics-video-talk.jpg)
