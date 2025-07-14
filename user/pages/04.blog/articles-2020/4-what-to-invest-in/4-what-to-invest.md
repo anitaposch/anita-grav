@@ -1,5 +1,5 @@
 ---
-title: Differences between Bitcoin and Bitcoin Cash, Bitcoin SV and others?
+title: Differences between Bitcoin and Bitcoin Cash, Bitcoin SV and others? - Ep. 075
 taxonomy:
     tags: [Blog, Learn Bitcoin, Show]
 routes:
@@ -12,7 +12,7 @@ template: article
 ---
 
 
-# BCH, BSV, BTG, BTC, BTC2, BTCV...What are the Differences?
+# BCH, BSV, BTG, BTC, BTC2, BTCV...What are the Differences? - Ep. 075
 
 This is an article based on "The Context" episode 075 of the Anita Posch Show. 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25642&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
