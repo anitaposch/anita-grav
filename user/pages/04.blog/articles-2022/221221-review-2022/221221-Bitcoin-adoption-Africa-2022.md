@@ -1,5 +1,5 @@
 ---
-title: "Review 2022 - A Year In Grassroots Bitcoin Adoption For Africa"
+title: Review 2022 - A Year In Grassroots Bitcoin Adoption For Africa - Ep. 167
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Show, Review]
 routes:

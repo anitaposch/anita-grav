@@ -1,5 +1,5 @@
 ---
-title: "Podcast: Jörg Platzer Insights of the World's First Bitcoin Merchant"
+title: Jörg Platzer Insights of the World's First Bitcoin Merchant - Ep. 134
 taxonomy:
     tags: [Blog, Show]
 routes:
@@ -11,7 +11,7 @@ thumbnail: _211021-joerg-platzer-room77.jpeg
 template: article
 ---
 
-# Podcast: Jörg Platzer Insights of the World's First Bitcoin Merchant - Ep. 134
+# Jörg Platzer Insights of the World's First Bitcoin Merchant - Ep. 134
 
 Meet Jörg Platzer, co-founder of Room77 in Berlin, the very first bar in the world to accept bitcoin for beer and burgers in 2011. Bitcoiners from around the world met in the Room, and their discussions sparked dozens of projects and ideas. Jörg's stories and views about Bitcoin and privacy are refreshing and motivating, he says "The future of Bitcoin is so bright, we'll need sunglasses" and "Freedom of transaction is a meta human right."
 

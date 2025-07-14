@@ -1,5 +1,5 @@
 ---
-title: Advocating for Human Rights through Bitcoin - Anita Posch on Cryptopulse
+title: Advocating for Human Rights through Bitcoin - Anita Posch on Cryptopulse - Ep. 160
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa, Show, Human Rights]
 routes:
