@@ -11,6 +11,8 @@ thumbnail: podcast-017-andreas-antonopoulos-2019.jpg
 template: article 
 ---
 
+# Andreas M. Antonopoulos: Busting Arguments Against Bitcoin and Revealing Real Risks - Ep. 017
+
 In this podcast episode common misconceptions and **FUD about Bitcoin** like **high volatility**, **energy consumption**, inequalities in the **distribution of wealth** and the risk of **possible failure** are addressed by Andreas M. Antonopoulos. Andreas is one of the most influential and well-respected voices in the Bitcoin and Blockchain space. With four books, over 300 videos on YouTube and almost half a million followers on Twitter he is educating millions about this groundbreaking technology. I was lucky to get him for a second interview after this about [privacy, human rights and the future of Bitcoin in 2018](/podcast-andreas-antonopoulos-future). 
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25584&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
