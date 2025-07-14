@@ -3,13 +3,15 @@ title: Adam Back on the Magic of Cryptography and Why Bitcoin Matters - Ep. 012
 taxonomy:
     tags: [Show, Privacy, Learn Bitcoin, Cryptography]
 routes:
-    default: '/podcast-adam-back-whitepaper-hashcash'
+    default: '/adam-back-whitepaper-hashcash'
 date: 2019-04-11 10:00
 dateformat: 'Y-m-d H:i'
 summary: My guest is Adam Back, inventor of Hashcash, cited in the Bitcoin whitepaper, and CEO of Blockstream, discussing his contributions to cryptography and building future internet infrastructure.
-thumbnail: _podcast-012-Adam-Back.jpg
+thumbnail: podcast-012-Adam-Back.jpg
 template: article 
 ---
+
+# Adam Back on the Magic of Cryptography and Why Bitcoin Matters - Ep. 012
 
 Adam Back is the inventor of Hashcash, a method to prevent spam emails, that was used with minor changes as the proof-of-work method in Bitcoin. His work is cited in the Bitcoin whitepaper as well as in the Tor Browser whitepaper. He is a seasoned cryptographer with a PhD in computer science and distributed systems. As co-founder and CEO of Blockstream he is building the infrastructure for the internet of the future. 
 
