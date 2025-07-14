@@ -156,7 +156,5 @@ One thing we learned is that after all of the crypto scammers who have been hitt
 
 That’s why I’m going to build a community site with online courses and education around non-KYC bitcoin, privacy tools and, of course, self custody in 2023. At the same time, BFF’s goal is to find more volunteering translators for the Bitcoin flyer and to accompany Bitcoiners to develop their community podcasts and start earning bitcoin.
 
----
 
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
 
