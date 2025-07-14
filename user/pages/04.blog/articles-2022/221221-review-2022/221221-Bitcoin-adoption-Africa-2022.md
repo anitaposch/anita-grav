@@ -11,7 +11,7 @@ thumbnail: _221221-Bitcoin-adoption-Africa-2022-1671717345032.jpeg
 template: article
 ---
 
-# Review 2022 - A Year In Grassroots Bitcoin Adoption For Africa
+# Review 2022 - A Year In Grassroots Bitcoin Adoption For Africa - Ep. 167
 
 In early 2020, during my first visit in Zimbabwe, my assumption that Bitcoin is needed the most in the Global South was confirmed. I found a nation in distress about money, because of a kleptocratic ruling elite that had been defrauding and stealing from their people by [inflating the national currency for decades](https://anita.link/50). Despite this, corruption and military support allowed these leaders to stay at the top for over 40 years.
 
