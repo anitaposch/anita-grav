@@ -19,13 +19,13 @@ https://twitter.com/BitcoinEkasi/status/1539262556120010755
 
 Zambia has its first Raspiblitz now too. I'm looking forward to see them being connected with Bitcoin Ekasi and the rest of the network soon. It was also donated by my community! 
 
-![I brought the first Bitcoin and Lightning node to Zambia (at least I believe its the first)](_221008-Raspiblitz-Zambia.jpg)
+![I brought the first Bitcoin and Lightning node to Zambia (at least I believe its the first)](_221008-raspiblitz-zambia.jpg)
 
 Running your own node means one is validating not only transactions but also the rules of the network. One can say: "Your node, your rules" it's the top level in the staircase of financial sovereignty. Most people not even reach the level of "Your keys, your coins", where they custody their own seed phrase. Often it's lack of knowledge or lack of a secure device to store their keys, that's where Trezor comes in. The Czech company donated some Model One hardware wallets, which I gave to Zambian Bitcoiners.
 
-![The only copy of my book that I had on me went to Dabz with two Trezors.](_2022-10-05-Trezor-Zambia-1.jpg)
+![The only copy of my book that I had on me went to Dabz with two Trezors.](_2022-10-05-trezor-zambia-1.jpg)
 
-![Trezor hardware wallets for Zambia](_221008-Trezor-Zambia.jpg)
+![Trezor hardware wallets for Zambia](_221008-trezor-zambia.jpg)
 
 ---
 

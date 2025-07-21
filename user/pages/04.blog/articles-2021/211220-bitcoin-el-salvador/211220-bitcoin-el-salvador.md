@@ -43,7 +43,7 @@ I encourage you to read about the [human rights violations](https://www.hrw.org/
 
 One can view El Salvador's Bitcoin law from two perspectives: it's the first country in the world, that makes bitcoin legal tender or it's the first country in the world that forces its businesses to use bitcoin.
 
-![The president landing from outer space](_President-arrives.jpg)
+![The president landing from outer space](_president-arrives.jpg)
 
 The staging of the president's announcement of [Bitcoin City](https://www.theblockcrypto.com/post/125075/heres-how-el-salvadors-president-plans-to-use-bitcoin-bonds) - with himself coming from outer space with fireworks, reminding us of [Alexander the Great and Alexandria](https://www.reuters.com/markets/rates-bonds/el-salvador-plans-first-bitcoin-city-backed-by-bitcoin-bonds-2021-11-21/) - was cringe-worthy and shows how indulged in self-love he is. His only goal was to announce something bigger than the Bitcoin law. 
 
@@ -55,13 +55,13 @@ The way the Bitcoin bonds will work, was finally decided only a few minutes befo
 
 ![Harnessing hot water and steam from the volcano](_volcano-power.jpg)
 
-![La Geo, the geothermal power station, where the first Bitcoin miners operate](_La-Geo.jpg)
+![La Geo, the geothermal power station, where the first Bitcoin miners operate](_la-geo.jpg)
 
-![In November 2021 one container with 300 mining machines](_LaGeo-300-Miners-1MW.jpg)
+![In November 2021 one container with 300 mining machines](_lageo-300-miners-1mw.jpg)
 
 El Salvador needs more power plants and the Bitcoin bonds can be a good instrument to finance infrastructure. The EBB1 succeeding bond tranches will be used to build Bitcoin City. It is completely unclear how the plans for this look.
 
-![Presentation of the Bitcoin bonds](_Presentation-Bonds.jpg)
+![Presentation of the Bitcoin bonds](_presentation-bonds.jpg)
 
 In the best case, the money is used to build infrastructure throughout the country, spent on education, health services and the common good, lifting up the living standard for every El Salvadoran. In the worst case, the Bitcoin bonds are a way for President Bukele, his brothers and his Venezulean shadow government to defraud Bitcoiners, who believe in his good intentions.
 
@@ -85,7 +85,7 @@ There is no public information about who the developers and companies behind the
 
 "Silvergate Bank, a California state-chartered commercial bank and a United States Federal Reserve member, will work with Bitso to facilitate U.S. dollar transactions for the Chivo wallet. Athena Bitcoin will provide some front-end services and Chivo’s ATM-related operations, while Algorand will act as the official blockchain provider.", [Cointelegraph](https://cointelegraph.com/news/bitso-to-assist-the-launch-of-el-salvador-s-official-bitcoin-wallet-chivo) was reporting.
 
-![Infrastructure Chivo wallet integration, leaked document, August 2021, Source: El Tapudo](_BTC-Implementation-El-Salvador-August.jpg)
+![Infrastructure Chivo wallet integration, leaked document, August 2021, Source: El Tapudo](_btc-implementation-el-salvador-august.jpg)
 
 According to conversations I had and media articles the [keys for El Salvador's bitcoin are in the hands of a U.S.-American company: BitGo](https://www.forbes.com/sites/jonathanponciano/2021/09/07/el-salvador-taps-billionaire-backed-bitcoin-unicorn-in-the-cryptocurrencys-historic-legal-tender-debut/). The government only has a contract with BitGo, but not full custody over the public bitcoin funds. This contract can easily be broken as soon as international organizations and the U.S.-government force BitGo to cut off El Salvador's access to its custodial cold storage.
 
@@ -111,7 +111,7 @@ For weeks there have been complaints around Chivo, the #TimoWallet as locals cal
 
 Why does Chivo have so many problems? Of course it's a big project and they only had 3 months time to set it up, but now it's December 6 months have gone by and still there are so many serious flaws. Is this an attack on Bitcoin? Do the altcoin project managers want it to fail? I don't know. I just find it weird. After finishing this article I heard that some of the [problems with Chivo were solved](https://twitter.com/JaimeWGarcia/status/1471694256771416066?s=20) in a software update. Still, its custodial, centralized and the code is running on Amazon Web Services in the U.S..
 
-![](Chivo-AWS.png) [Source:](https://twitter.com/lcisco10/status/1471140409183252480?s=20)
+![](chivo-aws.png) [Source:](https://twitter.com/lcisco10/status/1471140409183252480?s=20)
 
 It has been said that [in El Salvador more people have Bitcoin wallets than traditional bank accounts](https://www.forbes.com/sites/theapothecary/2021/10/07/in-el-salvador-more-people-have-bitcoin-wallets-than-traditional-bank-accounts). This sounds right, given the fact that "Chivo had negotiated with the largest gas stations in the country to reduce the price of gasoline by 20 cents per gallon for those who pay through the app. That’s on top of the $30 in seed money that the government has deposited in every Salvadoran’s Chivo account", only possible with registration and ID, which is opposite to the openness that Bitcoin promises. That's why 46 percent of the population downloaded the custodial, governmental app, while only [29 percent had bank accounts](https://www.forbes.com/sites/theapothecary/2021/10/07/in-el-salvador-more-people-have-bitcoin-wallets-than-traditional-bank-accounts/) in 2017.
 
@@ -119,13 +119,13 @@ It has been said that [in El Salvador more people have Bitcoin wallets than trad
 
 The owner of one of the hotels I stayed in El Zonte, told me that most people, spent or exchanged the $30 in bitcoin they received to USD. The inhabitants of El Zonte, who have been accepting bitcoin payments since the lockdown in 2020, visit the Bitcoin Beach Hope House at the end of each month to exchange their BTC to USD. I'd love to see more education on the ground, more emphasis put into the understanding and usage of an open, neutral money. Sadly I heard from an official that there will be no education about Bitcoin from the government. 
 
-![Assisting the receiving of a Lightning payment](_Sonzocate-Pupusas.jpg)
+![Assisting the receiving of a Lightning payment](_sonzocate-pupusas.jpg)
 
 The good thing about that is, that Salvadorans have to look elsewhere for information, which gives us the opportunity to share free education about self-sovereignty and how to achieve it through self-custody. The bad thing is: the people of El Salvador can be hurt pretty badly and the experience with the Chivo wallet may turn people against Bitcoin, because they think Bitcoin isn't working not the Algorand wallet.
 
 My hope is that the Salvadorans, who already are using not only the Chivo wallet, but also non-custodial, open-source wallets now have the opportunity to free themselves from the politicized U.S. Dollar. If they use bitcoin for remittances, accept it from tourists, are able to save a little bit and hold their keys long enough they will be much better off in three to five years. Then they will share their positive experiences with friends and families and kick-off peer-to-peer adoption.
 
-![Pupuseria accepting bitcoin in "Urbanizacion El Sauce"](_Sonzocate-Bitcoin-City-SV.jpg)
+![Pupuseria accepting bitcoin in "Urbanizacion El Sauce"](_sonzocate-bitcoin-city-sv.jpg)
 
 The good news is: I met locals, who are really interested in learning more about Bitcoin and self-custody. A policeman to whom I gifted my book and two taxi drivers were very receptive to my explanations for downloading the Muun wallet and the sovereignty associated with self-ownership.
 
@@ -133,10 +133,10 @@ The good news is: I met locals, who are really interested in learning more about
 
 Also the 30 books I donated to Bitcoin Beach (supported by [Bitcoin Austria](https://twitter.com/bitcoin_at) and [Sovryn](https://twitter.com/SovrynBTC)) will be put to good use to educate the locals.
 
-![Delivering 30 (L)earn Bitcoin books in Spanish to Hope House.](_Book-donation-Hope-House.jpg)
+![Delivering 30 (L)earn Bitcoin books in Spanish to Hope House.](_book-donation-hope-house.jpg)
 
 Community based education is a far more sustainable way of adoption than gifting airdrops, forcing people to use a new form of money they know nothing about. This could lead to people being turned away in disappointment. We don't need banks and bankers, we don't need governments with their excessive regulations and custodial solutions that exclude billions of people. Bitcoin stands on its own and individuals and communities can and should take advantage to opt-out of the traditional financial system.
 
-![Our Uber driver after we helped him to install the Muun wallet.](_Uber-Driver-new-wallet.jpg)
+![Our Uber driver after we helped him to install the Muun wallet.](_uber-driver-new-wallet.jpg)
 
 Let's hope for the best. The good thing is: Bitcoin doesn't care. The network can't be manipulated and is unstoppable - tik-tok - next block. 

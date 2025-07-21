@@ -15,7 +15,7 @@ template: article
 
 Millions of people in Africa are using mobile money on their feature phones without the need for internet access. Up until now, they had no possibility to send and receive bitcoin. Now a service named Machankura8333 makes it possible to send and receive lightning bitcoin in Ghana, Kenya, Namibia, Nigeria, Malawi, South Africa, Tanzania, Uganda, Zambia on any mobile phone without internet. 
 
-![](_2022-10-04-Machankura.JPG)
+![](_2022-10-04-machankura.jpg)
 
 The service is using USSD code, just like M-Pesa or EcoCash do. USSD stands for Unstructured Supplementary Service Data. USSD messages create a real-time connection during a USSD session. The connection remains open, allowing a two-way exchange of a sequence of data. Meaning you see a menu dialog where you can choose options by dialing codes on the phone. It works just like text messages without the need for an internet connection.
 

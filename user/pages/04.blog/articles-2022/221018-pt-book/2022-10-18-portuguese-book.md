@@ -15,5 +15,5 @@ template: article
 
 Thanks to Caroline Souza from "Area Bitcoin" my Bitcoin book is available in Brazilian Portuguese now. You can get the [paperback](https://geni.us/learnbitcoin-pt) and [ebook](https://geni.us/learnbitcoin-pt-e) on Amazon.
 
-![(L)earn Bitcoin book is available in Portuguese (Brazil)](_Aprenda-Bitcoin-2022.png)
+![(L)earn Bitcoin book is available in Portuguese (Brazil)](_aprenda-bitcoin-2022.png)
 

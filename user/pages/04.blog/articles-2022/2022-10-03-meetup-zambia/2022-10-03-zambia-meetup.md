@@ -13,7 +13,7 @@ template: article
 
 # Bitcoin Meetup in Zambia
 
-![](_2022-10-03-Meetup.jpg)
+![](_2022-10-03-meetup.jpg)
 
 We met at Scallywags a cafe that is accepting Bitcoin. After a brief introduction every attendant shared why they are interested in Bitcoin and what their professional background is. Then we discussed the importance of self-custody versus leaving your bitcoin on exchanges. I spoke about the possibilities to earn bitcoin (as [mentioned in my Unza presentation](/bitcoin-unza)) and then we tried several services to buy bitcoin and to spend it for airtime. 
 
@@ -25,27 +25,27 @@ We demonstrated how
 * to send Lightning Bitcoin from Machankura8333 to a Lightning address
 * to setup and use a Lightning address
 
-![](_2022-10-03-Meetup-02.jpg)
+![](_2022-10-03-meetup-02.jpg)
 
-![](_2022-10-03-meetup-zambia1-1.JPG)
+![](_2022-10-03-meetup-zambia1-1.jpg)
 
-![](_2022-10-03-meetup-Zambia-4.JPG)
+![](_2022-10-03-meetup-zambia-4.jpg)
 
-![](_2022-10-03-meetup-Zambia-5.JPG)
+![](_2022-10-03-meetup-zambia-5.jpg)
 
-![](_2022-10-03-meetup-Zambia-6.JPG)
+![](_2022-10-03-meetup-zambia-6.jpg)
 
-![](_2022-10-03-meetup-zambia1-2.JPG)
+![](_2022-10-03-meetup-zambia1-2.jpg)
 
-![](_2022-10-03-meetup-Zambia-1.JPG)
+![](_2022-10-03-meetup-zambia-1.jpg)
 
-![](_2022-10-03-meetup-Zambia-2.JPG)
+![](_2022-10-03-meetup-zambia-2.jpg)
 
-![](_2022-10-03-meetup-Zambia-3.JPG)
+![](_2022-10-03-meetup-zambia-3.jpg)
 
-![](_2022-10-03-meetup-zambia1-3.JPG)
+![](_2022-10-03-meetup-zambia1-3.jpg)
 
-![](_2022-10-03-meetup-zambia1-4.JPG)
+![](_2022-10-03-meetup-zambia1-4.jpg)
 
 ---
 

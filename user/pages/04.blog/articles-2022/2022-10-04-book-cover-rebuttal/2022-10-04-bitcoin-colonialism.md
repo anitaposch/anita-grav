@@ -34,13 +34,13 @@ In May 2022 I visited Bitcoin Ekasi, a community project in a township in Mossel
 
 <small>[Source](https://twitter.com/BitcoinEkasi/status/1565590098191720448)</small>
 
-![Luthando with the Lighting Node that was donated through BFF](_2022-10-04-Ekasi-node.png)
+![Luthando with the Lighting Node that was donated through BFF](_2022-10-04-ekasi-node.png)
 
 Bitcoin Ekasi is a voluntary grassroots project and is using the logo with the black fist created by @level39 for their project. In the spirit of the Bitcoin logo, @level39 donated the raised fist logo to the public domain. The logo is [prominently displayed](https://twitter.com/search?q=from%3Abitcoinekasi&src=typed_query&f=image) in shops and on signs throughout the community. Since I was so impressed by their work and I am a firm believer that Bitcoin is a tool to empower people I asked them if I'm allowed to use the logo on my book. 
 
 <small>[Source](https://twitter.com/BitcoinEkasi/status/1572697386723561472)</small>
 
-![I work with Bitcoin Ekasi](_2022-10-04-Ekasi.png)
+![I work with Bitcoin Ekasi](_2022-10-04-ekasi.png)
 
 The raised fist is a global symbol of revolution, [fighting oppression](https://www.nationalgeographic.com/history/article/history-of-raised-fist-global-symbol-fighting-oppression) and solidarity that traces its roots back to at least the Western labor movement of the early 20th century. It represents [unity and solidarity with oppressed peoples]([https://en.wikipedia.org/wiki/Raised_fist](https://en.wikipedia.org/wiki/Raised_fist)). Gold medalist Tommie Smith and bronze medalist John Carlos famously held black raised fists on the podium after the 200 m race at the 1968 Summer Olympics — to protest racism and injustice against African-Americans in the United States. The clenched raised fist has a particularly important meaning in Africa. Nelson Mandela used it as a salute upon his release from Victor Verster Prison in 1990. The pose has since been [immortalized in a statue at the South African Embassy in Washington, D.C.](https://www.washingtonpost.com/local/statue-of-mandela-unveiled-at-south-african-embassy/2013/09/21/df42c014-231f-11e3-b73c-aab60bf735d0_story.html), honoring his legacy.
 
