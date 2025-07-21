@@ -7,7 +7,7 @@ routes:
 date: 2022-10-09 13:55
 dateformat: 'Y-m-d H:i'
 summary: "Africans in 9 countries can send and receive bitcoin without internet now. The service works on any mobile phone and uses USSD code. Millions of Africans are used to it, because it's the way how mobile money works. Here is a demonstration."
-thumbnail: _2022-10-04-Machankura.jpg
+thumbnail: _2022-10-04-machankura.jpg
 template: article
 ---
 

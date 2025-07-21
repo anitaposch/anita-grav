@@ -7,7 +7,7 @@ routes:
 date: 2022-10-17 14:40
 dateformat: 'Y-m-d H:i'
 summary: During my Bitcoin for Fairness tour in Zambia I was on KBN TV talking about Bitcoin mining and scams.
-thumbnail: _221017-KBN.png
+thumbnail: _221017-kbn.png
 template: article
 ---
 

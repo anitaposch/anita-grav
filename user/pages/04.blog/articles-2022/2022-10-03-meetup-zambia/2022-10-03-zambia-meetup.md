@@ -7,7 +7,7 @@ routes:
 date: 2022-10-03 23:55
 dateformat: 'Y-m-d H:i'
 summary: Together with my BFF friends in Lusaka I was organizing the third Zambian Bitcoin for Fairness meetup. Here is what happened including pictures.
-thumbnail: _2022-10-03-Meetup.jpg
+thumbnail: _2022-10-03-meetup.jpg
 template: article
 ---
 

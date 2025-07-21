@@ -124,44 +124,27 @@
                             <div class="pl-4 py-2 hover:bg-gray-50 transition-colors flex items-start space-x-4">
                                 <!-- Thumbnail -->
                                 {% if article.article.header.thumbnail %}
-                                    {% set thumbnail_found = false %}
-                                    {% set thumbnail_url = '' %}
-
-                                    <!-- Clean the thumbnail filename: remove leading slash, convert to lowercase -->
-                                    {% set thumbnail_clean = article.article.header.thumbnail %}
-                                    {% if thumbnail_clean starts with '/' %}
-                                        {% set thumbnail_clean = thumbnail_clean|slice(1) %}
-                                    {% endif %}
-                                    {% set thumbnail_clean = thumbnail_clean|lower %}
-
-                                    <!-- Try standard Grav media approach first with cleaned filename -->
-                                    {% if article.article.media[thumbnail_clean] %}
-                                        {% set thumbnail_url = article.article.media[thumbnail_clean].url %}
-                                        {% set thumbnail_found = true %}
-                                    {% elseif article.article.media[article.article.header.thumbnail|lower] %}
-                                        <!-- Try lowercase original -->
-                                        {% set thumbnail_url = article.article.media[article.article.header.thumbnail|lower].url %}
-                                        {% set thumbnail_found = true %}
-                                    {% elseif article.article.media[article.article.header.thumbnail] %}
-                                        <!-- Fallback to exact original -->
-                                        {% set thumbnail_url = article.article.media[article.article.header.thumbnail].url %}
-                                        {% set thumbnail_found = true %}
+                                    {% set thumbnail = article.article.media[article.article.header.thumbnail] %}
+                                    {% if thumbnail %}
+                                        {% set thumbnail_url = thumbnail.url %}
+                                        {% if article.article.header.routes.default %}
+                                            <a href="{{ article.article.header.routes.default }}"
+                                               class="block w-24 h-16 md:w-40 md:h-24  rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                                <img src="{{ thumbnail_url }}" alt="{{ article.article.title }}" class="w-full h-full object-cover">
+                                            </a>
+                                        {% else %}
+                                            <a href="{{ article.article.url }}"
+                                               class="block w-24 h-16 md:w-40 md:h-24  rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
+                                                <img src="{{ thumbnail_url }}" alt="{{ article.article.title }}" class="w-full h-full object-cover">
+                                            </a>
+                                        {% endif %}
                                     {% else %}
-                                        <!-- Use cleaned filename in path construction -->
-                                        {% set thumbnail_url = article.article.path ~ '/' ~ thumbnail_clean %}
-                                        {% set thumbnail_found = true %}
-                                    {% endif %}
-
-                                    {% if article.article.header.routes.default %}
-                                        <a href="{{ article.article.header.routes.default }}"
-                                           class="block w-24 h-16 md:w-40 md:h-24  rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
-                                            <img src="{{ thumbnail_url }}" alt="{{ article.article.title }}" class="w-full h-full object-cover">
-                                        </a>
-                                    {% else %}
-                                        <a href="{{ article.article.url }}"
-                                           class="block w-24 h-16 md:w-40 md:h-24  rounded-lg overflow-hidden bg-gray-100 flex-shrink-0">
-                                            <img src="{{ thumbnail_url }}" alt="{{ article.article.title }}" class="w-full h-full object-cover">
-                                        </a>
+                                        <!-- Placeholder if thumbnail is in frontmatter but file is missing -->
+                                        <div class="w-24 h-16 md:w-40 md:h-24  rounded-lg bg-gray-200 flex items-center justify-center flex-shrink-0">
+                                            <svg class="w-6 h-6 md:w-8 md:h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                            </svg>
+                                        </div>
                                     {% endif %}
                                 {% else %}
                                     <!-- Placeholder when no thumbnail -->

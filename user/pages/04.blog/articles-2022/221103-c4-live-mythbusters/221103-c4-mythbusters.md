@@ -7,7 +7,7 @@ routes:
 date: 2022-11-03 20:40
 dateformat: 'Y-m-d H:i'
 summary: "As a member of C4's Certified Bitcoin Professional Committee I was part of a live streaming together with special guest Jameson Lopp where we busted myths around Bitcoin."
-thumbnail: _221103-C4-mythbusters.jpeg
+thumbnail: _221103-c4-mythbusters.jpeg
 template: article
 ---
 

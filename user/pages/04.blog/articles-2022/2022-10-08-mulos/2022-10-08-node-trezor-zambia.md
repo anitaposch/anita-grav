@@ -7,7 +7,7 @@ routes:
 date: 2022-10-10 13:55
 dateformat: 'Y-m-d H:i'
 summary: I brought a Raspiblitz donated by the Bitcoin for Fairness community and some hardware wallets donated by Trezor to Zambia.
-thumbnail: _221008-Trezor-Zambia.jpg
+thumbnail: _221008-trezor-zambia.jpg
 template: article
 ---
 

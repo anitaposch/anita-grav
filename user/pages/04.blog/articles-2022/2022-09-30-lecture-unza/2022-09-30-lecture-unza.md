@@ -7,7 +7,7 @@ routes:
 date: 2022-10-03 12:00
 dateformat: 'Y-m-d H:i'
 summary: Anita Posch gave a Bitcoin lecture at the University of Zambia in front of 30 students. Here you can find the video and the presentation of the talk.
-thumbnail: _2022-09-30-Unza-1.JPG.jpg
+thumbnail: _2022-09-30-unza-1.jpg
 template: article
 ---
 

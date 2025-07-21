@@ -7,7 +7,7 @@ routes:
 date: 2022-11-15 12:30
 dateformat: 'Y-m-d H:i'
 summary: "A word of warning! After the recent crypto frauds I find it important to explain that Bitcoin.com doesn't represent the ideas of Bitcoin BTC. Now Bitcoin.com started selling their own token called \"Verse\" to the public."
-thumbnail: _Verse-Token.png
+thumbnail: _verse-token.png
 template: article
 ---
 
