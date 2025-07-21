@@ -40,7 +40,9 @@ Thamzin was asking where he should invest, because trading is killing him. I und
 <blockquote class="twitter-tweet">
 <p dir="ltr" lang="en">This is why I always say to newbies: do not trade... <a href="https://t.co/NHiuMY0sdp">https://t.co/NHiuMY0sdp</a></p>
 — Anita ✊🏼🎤🏳️‍🌈⚡️🔑🏊🏻🚴‍♂️⚖️☮️😷 (@AnitaPosch) <a href="https://twitter.com/AnitaPosch/status/1299991255515123712?ref_src=twsrc%5Etfw">August 30, 2020</a></blockquote>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 By the way I find it unethical to call such copies of the Bitcoin Core Software also Bitcoin. It is open source software yes, you can do it, yes, nobody is going to sue you, yes, but it's not ethical. For me it is like stealing somebody elses idea and then deliberately confusing newbies to buy into it.
 

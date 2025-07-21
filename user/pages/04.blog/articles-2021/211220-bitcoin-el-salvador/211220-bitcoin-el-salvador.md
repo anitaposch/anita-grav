@@ -89,7 +89,9 @@ There is no public information about who the developers and companies behind the
 
 According to conversations I had and media articles the [keys for El Salvador's bitcoin are in the hands of a U.S.-American company: BitGo](https://www.forbes.com/sites/jonathanponciano/2021/09/07/el-salvador-taps-billionaire-backed-bitcoin-unicorn-in-the-cryptocurrencys-historic-legal-tender-debut/). The government only has a contract with BitGo, but not full custody over the public bitcoin funds. This contract can easily be broken as soon as international organizations and the U.S.-government force BitGo to cut off El Salvador's access to its custodial cold storage.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve also read many interviews, never debunked so far, where Mike Belshe were explaining that BitGo actually created the infrastructure. Also, some account mention Cardano instead of Algorand as the involved shitcoin! What a weird mess.</p>&mdash; Giacomo Zucco (Toximus Decimus Meridius) (@giacomozucco) <a href="https://twitter.com/giacomozucco/status/1471102136998154244?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve also read many interviews, never debunked so far, where Mike Belshe were explaining that BitGo actually created the infrastructure. Also, some account mention Cardano instead of Algorand as the involved shitcoin! What a weird mess.</p>&mdash; Giacomo Zucco (Toximus Decimus Meridius) (@giacomozucco) <a href="https://twitter.com/giacomozucco/status/1471102136998154244?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Algorand founder Silvio Micali says "[Bitcoin is a recipe for disaster](https://elpais.com/retina/2018/06/25/tendencias/1529916635_610100.html)", "[with Bitcoin you can only do speculation](https://www.eldestapeweb.com/economia/criptomonedas/silvio-micali-coinventor-de-la-criptografia-moderna-con-bitcoin-solo-se-puede-hacer-especulacion--2021121110580)" and he assures, that the Algorand blockchain "[solves scalability, security and energy efficiency problems that Bitcoin has](https://www.eldestapeweb.com/economia/criptomonedas/silvio-micali-coinventor-de-la-criptografia-moderna-con-bitcoin-solo-se-puede-hacer-especulacion--2021121110580)". The usual altcoiner arguments to frame Bitcoin as "old" technology and the need for something faster and shinier.
 
@@ -103,7 +105,9 @@ For weeks there have been complaints around Chivo, the #TimoWallet as locals cal
 
 ![](complaint-16000-missing.png) [Source:](https://twitter.com/designvbt/status/1470222762824421378?s=20)
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hilo con algunos afectados por la Chivo Gualet.<br><br>1- $16,000 <a href="https://t.co/EC3hehXKDz">pic.twitter.com/EC3hehXKDz</a></p>&mdash; El Comisionado (@_elcomisionado_) <a href="https://twitter.com/_elcomisionado_/status/1472326380620632064?ref_src=twsrc%5Etfw">December 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hilo con algunos afectados por la Chivo Gualet.<br><br>1- $16,000 <a href="https://t.co/EC3hehXKDz">pic.twitter.com/EC3hehXKDz</a></p>&mdash; El Comisionado (@_elcomisionado_) <a href="https://twitter.com/_elcomisionado_/status/1472326380620632064?ref_src=twsrc%5Etfw">December 18, 2021</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Why does Chivo have so many problems? Of course it's a big project and they only had 3 months time to set it up, but now it's December 6 months have gone by and still there are so many serious flaws. Is this an attack on Bitcoin? Do the altcoin project managers want it to fail? I don't know. I just find it weird. After finishing this article I heard that some of the [problems with Chivo were solved](https://twitter.com/JaimeWGarcia/status/1471694256771416066?s=20) in a software update. Still, its custodial, centralized and the code is running on Amazon Web Services in the U.S..
 
