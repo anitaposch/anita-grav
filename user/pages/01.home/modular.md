@@ -4,7 +4,7 @@ menu: Home
 onpage_menu: true
 header_class: headerclassx
 metadata:
-  description: "Anita Posch's work focuses on how Bitcoin and decentralized technology provide financial freedom, privacy and human rights protection for those who need it most. She is an author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa."
+  description: "Anita Posch focuses on how Bitcoin and decentralized technology provide financial freedom, privacy and human rights protection for those who need it most. She is an author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa."
   keywords: "Bitcoin, Africa, Anita Posch, Bitcoin for Fairness, Freedom Tech"
   'og:title': 'Anita Posch'
   'og:description': 'anitaposch.com'
