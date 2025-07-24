@@ -11,7 +11,7 @@ metadata:
   'og:image': '/user/pages/01.home/_hero.jpg'
   'og:url': 'https://anitaposch.com'
   'og:type': 'website'
-  'og:site_name': 'Website Anita Posch'
+  'og:site_name': 'Anita Posch'
     
 content:
     items: "@self.modular"
