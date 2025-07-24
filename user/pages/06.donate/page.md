@@ -12,7 +12,7 @@ Anita Posch puts a lot of effort and work in to my goal to share Bitcoin knowled
 
 Join Anita's community and learn more about Bitcoin in our [membership program](https://my.cracktheorange.com/memberships/) and [course](https://my.cracktheorange.com/learn-bitcoin-course/).
 
-## Donate bitcoin to BFF based in Zambia
+## Donate Bitcoin to BFF Based in Zambia
 
 All work with BFF is donation based. Donations will be used in a variety of ways including:
 
@@ -21,7 +21,7 @@ All work with BFF is donation based. Donations will be used in a variety of ways
 - To contribute to open source Bitcoin projects that support the community
 - To give bitcoin to new users, helping them experience the currency
 
-> Please [**click here to donate directly** on the Bitcoin for Fairness website](https://bffbtc.org/donate).
+> Please [**click here to donate** for Bitcoin for Fairness](https://bffbtc.org/donate).
 
 Donations in **BTC** are **not tax deductible** and go directly to BFF Zambia. 
 
