@@ -1,5 +1,5 @@
 ---
-title: "Anita Posch Website"
+title: "Anita Posch"
 menu: Home
 onpage_menu: true
 header_class: headerclassx
