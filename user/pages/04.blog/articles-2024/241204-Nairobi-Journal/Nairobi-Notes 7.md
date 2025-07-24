@@ -4,7 +4,7 @@ taxonomy:
     tags: [Blog, Bitcoin in Africa, On the Ground]
 routes:
     default: '/nairobi-journal-241204'
-date: 2025-02-08 11:00
+date: 2024-12-04 11:00
 dateformat: 'Y-m-d H:i'
 summary: A trip to Nairobi - Dec 4, 2024
 thumbnail: _Nairobi-Journal.jpg
