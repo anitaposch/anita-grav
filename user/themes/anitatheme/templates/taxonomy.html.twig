@@ -1,4 +1,42 @@
 {% extends 'partials/base.html.twig' %}
+{% set path_segments = uri.paths() %}
+{% set current_category = '' %}
+
+{% if path_segments[0] == 'category' and path_segments[1] is defined %}
+    {% set current_category = path_segments[1] %}
+{% endif %}
+
+{% if current_category %}
+    {% set meta_description = "Anita Posch's articles about " ~ current_category|title|replace({'-': ' '}) %}
+    {% set meta_title = 'Category: ' ~ current_category|title|replace({'-': ' '}) %}
+    {% set canonical_url = base_url_absolute ~ '/category/' ~ current_category %}
+{% else %}
+    {# Fallback for the main /category page #}
+    {% set meta_description = page.header.summary %}
+    {% set meta_title = page.header.title %}
+    {% set canonical_url = page.canonical(true) %}
+{% endif %}
+
+{% block title %}
+  <title>{{ meta_title|e }} | {{ site.title|e }}</title>
+{% endblock %}
+
+{% block metadata %}
+    <meta name="description" content="{{ meta_description|e }}" />
+    <meta name="generator" content="{{ site.title|e }}" />
+    <meta name="author" content="{{ site.author.name|e }}" />
+    <meta property="og:title" content="{{ meta_title|e }}" />
+    <meta property="og:url" content="{{ canonical_url|e }}" />
+    <meta property="og:description" content="{{ meta_description|e }}" />
+    {% if page.header.thumbnail %}
+        <meta property="og:image" content="{{ url(page.header.thumbnail, true)|e }}" />
+    {% endif %}
+    
+{% endblock %}
+
+{% block canonical %}
+    <link rel="canonical" href="{{ canonical_url|e }}" />
+{% endblock %}
 
 {% block content %}
     <div class="max-w-4xl mx-auto px-4 py-8">

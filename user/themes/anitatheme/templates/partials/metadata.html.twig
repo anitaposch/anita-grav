@@ -7,6 +7,9 @@
     <meta name="generator" content="{{ site.title|e }}" />
     <meta name="author" content="{{ site.author.name|e }}" />
     <meta property="og:title" content="{{ header.title|e }}" />
+    <meta name="og:description" content="{{ header.summary|e }}" />
     <meta property="og:url" content="{{ page.canonical(true)|e }}" />
-    <meta property="og:image" content="{{ header.thumbnail }}" />
+    {% if page.header.thumbnail %}
+        <meta property="og:image" content="{{ header.thumbnail }}" />
+    {% endif %}
 {% endif %}
