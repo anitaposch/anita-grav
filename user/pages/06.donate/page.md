@@ -4,7 +4,7 @@ thumbnail: _Anita-Profile-small.jpg
 keywords: "Support, Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
 ---
 
-# Ways to Support Anita Posch and Bitcoin for Fairness
+# Ways to Support Bitcoin Education
 
 Anita Posch puts a lot of effort and work in to my goal to share Bitcoin knowledge with as many people as possible especially in emerging countries. Please consider becoming a member of Crack the Orange to support her work, Bitcoin for Fairness accepts gifts in bitcoin.
 
