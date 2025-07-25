@@ -68,10 +68,24 @@
         {% if blog_page %}
             {% for year_folder in blog_page.children() %}
                 {% for article in year_folder.children() %}
-                    {% set all_articles = all_articles|merge([article]) %}
+                    {% if not (article.header.published is defined and article.header.published == false) %}
+                        {% set all_articles = all_articles|merge([article]) %}
+                    {% endif %}
                 {% endfor %}
             {% endfor %}
         {% endif %}
+
+        <!-- Collect all unique tags from published articles -->
+        {% set all_tags = [] %}
+        {% for article in all_articles %}
+            {% if article.taxonomy.tags %}
+                {% for tag in article.taxonomy.tags %}
+                    {% if tag not in all_tags %}
+                        {% set all_tags = all_tags|merge([tag]) %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
 
         <!-- Filter articles by current tag -->
         {% set tagged_articles = [] %}
@@ -239,24 +253,13 @@
         <div class="mt-12 pt-8 border-t border-gray-200">
             <h3 class="text-lg font-semibold mb-4">Browse other categories</h3>
 
-            <!-- Collect all unique tags -->
-            {% set all_tags = [] %}
-            {% for article in all_articles %}
-                {% if article.taxonomy.tags %}
-                    {% for tag in article.taxonomy.tags %}
-                        {% if tag not in all_tags %}
-                            {% set all_tags = all_tags|merge([tag]) %}
-                        {% endif %}
-                    {% endfor %}
-                {% endif %}
-            {% endfor %}
-
             {% if all_tags|length > 0 %}
                 <div class="flex flex-wrap gap-2">
                     {% for tag in all_tags|sort %}
                         {% set tag_slug = tag|lower|replace({' ': '-'}) %}
                         <a href="/category/{{ tag_slug }}"
-                           class="px-3 py-1 {% if tag|lower == current_tag|lower or tag_slug == current_tag|lower %}bg-blue-500 text-white{% else %}bg-blue-100 text-blue-700 hover:bg-blue-200{% endif %} text-sm rounded-full transition-colors">
+                           class="px-3 py-1 text-sm rounded-full transition-colors 
+                                  {% if tag_slug == current_tag %} bg-primary text-white {% else %} bg-blue-100 text-blue-700 hover:bg-blue-200 {% endif %}">
                             {{ tag }}
                         </a>
                     {% endfor %}
