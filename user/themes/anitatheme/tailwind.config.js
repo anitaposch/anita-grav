@@ -21,6 +21,14 @@ module.exports = {
           css: {
             'blockquote p:first-of-type::before': { content: 'none' },
             'blockquote p:first-of-type::after': { content: 'none' },
+            'a': {
+              color: '#3b82f6', // blue-500
+              fontWeight: '600',
+              textDecoration: 'none',
+              '&:hover': {
+                color: '#60a5fa', // blue-400
+              },
+            },
           },
         },
       },

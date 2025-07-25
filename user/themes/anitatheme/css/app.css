@@ -788,9 +788,12 @@ select {
   margin-bottom: 1.2em;
 }
 .prose :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
-  color: var(--tw-prose-links);
-  text-decoration: underline;
-  font-weight: 500;
+  color: #3b82f6;
+  text-decoration: none;
+  font-weight: 600;
+}
+.prose :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)):hover {
+  color: #60a5fa;
 }
 .prose :where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   color: var(--tw-prose-bold);
@@ -1614,6 +1617,9 @@ select {
 .gap-y-4 {
   row-gap: 1rem;
 }
+.gap-y-6 {
+  row-gap: 1.5rem;
+}
 .gap-y-8 {
   row-gap: 2rem;
 }
@@ -1841,6 +1847,10 @@ select {
 .py-2\.5 {
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
+}
+.py-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 .py-24 {
   padding-top: 6rem;
@@ -2513,6 +2523,11 @@ body{
   .sm\:px-6 {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+  }
+
+  .sm\:py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
   }
 
   .sm\:py-32 {
