@@ -22,6 +22,7 @@ content:
             - _hero
             - _newsletter
             - _blog-featured
+            - _feature-img-right
             - _feature-img-left
             - _blog-latest
             - _supporters-logos
