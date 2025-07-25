@@ -1848,14 +1848,6 @@ select {
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
 }
-.py-20 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-}
-.py-24 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-}
 .py-28 {
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -1875,9 +1867,6 @@ select {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
-.pb-12 {
-  padding-bottom: 3rem;
 }
 .pb-2 {
   padding-bottom: 0.5rem;
@@ -1909,11 +1898,11 @@ select {
 .pt-10 {
   padding-top: 2.5rem;
 }
-.pt-12 {
-  padding-top: 3rem;
-}
 .pt-16 {
   padding-top: 4rem;
+}
+.pt-20 {
+  padding-top: 5rem;
 }
 .pt-24 {
   padding-top: 6rem;
@@ -2521,16 +2510,6 @@ body{
     padding-right: 1.5rem;
   }
 
-  .sm\:py-24 {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
-  }
-
-  .sm\:py-32 {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-  }
-
   .sm\:py-4 {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -2539,10 +2518,6 @@ body{
   .sm\:py-8 {
     padding-top: 2rem;
     padding-bottom: 2rem;
-  }
-
-  .sm\:pb-32 {
-    padding-bottom: 8rem;
   }
 
   .sm\:pt-0 {
@@ -2556,11 +2531,6 @@ body{
   .sm\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
-  }
-
-  .sm\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
   }
 
   .sm\:text-lg {
