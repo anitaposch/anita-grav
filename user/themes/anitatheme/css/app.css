@@ -1297,9 +1297,6 @@ select {
 .-ml-64 {
   margin-left: -16rem;
 }
-.-mt-8 {
-  margin-top: -2rem;
-}
 .mb-12 {
   margin-bottom: 3rem;
 }
@@ -1775,10 +1772,6 @@ select {
   -o-object-fit: cover;
      object-fit: cover;
 }
-.object-center {
-  -o-object-position: center;
-     object-position: center;
-}
 .p-1 {
   padding: 0.25rem;
 }
@@ -1818,6 +1811,10 @@ select {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+.py-0\.5 {
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
+}
 .py-1 {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
@@ -1849,6 +1846,10 @@ select {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .py-6 {
   padding-top: 1.5rem;
@@ -1932,6 +1933,10 @@ select {
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
+}
+.text-lg\/8 {
+  font-size: 1.125rem;
+  line-height: 2rem;
 }
 .text-sm {
   font-size: 0.875rem;
@@ -2470,6 +2475,10 @@ body{
          columns: 3;
   }
 
+  .sm\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -2505,6 +2514,11 @@ body{
     padding-bottom: 8rem;
   }
 
+  .sm\:py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
   .sm\:py-8 {
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -2525,6 +2539,11 @@ body{
   .sm\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
+  }
+
+  .sm\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
   }
 
   .sm\:text-lg {
@@ -2673,10 +2692,6 @@ body{
     margin-right: -4rem;
   }
 
-  .lg\:-mt-40 {
-    margin-top: -10rem;
-  }
-
   .lg\:ml-44 {
     margin-left: 11rem;
   }
@@ -2695,6 +2710,10 @@ body{
 
   .lg\:hidden {
     display: none;
+  }
+
+  .lg\:h-4\/5 {
+    height: 80%;
   }
 
   .lg\:h-full {
@@ -2787,6 +2806,11 @@ body{
     margin-bottom: calc(2rem * var(--tw-space-y-reverse));
   }
 
+  .lg\:object-top {
+    -o-object-position: top;
+       object-position: top;
+  }
+
   .lg\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
@@ -2797,9 +2821,9 @@ body{
     padding-bottom: 0px;
   }
 
-  .lg\:py-16 {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+  .lg\:py-8 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 
   .lg\:pr-4 {
