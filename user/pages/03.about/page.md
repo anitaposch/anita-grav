@@ -1,5 +1,5 @@
 ---
-title: About Anita Posch
+title: About | Change Maker & Freedom Tech Advocate
 thumbnail: _Anita-Profile-small.jpg
 keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
 ---
