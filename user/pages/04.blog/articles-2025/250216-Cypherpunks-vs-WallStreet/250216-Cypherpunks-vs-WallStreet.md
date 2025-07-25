@@ -6,7 +6,7 @@ routes:
     default: '/bitcoin-vs-wallstreet'
 date: 2025-02-16 10:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch on The Transformation of Value Podcast
+summary: Anita Posch explores the critical importance of preserving Bitcoin's core principles with their roots in the Cypherpunk movement.
 thumbnail: cypherpunks-vs-wallstreet.jpg
 template: article
 ---
