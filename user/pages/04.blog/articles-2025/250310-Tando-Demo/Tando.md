@@ -64,11 +64,3 @@ Kenya has a population of around 54 million, which means roughly 52 million peop
 Bitcoin is a global asset worth over $2 trillion (12/2024). With Tando, this wealth can easily flow into Kenya’s economy. It empowers individuals, strengthens financial inclusion, and makes Bitcoin a practical payment method in everyday life.
 
 Tando is changing the game, making Bitcoin spending effortless and bringing the world’s most powerful digital currency to millions of people in Kenya.
-
-## Do you want to learn more about Bitcoin? 
-
-> * Subscribe to my weekly newsletter: [The Orange Journal](https://anita.link/news)
-
-> * Join my Bitcoin learning platform [Crack The Orange](https://cracktheorange.com) and I'll give you all the tools and knowledge you need to use Bitcoin in a secure way.
-
-> * Read my book [(L)EARN BITCOIN](https://learnbitcoin.link/)
