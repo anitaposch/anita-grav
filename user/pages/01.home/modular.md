@@ -23,8 +23,8 @@ content:
             - _newsletter
             - _blog-featured
             - _feature-img-right
-            - _feature-img-left
             - _blog-latest
+            - _feature-img-left
             - _supporters-logos
             - _bff
 
