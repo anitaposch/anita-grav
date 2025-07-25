@@ -6,9 +6,9 @@
   .content{
     @apply container px-6  mx-auto
   }
-
-
-
+  [id] {
+    scroll-margin-top: 5rem;
+  }
 }
 
 @layer components {
