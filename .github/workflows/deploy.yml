@@ -41,12 +41,14 @@ jobs:
           protocol: ftps
           local-dir: ./
           server-dir: ./
-          dry-run: true
+          dry-run: false
           exclude: |
             **/.git*
-            .ddev
             **/.git*/**
+            .ddev
             .ddev/**
+            .well-known
+            .well-known/**
             **/node_modules/**
             cache/**
             images/**
@@ -54,3 +56,5 @@ jobs:
             backup/**
             webserver-configs/**
             CHANGELOG.md
+            user/accounts/**
+            user/config/security.yaml
