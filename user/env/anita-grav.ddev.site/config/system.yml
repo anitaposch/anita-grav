@@ -1,0 +1,32 @@
+cache:
+  enabled: false
+  check:
+    method: file
+  driver: auto
+  gzip: false
+  allow_webserver_gzip: false
+twig:
+  cache: false
+  debug: true
+  auto_reload: true
+  autoescape: true
+  undefined_functions: true
+  undefined_filters: true
+  safe_functions: {  }
+  safe_filters: {  }
+  umask_fix: false
+errors:
+  display: 1
+  log: true
+log:
+  handler: file
+  syslog:
+    facility: local6
+    tag: grav
+debugger:
+  enabled: true
+  provider: clockwork
+  censored: false
+  shutdown:
+    close_connection: true
+  twig: true

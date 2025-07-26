@@ -97,7 +97,7 @@ pages:
       - form
       - forms
 cache:
-  enabled: false
+  enabled: true
   check:
     method: file
   driver: auto
@@ -108,8 +108,8 @@ cache:
   clear_images_by_default: false
   cli_compatibility: false
   lifetime: 604800
-  gzip: false
-  allow_webserver_gzip: false
+  gzip: true
+  allow_webserver_gzip: true
   redis:
     socket: '0'
     password: null
@@ -124,8 +124,8 @@ cache:
     port: null
 twig:
   cache: true
-  debug: true
-  auto_reload: true
+  debug: false
+  auto_reload: false
   autoescape: true
   undefined_functions: true
   undefined_filters: true
@@ -151,7 +151,7 @@ assets:
   collections:
     jquery: 'system://assets/jquery/jquery-3.x.min.js'
 errors:
-  display: 1
+  display: 0
   log: true
 log:
   handler: file
