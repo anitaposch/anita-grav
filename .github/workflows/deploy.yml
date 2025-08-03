@@ -32,29 +32,20 @@ jobs:
           npm install
           npm run prod
 
-      - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          local-dir: ./
-          server-dir: ./
-          dry-run: false
-          exclude: |
-            **/.git*
-            **/.git*/**
-            .ddev
-            .ddev/**
-            .well-known
-            .well-known/**
-            **/node_modules/**
-            cache/**
-            images/**
-            tmp/**
-            backup/**
-            webserver-configs/**
-            CHANGELOG.md
-            user/accounts/**
-            user/config/security.yaml
+      - name: Deploy to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          ARGS: "-rlDzvc -i"
+          SOURCE: "./"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
+          EXCLUDE: "/vendor/, /node_modules/, .ddev, /.git/, /.github/, /user/accounts, /user/config/security.yaml, /webserver-configs, /backup, /cache, /images, /tmp, CHANGELOG.md"
+          SCRIPT_BEFORE: |
+            whoami
+            pwd
+            SCRIPT_AFTER: |
+            whoami
+            pwd
+            echo $RSYNC_STDOUT
