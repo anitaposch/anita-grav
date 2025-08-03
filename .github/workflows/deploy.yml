@@ -41,14 +41,14 @@ jobs:
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
-          EXCLUDE: "/vendor/, /user/themes/anitatheme/node_modules/, .ddev, /.git/, /.github/, /user/accounts, /user/config/security.yaml, /webserver-configs, /backup, /cache, /images, /tmp, CHANGELOG.md"
+          EXCLUDE: "/user/themes/anitatheme/node_modules/, .ddev, /.git/, /.github/, /user/accounts, /user/config/security.yaml, /webserver-configs, /backup, /cache, /images, /tmp, CHANGELOG.md"
           SCRIPT_BEFORE: |
             echo "script before run"
             pwd
-            SCRIPT_AFTER: |
+          SCRIPT_AFTER: |
             echo "script after run"
             cd anitaposch.com
             php bin/grav cache
             pwd
-            echo "rsync stdout:
+            echo "rsync stdout:"
             echo $RSYNC_STDOUT
