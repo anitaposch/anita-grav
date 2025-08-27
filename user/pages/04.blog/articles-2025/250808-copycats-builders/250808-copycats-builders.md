@@ -3,7 +3,7 @@ title: Copycats and Builders: Bitcoin Adoption in Africa And What Must Change
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Features]
 routes:
-    default: '/250808-copycats-builders'
+    default: '/copycats-builders-bitcoin-adoption'
 date: 2025-08-08 14:40
 dateformat: 'Y-m-d H:i'
 summary: Real change requires builders and original thinkers, not copycats.
