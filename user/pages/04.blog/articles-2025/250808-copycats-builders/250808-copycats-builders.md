@@ -17,7 +17,7 @@ Africa: There are currently 150+ Bitcoin adoption and education initiatives acro
 
 > This article was originally published on [Bitcoin Magazine](https://bitcoinmagazine.com/culture/africa-real-challenge-bitcoin-adoption).
 
-![Bitcoin Education in Africa And What Must Change](copycats-builders-bitcoin-africa.png)
+<iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/mAdjFCZUE9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bitcoin adoption in Africa has exploded — at least on paper. 
 
