@@ -4,7 +4,7 @@ taxonomy:
     tags: [Blog, Perspectives]
 routes:
     default: '/bitcoin-wheel'
-date: 2025-09-30 14:40
+date: 2025-10-01 11:59
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin is the wheel of money. Decentralized, permissionless, and unstoppable. Yet institutions keep building sledges. How much time will be wasted first?
 thumbnail: random-institute-v0l4L1DfAbw-unsplash.png
