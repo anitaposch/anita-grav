@@ -13,26 +13,6 @@ template: article
 
 # How Bitcoin Can Help Stabilize Zimbabwe's Businesses and Farms
 
-
-
-
-We are in Bulawayo where I interview Ethan, a farmer who not only raises fish, bees, and fruit but also mines and accepts bitcoin on his farm.
-<iframe width="100%" height="476" src="https://www.youtube.com/embed/G9PIM9IAVkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## From Solar to Sats  
-A few years ago, Ethan contacted me from the UK. He wanted to try mining bitcoin on his remote farm in Zimbabwe using solar power. With some second-hand machines and free sunlight, the experiment worked.  
-
-At first, the miners earned around 25 to 30 dollars a week. But more important than the money was the proof:  
-- Bitcoin mining worked with solar energy.  
-- Payments arrived automatically every day.  
-- The sats could cross borders without permission.  
-
-That experience convinced Ethan to find more use-cases for Bitcoin within his business - a farm in Bulawayo. It was his own “proof of work.”  
-
-## Challenges and Security  
-Running miners in Zimbabwe is not always easy. At one point, burglars stole the farm’s batteries, which forced Ethan to rebuild and add more security. Lithium batteries later became very expensive, but he continued improving the system step by step.  
-Even with these challenges, he sees value in mining: not just earning bitcoin, but also using the heat from the machines to warm fish ponds and greenhouses in the future. In agriculture, nothing should go to waste.  
-
 ## Why Bitcoin Matters in Zimbabwe  
 Zimbabwe has changed its currency many times in just a few years. Each version lost immense value. Bitcoin survived them all.  
 
@@ -76,3 +56,23 @@ Ethan also runs a small Airbnb cottage on the farm. Guests can stay in Bulawayo,
 
 ## The Bigger Picture  
 For Ethan, Bitcoin is not just something to hold. It is something to use. By earning, saving, and spending it, he is creating resilience for himself, his workers, and the local school. Whether it is fish, honey, or cross-border payments, Bitcoin is helping build a small but real circular economy in Zimbabwe.  
+
+
+
+We are in Bulawayo where I interview Ethan, a farmer who not only raises fish, bees, and fruit but also mines and accepts bitcoin on his farm.
+<iframe width="100%" height="476" src="https://www.youtube.com/embed/G9PIM9IAVkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## From Solar to Sats  
+A few years ago, Ethan contacted me from the UK. He wanted to try mining bitcoin on his remote farm in Zimbabwe using solar power. With some second-hand machines and free sunlight, the experiment worked.  
+
+At first, the miners earned around 25 to 30 dollars a week. But more important than the money was the proof:  
+- Bitcoin mining worked with solar energy.  
+- Payments arrived automatically every day.  
+- The sats could cross borders without permission.  
+
+That experience convinced Ethan to find more use-cases for Bitcoin within his business - a farm in Bulawayo. It was his own “proof of work.”  
+
+## Challenges and Security  
+Running miners in Zimbabwe is not always easy. At one point, burglars stole the farm’s batteries, which forced Ethan to rebuild and add more security. Lithium batteries later became very expensive, but he continued improving the system step by step.  
+Even with these challenges, he sees value in mining: not just earning bitcoin, but also using the heat from the machines to warm fish ponds and greenhouses in the future. In agriculture, nothing should go to waste.  
+
