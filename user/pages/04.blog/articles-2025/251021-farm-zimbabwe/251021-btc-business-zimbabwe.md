@@ -4,7 +4,6 @@ taxonomy:
     tags: [Blog, Bitcoin in Africa, Zimbabwe]
 routes:
     default: '/bitcoin-for-business-zimbabwe'
-date: 2025-10-21 10:00
 publish_date: 2025-10-21 10:00
 dateformat: 'Y-m-d H:i'
 summary: A Zimbabwean Farmer Is Using Bitcoin to Bring Stability to His Business
