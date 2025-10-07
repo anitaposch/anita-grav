@@ -9,6 +9,10 @@ additional_fqdns: []
 database:
     type: mariadb
     version: "10.11"
+upload_dirs:
+    - user/pages
+    - user/data
+    - user/accounts
 use_dns_when_possible: true
 composer_version: "2"
 web_environment: []
