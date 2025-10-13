@@ -16,7 +16,7 @@ template: article
 
 In February 2020 I travelled to Zimbabwe and Botswana to learn more about the use and necessity of Bitcoin in Africa and to present the findings in this 6-part podcast series.
 
-To subscribe to my podcast and listen to these episodes add this RSS feed to your podcast player: https://www.vodio.fr/rssmedias-1673.xml
+To subscribe to my podcast and listen to these episodes add this RSS feed to your podcast player: [https://www.vodio.fr/rssmedias-1673.xml](https://www.vodio.fr/rssmedias-1673.xml)
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25617&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
