@@ -18,16 +18,23 @@ In February 2020 I travelled to Zimbabwe and Botswana to learn more about the us
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25617&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
+---
+
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25618&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+---
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25619&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
-<iframe src="https://www.vodio.fr/frameplay.php?idref=25620&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+---
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25620&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+---
+
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25620&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
+
+---
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25622&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
-Additionally I summarized the findings with recommendations and ideas to broaden the accessibility and usability of bitcoin in under-develeoped regions in this talk:
-
-<iframe width="100%" height="476" src="https://www.youtube.com/embed/ddYimGGyxA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
