@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Learnings from Zimbabwe and Botswana
+title: National currencies, culture and Bitcoin: Learnings from my first journey to Zimbabwe and Botswana
 taxonomy:
     tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
 routes:
@@ -12,7 +12,7 @@ template: article
 ---
 
 
-# Bitcoin Learnings from Zimbabwe and Botswana
+# National currencies, culture and Bitcoin: Learnings from my first journey to Zimbabwe and Botswana
 
 In February 2020 I travelled to Zimbabwe and Botswana to learn more about the use and necessity of Bitcoin in Africa and to present the findings in this 6-part podcast series.
 
