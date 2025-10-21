@@ -1,7 +1,7 @@
 ---
 title: Differences between Proof-of-Work and Proof-of-Stake
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Perspectives, Bitcoin Mining]
+    tags: [Blog, Learn Bitcoin, Perspectives, Mining]
 routes:
     default: '/bitcoin-differences-proof-of-work-stake'
 date: 2022-09-18 12:00
