@@ -4,7 +4,6 @@ taxonomy:
     tags: [Blog, Bitcoin in Africa, Zimbabwe]
 routes:
     default: '/bitcoin-business-zimbabwe'
-published: false
 date: 2025-10-21 10:00
 dateformat: 'Y-m-d H:i'
 summary: How one Zimbabwe farm uses solar-powered Bitcoin mining and bitcoin-only sales to build financial resilience in a country with six failed currencies.
