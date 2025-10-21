@@ -23,6 +23,8 @@ Zimbabwe has changed its national currency several times since gaining independe
 
 To put this in context: Since Zimbabwe's independence in 1980, there have been six total currency changes—four of them occurring during Bitcoin's lifetime alone. **While Bitcoin grew 140,000 times between 2009 and 2025, Zimbabwe's sovereign currencies were completely destroyed and rebuilt six times, with holders losing everything in each transition.** The evidence shows that Bitcoin provided the stability and store of value that Zimbabwe's currencies catastrophically failed to deliver.
 
+<iframe width="100%" height="476" src="https://www.youtube.com/embed/G9PIM9IAVkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Bitcoin matters, because it has genuine utility
 
 - it gives **ownership**: nobody can take your bitcoin away from you if you hold your own keys,
@@ -44,8 +46,6 @@ I learned that USDT Tether is the preferred cryptocurrency in Zimbabwe, because 
 For Ethan, the solution is straightforward: earn and hold Bitcoin long-term, spend bitcoin only when you really need to (It's possible to [cash out bitcoin to USD peer to peer](https://anitaposch.com/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe)). When he needs to cover expenses, he spends traditional currency from his farm operations, only converting Bitcoin when absolutely necessary. This way, the farm benefits from Bitcoin's appreciation over time while short-term volatility becomes irrelevant to the bulk of his savings.
 
 ## From solar to sats
-
-<iframe width="100%" height="476" src="https://www.youtube.com/embed/G9PIM9IAVkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A few years ago, Ethan contacted me from the UK. In a podcast interview [we spoke about how he wanted to try mining bitcoin on his remote farm in Zimbabwe using solar power](https://anitaposch.com/podcast-btc-mining-zimbabwe). With some donated second-hand machines and free sunlight, the experiment worked.
 
