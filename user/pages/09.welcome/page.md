@@ -7,9 +7,9 @@ blog_latest: true
 
 # Welcome
 
-Hello, thanks for subscribing to my newsletter. 
+Hello, thanks for your interest in my work. 
+Please check your Email now, confirm your subscription (no Email received? Look into your SPAM folder) and you'll receive the first newsletter on Saturday.
 
-You'll receive the first email on Saturday.
 For a start - here is my documentary about how Bitcoin enforces human rights.
 
 <iframe width="100%" height="476" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
