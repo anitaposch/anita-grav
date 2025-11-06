@@ -21,9 +21,9 @@ content:
             - _hero-about
             - _hero
             - _newsletter
+            - _blog-latest
             - _blog-featured
             - _feature-img-right
-            - _blog-latest
             - _feature-img-left
             - _supporters-logos
             - _bff
