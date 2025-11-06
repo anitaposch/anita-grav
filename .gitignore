@@ -51,4 +51,5 @@ system/templates/testing/*
 .obsidian*
 
 # articles
-user/pages/04.blog/articles-other/*
+user/pages/04.blog/articles-other/
+user/pages/04.blog/articles-other/assets
