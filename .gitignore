@@ -49,3 +49,6 @@ system/templates/testing/*
 
 # obsidian
 .obsidian*
+
+# articles
+user/pages/04.blog/articles-other
