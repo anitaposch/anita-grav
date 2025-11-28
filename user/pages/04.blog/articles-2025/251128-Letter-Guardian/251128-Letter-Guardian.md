@@ -22,7 +22,7 @@ Since 2009, Bitcoin has grown from an experiment to a global monetary network us
 
 In November 2025, [The Guardian published another editorial making this case](https://www.theguardian.com/commentisfree/2025/nov/18/the-guardian-view-on-cryptos-latest-crash-it-reveals-who-pays-the-price-for-a-failing-economy). It opens with:
 
-> The key to understanding crypto is that it has no “[value](https://www.theguardian.com/business/nils-pratley-on-finance/2024/jan/11/bitcoin-tracking-etfs-sec-cryptocurrency)” in any economic sense.
+> The key to understanding crypto is that it has no “value” in any economic sense.
 
 With years of experience in Bitcoin education and adoption across the Global South, I felt compelled to send a letter (max. 300 words) addressing these misconceptions. My letter was not published, but I want to share it here.
 
