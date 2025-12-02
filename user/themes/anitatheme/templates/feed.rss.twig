@@ -9,7 +9,7 @@
 {% endfor %}
 
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
         <title>{{ collection.params.title }}</title>
         <link>{{ page.url(true) }}</link>
@@ -29,6 +29,11 @@
                 {{ item.header.summary|safe_truncate_html(collection.params.length)|raw }}
                 ]]>
             </description>
+            <content:encoded>
+                <![CDATA[
+                {{ item.content|raw }}
+                ]]>
+            </content:encoded>
             {% for tag in item.taxonomy.tag %}
                 <category>{{ tag|e }}</category>
             {% endfor %}
