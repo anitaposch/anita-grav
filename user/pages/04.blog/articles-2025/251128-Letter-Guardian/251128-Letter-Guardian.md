@@ -17,8 +17,7 @@ template: article
 # Bitcoin Is Not Crypto: A Response to The Guardian
 
 Since 2009, Bitcoin has grown from an experiment to a global monetary network used by millions. It's not only a high-performing asset, but also a tool for financial sovereignty. Yet many media organizations still frame Bitcoin as pure speculation—useless at best, harmful at worst. Whenever the market price falls, the same narratives resurface.
-![alt text](251118-Guardian.png)
-![Guardian editorial](articles-2025/251128-Letter-Guardian/251118-Guardian.png)
+![Guardian editorial](251118-Guardian.png)
 
 In November 2025, [The Guardian published another editorial making this case](https://www.theguardian.com/commentisfree/2025/nov/18/the-guardian-view-on-cryptos-latest-crash-it-reveals-who-pays-the-price-for-a-failing-economy). It opens with:
 
