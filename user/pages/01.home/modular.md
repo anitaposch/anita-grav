@@ -24,7 +24,6 @@ content:
             - _blog-latest
             - _blog-featured
             - _feature-img-right
-            - _feature-img-left
             - _supporters-logos
             - _bff
 
