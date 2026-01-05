@@ -18,7 +18,7 @@ Proof-of-Work and Proof-of-Stake have different goals, so the question is: what 
 
 Proof-of-Work provides security through an investment of electricity. Electricity is scarce and always has some form of cost. It makes Proof-of-Work very very secure, you’d have to re-invest all the energy that was used to mine in the first place again to rewrite the blockchain. Even if you own 100% of the mining you still have to do the work and invest in electricity. Burning electricity connects the coin to the physical world.
 
-![Blocks are chained together and store transactions in the chronologically correct order - Satoshi Nakamoto called it time chain, Source: Anita Posch, representation of a block chain](_25-pow-pos.png)
+![Blocks are chained together and store transactions in the chronologically correct order - Satoshi Nakamoto called it time chain, Source: Anita, representation of a block chain](_25-pow-pos.png)
 
 Proof-of-Stake validators stake the blockchain intrinsic cryptocurrency. If they validate correctly they get the money back and earn fees proportional to their stake. The more coins they stake, the more they earn. If they cheat they might lose their stake, but could still gain from the increase in value of the coin.
 

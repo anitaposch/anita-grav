@@ -1,17 +1,17 @@
 ---
-title: "Bitcoin Stories: Anita Posch unterwegs in Afrika"
+title: "Bitcoin Stories: Anita unterwegs in Afrika"
 taxonomy:
     tags: [Blog, Deutsch, Features, Bitcoin in Africa]
 routes:
     default: '/bitcoin-afrika-kenia'
 date: 2025-05-13 10:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch unterwegs in Nairobi, einer der dynamischsten Bitcoin-Städte Afrikas
+summary: Anita unterwegs in Nairobi, einer der dynamischsten Bitcoin-Städte Afrikas
 thumbnail: _Coinfinity-Bitcoin-Story.jpg
 template: article
 ---
 
-# Bitcoin Stories: Anita Posch unterwegs in Afrika
+# Bitcoin Stories: Anita unterwegs in Afrika
 
 Die Coinfinity Bitcoin Stories zeigen die Highlights meines [Aufenthalts in Nairobi, einer der dynamischsten Bitcoin-Städte Afrikas](https://anitaposch.com/nairobi-journal-2024).
 
@@ -19,7 +19,7 @@ Dieses Video zeigt eindrucksvoll, wie stark und lebendig die Bitcoin-Adoption in
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/AedbEpyLVyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vor Ort trifft Anita Posch auf Menschen, die Bitcoin nicht nur verstehen, sondern ihn ganz selbstverständlich im Alltag nutzen. Sie spricht mit den Gründern von Tando ([hier das ganze Interview]([https://youtu.be/7fFnAnbZBUU](https://youtu.be/7fFnAnbZBUU))), einer App, die Bitcoin-Zahlungen in Sekundenschnelle ermöglicht – und dabei automatisch in die Landeswährung (Kenya Shilling) umrechnet.
+Vor Ort trifft Anita auf Menschen, die Bitcoin nicht nur verstehen, sondern ihn ganz selbstverständlich im Alltag nutzen. Sie spricht mit den Gründern von Tando ([hier das ganze Interview]([https://youtu.be/7fFnAnbZBUU](https://youtu.be/7fFnAnbZBUU))), einer App, die Bitcoin-Zahlungen in Sekundenschnelle ermöglicht – und dabei automatisch in die Landeswährung (Kenya Shilling) umrechnet.
 
 Ein echtes Highlight: Anita testet die App live, zahlt in Geschäften mit Bitcoin und erlebt, wie reibungslos das System funktioniert.
 

@@ -1,7 +1,7 @@
 ---
 title: Legal Notice
 thumbnail: _Anita-Profile-small.jpg
-keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
+keywords: "Bitcoin in Africa, Anita, Bitcoin for Fairness, Freedom Technology"
 ---
 
 # Legal Notice
@@ -20,4 +20,4 @@ Company Register Nr.: FN 465963 s, Handelsgericht Wien
 
 ## Send a message
 
-Please use [this form to contact Anita Posch](/contact)
+Please use [this form to contact Anita](/contact)

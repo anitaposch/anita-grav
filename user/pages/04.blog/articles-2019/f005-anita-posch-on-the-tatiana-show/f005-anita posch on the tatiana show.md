@@ -1,5 +1,5 @@
 ---
-title: Anita Posch on "The Tatiana Show"
+title: Anita on "The Tatiana Show"
 taxonomy:
     tags: [Blog, Features]
 routes:
@@ -12,7 +12,7 @@ template: article
 ---
 
 
-# Anita Posch on "The Tatiana Show"
+# Anita on "The Tatiana Show"
 
 I was a invited as an interview partner by singer, songwriter and longtime Blockchain enthusiast Tatiana Moroz. She started her show back in 2015 and has 5,000 to 10,000 listeners per episode.
 
@@ -20,4 +20,4 @@ I was a invited as an interview partner by singer, songwriter and longtime Block
 
 <iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/11652443/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/d2b980/" width="100%" height="90" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-![Anita Posch on the Tatiana show](_f005-anita-posch-guest-tatiana-show.png)
+![Anita on the Tatiana show](_f005-anita-posch-guest-tatiana-show.png)

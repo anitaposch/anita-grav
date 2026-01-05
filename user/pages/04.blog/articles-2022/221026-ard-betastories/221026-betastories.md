@@ -1,5 +1,5 @@
 ---
-title: Documentary about Bitcoin in South Africa with Anita Posch on German TV
+title: Documentary about Bitcoin in South Africa with Anita on German TV
 taxonomy:
     tags: [Blog, Features, On the Ground, Bitcoin in Africa]
 routes:
@@ -11,9 +11,9 @@ thumbnail: _221026-betastories-anita-posch.jpg
 template: article
 ---
 
-# Documentary about Bitcoin in South Africa with Anita Posch on German TV
+# Documentary about Bitcoin in South Africa with Anita on German TV
 
-German TV stations ARD and BR published a Bitcoin documentary for which they followed Anita Posch to South Africa where she worked with Bitcoin Ekasi in May 2022. The Bitcoin township is an example that Bitcoin can be used by anyone even people in less privileged circumstances.
+German TV stations ARD and BR published a Bitcoin documentary for which they followed Anita to South Africa where she worked with Bitcoin Ekasi in May 2022. The Bitcoin township is an example that Bitcoin can be used by anyone even people in less privileged circumstances.
 
 Overall the documentary is very well done. Some things are factually wrong like when "Tante" is speaking about the CO2 emissions that a single transaction is emitting. It's faulty mathematics. The use of energy for Bitcoin does not scale to the number of transactions. The number of transactions that happen on-chain and the number of transactions that happen off-chain - for instance, on second-layer technologies like the Lightning Network or through custodial exchanges that batch transactions - are not correlated to the cost of mining. Anita dedicated a whole chapter of her [book to the question of Bitcoin’s ecological footprint](https://learnbitcoin.link).
 
@@ -26,5 +26,5 @@ Here you can watch the documentary in German (until 25 October 2027):
 
 
 ---
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
+You like Anita's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
 

@@ -34,7 +34,7 @@ In the following, I lay out how Bitcoin enforces seven of the 30 articles mentio
 You can listen to this article here:
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25735&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
-Or watch Anita Posch's documentary by [Cinemuck](https://www.aaronmucke.com/):
+Or watch Anita's documentary by [Cinemuck](https://www.aaronmucke.com/):
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/AXLiwrrk3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Universal Declaration of Human Rights
@@ -427,7 +427,7 @@ Bitcoin is carried by a social movement. It’s a silent revolution. By being in
 
 It may sound illogical, but by using Bitcoin, you’re supporting freedom fighters globally and helping make the world more inclusive. This is why my non-profit initiative is called “[Bitcoin For Fairness.”](https://bffbtc.org/) Ultimately Bitcoin doesn’t fix everything. There will always be rich and poor people. But Bitcoin definitely fixes one huge thing: It enables fair access to a borderless, neutral money that can’t be altered to the advantage of any single entity.
 
-![By using Bitcoin you support freedom fighters globally and help to make the world more fair. - Anita Posch](_33-more-fair-world.png)
+![By using Bitcoin you support freedom fighters globally and help to make the world more fair. - Anita](_33-more-fair-world.png)
 
 Bitcoin delivers the opportunity for historical reparation from the effects of colonialism. It can make the gap between rich and poor smaller. That’s why I put so much effort into sharing Bitcoin self-custody knowledge in African countries and the Global South. The peer-to-peer, non-KYC revolution will take place here, where people are used not to using banks. My motto is: “Keep the unbanked unbanked” and support them in their fight for financial freedom. I’m just an ally visiting and sharing knowledge. The local people are key. The opportunity is there, I trust they’ll take it and run.
 
@@ -474,7 +474,7 @@ https://www.bloomberg.com/news/articles/2020-11-24/zimbabwe-gold-smugglers-estim
 [^31] https://www.strategy-business.com/article/What-Happened-after-India-Eliminated-Cash
 https://thewire.in/uncategorised/the-costs-of-demonetisation-death-toll-rises-to-82-eight-million-bidi-workers-remain-unpaid  
 [^32] https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets  
-[^33] Anita Posch: (L)earn Bitcoin  
+[^33] Anita: (L)earn Bitcoin  
 [^34] Lagos, Nigeria – Activists protest against the controversial anti-social media bill introduced in the parliament, November 2019. Photo: Oluwafemi Dawodu/Shutterstock
 https://www.transparency.org/en/news/cpi-2021-corruption-human-rights-democracy
 

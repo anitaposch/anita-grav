@@ -1,14 +1,15 @@
 ---
 title: Welcome
 thumbnail: _Anita-Profile-small.jpg
-keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
+keywords: "Bitcoin in Africa, Anita, Bitcoin for Fairness, Freedom Technology"
 blog_latest: true
 ---
 
 # Welcome
 
-Hello, thanks for your interest in my work. 
-Please check your Email now, confirm your subscription (no Email received? Look into your SPAM folder) and you'll receive the first newsletter on Saturday.
+Hello, 
+
+You're in! Thanks for your interest in my work, you'll receive the first newsletter soon.
 
 For a start - here is my documentary about how Bitcoin enforces human rights.
 

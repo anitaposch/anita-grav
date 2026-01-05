@@ -18,11 +18,11 @@ template: article
 
 # Building Bitcoin for Africans, By Africans: Lessons From 5 Years on the Ground
 
-## Keynote Anita Posch at Africa Bitcoin Conference 2025
+## Keynote Anita at Africa Bitcoin Conference 2025
 
 In 2020, when I visited Zimbabwe the first time I found no Bitcoin-only education initiative on the African continent. Today there are more than 150. Sounds like an incredible success story, right? When you spend time on the ground you'll discover: the impact is often minimal, if it exists at all. Decades of foreign aid money and more or less good intentioned projects have led to expectations. 
 
-![Anita Posch at Africa Bitcoin Conference 2025](251210-ABC-Keynote-Anita-1.png)
+![Anita at Africa Bitcoin Conference 2025](251210-ABC-Keynote-Anita-1.png)
 
 In [our work with Bitcoin for Fairness on the ground](https://bffbtc.org/mission/impact/) we learned that paying people transport money and providing lunch is necessary otherwise they wouldn't show up to our free workshops. Data is expensive, often the connectivity is bad making online learning impossible for many. It's difficult to measure the impact of general Bitcoin education. What you'll find are graduation photos, celebrations, videos of onboarded merchants, copy-pasting initiatives and chasing funding.
 
@@ -114,4 +114,4 @@ Sustainable change doesn't happen in one workshop or conference.
 
 The fight is to preserve Bitcoin's permissionless, uncensorable nature against state capture, corporate control, and neo-colonial extraction. Ask "what can I do for Bitcoin?" and resist letting Bitcoin become just another tool in the hands of the powerful.
 
-![Anita Posch at Africa Bitcoin Conference 2025](251210-ABC-Keynote-Anita-2.png)
+![Anita at Africa Bitcoin Conference 2025](251210-ABC-Keynote-Anita-2.png)

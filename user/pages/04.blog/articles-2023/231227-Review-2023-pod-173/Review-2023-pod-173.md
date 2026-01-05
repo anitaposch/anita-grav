@@ -6,7 +6,7 @@ routes:
     default: '/podcast-bitcoin-review-2023-173'
 date: 2023-12-26 10:00
 dateformat: 'Y-m-d H:i'
-summary: A review of what Bitcoin For Fairness and Anita Posch achieved for Bitcoin adoption in 2023
+summary: A review of what Bitcoin For Fairness and Anita achieved for Bitcoin adoption in 2023
 thumbnail: _Thumbnail-Bitcoin-Review-2023.jpeg
 template: article
 ---
@@ -200,7 +200,7 @@ One of my goals is to raise donations to be able to give 100-200 scholarships aw
 
 At the same time Crack The Orange is open for anyone to learn more about Bitcoin. Next year I will constantly produce new learning material, especially how to manage the fee market, how to navigate between Bitcoin on-chain, Lightning, Liquid and new eCash systems like Fedimint or Cashu. UTXO management will become a hot topic in the next few years too. Crack The Orange members will have exclusive access to the material and to me in my monthly live calls, before the new content is published to the world.
 
-Finally, I want to keep on traveling the world as an educator and nomad, but I need to scale down a little bit to take the stress out of it. This year I traveled to eleven countries on three continents as a digital nomad and educator. From Zimbabwe to Zambia, Malta, Czech Republic, Norway, Latvia, USA, UK, Switzerland, Indonesia, Ghana, and back to Zimbabwe. I appeared fourteen times on stage giving keynotes and workshops, my team and I organized five meetups, I was fifteen times interviewed or contributed to an online event and published five podcast episodes on the Anita Posch Show. In total I estimate that my work reached 1,500 people in person and many more with hundreds of content pieces on social media and different websites - I don’t really know how many.
+Finally, I want to keep on traveling the world as an educator and nomad, but I need to scale down a little bit to take the stress out of it. This year I traveled to eleven countries on three continents as a digital nomad and educator. From Zimbabwe to Zambia, Malta, Czech Republic, Norway, Latvia, USA, UK, Switzerland, Indonesia, Ghana, and back to Zimbabwe. I appeared fourteen times on stage giving keynotes and workshops, my team and I organized five meetups, I was fifteen times interviewed or contributed to an online event and published five podcast episodes on Anita's Podcast. In total I estimate that my work reached 1,500 people in person and many more with hundreds of content pieces on social media and different websites - I don’t really know how many.
 
 I love this lifestyle combining nomading with work that makes sense to me and I hope it contributes to the greater good. I’m grateful that I found my Ikigai in Bitcoin and that all my talents and experiences I gathered over the years fit so perfectly together that I’m enabled to be an educator. 
 

@@ -6,7 +6,7 @@ routes:
     default: '/bitcoin-unza'
 date: 2022-10-03 12:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch gave a Bitcoin lecture at the University of Zambia in front of 30 students. Here you can find the video and the presentation of the talk.
+summary: Anita gave a Bitcoin lecture at the University of Zambia in front of 30 students. Here you can find the video and the presentation of the talk.
 thumbnail: _2022-09-30-unza-1.jpg
 template: article
 ---
@@ -29,4 +29,4 @@ You can find the presentation below the video and images:
 
 ---
 
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
+You like Anita's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

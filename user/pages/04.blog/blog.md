@@ -1,6 +1,6 @@
 ---
 title: "All articles"
-summary: "Anita Posch all articles"
+summary: "Anita all articles"
 content:
     items:
         @taxonomy.tags: Blog

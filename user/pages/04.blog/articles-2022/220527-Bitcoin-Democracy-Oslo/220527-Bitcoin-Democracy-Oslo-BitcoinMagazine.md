@@ -6,7 +6,7 @@ routes:
     default: '/bitcoinmagazine-oslo-freedom-forum-22'
 date: 2022-05-28 12:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch considered Bitcoin’s role in enabling democracy with four international human rights activists at the Oslo Freedom Forum 2022.
+summary: Anita considered Bitcoin’s role in enabling democracy with four international human rights activists at the Oslo Freedom Forum 2022.
 thumbnail: _F0015-BTCMagazine.png
 template: article
 ---
@@ -17,7 +17,7 @@ template: article
 
 > [The Oslo Freedom Forum Asks, Is Bitcoin Compatible With Democracy?](https://bitcoinmagazine.com/culture/is-bitcoin-compatible-with-democracy) was featured on Bitcoin Magazine.
 
-This year’s Oslo Freedom Forum, a human rights conference organized by the Human Rights Foundation (HRF), took place from May 23 to May 25, 2022. It’s a yearly conference bringing together more than a thousand activists, civil society leaders, scholars, artists, technologists, business leaders and journalists with the goal of exchanging strategies, forming partnerships and inspiring one another to continue the fight for liberty and democracy all over the world. Here is a panel moderated by Anita Posch where four human rights activists discuss Bitcoin's role for democracy. 
+This year’s Oslo Freedom Forum, a human rights conference organized by the Human Rights Foundation (HRF), took place from May 23 to May 25, 2022. It’s a yearly conference bringing together more than a thousand activists, civil society leaders, scholars, artists, technologists, business leaders and journalists with the goal of exchanging strategies, forming partnerships and inspiring one another to continue the fight for liberty and democracy all over the world. Here is a panel moderated by Anita where four human rights activists discuss Bitcoin's role for democracy. 
 
 <iframe width="100%" height="476" src="https://www.youtube-nocookie.com/embed/MTVPeXQwWCU?si=qUFLfFB9AF9rZF8y&amp;start=1669" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

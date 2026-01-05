@@ -1,5 +1,5 @@
 ---
-title: Advocating for Human Rights through Bitcoin - Anita Posch on Cryptopulse - Ep. 160
+title: Advocating for Human Rights through Bitcoin - Anita on Cryptopulse - Ep. 160
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa, Show, Human Rights]
 routes:
@@ -11,7 +11,7 @@ thumbnail: _f0019-anita-posch-cryptopulse.png
 template: article
 ---
 
-# Advocating for Human Rights through Bitcoin - Anita Posch on Cryptopulse - Ep. 160
+# Advocating for Human Rights through Bitcoin - Anita on Cryptopulse - Ep. 160
 
 This episode is a recording of the conversation I had on the Cryptopulse podcast with Kevin and Ben from the UK. It was recorded in late June 2022.
 

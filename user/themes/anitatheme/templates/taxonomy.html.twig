@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if current_category %}
-    {% set meta_description = "Anita Posch's articles about " ~ current_category|title|replace({'-': ' '}) %}
+    {% set meta_description = "Anita's articles about " ~ current_category|title|replace({'-': ' '}) %}
     {% set meta_title = 'Category: ' ~ current_category|title|replace({'-': ' '}) %}
     {% set canonical_url = base_url_absolute ~ '/category/' ~ current_category %}
 {% else %}

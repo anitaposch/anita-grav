@@ -1,5 +1,5 @@
 ---
-title: Anita Posch about Financial Empowerment on Lunaticoin - Ep. 175
+title: Anita about Financial Empowerment on Lunaticoin - Ep. 175
 taxonomy:
     tags: [Blog, Show, Bitcoin in Africa, Learn Bitcoin, Freedom Tech]
 routes:
@@ -11,7 +11,7 @@ thumbnail: _show-cover.png
 template: article
 ---
 
-# Anita Posch about Financial Empowerment on Lunaticoin - Ep. 175
+# Anita about Financial Empowerment on Lunaticoin - Ep. 175
 
 I was a guest on the Lunaticoin podcast talking about my journey from urban planner to Bitcoin educator and activist, focusing my work on countries like Zimbabwe and Zambia. We discuss Bitcoin's vital role in financial empowerment in the face of hyperinflation, the unique advantages of Bitcoin over stablecoins like USDTether, and the mission behind "Bitcoin for Fairness". 
 

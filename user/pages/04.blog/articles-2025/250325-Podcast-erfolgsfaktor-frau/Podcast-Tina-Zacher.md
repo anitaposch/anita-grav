@@ -1,19 +1,19 @@
 ---
-title: Warum Bitcoin mehr ist als nur eine Kryptowährung - Anita Posch im Podcast „Erfolgsfaktor Frau“
+title: Warum Bitcoin mehr ist als nur eine Kryptowährung - Anita im Podcast „Erfolgsfaktor Frau“
 taxonomy:
     tags: [Blog, Deutsch, Features]
 routes:
     default: '/podcast-erfolgsfaktor-frau'
 date: 2025-03-25 12:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch zu Gast im Podcast „Erfolgsfaktor Frau“ mit Tina Zacher
+summary: Anita zu Gast im Podcast „Erfolgsfaktor Frau“ mit Tina Zacher
 thumbnail: _Erfolgsfaktor-Frau.jpg
 template: article
 ---
 
 # Warum Bitcoin mehr ist als nur eine Kryptowährung - Podcast „Erfolgsfaktor Frau“
 
-Anita Posch zu Gast im Erfolgsfaktor Frau-Podcast mit Tina Zacher. Sie spricht über die Grundlagen von Bitcoin, seine Funktionsweise und die Bedeutung von Dezentralität – insbesondere für Menschen in Ländern mit wirtschaftlicher und politischer Instabilität.
+Anita zu Gast im Erfolgsfaktor Frau-Podcast mit Tina Zacher. Sie spricht über die Grundlagen von Bitcoin, seine Funktionsweise und die Bedeutung von Dezentralität – insbesondere für Menschen in Ländern mit wirtschaftlicher und politischer Instabilität.
 
 Anita berichtet von ihren Erfahrungen in Simbabwe und zeigt auf, wie Bitcoin dort als Werkzeug für finanzielle Freiheit eingesetzt werden kann. Gemeinsam diskutieren sie die Chancen und Herausforderungen, die mit der Nutzung von Bitcoin einhergehen, darunter auch seine Volatilität und die Notwendigkeit, das bestehende Finanzsystem zu hinterfragen.
 

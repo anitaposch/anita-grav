@@ -7,8 +7,6 @@ main_menu:
     children:
       - title: (L)earn Bitcoin Book
         url: '/#lb'
-      - title: Online Course
-        url: '/#cto'
       - title: Knowledge Base
         url: 'https://my.cracktheorange.com/bitcoin-knowledge/'
         target: '_blank'
@@ -40,7 +38,7 @@ main_menu:
   - title: About
     url: '#toplevel-links-do-not-work'
     children:
-      - title: About Anita Posch
+      - title: About Anita
         url: '/about'
       - title: Bitcoin for Fairness
         url: '/#bff'

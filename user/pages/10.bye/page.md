@@ -1,7 +1,7 @@
 ---
 title: Goodbye
 thumbnail: _Anita-Profile-small.jpg
-keywords: "Bitcoin in Africa, Anita Posch, Bitcoin for Fairness, Freedom Technology"
+keywords: "Bitcoin in Africa, Anita, Bitcoin for Fairness, Freedom Technology"
 blog_latest: true
 ---
 

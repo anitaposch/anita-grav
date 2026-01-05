@@ -418,7 +418,7 @@ Bitcoin inaendeshwa na harakati ya kijamii. Ni mapinduzi ya kimya. Kwa kuwa na u
 
 Inaweza kuonekana kama si jambo la ajabu na nje ya maadili, lakini kwa kutumia Bitcoin, unawaunga mkono wapigania uhuru kote duniani na unasaidia kuufanya ulimwengu kuwa jumuishi zaidi. Hii ndiyo sababu mpango wangu wa kijamii usio wa kibiashara unaitwa “[Bitcoin kwa Madhumuni ya Haki.”](https://bffbtc.org/) Hatimaye, Bitcoin haitatatua kila kitu au matatizo ya mtu mmoja mmoja. Kutakuwa na matajiri na masikini daima. Lakini Bitcoin bila shaka inarekebisha jambo moja kubwa: inatoa fursa ya haki kwa kila mtu kupata pesa na kuweza kutumia pasipo na mipaka, isiyoegemea upande wowote, na isiyoweza kubadilishwa kwa manufaa ya chombo au taasisi moja tu.
 
-![Kwa kutumia Bitcoin, unaunga mkono wapigania uhuru kote duniani na unasaidia kuufanya ulimwengu kuwa wa haki zaidi.. - Anita Posch](_33-more-fair-world.png)
+![Kwa kutumia Bitcoin, unaunga mkono wapigania uhuru kote duniani na unasaidia kuufanya ulimwengu kuwa wa haki zaidi.. - Anita](_33-more-fair-world.png)
 
 Bitcoin inatoa fursa ya kufidia kihistoria madhara ya ukoloni. Inaweza kupunguza pengo kati ya matajiri na maskini. Ndiyo maana ninawekeza juhudi kubwa katika kueneza uelewa wa kujitunza Bitcoin katika nchi za Afrika na Kusini mwa Dunia. Mapinduzi ya moja kwa moja ya mtu kwa mtu (peer-to-peer), yasiyohitaji uthibitisho wa utambulisho (non-KYC), yatafanyika hapa, mahali ambapo watu hawajaizoea benki. Kaulimbiu yangu ni: “Waacha wasio na benki waendelee kuwa wasio na benki” na kuwasaidia katika mapambano yao ya uhuru wa kifedha. Mimi ni mshirika tu anayetembelea na kueneza maarifa. Watu wa hapa ndio msingi. Fursa ipo, nina imani wataitumia na kufanikisha.
 
@@ -465,7 +465,7 @@ https://www.bloomberg.com/news/articles/2020-11-24/zimbabwe-gold-smugglers-estim
 [^31] https://www.strategy-business.com/article/What-Happened-after-India-Eliminated-Cash
 https://thewire.in/uncategorised/the-costs-of-demonetisation-death-toll-rises-to-82-eight-million-bidi-workers-remain-unpaid  
 [^32] https://blogs.worldbank.org/opendata/where-world-do-women-still-face-legal-barriers-own-and-administer-assets  
-[^33] Anita Posch: (L)earn Bitcoin  
+[^33] Anita: (L)earn Bitcoin  
 [^34] Lagos, Nigeria – Activists protest against the controversial anti-social media bill introduced in the parliament, November 2019. Photo: Oluwafemi Dawodu/Shutterstock
 https://www.transparency.org/en/news/cpi-2021-corruption-human-rights-democracy
 

@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Stories from Zimbabwe and Zambia - Anita Posch on What Bitcoin Did
+title: Bitcoin Stories from Zimbabwe and Zambia - Anita on What Bitcoin Did
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa]
 routes:
@@ -11,11 +11,11 @@ thumbnail: _f0018-anita-posch-whatbitcoindid.png
 template: article
 ---
 
-# Bitcoin Stories from Zimbabwe and Zambia - Anita Posch on What Bitcoin Did
+# Bitcoin Stories from Zimbabwe and Zambia - Anita on What Bitcoin Did
 
 > “In Zimbabwe with that high inflation: if you tell them you can’t inflate bitcoin, you can’t make more out of it, you can’t censor it, your government can’t take it away from you, everybody understands immediately.”
 
-— Anita Posch
+— Anita
 
 In this interview, we discuss my mission to educate Bitcoin educators in emerging countries, the challenges Africans face using Bitcoin, and the numerous innovative Bitcoin initiatives happening in Africa.
 

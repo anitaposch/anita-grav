@@ -1,5 +1,5 @@
 ---
-title: Bitcoin for Fairness in Zimbabwe and Zambia - Anita Posch on the Stephan Livera Show
+title: Bitcoin for Fairness in Zimbabwe and Zambia - Anita on the Stephan Livera Show
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa]
 routes:
@@ -13,7 +13,7 @@ template: article
 
 # Bitcoin for Fairness in Zimbabwe and Zambia
 
-## Anita Posch on the Stephan Livera Show
+## Anita on the Stephan Livera Show
 
 I joined Stephan Livera to talk about my trip to Zimbabwe and Zambia in March 2022. We discussed: 
 

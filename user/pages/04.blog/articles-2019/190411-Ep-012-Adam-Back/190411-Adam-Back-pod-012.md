@@ -48,7 +48,7 @@ Adam Back is the inventor of Hashcash, a method to prevent spam emails, that was
 
 > "Bitcoins fungibility is not perfect, but it's improving slowly." - Adam Back
 
-### How to listen to The Anita Posch Show
+### How to listen to Anita's Podcast
 
 This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 

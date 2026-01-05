@@ -3,14 +3,14 @@ title: "Change Maker & Freedom Tech Advocate"
 menu: Home
 onpage_menu: true
 metadata:
-  description: "Anita Posch focuses on how Bitcoin and decentralized technology provide financial freedom, privacy and human rights protection for those who need it most. She is an author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa."
-  keywords: "Bitcoin, Africa, Anita Posch, Bitcoin for Fairness, Freedom Tech"
-  'og:title': 'Anita Posch'
-  'og:description': 'anitaposch.com'
+  description: "Anita focuses on how Bitcoin and decentralized technology provide financial freedom, privacy and human rights protection for those who need it most. She is an author, founder of Bitcoin for Fairness and expert on Bitcoin adoption in Africa."
+  keywords: "Bitcoin, Africa, Anita, Bitcoin for Fairness, Freedom Tech"
+  'og:title': 'Anita'
+  'og:description': 'anita.onl'
   'og:image': '/user/pages/01.home/_hero.jpg'
   'og:url': 'https://anitaposch.com'
   'og:type': 'website'
-  'og:site_name': 'Anita Posch'
+  'og:site_name': 'Anita'
     
 content:
     items: "@self.modular"

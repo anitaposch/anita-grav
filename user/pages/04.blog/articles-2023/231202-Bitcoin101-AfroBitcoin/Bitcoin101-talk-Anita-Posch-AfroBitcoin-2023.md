@@ -6,7 +6,7 @@ routes:
     default: '/bitcoin-101-Africa-conference'
 date: 2023-12-02 11:00
 dateformat: 'Y-m-d H:i'
-summary: "Anita Posch's talk in Accra, Ghana offered a comprehensive introduction to the basics of Bitcoin, incl. its prehistory, transactions, and PoW mining."
+summary: "Anita's talk in Accra, Ghana offered a comprehensive introduction to the basics of Bitcoin, incl. its prehistory, transactions, and PoW mining."
 thumbnail: _Bitcoin101-talk-Anita-Posch-AfroBitcoin-2023.jpeg
 template: article
 ---

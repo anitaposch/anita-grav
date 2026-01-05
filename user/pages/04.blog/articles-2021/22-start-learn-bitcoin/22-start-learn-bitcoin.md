@@ -21,7 +21,7 @@ template: article
 Recommended resources to learn Bitcoin for beginners in **English and Spanish**
 
 ### Books 
-* [(L)earn Bitcoin](https://learnbitcoin.link), Anita Posch
+* [(L)earn Bitcoin](https://learnbitcoin.link), Anita
 * [The Internet of Money](https://geni.us/IoM1), Andreas M. Antonopoulos
 * [The Little Bitcoin Book](https://geni.us/littlebtcbook), The Bitcoin Collective
 * [Bitcoin Money](https://geni.us/littlebtcbook), Michael Caras

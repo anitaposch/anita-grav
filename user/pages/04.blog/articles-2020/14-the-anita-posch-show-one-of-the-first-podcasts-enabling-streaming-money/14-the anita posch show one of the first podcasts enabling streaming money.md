@@ -1,5 +1,5 @@
 ---
-title: The Anita Posch Show One of the First Podcasts Enabling Streaming Money
+title: Anita's Podcast One of the First Podcasts Enabling Streaming Money
 taxonomy:
     tags: [Blog, Earn bitcoin, Freedom Tech, Learn Bitcoin]
 routes:
@@ -12,9 +12,9 @@ template: article
 ---
 
 
-# The Anita Posch Show One of the First Podcasts Enabling Streaming Money
+# Anita's Podcast One of the First Podcasts Enabling Streaming Money
 
-The <a href="https://tribes.sphinx.chat/" target="_blank" rel="noopener noreferrer">The Anita Posch show tribe</a> is live. Now you can listen to my podcast episodes and at the same time send some sats.
+The <a href="https://tribes.sphinx.chat/" target="_blank" rel="noopener noreferrer">Anita's Podcast tribe</a> is live. Now you can listen to my podcast episodes and at the same time send some sats.
 
 ![Paying bitcoin while listening](_14-the-first-podcasts-streaming-money.jpg)
 

@@ -17,4 +17,4 @@ I was on Zambian TV Channel KBN discussing Bitcoin on the Fiz Show. I talked abo
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/FIJ-ZwaZTfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Bitcoin Education Basics by Anita Posch on the Fiz Show running on "Financial Insight Zambia"
+Bitcoin Education Basics by Anita on the Fiz Show running on "Financial Insight Zambia"

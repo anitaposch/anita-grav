@@ -1,5 +1,5 @@
 ---
-title: Anita Posch on Techtrends Zambia
+title: Anita on Techtrends Zambia
 taxonomy:
     tags: [Features, Blog, Bitcoin in Africa]
 routes:
@@ -11,7 +11,7 @@ thumbnail: _anita-posch-zambia.png
 template: article
 ---
 
-# Anita Posch on Techtrends Zambia
+# Anita on Techtrends Zambia
 
 Find the [interview with Techtrends Zambia here](https://www.techtrends.co.zm/meet-anita-posch-bitcoin-author-educator-and-podcaster/)
 

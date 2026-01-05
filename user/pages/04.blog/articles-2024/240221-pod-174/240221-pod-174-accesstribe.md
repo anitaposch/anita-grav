@@ -1,5 +1,5 @@
 ---
-title: Anita Posch on the Access Tribe podcast - Ep. 174
+title: Anita on the Access Tribe podcast - Ep. 174
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Learn Bitcoin, Features]
 routes:
@@ -11,9 +11,9 @@ thumbnail: _show-cover.jpeg
 template: article
 ---
 
-# Anita Posch on the Access Tribe podcast - Ep. 174
+# Anita on the Access Tribe podcast - Ep. 174
 
-This is an interview with me, Anita Posch from the Access Tribe podcast. During this episode I'm talking about my Bitcoin journey, my work in the Global South, my book, and membership platform and I'm taking questions from the audience.
+This is an interview with me, Anita from the Access Tribe podcast. During this episode I'm talking about my Bitcoin journey, my work in the Global South, my book, and membership platform and I'm taking questions from the audience.
 
 <iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/podcast-access-tribe/embed/dark"></iframe>
 

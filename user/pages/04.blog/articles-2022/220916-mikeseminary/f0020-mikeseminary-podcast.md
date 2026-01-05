@@ -1,5 +1,5 @@
 ---
-title: Bitcoin - Could help millions of unbanked people - Anita Posch on Mike Seminary
+title: Bitcoin - Could help millions of unbanked people - Anita on Mike Seminary
 taxonomy:
     tags: [Blog, Features]
 routes:

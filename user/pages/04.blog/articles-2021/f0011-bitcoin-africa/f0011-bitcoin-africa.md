@@ -6,7 +6,7 @@ routes:
     default: '/bitcoin-africa-coindesk'
 date: 2021-08-18 12:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch shares her thoughts on how Bitcoin use in Africa is different from that in Europe and the U.S.
+summary: Anita shares her thoughts on how Bitcoin use in Africa is different from that in Europe and the U.S.
 thumbnail: _f0011-opinionated.png
 template: article
 ---

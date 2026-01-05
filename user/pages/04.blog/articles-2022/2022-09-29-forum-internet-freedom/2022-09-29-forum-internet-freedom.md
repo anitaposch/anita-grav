@@ -6,7 +6,7 @@ routes:
     default: '/internet-freedom-africa'
 date: 2022-10-03 12:00
 dateformat: 'Y-m-d H:i'
-summary: A Panel on Digital Rights turned into a promotion of Bitcoin: Kathleen Ndongmo and Anita Posch made the case on how Bitcoin can be a viable alternative since the African governments and regulations keep excluding people from interacting economically with their peers. Including video.
+summary: A Panel on Digital Rights turned into a promotion of Bitcoin: Kathleen Ndongmo and Anita made the case on how Bitcoin can be a viable alternative since the African governments and regulations keep excluding people from interacting economically with their peers. Including video.
 thumbnail: _2022-09-29-forum-internet-freedom.jpg
 template: article
 ---
@@ -25,4 +25,4 @@ After the panel we rushed to another radio interview on the other side of town j
 
 ---
 
-You like Anita Posch's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.
+You like Anita's work and efforts with [Bitcoin for Fairness](https://bffbtc.org) to foster Bitcoin adoption on the ground in the Global South? It's all community powered and funded by donations. Feel free to [support our work with a donation](https://anita.link/donate) or send sats to our Lightning address: bffbtc@getalby.com.

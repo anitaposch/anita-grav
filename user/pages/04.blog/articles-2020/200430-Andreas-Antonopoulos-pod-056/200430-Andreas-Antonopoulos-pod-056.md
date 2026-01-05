@@ -24,7 +24,7 @@ Today's guest is one of my favourite people in the space Andreas M. Antonopoulos
 Andreas M. Antonopoulos is a best-selling author, speaker, educator, and highly sought after expert in Bitcoin and open blockchain technologies. He is known for making complex subjects easy to understand and highlighting both the positive and negative impacts these technologies can have on our global societies. As an educator, his mission is to educate as many people as possible, in as many places as possible, in as many languages as possible, about Bitcoin and open blockchains. Andreas has also written two best-selling technical books for programmers, “Mastering Bitcoin” and “Mastering Ethereum”. He has published “The Internet of Money” series of books, which focus on the social, political, and economic importance and implications of these technologies. At the moment he is writing a new book called “Mastering the Lightning Network”.
 
 
-### How to listen to The Anita Posch Show
+### How to listen to Anita's Podcast
 
 This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 

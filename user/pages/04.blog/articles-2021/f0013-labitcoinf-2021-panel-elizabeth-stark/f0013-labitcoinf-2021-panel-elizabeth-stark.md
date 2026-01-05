@@ -6,7 +6,7 @@ routes:
     default: '/interview-elizabeth-stark-labitconf-2021'
 date: 2021-11-23 12:00
 dateformat: 'Y-m-d H:i'
-summary: Anita Posch is speaking with Elizabeth Stark, CEO of Lightning Labs at LaBitconf in El Salvador 2021.
+summary: Anita is speaking with Elizabeth Stark, CEO of Lightning Labs at LaBitconf in El Salvador 2021.
 thumbnail: _f0013-labitconf-2022-stark.png
 template: article
 ---

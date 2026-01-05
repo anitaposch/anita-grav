@@ -51,7 +51,7 @@ In this episode we discuss:
 
 > "A niche Bitcoin isn’t failure. More dangerous is the possibility of creating a niche culture and that culture being radical or toxic towards the rest of mainstream." - Andreas M. Antonopoulos
 
-### How to listen to The Anita Posch Show
+### How to listen to Anita's Podcast
 
 This is a Value4Value bitcoin enabled podcast. This means you can use a podcast app like [Fountain](https://fountain.fm) on your phone and send some satoshis to me while listening to the episode to show your appreciation. 
 
