@@ -25,6 +25,4 @@ Does this sound familiar? These are Bitcoin's foundations. Nostr is for content,
 
 ---
 
-![alt text](/../../../../images/Anita-Power-Agency-Tools.jpg)
-
 ![Anita on power, agency and tools](Anita-Power-Agency-Tools.jpg)
