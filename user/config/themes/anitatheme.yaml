@@ -2,12 +2,12 @@ enabled: true
 facebook: null
 twitter: null
 instagram: null
-company_name: 'Anita '
+company_name: 'Anita'
 email: null
 logo:
-  user/themes/anitatheme/images/logo/anita-posch-logo.png:
-    name: anita-posch-logo.png
-    full_path: anita-posch-logo.png
+  user/themes/anitatheme/images/logo/anita-logo.png:
+    name: anita-logo.png
+    full_path: anita-logo.png
     type: image/png
     size: 35061
-    path: user/themes/anitatheme/images/logo/anita-posch-logo.png
+    path: user/themes/anitatheme/images/logo/anita-logo.png

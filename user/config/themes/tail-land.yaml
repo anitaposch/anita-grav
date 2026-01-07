@@ -2,14 +2,14 @@ enabled: true
 facebook: null
 twitter: null
 instagram: null
-company_name: anita.onl
+company_name: 'Anita'
 phone: null
 email: null
 location: null
 logo:
-  user/themes/tail-land/images/logo/anita-posch-logo.png:
-    name: anita-posch-logo.png
-    full_path: anita-posch-logo.png
+  user/themes/tail-land/images/logo/anita-logo.png:
+    name: anita-logo.png
+    full_path: anita-logo.png
     type: image/png
     size: 35061
-    path: user/themes/tail-land/images/logo/anita-posch-logo.png
+    path: user/themes/tail-land/images/logo/anita-logo.png
