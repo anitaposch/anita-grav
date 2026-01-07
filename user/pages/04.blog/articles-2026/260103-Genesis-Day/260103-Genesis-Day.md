@@ -13,7 +13,7 @@ template: article
 
 # Genesis Day
 
-On Jan 3, 2009 the Bitcoin network went online with the first public block being mined. Today on Jan 3, 2026 the USA under President Trump went to war against Venezuela to "run the country" and "make it great again". Just ten days before the USA bombarded parts of Nigeria to take out ISIS militants and protect Christians. Coincidentally both countries are rich in oil and natural resources. Trump also said: “American dominance in the western hemisphere will never be questioned again.”
+On Jan 3, 2009 the Bitcoin network went online with the first public block being mined. Today on Jan 3, 2026 the USA under President Trump went to war against Venezuela to "run the country" and "make it great again". Just ten days before the USA bombarded parts of Nigeria to take out ISIS militants and "protect Christians". Coincidentally both countries are rich in oil and natural resources. Trump also said: “American dominance in the western hemisphere will never be questioned again.”
 
 It's the usual interventionism that they sell us as "in the name of peace - to install democracy" when in reality it's an imperialistic power grab financed with your tax money, in your name.
 
