@@ -3,7 +3,7 @@ title: "Change Maker & Freedom Tech Advocate"
 menu: Home
 onpage_menu: true
 metadata:
-  description: "Anita focuses on how Bitcoin and decentralized technology provide financial freedom, privacy and human rights protection for those who need it most. She is the founder of Bitcoin for Fairness and due to her long work on the ground an expert on Bitcoin adoption in Africa."
+  description: "Anita focuses on how Bitcoin and decentralized technology provide financial freedom, privacy and human rights for those who need it most. She is the founder of Bitcoin for Fairness and due to her long work on the ground an expert on Bitcoin adoption in Africa."
   keywords: "Bitcoin, Africa, Anita, Bitcoin for Fairness, Freedom Tech"
   'og:title': 'Anita'
   'og:description': 'anita.onl'
