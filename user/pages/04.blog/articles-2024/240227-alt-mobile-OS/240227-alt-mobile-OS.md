@@ -1,7 +1,7 @@
 ---
 title: Bitcoin on Your Phone - Alternatives to IOS and Android
 taxonomy:
-    tags: [Blog, Learn Bitcoin, Privacy, Freedom Tech, Tech Independence]
+    tags: [Blog, Learn Bitcoin, Privacy, Freedom Tech, Tools]
 routes:
     default: '/bitcoin-mobile-systems'
 date: 2024-02-27 12:00

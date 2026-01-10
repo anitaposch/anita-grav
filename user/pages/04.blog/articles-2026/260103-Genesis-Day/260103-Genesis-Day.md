@@ -1,7 +1,7 @@
 ---
 title: Genesis Day
 taxonomy:
-    tags: [Blog, Daily]
+    tags: [Blog, Daily, Learn Bitcoin]
 routes:
     default: '/genesis-day'
 date: 2026-01-03 12:00

@@ -1,7 +1,7 @@
 ---
 title: In Or Out of CRYPTO
 taxonomy:
-    tags: [Blog, Daily]
+    tags: [Blog, Daily, Learn Bitcoin]
 routes:
     default: '/in-out-of-crypto'
 date: 2026-01-05 12:00

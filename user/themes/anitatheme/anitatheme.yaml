@@ -19,8 +19,8 @@ main_menu:
         url: '/category/freedom-tech'  
       - title: Human Rights
         url: '/category/human-rights'     
-      - title: Tech Independence
-        url: '/category/tech-independence'
+      - title: Tools
+        url: '/category/tools'
       - title: Bitcoin in Africa
         url: '/category/bitcoin-in-africa'
   - title: Speaking
